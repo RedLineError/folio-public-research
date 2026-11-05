@@ -22,7 +22,7 @@ for filer in catalog()['filers']:
         result=investor(filer['cik'],True)
         print('SEC',filer['cik'],result['meta']['period'],flush=True)
     except Exception as exc: failures.append('SEC '+filer['cik']+' '+type(exc).__name__)
-bundle()
+bundle(compact=True)
 if failures:
     print('\n'.join(failures),file=sys.stderr)
     sys.exit('Some sources failed. Successful public snapshots were retained; the run is marked failed.')

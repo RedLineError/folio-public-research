@@ -117,14 +117,16 @@ def report(year, doc):
         save(path, result)
         return result
 
-def bundle():
+def bundle(compact=False):
     result = {'catalog': catalog(), 'investors': {}, 'congress': {}, 'reports': {}}
     for p in PUBLIC.glob('*.json'):
         if p.name == 'bundle.json': continue
         item = json.loads(p.read_text(encoding='utf-8'))
-        if p.name.startswith('investor-'): result['investors'][item['meta']['cik']] = item
+        if p.name.startswith('investor-'):
+            if not compact or item['meta']['cik'] == '0001067983':
+                result['investors'][item['meta']['cik']] = item
         elif p.name.startswith('congress-'): result['congress'][str(item['year'])] = item
-        elif p.name.startswith('report-'): result['reports'][str(item['filing']['year']) + '-' + item['filing']['doc_id']] = item
+        elif p.name.startswith('report-') and not compact: result['reports'][str(item['filing']['year']) + '-' + item['filing']['doc_id']] = item
     save(PUBLIC / 'bundle.json', result)
     return result
 
