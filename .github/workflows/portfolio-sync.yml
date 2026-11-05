@@ -3,14 +3,15 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '3-58/5 * * * *'
-permissions: {}
+permissions:
+  actions: write
 concurrency:
   group: folio-private-portfolio
   cancel-in-progress: false
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 3
+    timeout-minutes: 320
     steps:
       - name: Refresh and verify private cloud history
         env:
@@ -38,7 +39,20 @@ jobs:
             if(!scanned.ok)throw Error('Strategy scan was not confirmed.');
             console.log('Private strategy scan saved successfully.');
           }
-          for(let attempt=0;attempt<3;attempt++){
-            try{await run();break;}catch(error){if(attempt===2)throw error;await new Promise(r=>setTimeout(r,5000));}
+          const end=Date.now()+5*60*60*1000;
+          let failures=0;
+          while(Date.now()<end){
+            const started=Date.now();
+            try{await run();failures=0;console.log('Verified cloud cycle '+new Date().toISOString());}
+            catch(error){failures++;console.error(error.message);if(failures>=3)throw Error('Three consecutive cloud cycles failed; review required.');}
+            const ny=new Intl.DateTimeFormat('en-US',{timeZone:'America/New_York',weekday:'short',hour:'2-digit',hourCycle:'h23'}).formatToParts(new Date());
+            const day=ny.find(p=>p.type==='weekday').value,hour=Number(ny.find(p=>p.type==='hour').value);
+            const cadence=!['Sat','Sun'].includes(day)&&hour>=9&&hour<16?60000:300000;
+            await new Promise(r=>setTimeout(r,Math.max(0,Math.min(end-Date.now(),cadence-(Date.now()-started)))));
           }
           NODE
+      - name: Hand off to the next bounded cloud runner
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run portfolio-sync.yml --repo "${{ github.repository }}" --ref main
