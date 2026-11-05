@@ -1,0 +1,38 @@
+name: Save private portfolio history
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '3-58/5 * * * *'
+permissions: {}
+concurrency:
+  group: folio-private-portfolio
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Refresh and verify private cloud history
+        env:
+          FOLIO_SITE_TOKEN: ${{ secrets.FOLIO_SITE_TOKEN }}
+        shell: bash
+        run: |
+          node --input-type=module <<'NODE'
+          const origin='https://folio-paper-desk-damo.exo09432.chatgpt.site';
+          const token=process.env.FOLIO_SITE_TOKEN;
+          if(!token)throw Error('Private Site service credential is missing.');
+          const headers={'OAI-Sites-Authorization':'Bearer '+token,'X-Folio-Sync':'1'};
+          async function run(){
+            const response=await fetch(origin+'/api/sync',{method:'POST',headers,redirect:'manual',signal:AbortSignal.timeout(60000)});
+            if(!response.ok)throw Error('Private cloud sync HTTP '+response.status);
+            const receipt=await response.json();
+            const check=await fetch(origin+'/api/history',{headers,redirect:'manual',signal:AbortSignal.timeout(30000)});
+            if(!check.ok)throw Error('Private history readback HTTP '+check.status);
+            const history=await check.json();
+            if(!receipt.ok||history.last_cloud_update<receipt.observed_at||history.background_stale)throw Error('Cloud history readback did not confirm this run.');
+            console.log('Private cloud snapshot saved and read back successfully.');
+          }
+          for(let attempt=0;attempt<3;attempt++){
+            try{await run();break;}catch(error){if(attempt===2)throw error;await new Promise(r=>setTimeout(r,5000));}
+          }
+          NODE
