@@ -1,0 +1,77 @@
+{
+  "fetched_at": "2026-11-05T00:04:47.281673+00:00",
+  "filing": {
+    "doc_id": "20034836",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Pelosi",
+    "first": "Nancy",
+    "name": "Hon. Nancy Pelosi",
+    "district": "CA11",
+    "year": 2026,
+    "filed": "2026-06-23",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034836.pdf"
+  },
+  "report": {
+    "name": "Hon. Nancy Pelosi",
+    "status": "Member",
+    "district": "CA11",
+    "doc_id": "20034836",
+    "filed": "2026-06-23",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-05-29",
+        "notified": "2026-05-29",
+        "amount": "$1,000,001 - $5,000,000",
+        "status": "New",
+        "account": null,
+        "description": "Purchased 200 call options with a strike price of $50 and an expiration date of 3/19/27.",
+        "ticker": "INTC",
+        "asset_type": "OP",
+        "asset": "Intel Corporation - Common Stock",
+        "amount_low": 1000001,
+        "amount_high": 5000000,
+        "option": {
+          "contracts": 200,
+          "kind": "call",
+          "strike": 50.0,
+          "expires": "2027-03-19",
+          "exercised": false
+        },
+        "days_to_disclose": 25,
+        "late": false
+      },
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-05-29",
+        "notified": "2026-05-29",
+        "amount": "$500,001 - $1,000,000",
+        "status": "New",
+        "account": null,
+        "description": "Purchased 200 call options with a strike price of $50 and an expiration date of 3/19/27.",
+        "ticker": "UBER",
+        "asset_type": "OP",
+        "asset": "Uber Technologies, Inc. Common Stock",
+        "amount_low": 500001,
+        "amount_high": 1000000,
+        "option": {
+          "contracts": 200,
+          "kind": "call",
+          "strike": 50.0,
+          "expires": "2027-03-19",
+          "exercised": false
+        },
+        "days_to_disclose": 25,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

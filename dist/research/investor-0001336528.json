@@ -1,0 +1,581 @@
+{
+  "fetched_at": "2026-11-05T00:04:52.738099+00:00",
+  "meta": {
+    "filer": "Pershing Square Capital Management, L.P.",
+    "cik": "0001336528",
+    "period": "2026-03-31",
+    "filed": "2026-05-15",
+    "accession": "0001172661-26-002336",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1336528/000117266126002336/infotable.xml",
+    "notes": [],
+    "cover_total": 13714299861.0,
+    "total_check": "Matches the cover page total."
+  },
+  "prior": {
+    "filer": "Pershing Square Capital Management, L.P.",
+    "cik": "0001336528",
+    "period": "2025-12-31",
+    "filed": "2026-02-17",
+    "accession": "0001172661-26-001091",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1336528/000117266126001091/infotable.xml",
+    "notes": [],
+    "cover_total": 15526737802.0
+  },
+  "total": 13714299861.0,
+  "positions": [
+    {
+      "issuer": "BROOKFIELD CORP",
+      "title": "CL A LTD VT SH",
+      "cusip": "11271J107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2415946008.0,
+      "shares": 59697208.0,
+      "rows": 1,
+      "pct_of_13f": 17.62,
+      "cusips": [
+        "11271J107"
+      ],
+      "issuer_cik": "0001001085",
+      "ticker": "BKPA",
+      "ticker_source": "name",
+      "ticker_check": true,
+      "name": "Brookfield",
+      "tickers": [
+        "BKPA"
+      ],
+      "classes": [
+        "CL A LTD VT SH"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "AMAZON COM INC",
+      "title": "COM",
+      "cusip": "023135106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2385104083.0,
+      "shares": 11451981.0,
+      "rows": 1,
+      "pct_of_13f": 17.39,
+      "cusips": [
+        "023135106"
+      ],
+      "issuer_cik": "0001018724",
+      "ticker": "AMZN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Amazon Com",
+      "tickers": [
+        "AMZN"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "UBER TECHNOLOGIES INC",
+      "title": "COM",
+      "cusip": "90353T100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2154934398.0,
+      "shares": 29958771.0,
+      "rows": 1,
+      "pct_of_13f": 15.71,
+      "cusips": [
+        "90353T100"
+      ],
+      "issuer_cik": "0001543151",
+      "ticker": "UBER",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Uber Technologies",
+      "tickers": [
+        "UBER"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "MICROSOFT CORP",
+      "title": "COM",
+      "cusip": "594918104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2092970053.0,
+      "shares": 5654078.0,
+      "rows": 1,
+      "pct_of_13f": 15.26,
+      "cusips": [
+        "594918104"
+      ],
+      "issuer_cik": "0000789019",
+      "ticker": "MSFT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Microsoft",
+      "tickers": [
+        "MSFT"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "RESTAURANT BRANDS INTL INC",
+      "title": "COM",
+      "cusip": "76131D103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1673501194.0,
+      "shares": 22645483.0,
+      "rows": 1,
+      "pct_of_13f": 12.2,
+      "cusips": [
+        "76131D103"
+      ],
+      "issuer_cik": "0001618756",
+      "ticker": "QSR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Restaurant Brands International",
+      "tickers": [
+        "QSR"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "META PLATFORMS INC",
+      "title": "CL A",
+      "cusip": "30303M102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1522358404.0,
+      "shares": 2660861.0,
+      "rows": 1,
+      "pct_of_13f": 11.1,
+      "cusips": [
+        "30303M102"
+      ],
+      "issuer_cik": "0001326801",
+      "ticker": "META",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Meta Platforms",
+      "tickers": [
+        "META"
+      ],
+      "classes": [
+        "CL A"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "HOWARD HUGHES HOLDINGS INC",
+      "title": "COM",
+      "cusip": "44267T102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1192581569.0,
+      "shares": 18852064.0,
+      "rows": 1,
+      "pct_of_13f": 8.7,
+      "cusips": [
+        "44267T102"
+      ],
+      "issuer_cik": "0001981792",
+      "ticker": "HHH",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Howard Hughes Holdings",
+      "tickers": [
+        "HHH"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "SEAPORT ENTMT GROUP INC",
+      "title": "COMMON STOCK",
+      "cusip": "812215200",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 107910794.0,
+      "shares": 5023780.0,
+      "rows": 1,
+      "pct_of_13f": 0.79,
+      "cusips": [
+        "812215200"
+      ],
+      "issuer_cik": "0002009684",
+      "ticker": "SEG",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Seaport Entertainment Group",
+      "tickers": [
+        "SEG"
+      ],
+      "classes": [
+        "COMMON STOCK"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "title": "CAP STK CL C",
+      "cusip": "02079K107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 98731763.0,
+      "shares": 344102.0,
+      "rows": 2,
+      "pct_of_13f": 0.72,
+      "cusips": [
+        "02079K107",
+        "02079K305"
+      ],
+      "issuer_cik": "0001652044",
+      "ticker": "GOOG",
+      "ticker_source": "override",
+      "ticker_check": false,
+      "name": "Alphabet",
+      "tickers": [
+        "GOOG",
+        "GOOGL"
+      ],
+      "classes": [
+        "CAP STK CL C",
+        "CAP STK CL A"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "HERTZ GLOBAL HLDGS INC",
+      "title": "COM NEW",
+      "cusip": "42806J700",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 70261595.0,
+      "shares": 15241127.0,
+      "rows": 1,
+      "pct_of_13f": 0.51,
+      "cusips": [
+        "42806J700"
+      ],
+      "issuer_cik": "0001657853",
+      "ticker": "HTZ",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Hertz Global Holdings",
+      "tickers": [
+        "HTZ"
+      ],
+      "classes": [
+        "COM NEW"
+      ],
+      "copy_eligible": true
+    }
+  ],
+  "changes": [
+    {
+      "status": "NEW",
+      "issuer": "MICROSOFT CORP",
+      "title": "COM",
+      "cusip": "594918104",
+      "ticker": "MSFT",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 5654078.0,
+      "change": 5654078.0,
+      "change_pct": null,
+      "value_after": 2092970053.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "HILTON WORLDWIDE HLDGS INC",
+      "title": "COM",
+      "cusip": "43300A203",
+      "ticker": "HLT",
+      "put_call": "",
+      "shares_before": 3028664.0,
+      "shares_after": 0.0,
+      "change": -3028664.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 869983734.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "AMAZON COM INC",
+      "title": "COM",
+      "cusip": "023135106",
+      "ticker": "AMZN",
+      "put_call": "",
+      "shares_before": 9607824.0,
+      "shares_after": 11451981.0,
+      "change": 1844157.0,
+      "change_pct": 19.2,
+      "value_after": 2385104083.0,
+      "value_before": 2217677936.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "BROOKFIELD CORP",
+      "title": "CL A LTD VT SH",
+      "cusip": "11271J107",
+      "ticker": "BKPA",
+      "put_call": "",
+      "shares_before": 61403089.0,
+      "shares_after": 59697208.0,
+      "change": -1705881.0,
+      "change_pct": -2.8,
+      "value_after": 2415946008.0,
+      "value_before": 2817787754.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "UBER TECHNOLOGIES INC",
+      "title": "COM",
+      "cusip": "90353T100",
+      "ticker": "UBER",
+      "put_call": "",
+      "shares_before": 30207734.0,
+      "shares_after": 29958771.0,
+      "change": -248963.0,
+      "change_pct": -0.8,
+      "value_after": 2154934398.0,
+      "value_before": 2468273945.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "ALPHABET INC",
+      "title": "CAP STK CL C",
+      "cusip": "02079K107",
+      "ticker": "GOOG",
+      "put_call": "",
+      "shares_before": 6163871.0,
+      "shares_after": 311726.0,
+      "change": -5852145.0,
+      "change_pct": -94.9,
+      "value_after": 89421720.0,
+      "value_before": 1934222720.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "META PLATFORMS INC",
+      "title": "CL A",
+      "cusip": "30303M102",
+      "ticker": "META",
+      "put_call": "",
+      "shares_before": 2673569.0,
+      "shares_after": 2660861.0,
+      "change": -12708.0,
+      "change_pct": -0.5,
+      "value_after": 1522358404.0,
+      "value_before": 1764796161.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "RESTAURANT BRANDS INTL INC",
+      "title": "COM",
+      "cusip": "76131D103",
+      "ticker": "QSR",
+      "put_call": "",
+      "shares_before": 22866773.0,
+      "shares_after": 22645483.0,
+      "change": -221290.0,
+      "change_pct": -1.0,
+      "value_after": 1673501194.0,
+      "value_before": 1560199922.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "ALPHABET INC",
+      "title": "CAP STK CL A",
+      "cusip": "02079K305",
+      "ticker": "GOOGL",
+      "put_call": "",
+      "shares_before": 678297.0,
+      "shares_after": 32376.0,
+      "change": -645921.0,
+      "change_pct": -95.2,
+      "value_after": 9310043.0,
+      "value_before": 212306961.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "HOWARD HUGHES HOLDINGS INC",
+      "title": "COM",
+      "cusip": "44267T102",
+      "ticker": "HHH",
+      "put_call": "",
+      "shares_before": 18852064.0,
+      "shares_after": 18852064.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 1192581569.0,
+      "value_before": 1503829145.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "SEAPORT ENTMT GROUP INC",
+      "title": "COMMON STOCK",
+      "cusip": "812215200",
+      "ticker": "SEG",
+      "put_call": "",
+      "shares_before": 5023780.0,
+      "shares_after": 5023780.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 107910794.0,
+      "value_before": 99320131.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "HERTZ GLOBAL HLDGS INC",
+      "title": "COM NEW",
+      "cusip": "42806J700",
+      "ticker": "HTZ",
+      "put_call": "",
+      "shares_before": 15241127.0,
+      "shares_after": 15241127.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 70261595.0,
+      "value_before": 78339393.0
+    }
+  ],
+  "diff_error": null,
+  "filings": [
+    {
+      "form": "13F-HR",
+      "accession": "0001172661-26-002336",
+      "filed": "2026-05-15",
+      "period": "2026-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001172661-26-001091",
+      "filed": "2026-02-17",
+      "period": "2025-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001172661-25-005039",
+      "filed": "2025-11-14",
+      "period": "2025-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001172661-25-003509",
+      "filed": "2025-08-14",
+      "period": "2025-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001172661-25-002315",
+      "filed": "2025-05-15",
+      "period": "2025-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR/A",
+      "accession": "0001172661-25-001497",
+      "filed": "2025-04-16",
+      "period": "2024-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001172661-25-001119",
+      "filed": "2025-02-14",
+      "period": "2024-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001172661-24-005218",
+      "filed": "2024-11-14",
+      "period": "2024-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001172661-24-003511",
+      "filed": "2024-08-14",
+      "period": "2024-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001172661-24-002519",
+      "filed": "2024-05-15",
+      "period": "2024-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001172661-24-001556",
+      "filed": "2024-02-14",
+      "period": "2023-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001172661-23-004016",
+      "filed": "2023-11-14",
+      "period": "2023-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001172661-23-003137",
+      "filed": "2023-08-14",
+      "period": "2023-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001172661-23-002303",
+      "filed": "2023-05-15",
+      "period": "2023-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001172661-23-000673",
+      "filed": "2023-02-13",
+      "period": "2022-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    }
+  ],
+  "source": "SEC EDGAR"
+}

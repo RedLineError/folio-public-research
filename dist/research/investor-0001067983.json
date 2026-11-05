@@ -1,0 +1,1271 @@
+{
+  "fetched_at": "2026-11-05T00:04:50.923797+00:00",
+  "meta": {
+    "filer": "BERKSHIRE HATHAWAY INC",
+    "cik": "0001067983",
+    "period": "2026-06-30",
+    "filed": "2026-08-14",
+    "accession": "0001193125-26-352200",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml",
+    "notes": [],
+    "cover_total": 299253556246.0,
+    "total_check": "Matches the cover page total."
+  },
+  "prior": {
+    "filer": "BERKSHIRE HATHAWAY INC",
+    "cik": "0001067983",
+    "period": "2026-03-31",
+    "filed": "2026-05-15",
+    "accession": "0001193125-26-226661",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/53405.xml",
+    "notes": [],
+    "cover_total": 263095703570.0
+  },
+  "total": 299253556246.0,
+  "positions": [
+    {
+      "issuer": "APPLE INC",
+      "title": "COM",
+      "cusip": "037833100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 65950296923.0,
+      "shares": 227917808.0,
+      "rows": 12,
+      "pct_of_13f": 22.04,
+      "cusips": [
+        "037833100"
+      ],
+      "issuer_cik": "0000320193",
+      "ticker": "AAPL",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Apple",
+      "tickers": [
+        "AAPL"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "AMERICAN EXPRESS CO",
+      "title": "COM",
+      "cusip": "025816109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 51282319275.0,
+      "shares": 151610700.0,
+      "rows": 3,
+      "pct_of_13f": 17.14,
+      "cusips": [
+        "025816109"
+      ],
+      "issuer_cik": "0000004962",
+      "ticker": "AXP",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "American Express",
+      "tickers": [
+        "AXP"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "title": "CAP STK CL A",
+      "cusip": "02079K305",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 37764088383.0,
+      "shares": 105979600.0,
+      "rows": 5,
+      "pct_of_13f": 12.62,
+      "cusips": [
+        "02079K305",
+        "02079K107"
+      ],
+      "issuer_cik": "0001652044",
+      "ticker": "GOOGL",
+      "ticker_source": "override",
+      "ticker_check": false,
+      "name": "Alphabet",
+      "tickers": [
+        "GOOGL",
+        "GOOG"
+      ],
+      "classes": [
+        "CAP STK CL A",
+        "CAP STK CL C"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "COCA COLA CO",
+      "title": "COM",
+      "cusip": "191216100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 32508000000.0,
+      "shares": 400000000.0,
+      "rows": 10,
+      "pct_of_13f": 10.86,
+      "cusips": [
+        "191216100"
+      ],
+      "issuer_cik": "0000021344",
+      "ticker": "KO",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Coca Cola",
+      "tickers": [
+        "KO"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "BANK OF AMER CORP",
+      "title": "COM",
+      "cusip": "060505104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 27543790975.0,
+      "shares": 483394015.0,
+      "rows": 8,
+      "pct_of_13f": 9.2,
+      "cusips": [
+        "060505104"
+      ],
+      "issuer_cik": "0000070858",
+      "ticker": "BAC",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Bank of America",
+      "tickers": [
+        "BAC"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "CHEVRON CORPORATION",
+      "title": "COM",
+      "cusip": "166764100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 13986141890.0,
+      "shares": 84375856.0,
+      "rows": 4,
+      "pct_of_13f": 4.67,
+      "cusips": [
+        "166764100"
+      ],
+      "issuer_cik": "0000093410",
+      "ticker": "CVX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Chevron",
+      "tickers": [
+        "CVX"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "OCCIDENTAL PETE CORP",
+      "title": "COM",
+      "cusip": "674599105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 12868205304.0,
+      "shares": 264941431.0,
+      "rows": 1,
+      "pct_of_13f": 4.3,
+      "cusips": [
+        "674599105"
+      ],
+      "issuer_cik": "0000797468",
+      "ticker": "OXY",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Occidental Petroleum",
+      "tickers": [
+        "OXY"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "CHUBB LIMITED",
+      "title": "COM",
+      "cusip": "H1467J104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 11670066615.0,
+      "shares": 34249183.0,
+      "rows": 1,
+      "pct_of_13f": 3.9,
+      "cusips": [
+        "H1467J104"
+      ],
+      "issuer_cik": "0000896159",
+      "ticker": "CB",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Chubb",
+      "tickers": [
+        "CB"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "MOODYS CORP",
+      "title": "COM",
+      "cusip": "615369105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 11173435852.0,
+      "shares": 24669778.0,
+      "rows": 3,
+      "pct_of_13f": 3.73,
+      "cusips": [
+        "615369105"
+      ],
+      "issuer_cik": "0001059556",
+      "ticker": "MCO",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Moodys",
+      "tickers": [
+        "MCO"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "KRAFT HEINZ CO",
+      "title": "COM",
+      "cusip": "500754106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 7691494401.0,
+      "shares": 325634818.0,
+      "rows": 1,
+      "pct_of_13f": 2.57,
+      "cusips": [
+        "500754106"
+      ],
+      "issuer_cik": "0001637459",
+      "ticker": "KHC",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Kraft Heinz",
+      "tickers": [
+        "KHC"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "DAVITA INC",
+      "title": "COM",
+      "cusip": "23918K108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 6425268898.0,
+      "shares": 28880209.0,
+      "rows": 2,
+      "pct_of_13f": 2.15,
+      "cusips": [
+        "23918K108"
+      ],
+      "issuer_cik": "0000927066",
+      "ticker": "DVA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Davita",
+      "tickers": [
+        "DVA"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "DELTA AIR LINES INC",
+      "title": "COM NEW",
+      "cusip": "247361702",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 5368591200.0,
+      "shares": 57320000.0,
+      "rows": 1,
+      "pct_of_13f": 1.79,
+      "cusips": [
+        "247361702"
+      ],
+      "issuer_cik": "0000027904",
+      "ticker": "DAL",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Delta Air Lines",
+      "tickers": [
+        "DAL"
+      ],
+      "classes": [
+        "COM NEW"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "SIRIUSXM HOLDINGS INC",
+      "title": "COMMON STOCK",
+      "cusip": "829933100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 3686802237.0,
+      "shares": 124807117.0,
+      "rows": 2,
+      "pct_of_13f": 1.23,
+      "cusips": [
+        "829933100"
+      ],
+      "issuer_cik": "0000908937",
+      "ticker": "SIRI",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Sirius Xm Holdings",
+      "tickers": [
+        "SIRI"
+      ],
+      "classes": [
+        "COMMON STOCK"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "VERISIGN INC",
+      "title": "COM",
+      "cusip": "92343E102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2261494212.0,
+      "shares": 8989880.0,
+      "rows": 2,
+      "pct_of_13f": 0.76,
+      "cusips": [
+        "92343E102"
+      ],
+      "issuer_cik": "0001014473",
+      "ticker": "VRSN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Verisign",
+      "tickers": [
+        "VRSN"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "KROGER CO",
+      "title": "COM",
+      "cusip": "501044101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2165670000.0,
+      "shares": 39000000.0,
+      "rows": 4,
+      "pct_of_13f": 0.72,
+      "cusips": [
+        "501044101"
+      ],
+      "issuer_cik": "0000056873",
+      "ticker": "KR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Kroger",
+      "tickers": [
+        "KR"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "LIBERTY LIVE HOLDINGS INC",
+      "title": "COM SHS SER C",
+      "cusip": "530909308",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1623367688.0,
+      "shares": 15573731.0,
+      "rows": 8,
+      "pct_of_13f": 0.54,
+      "cusips": [
+        "530909308",
+        "530909100"
+      ],
+      "issuer_cik": "0002078416",
+      "ticker": "LLYVK",
+      "ticker_source": "override",
+      "ticker_check": false,
+      "name": "Liberty Live Holdings",
+      "tickers": [
+        "LLYVK",
+        "LLYVA"
+      ],
+      "classes": [
+        "COM SHS SER C",
+        "COM SER A"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "ALLY FINL INC",
+      "title": "COM",
+      "cusip": "02005N100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1240650000.0,
+      "shares": 27000000.0,
+      "rows": 6,
+      "pct_of_13f": 0.41,
+      "cusips": [
+        "02005N100"
+      ],
+      "issuer_cik": "0000040729",
+      "ticker": "ALLY",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Ally Financial",
+      "tickers": [
+        "ALLY"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "LENNAR CORP",
+      "title": "CL A",
+      "cusip": "526057104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1212927402.0,
+      "shares": 13409858.0,
+      "rows": 3,
+      "pct_of_13f": 0.41,
+      "cusips": [
+        "526057104",
+        "526057302"
+      ],
+      "issuer_cik": "0000920760",
+      "ticker": "LEN",
+      "ticker_source": "override",
+      "ticker_check": false,
+      "name": "Lennar",
+      "tickers": [
+        "LEN",
+        "LEN.B"
+      ],
+      "classes": [
+        "CL A",
+        "CL B"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "NEW YORK TIMES CO MTN BE",
+      "title": "CL A",
+      "cusip": "650111107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1098686000.0,
+      "shares": 15700000.0,
+      "rows": 2,
+      "pct_of_13f": 0.37,
+      "cusips": [
+        "650111107"
+      ],
+      "issuer_cik": "0000071691",
+      "ticker": "NYT",
+      "ticker_source": "name-prefix",
+      "ticker_check": true,
+      "name": "New York Times",
+      "tickers": [
+        "NYT"
+      ],
+      "classes": [
+        "CL A"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "CAPITAL ONE FINL CORP",
+      "title": "COM",
+      "cusip": "14040H105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 601860000.0,
+      "shares": 3000000.0,
+      "rows": 2,
+      "pct_of_13f": 0.2,
+      "cusips": [
+        "14040H105"
+      ],
+      "issuer_cik": "0000927628",
+      "ticker": "COF",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Capital One Financial",
+      "tickers": [
+        "COF"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "LOUISIANA PAC CORP",
+      "title": "COM",
+      "cusip": "546347105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 445592617.0,
+      "shares": 5664793.0,
+      "rows": 2,
+      "pct_of_13f": 0.15,
+      "cusips": [
+        "546347105"
+      ],
+      "issuer_cik": "0000060519",
+      "ticker": "LPX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Louisiana-pacific",
+      "tickers": [
+        "LPX"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "NUCOR CORP",
+      "title": "COM",
+      "cusip": "670346105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 413814258.0,
+      "shares": 1857752.0,
+      "rows": 1,
+      "pct_of_13f": 0.14,
+      "cusips": [
+        "670346105"
+      ],
+      "issuer_cik": "0000073309",
+      "ticker": "NUE",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Nucor",
+      "tickers": [
+        "NUE"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "MACYS INC",
+      "title": "COM",
+      "cusip": "55616P104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 173031882.0,
+      "shares": 7347426.0,
+      "rows": 3,
+      "pct_of_13f": 0.06,
+      "cusips": [
+        "55616P104"
+      ],
+      "issuer_cik": "0000794367",
+      "ticker": "M",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Macy's",
+      "tickers": [
+        "M"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "NVR INC",
+      "title": "COM",
+      "cusip": "62944T105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 75710501.0,
+      "shares": 11112.0,
+      "rows": 1,
+      "pct_of_13f": 0.03,
+      "cusips": [
+        "62944T105"
+      ],
+      "issuer_cik": "0000906163",
+      "ticker": "NVR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Nvr",
+      "tickers": [
+        "NVR"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "JEFFERIES FINANCIAL GROUP IN",
+      "title": "COM",
+      "cusip": "47233W109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 21669229.0,
+      "shares": 433558.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "47233W109"
+      ],
+      "issuer_cik": "0000096223",
+      "ticker": "JEF",
+      "ticker_source": "name-prefix",
+      "ticker_check": true,
+      "name": "Jefferies Financial Group",
+      "tickers": [
+        "JEF"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "D R HORTON INC",
+      "title": "COM",
+      "cusip": "23331A109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 580504.0,
+      "shares": 3564.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "23331A109"
+      ],
+      "issuer_cik": "0000882184",
+      "ticker": "DHI",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Horton D R",
+      "tickers": [
+        "DHI"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    }
+  ],
+  "changes": [
+    {
+      "status": "NEW",
+      "issuer": "D R HORTON INC",
+      "title": "COM",
+      "cusip": "23331A109",
+      "ticker": "DHI",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 3564.0,
+      "change": 3564.0,
+      "change_pct": null,
+      "value_after": 580504.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "CONSTELLATION BRANDS INC",
+      "title": "CL A",
+      "cusip": "21036P108",
+      "ticker": "STZ",
+      "put_call": "",
+      "shares_before": 632890.0,
+      "shares_after": 0.0,
+      "change": -632890.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 94933500.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "ALPHABET INC",
+      "title": "CAP STK CL A",
+      "cusip": "02079K305",
+      "ticker": "GOOGL",
+      "put_call": "",
+      "shares_before": 54249798.0,
+      "shares_after": 78791167.0,
+      "change": 24541369.0,
+      "change_pct": 45.2,
+      "value_after": 28157599351.0,
+      "value_before": 15600071913.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "ALPHABET INC",
+      "title": "CAP STK CL C",
+      "cusip": "02079K107",
+      "ticker": "GOOG",
+      "put_call": "",
+      "shares_before": 3585215.0,
+      "shares_after": 27188433.0,
+      "change": 23603218.0,
+      "change_pct": 658.3,
+      "value_after": 9606489032.0,
+      "value_before": 1028454775.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "DELTA AIR LINES INC",
+      "title": "COM NEW",
+      "cusip": "247361702",
+      "ticker": "DAL",
+      "put_call": "",
+      "shares_before": 39809456.0,
+      "shares_after": 57320000.0,
+      "change": 17510544.0,
+      "change_pct": 44.0,
+      "value_after": 5368591200.0,
+      "value_before": 2646532635.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "NEW YORK TIMES CO MTN BE",
+      "title": "CL A",
+      "cusip": "650111107",
+      "ticker": "NYT",
+      "put_call": "",
+      "shares_before": 15146535.0,
+      "shares_after": 15700000.0,
+      "change": 553465.0,
+      "change_pct": 3.7,
+      "value_after": 1098686000.0,
+      "value_before": 1268219376.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "LENNAR CORP",
+      "title": "CL A",
+      "cusip": "526057104",
+      "ticker": "LEN",
+      "put_call": "",
+      "shares_before": 10099642.0,
+      "shares_after": 13111741.0,
+      "change": 3012099.0,
+      "change_pct": 29.8,
+      "value_after": 1186481443.0,
+      "value_before": 877052911.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "MACYS INC",
+      "title": "COM",
+      "cusip": "55616P104",
+      "ticker": "M",
+      "put_call": "",
+      "shares_before": 3038355.0,
+      "shares_after": 7347426.0,
+      "change": 4309071.0,
+      "change_pct": 141.8,
+      "value_after": 173031882.0,
+      "value_before": 54963842.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "LENNAR CORP",
+      "title": "CL B",
+      "cusip": "526057302",
+      "ticker": "LEN.B",
+      "put_call": "",
+      "shares_before": 237703.0,
+      "shares_after": 298117.0,
+      "change": 60414.0,
+      "change_pct": 25.4,
+      "value_after": 26445959.0,
+      "value_before": 19995576.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "BANK OF AMER CORP",
+      "title": "COM",
+      "cusip": "060505104",
+      "ticker": "BAC",
+      "put_call": "",
+      "shares_before": 513624165.0,
+      "shares_after": 483394015.0,
+      "change": -30230150.0,
+      "change_pct": -5.9,
+      "value_after": 27543790975.0,
+      "value_before": 25039178044.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "DAVITA INC",
+      "title": "COM",
+      "cusip": "23918K108",
+      "ticker": "DVA",
+      "put_call": "",
+      "shares_before": 30100585.0,
+      "shares_after": 28880209.0,
+      "change": -1220376.0,
+      "change_pct": -4.1,
+      "value_after": 6425268898.0,
+      "value_before": 4626158909.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "KROGER CO",
+      "title": "COM",
+      "cusip": "501044101",
+      "ticker": "KR",
+      "put_call": "",
+      "shares_before": 50000000.0,
+      "shares_after": 39000000.0,
+      "change": -11000000.0,
+      "change_pct": -22.0,
+      "value_after": 2165670000.0,
+      "value_before": 3618000000.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "CAPITAL ONE FINL CORP",
+      "title": "COM",
+      "cusip": "14040H105",
+      "ticker": "COF",
+      "put_call": "",
+      "shares_before": 7150000.0,
+      "shares_after": 3000000.0,
+      "change": -4150000.0,
+      "change_pct": -58.0,
+      "value_after": 601860000.0,
+      "value_before": 1304374500.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "ALLY FINL INC",
+      "title": "COM",
+      "cusip": "02005N100",
+      "ticker": "ALLY",
+      "put_call": "",
+      "shares_before": 29000000.0,
+      "shares_after": 27000000.0,
+      "change": -2000000.0,
+      "change_pct": -6.9,
+      "value_after": 1240650000.0,
+      "value_before": 1137670000.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "NUCOR CORP",
+      "title": "COM",
+      "cusip": "670346105",
+      "ticker": "NUE",
+      "put_call": "",
+      "shares_before": 3907075.0,
+      "shares_after": 1857752.0,
+      "change": -2049323.0,
+      "change_pct": -52.5,
+      "value_after": 413814258.0,
+      "value_before": 660686383.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "APPLE INC",
+      "title": "COM",
+      "cusip": "037833100",
+      "ticker": "AAPL",
+      "put_call": "",
+      "shares_before": 227917808.0,
+      "shares_after": 227917808.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 65950296923.0,
+      "value_before": 57843260493.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "AMERICAN EXPRESS CO",
+      "title": "COM",
+      "cusip": "025816109",
+      "ticker": "AXP",
+      "put_call": "",
+      "shares_before": 151610700.0,
+      "shares_after": 151610700.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 51282319275.0,
+      "value_before": 45859204536.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "COCA COLA CO",
+      "title": "COM",
+      "cusip": "191216100",
+      "ticker": "KO",
+      "put_call": "",
+      "shares_before": 400000000.0,
+      "shares_after": 400000000.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 32508000000.0,
+      "value_before": 30420000000.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "CHEVRON CORPORATION",
+      "title": "COM",
+      "cusip": "166764100",
+      "ticker": "CVX",
+      "put_call": "",
+      "shares_before": 84375856.0,
+      "shares_after": 84375856.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 13986141890.0,
+      "value_before": 17457364606.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "OCCIDENTAL PETE CORP",
+      "title": "COM",
+      "cusip": "674599105",
+      "ticker": "OXY",
+      "put_call": "",
+      "shares_before": 264941431.0,
+      "shares_after": 264941431.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 12868205304.0,
+      "value_before": 17221193015.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "CHUBB LIMITED",
+      "title": "COM",
+      "cusip": "H1467J104",
+      "ticker": "CB",
+      "put_call": "",
+      "shares_before": 34249183.0,
+      "shares_after": 34249183.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 11670066615.0,
+      "value_before": 11162836215.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "MOODYS CORP",
+      "title": "COM",
+      "cusip": "615369105",
+      "ticker": "MCO",
+      "put_call": "",
+      "shares_before": 24669778.0,
+      "shares_after": 24669778.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 11173435852.0,
+      "value_before": 10762190653.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "KRAFT HEINZ CO",
+      "title": "COM",
+      "cusip": "500754106",
+      "ticker": "KHC",
+      "put_call": "",
+      "shares_before": 325634818.0,
+      "shares_after": 325634818.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 7691494401.0,
+      "value_before": 7323527057.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "SIRIUSXM HOLDINGS INC",
+      "title": "COMMON STOCK",
+      "cusip": "829933100",
+      "ticker": "SIRI",
+      "put_call": "",
+      "shares_before": 124807117.0,
+      "shares_after": 124807117.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 3686802237.0,
+      "value_before": 2880548260.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "VERISIGN INC",
+      "title": "COM",
+      "cusip": "92343E102",
+      "ticker": "VRSN",
+      "put_call": "",
+      "shares_before": 8989880.0,
+      "shares_after": 8989880.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 2261494212.0,
+      "value_before": 2232726597.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "LIBERTY LIVE HOLDINGS INC",
+      "title": "COM SHS SER C",
+      "cusip": "530909308",
+      "ticker": "LLYVK",
+      "put_call": "",
+      "shares_before": 10587143.0,
+      "shares_after": 10587143.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 1118425787.0,
+      "value_before": 996356028.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "LIBERTY LIVE HOLDINGS INC",
+      "title": "COM SER A",
+      "cusip": "530909100",
+      "ticker": "LLYVA",
+      "put_call": "",
+      "shares_before": 4986588.0,
+      "shares_after": 4986588.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 504941901.0,
+      "value_before": 456970925.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "LOUISIANA PAC CORP",
+      "title": "COM",
+      "cusip": "546347105",
+      "ticker": "LPX",
+      "put_call": "",
+      "shares_before": 5664793.0,
+      "shares_after": 5664793.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 445592617.0,
+      "value_before": 412113691.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "NVR INC",
+      "title": "COM",
+      "cusip": "62944T105",
+      "ticker": "NVR",
+      "put_call": "",
+      "shares_before": 11112.0,
+      "shares_after": 11112.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 75710501.0,
+      "value_before": 73226191.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "JEFFERIES FINANCIAL GROUP IN",
+      "title": "COM",
+      "cusip": "47233W109",
+      "ticker": "JEF",
+      "put_call": "",
+      "shares_before": 433558.0,
+      "shares_after": 433558.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 21669229.0,
+      "value_before": 17892939.0
+    }
+  ],
+  "diff_error": null,
+  "filings": [
+    {
+      "form": "13F-HR",
+      "accession": "0001193125-26-352200",
+      "filed": "2026-08-14",
+      "period": "2026-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001193125-26-226661",
+      "filed": "2026-05-15",
+      "period": "2026-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001193125-26-054580",
+      "filed": "2026-02-17",
+      "period": "2025-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001193125-25-282901",
+      "filed": "2025-11-14",
+      "period": "2025-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR/A",
+      "accession": "0000950123-25-008361",
+      "filed": "2025-08-14",
+      "period": "2025-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000950123-25-008343",
+      "filed": "2025-08-14",
+      "period": "2025-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000950123-25-005701",
+      "filed": "2025-05-15",
+      "period": "2025-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000950123-25-002701",
+      "filed": "2025-02-14",
+      "period": "2024-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000950123-24-011775",
+      "filed": "2024-11-14",
+      "period": "2024-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000950123-24-008740",
+      "filed": "2024-08-14",
+      "period": "2024-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR/A",
+      "accession": "0000950123-24-005664",
+      "filed": "2024-05-15",
+      "period": "2023-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR/A",
+      "accession": "0000950123-24-005653",
+      "filed": "2024-05-15",
+      "period": "2023-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000950123-24-005622",
+      "filed": "2024-05-15",
+      "period": "2024-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000950123-24-002518",
+      "filed": "2024-02-14",
+      "period": "2023-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR/A",
+      "accession": "0000950123-23-011029",
+      "filed": "2023-11-16",
+      "period": "2023-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    }
+  ],
+  "source": "SEC EDGAR"
+}

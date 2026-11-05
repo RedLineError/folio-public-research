@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:04:46.031088+00:00",
+  "filing": {
+    "doc_id": "20035734",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Miller",
+    "first": "Carol Devine",
+    "name": "Hon. Carol Devine Miller",
+    "district": "WV01",
+    "year": 2026,
+    "filed": "2026-10-30",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035734.pdf"
+  },
+  "report": {
+    "name": "Hon. Carol Devine Miller",
+    "status": "Member",
+    "district": "WV01",
+    "doc_id": "20035734",
+    "filed": "2026-10-30",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-09-29",
+        "notified": "2026-10-29",
+        "amount": "$710.52",
+        "status": "New",
+        "account": "United Bank Brokerage Account",
+        "ticker": "HONA",
+        "asset_type": "ST",
+        "asset": "Honeywell Aerospace Inc. - Common Stock",
+        "amount_low": 710,
+        "amount_high": null,
+        "description": null,
+        "days_to_disclose": 31,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}
