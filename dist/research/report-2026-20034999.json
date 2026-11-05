@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:08.511343+00:00",
+  "filing": {
+    "doc_id": "20034999",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Wasserman Schultz",
+    "first": "Debbie",
+    "name": "Hon. Debbie Wasserman Schultz",
+    "district": "FL25",
+    "year": 2026,
+    "filed": "2026-07-14",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034999.pdf"
+  },
+  "report": {
+    "name": "Hon. Debbie Wasserman Schultz",
+    "status": "Member",
+    "district": "FL25",
+    "doc_id": "20034999",
+    "filed": "2026-07-14",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-06-17",
+        "notified": "2026-07-14",
+        "amount": "$2,722.50",
+        "status": "New",
+        "account": null,
+        "description": "Sale from Individual Retirement Account",
+        "ticker": "ICHR",
+        "asset_type": "ST",
+        "asset": "Ichor Holdings - Ordinary Shares",
+        "amount_low": 2722,
+        "amount_high": null,
+        "days_to_disclose": 27,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

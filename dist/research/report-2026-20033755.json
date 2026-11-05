@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:19.734819+00:00",
+  "filing": {
+    "doc_id": "20033755",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Sanchez",
+    "first": "Linda T.",
+    "name": "Hon. Linda T. Sanchez",
+    "district": "CA38",
+    "year": 2026,
+    "filed": "2026-01-09",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033755.pdf"
+  },
+  "report": {
+    "name": "Hon. Linda T. Sanchez",
+    "status": "Member",
+    "district": "CA38",
+    "doc_id": "20033755",
+    "filed": "2026-01-09",
+    "rows": [
+      {
+        "owner": "DC",
+        "owner_name": "dependent child",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2025-10-28",
+        "notified": "2025-12-27",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "ticker": "CSCO",
+        "asset_type": "ST",
+        "asset": "Cisco Systems, Inc. - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 73,
+        "late": true
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

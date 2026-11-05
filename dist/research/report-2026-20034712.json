@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:10.985275+00:00",
+  "filing": {
+    "doc_id": "20034712",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Doggett",
+    "first": "Lloyd",
+    "name": "Hon. Lloyd Doggett",
+    "district": "TX37",
+    "year": 2026,
+    "filed": "2026-06-04",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034712.pdf"
+  },
+  "report": {
+    "name": "Hon. Lloyd Doggett",
+    "status": "Member",
+    "district": "TX37",
+    "doc_id": "20034712",
+    "filed": "2026-06-04",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-05-15",
+        "notified": "2026-06-04",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "description": "Automatic reinvestment of dividends earned.",
+        "ticker": "PG",
+        "asset_type": "ST",
+        "asset": "Procter & Gamble Company",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 20,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

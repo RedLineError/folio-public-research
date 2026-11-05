@@ -1,0 +1,45 @@
+{
+  "fetched_at": "2026-11-05T00:17:15.199522+00:00",
+  "filing": {
+    "doc_id": "20034223",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Davidson",
+    "first": "Warren",
+    "name": "Hon. Warren Davidson",
+    "district": "OH08",
+    "year": 2026,
+    "filed": "2026-03-25",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034223.pdf"
+  },
+  "report": {
+    "name": "Hon. Warren Davidson",
+    "status": "Member",
+    "district": "OH08",
+    "doc_id": "20034223",
+    "filed": "2026-03-25",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-03-23",
+        "notified": "2026-03-23",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "description": "Sold 75 shares at $72.22 for a total of $5,416.50.",
+        "ticker": "GEHC",
+        "asset_type": "ST",
+        "asset": "GE HealthCare Technologies Inc. - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "shares": 75,
+        "days_to_disclose": 2,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

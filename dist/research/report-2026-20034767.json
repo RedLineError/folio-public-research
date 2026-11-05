@@ -1,0 +1,82 @@
+{
+  "fetched_at": "2026-11-05T00:17:10.229686+00:00",
+  "filing": {
+    "doc_id": "20034767",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Kelly",
+    "first": "Mike",
+    "name": "Hon. Mike Kelly",
+    "district": "PA16",
+    "year": 2026,
+    "filed": "2026-06-11",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034767.pdf"
+  },
+  "report": {
+    "name": "Hon. Mike Kelly",
+    "status": "Member",
+    "district": "PA16",
+    "doc_id": "20034767",
+    "filed": "2026-06-11",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-05-07",
+        "notified": "2026-06-10",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Victoria Kelly Trust ICA",
+        "ticker": "BMY",
+        "asset_type": "ST",
+        "asset": "Bristol-Myers Squibb Company Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 35,
+        "late": false
+      },
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-05-07",
+        "notified": "2026-06-10",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Victoria Kelly Trust ICA",
+        "ticker": "CMCSA",
+        "asset_type": "ST",
+        "asset": "Comcast Corporation - Class A Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 35,
+        "late": false
+      },
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-05-27",
+        "notified": "2026-06-10",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Victoria Kelly Trust ICA",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "Southeast Energy Authority A C Ser E Rev Call 7/1/30 - 5% due 10/1/30",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 15,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:15.157703+00:00",
+  "filing": {
+    "doc_id": "20034167",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Cohen",
+    "first": "Steve",
+    "name": "Hon. Steve Cohen",
+    "district": "TN09",
+    "year": 2026,
+    "filed": "2026-03-26",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034167.pdf"
+  },
+  "report": {
+    "name": "Hon. Steve Cohen",
+    "status": "Member",
+    "district": "TN09",
+    "doc_id": "20034167",
+    "filed": "2026-03-26",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-02-23",
+        "notified": "2026-03-11",
+        "amount": "$500,001 - $1,000,000",
+        "status": "New",
+        "account": "Stephens Advantage Account",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "US Treasury Bills, due 8/20/2026",
+        "amount_low": 500001,
+        "amount_high": 1000000,
+        "description": null,
+        "days_to_disclose": 31,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

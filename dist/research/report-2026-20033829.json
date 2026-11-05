@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:18.659245+00:00",
+  "filing": {
+    "doc_id": "20033829",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Hern",
+    "first": "Kevin",
+    "name": "Hon. Kevin Hern",
+    "district": "OK01",
+    "year": 2026,
+    "filed": "2026-01-22",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033829.pdf"
+  },
+  "report": {
+    "name": "Hon. Kevin Hern",
+    "status": "Member",
+    "district": "OK01",
+    "doc_id": "20033829",
+    "filed": "2026-01-22",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2025-12-23",
+        "notified": "2025-12-24",
+        "amount": "$250,001 - $500,000",
+        "status": "New",
+        "account": "Hern Family Revocable Trust",
+        "description": "Family Revocable Trust",
+        "ticker": "UNH",
+        "asset_type": "ST",
+        "asset": "UnitedHealth Group Incorporated Common Stock",
+        "amount_low": 250001,
+        "amount_high": 500000,
+        "days_to_disclose": 30,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:17.821854+00:00",
+  "filing": {
+    "doc_id": "20033964",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "McClain",
+    "first": "Lisa",
+    "name": "Hon. Lisa McClain",
+    "district": "MI09",
+    "year": 2026,
+    "filed": "2026-02-11",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033964.pdf"
+  },
+  "report": {
+    "name": "Hon. Lisa McClain",
+    "status": "Member",
+    "district": "MI09",
+    "doc_id": "20033964",
+    "filed": "2026-02-11",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-01-12",
+        "notified": "2026-01-12",
+        "amount": "$50,001 - $100,000",
+        "status": "New",
+        "account": null,
+        "description": "Purchase of Apptronik private stock.",
+        "ticker": null,
+        "asset_type": "PS",
+        "asset": "Apptronik",
+        "amount_low": 50001,
+        "amount_high": 100000,
+        "days_to_disclose": 30,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

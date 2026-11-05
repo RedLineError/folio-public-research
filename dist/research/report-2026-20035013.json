@@ -1,0 +1,82 @@
+{
+  "fetched_at": "2026-11-05T00:17:08.168517+00:00",
+  "filing": {
+    "doc_id": "20035013",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Hern",
+    "first": "Kevin",
+    "name": "Hon. Kevin Hern",
+    "district": "OK01",
+    "year": 2026,
+    "filed": "2026-07-16",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035013.pdf"
+  },
+  "report": {
+    "name": "Hon. Kevin Hern",
+    "status": "Member",
+    "district": "OK01",
+    "doc_id": "20035013",
+    "filed": "2026-07-16",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "E",
+        "type_name": "exchange",
+        "date": "2026-07-02",
+        "notified": "2026-07-03",
+        "amount": "$100,001 - $250,000",
+        "status": "New",
+        "account": "Hern Family Revocable Trust > Brokerage Investment Account",
+        "description": "Exxon Mobile began trading as Exxon Mobile Holdings",
+        "ticker": "XOM",
+        "asset_type": "ST",
+        "asset": "Exxon Mobil Corporation Common Stock",
+        "amount_low": 100001,
+        "amount_high": 250000,
+        "days_to_disclose": 14,
+        "late": false
+      },
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "E",
+        "type_name": "exchange",
+        "date": "2026-07-02",
+        "notified": "2026-07-03",
+        "amount": "$100,001 - $250,000",
+        "status": "New",
+        "account": "Hern Family Foundation",
+        "description": "Exxon Mobile began trading as Exxon Mobile Holdings",
+        "ticker": "XOM",
+        "asset_type": "ST",
+        "asset": "Exxon Mobil Corporation Common Stock",
+        "amount_low": 100001,
+        "amount_high": 250000,
+        "days_to_disclose": 14,
+        "late": false
+      },
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "E",
+        "type_name": "exchange",
+        "date": "2026-06-29",
+        "notified": "2026-06-30",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Hern Family Foundation",
+        "description": "Stock, Bonds, EFTs, & Mutual funds",
+        "ticker": "HONAV",
+        "asset_type": "ST",
+        "asset": "Honeywell Aerospace Inc. - Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 17,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

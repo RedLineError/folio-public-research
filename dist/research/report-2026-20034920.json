@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:09.272135+00:00",
+  "filing": {
+    "doc_id": "20034920",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Begich",
+    "first": "Nicholas",
+    "name": "Hon. Nicholas Begich III",
+    "district": "AK00",
+    "year": 2026,
+    "filed": "2026-07-07",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034920.pdf"
+  },
+  "report": {
+    "name": "Hon. Nicholas Begich III",
+    "status": "Member",
+    "district": "AK00",
+    "doc_id": "20034920",
+    "filed": "2026-07-07",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "E",
+        "type_name": "exchange",
+        "date": "2026-06-07",
+        "notified": "2026-06-07",
+        "amount": "$100,001 - $250,000",
+        "status": "New",
+        "account": null,
+        "description": "Preferred stock equating to ~0.06% interest.",
+        "ticker": null,
+        "asset_type": "PS",
+        "asset": "Physical Superintelligence, Inc.",
+        "amount_low": 100001,
+        "amount_high": 250000,
+        "days_to_disclose": 30,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

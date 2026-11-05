@@ -1,0 +1,24 @@
+{
+  "fetched_at": "2026-11-05T00:17:08.478052+00:00",
+  "filing": {
+    "doc_id": "9116217",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Malliotakis",
+    "first": "Nicole",
+    "name": "Hon. Nicole Malliotakis",
+    "district": "NY11",
+    "year": 2026,
+    "filed": "2026-07-14",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116217.pdf"
+  },
+  "report": {
+    "name": null,
+    "status": null,
+    "district": null,
+    "doc_id": null,
+    "filed": "2026-07-14",
+    "rows": []
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

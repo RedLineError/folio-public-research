@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:12.116942+00:00",
+  "filing": {
+    "doc_id": "20034452",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Cohen",
+    "first": "Steve",
+    "name": "Hon. Steve Cohen",
+    "district": "TN09",
+    "year": 2026,
+    "filed": "2026-05-15",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034452.pdf"
+  },
+  "report": {
+    "name": "Hon. Steve Cohen",
+    "status": "Member",
+    "district": "TN09",
+    "doc_id": "20034452",
+    "filed": "2026-05-15",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2025-12-26",
+        "notified": "2026-01-21",
+        "amount": "$1,001 - $15,000",
+        "status": "Amended",
+        "account": "Stephens SEP IRA",
+        "ticker": "SFGYY",
+        "asset_type": "ST",
+        "asset": "2000154444 SONY FINL GROUP INC U/ADR",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 140,
+        "late": true
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

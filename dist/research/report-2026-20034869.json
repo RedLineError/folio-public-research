@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:09.600244+00:00",
+  "filing": {
+    "doc_id": "20034869",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Miller",
+    "first": "Max",
+    "name": "Hon. Max Miller",
+    "district": "OH07",
+    "year": 2026,
+    "filed": "2026-07-01",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034869.pdf"
+  },
+  "report": {
+    "name": "Hon. Max Miller",
+    "status": "Member",
+    "district": "OH07",
+    "doc_id": "20034869",
+    "filed": "2026-07-01",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-05-29",
+        "notified": "2026-06-29",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "2012 Trust",
+        "description": "Sale of 3,791.421 units",
+        "ticker": null,
+        "asset_type": "OT",
+        "asset": "Cliffwater Corporate Lending Fund (Ticker: CCLFX)",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 33,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-05-29",
+        "notified": "2026-06-29",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "2009 Trust",
+        "description": "Sale of 3,438.348 units",
+        "ticker": null,
+        "asset_type": "OT",
+        "asset": "Cliffwater Corporate Lending Fund (Ticker: CCLFX)",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 33,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

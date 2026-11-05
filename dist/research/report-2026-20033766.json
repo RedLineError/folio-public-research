@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:19.508309+00:00",
+  "filing": {
+    "doc_id": "20033766",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "DelBene",
+    "first": "Suzan K.",
+    "name": "Hon. Suzan K. DelBene",
+    "district": "WA01",
+    "year": 2026,
+    "filed": "2026-01-12",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033766.pdf"
+  },
+  "report": {
+    "name": "Hon. Suzan K. DelBene",
+    "status": "Member",
+    "district": "WA01",
+    "doc_id": "20033766",
+    "filed": "2026-01-12",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2025-12-17",
+        "notified": "2025-12-17",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "Tarrant CNTY Tex Cultural Ed Facs Fin 5.00% Due Nov 15, 2051",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 26,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

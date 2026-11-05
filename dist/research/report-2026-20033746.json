@@ -1,0 +1,82 @@
+{
+  "fetched_at": "2026-11-05T00:17:19.993918+00:00",
+  "filing": {
+    "doc_id": "20033746",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Moore",
+    "first": "Tim",
+    "name": "Hon. Tim Moore",
+    "district": "NC14",
+    "year": 2026,
+    "filed": "2026-01-07",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033746.pdf"
+  },
+  "report": {
+    "name": "Hon. Tim Moore",
+    "status": "Member",
+    "district": "NC14",
+    "doc_id": "20033746",
+    "filed": "2026-01-07",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2025-12-31",
+        "notified": "2026-01-03",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": null,
+        "ticker": "CBRL",
+        "asset_type": "ST",
+        "asset": "Cracker Barrel Old Country Store, Inc. - Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 7,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2025-12-18",
+        "notified": "2026-01-03",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "ticker": "GNPX",
+        "asset_type": "ST",
+        "asset": "Genprex, Inc. - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 20,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2025-12-18",
+        "notified": "2026-01-03",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": null,
+        "ticker": "HOG",
+        "asset_type": "ST",
+        "asset": "Harley-Davidson, Inc. Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 20,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

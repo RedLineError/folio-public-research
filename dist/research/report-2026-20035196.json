@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:06.830269+00:00",
+  "filing": {
+    "doc_id": "20035196",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Hern",
+    "first": "Kevin",
+    "name": "Hon. Kevin Hern",
+    "district": "OK01",
+    "year": 2026,
+    "filed": "2026-08-12",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035196.pdf"
+  },
+  "report": {
+    "name": "Hon. Kevin Hern",
+    "status": "Member",
+    "district": "OK01",
+    "doc_id": "20035196",
+    "filed": "2026-08-12",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-08-05",
+        "notified": "2026-08-05",
+        "amount": "$1,001 - $15,000",
+        "status": "Amended",
+        "account": "Hern Family Revocable Trust",
+        "ticker": "OGN",
+        "asset_type": "ST",
+        "asset": "2000166537 JT Organon & Co. Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 7,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-08-05",
+        "notified": "2026-08-05",
+        "amount": "$1,001 - $15,000",
+        "status": "Deleted",
+        "account": "Hern Family Foundation",
+        "description": "Family Revocable Trust",
+        "ticker": "VSNT",
+        "asset_type": "ST",
+        "asset": "2000166538 JT Versant Media Group, Inc. - Class A Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 7,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

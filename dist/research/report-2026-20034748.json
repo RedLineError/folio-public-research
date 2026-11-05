@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:10.401344+00:00",
+  "filing": {
+    "doc_id": "20034748",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "McGuire",
+    "first": "John",
+    "name": "Hon. John McGuire",
+    "district": "VA05",
+    "year": 2026,
+    "filed": "2026-06-10",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034748.pdf"
+  },
+  "report": {
+    "name": "Hon. John McGuire",
+    "status": "Member",
+    "district": "VA05",
+    "doc_id": "20034748",
+    "filed": "2026-06-10",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-06-04",
+        "notified": "2026-06-04",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Merrill Lynch SEP IRA",
+        "ticker": "DELL",
+        "asset_type": "ST",
+        "asset": "Dell Technologies Inc. Class C Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 6,
+        "late": false
+      },
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-06-04",
+        "notified": "2026-06-04",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Merrill Lynch SEP IRA",
+        "ticker": "META",
+        "asset_type": "ST",
+        "asset": "Meta Platforms, Inc. - Class A Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 6,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:18.430640+00:00",
+  "filing": {
+    "doc_id": "20033813",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Cohen",
+    "first": "Steve",
+    "name": "Hon. Steve Cohen",
+    "district": "TN09",
+    "year": 2026,
+    "filed": "2026-01-26",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033813.pdf"
+  },
+  "report": {
+    "name": "Hon. Steve Cohen",
+    "status": "Member",
+    "district": "TN09",
+    "doc_id": "20033813",
+    "filed": "2026-01-26",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2025-12-29",
+        "notified": "2026-01-14",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Stephens Advantage Account",
+        "ticker": "FLR",
+        "asset_type": "ST",
+        "asset": "Fluor Corporation Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 28,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2025-12-29",
+        "notified": "2026-01-14",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Stephens Advantage Account",
+        "ticker": "NOC",
+        "asset_type": "ST",
+        "asset": "Northrop Grumman Corporation Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 28,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

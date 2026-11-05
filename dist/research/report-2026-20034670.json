@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:11.209566+00:00",
+  "filing": {
+    "doc_id": "20034670",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Foxx",
+    "first": "Virginia",
+    "name": "Hon. Virginia Foxx",
+    "district": "NC05",
+    "year": 2026,
+    "filed": "2026-06-02",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034670.pdf"
+  },
+  "report": {
+    "name": "Hon. Virginia Foxx",
+    "status": "Member",
+    "district": "NC05",
+    "doc_id": "20034670",
+    "filed": "2026-06-02",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-05-15",
+        "notified": "2026-06-01",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "ticker": "ARLP",
+        "asset_type": "ST",
+        "asset": "Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 18,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

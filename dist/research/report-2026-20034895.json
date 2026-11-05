@@ -1,0 +1,82 @@
+{
+  "fetched_at": "2026-11-05T00:17:08.795528+00:00",
+  "filing": {
+    "doc_id": "20034895",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Foxx",
+    "first": "Virginia",
+    "name": "Hon. Virginia Foxx",
+    "district": "NC05",
+    "year": 2026,
+    "filed": "2026-07-10",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034895.pdf"
+  },
+  "report": {
+    "name": "Hon. Virginia Foxx",
+    "status": "Member",
+    "district": "NC05",
+    "doc_id": "20034895",
+    "filed": "2026-07-10",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-06-18",
+        "notified": "2026-07-01",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": null,
+        "ticker": "ARLP",
+        "asset_type": "ST",
+        "asset": "Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 22,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-06-18",
+        "notified": "2026-07-01",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": null,
+        "ticker": null,
+        "asset_type": "ST",
+        "asset": "Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock (EFC$D)",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 22,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-06-30",
+        "notified": "2026-07-01",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "ticker": null,
+        "asset_type": "ST",
+        "asset": "Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock (EFC$D)",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 10,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

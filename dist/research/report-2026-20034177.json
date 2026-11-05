@@ -1,0 +1,82 @@
+{
+  "fetched_at": "2026-11-05T00:17:15.679092+00:00",
+  "filing": {
+    "doc_id": "20034177",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Keating",
+    "first": "William R.",
+    "name": "Hon. William R. Keating",
+    "district": "MA09",
+    "year": 2026,
+    "filed": "2026-03-16",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034177.pdf"
+  },
+  "report": {
+    "name": "Hon. William R. Keating",
+    "status": "Member",
+    "district": "MA09",
+    "doc_id": "20034177",
+    "filed": "2026-03-16",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-02-20",
+        "notified": "2026-03-15",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Bill's IRA",
+        "description": "02079KAY3",
+        "ticker": null,
+        "asset_type": "CS",
+        "asset": "ALPHABET INC NOTE CALL MAKE WHOLE 4.70000% 11/15/2035",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 24,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-02-20",
+        "notified": "2026-03-15",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Bill's IRA",
+        "description": "171239AK2",
+        "ticker": null,
+        "asset_type": "CS",
+        "asset": "CHUBB INA HLDGS INC NOTE CALL MAKE WHOLE 5.00000% 03/15/2034",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 24,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-02-20",
+        "notified": "2026-03-15",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Bill's IRA",
+        "description": "912797TA5",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "UNITED STATES TREAS BILLS ZERO CPN 0.00000% 03/24/2026",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 24,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

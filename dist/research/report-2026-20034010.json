@@ -1,0 +1,82 @@
+{
+  "fetched_at": "2026-11-05T00:17:16.973917+00:00",
+  "filing": {
+    "doc_id": "20034010",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Peters",
+    "first": "Scott H.",
+    "name": "Hon. Scott H. Peters",
+    "district": "CA50",
+    "year": 2026,
+    "filed": "2026-02-25",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034010.pdf"
+  },
+  "report": {
+    "name": "Hon. Scott H. Peters",
+    "status": "Member",
+    "district": "CA50",
+    "doc_id": "20034010",
+    "filed": "2026-02-25",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-01-21",
+        "notified": "2026-01-31",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": null,
+        "description": "Venture Capital Fund",
+        "ticker": null,
+        "asset_type": "OT",
+        "asset": "Regeneration VC Fund 1 LP",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 35,
+        "late": false
+      },
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-01-14",
+        "notified": "2026-01-31",
+        "amount": "$250,001 - $500,000",
+        "status": "New",
+        "account": "Torch Opportunity II LLC",
+        "description": "Digital Patient Advocacy Platform",
+        "ticker": null,
+        "asset_type": "OL",
+        "asset": "Solace Health",
+        "amount_low": 250001,
+        "amount_high": 500000,
+        "days_to_disclose": 42,
+        "late": false
+      },
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-01-21",
+        "notified": "2026-01-31",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": null,
+        "description": "Special Purpose Vehicle",
+        "ticker": null,
+        "asset_type": "OT",
+        "asset": "Valo Ventures GP II, LP",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 35,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

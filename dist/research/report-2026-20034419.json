@@ -1,0 +1,82 @@
+{
+  "fetched_at": "2026-11-05T00:17:13.599728+00:00",
+  "filing": {
+    "doc_id": "20034419",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Miller",
+    "first": "Max",
+    "name": "Hon. Max Miller",
+    "district": "OH07",
+    "year": 2026,
+    "filed": "2026-04-28",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034419.pdf"
+  },
+  "report": {
+    "name": "Hon. Max Miller",
+    "status": "Member",
+    "district": "OH07",
+    "doc_id": "20034419",
+    "filed": "2026-04-28",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-04-10",
+        "notified": "2026-04-28",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "2012 Trust",
+        "description": "Capital call of $40,112.60",
+        "ticker": null,
+        "asset_type": "HN",
+        "asset": "Alta Park Endurance Fund, LP (GLAS Funds, LP)",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 18,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-04-06",
+        "notified": "2026-04-28",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "2012 Trust",
+        "description": "Capital contribution of $50,000",
+        "ticker": null,
+        "asset_type": "HN",
+        "asset": "GLAS Funds, LP",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 22,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-04-02",
+        "notified": "2026-04-28",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "2012 Trust",
+        "description": "Capital call of $1,005",
+        "ticker": null,
+        "asset_type": "HN",
+        "asset": "Mercato Partners Traverse IV QP, LP (GLAS Funds, LP)",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 26,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

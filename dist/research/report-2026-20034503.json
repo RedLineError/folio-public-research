@@ -1,0 +1,82 @@
+{
+  "fetched_at": "2026-11-05T00:17:12.501530+00:00",
+  "filing": {
+    "doc_id": "20034503",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Suozzi",
+    "first": "Thomas",
+    "name": "Hon. Thomas Suozzi",
+    "district": "NY03",
+    "year": 2026,
+    "filed": "2026-05-08",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034503.pdf"
+  },
+  "report": {
+    "name": "Hon. Thomas Suozzi",
+    "status": "Member",
+    "district": "NY03",
+    "doc_id": "20034503",
+    "filed": "2026-05-08",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-04-09",
+        "notified": "2026-05-07",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Thomas Suozzi IRA FBO Thomas Suozzi",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "US Treasury Bill",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 29,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-04-16",
+        "notified": "2026-05-07",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Thomas Suozzi IRA FBO Thomas Suozzi",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "US Treasury Bill",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 22,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-04-07",
+        "notified": "2026-05-07",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "National Securities- Advisor Discretion Account",
+        "description": "Retirement Account",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "US Treasury Bill",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 31,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:11.350458+00:00",
+  "filing": {
+    "doc_id": "20034651",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Miller",
+    "first": "Max",
+    "name": "Hon. Max Miller",
+    "district": "OH07",
+    "year": 2026,
+    "filed": "2026-05-29",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034651.pdf"
+  },
+  "report": {
+    "name": "Hon. Max Miller",
+    "status": "Member",
+    "district": "OH07",
+    "doc_id": "20034651",
+    "filed": "2026-05-29",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-05-15",
+        "notified": "2026-05-28",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "2012 Trust",
+        "description": "Capital call of $4,321.10",
+        "ticker": null,
+        "asset_type": "HN",
+        "asset": "Alpine Investors IX, LP (GLAS Funds, LP)",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 14,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-05-11",
+        "notified": "2026-05-28",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "2012 Trust",
+        "description": "Return of capital - $9,887.40",
+        "ticker": null,
+        "asset_type": "HN",
+        "asset": "GLAS Funds, LP",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 18,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:19.201817+00:00",
+  "filing": {
+    "doc_id": "20033803",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Jordan",
+    "first": "James D",
+    "name": "Hon. James D Jordan",
+    "district": "OH04",
+    "year": 2026,
+    "filed": "2026-01-14",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033803.pdf"
+  },
+  "report": {
+    "name": "Hon. James D Jordan",
+    "status": "Member",
+    "district": "OH04",
+    "doc_id": "20033803",
+    "filed": "2026-01-14",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2025-10-27",
+        "notified": "2025-10-27",
+        "amount": "$50,001 - $100,000",
+        "status": "New",
+        "account": null,
+        "ticker": "CBSI",
+        "asset_type": "ST",
+        "asset": "Central Bancshares, Inc. New",
+        "amount_low": 50001,
+        "amount_high": 100000,
+        "description": null,
+        "days_to_disclose": 79,
+        "late": true
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

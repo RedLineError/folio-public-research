@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:03.552194+00:00",
+  "filing": {
+    "doc_id": "20035651",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "McCormick",
+    "first": "Richard Dean Dr",
+    "name": "Hon. Richard Dean Dr McCormick",
+    "district": "GA06",
+    "year": 2026,
+    "filed": "2026-10-14",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035651.pdf"
+  },
+  "report": {
+    "name": "Hon. Richard Dean Dr McCormick",
+    "status": "Member",
+    "district": "GA06",
+    "doc_id": "20035651",
+    "filed": "2026-10-14",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-09-18",
+        "notified": "2026-10-14",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "ticker": "BRK.B",
+        "asset_type": "ST",
+        "asset": "Berkshire Hathaway Inc. New Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 26,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

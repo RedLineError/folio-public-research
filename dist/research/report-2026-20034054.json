@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:15.414442+00:00",
+  "filing": {
+    "doc_id": "20034054",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Pfluger",
+    "first": "August Lee",
+    "name": "Hon. August Lee Pfluger II",
+    "district": "TX11",
+    "year": 2026,
+    "filed": "2026-03-19",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034054.pdf"
+  },
+  "report": {
+    "name": "Hon. August Lee Pfluger II",
+    "status": "Member",
+    "district": "TX11",
+    "doc_id": "20034054",
+    "filed": "2026-03-19",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-02-10",
+        "notified": "2026-02-23",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Roth IRA",
+        "ticker": "WBD",
+        "asset_type": "ST",
+        "asset": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 37,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

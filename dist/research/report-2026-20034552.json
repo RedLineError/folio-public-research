@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:11.016455+00:00",
+  "filing": {
+    "doc_id": "20034552",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Lee",
+    "first": "Susie",
+    "name": "Hon. Susie Lee",
+    "district": "NV03",
+    "year": 2026,
+    "filed": "2026-06-04",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034552.pdf"
+  },
+  "report": {
+    "name": "Hon. Susie Lee",
+    "status": "Member",
+    "district": "NV03",
+    "doc_id": "20034552",
+    "filed": "2026-06-04",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-04-21",
+        "notified": "2026-05-13",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Fidelity Investments IRA",
+        "ticker": "FLL",
+        "asset_type": "ST",
+        "asset": "Full House Resorts, Inc. - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 44,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:03.096915+00:00",
+  "filing": {
+    "doc_id": "20035700",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Issa",
+    "first": "Darrell E.",
+    "name": "Hon. Darrell E. Issa",
+    "district": "CA48",
+    "year": 2026,
+    "filed": "2026-10-22",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035700.pdf"
+  },
+  "report": {
+    "name": "Hon. Darrell E. Issa",
+    "status": "Member",
+    "district": "CA48",
+    "doc_id": "20035700",
+    "filed": "2026-10-22",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-10-08",
+        "notified": "2026-10-09",
+        "amount": "$5,000,001 - $25,000,000",
+        "status": "New",
+        "account": "Account 1-Investment account-496",
+        "description": "Purchase of US Treasury Bond with $10 million face value",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "US Treasury Note 3.375% due 09/15/28 CUSIP 91282CNY3",
+        "amount_low": 5000001,
+        "amount_high": 25000000,
+        "days_to_disclose": 14,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-10-14",
+        "notified": "2026-10-15",
+        "amount": "$5,000,001 - $25,000,000",
+        "status": "New",
+        "account": "Account 1-Investment account-496",
+        "description": "Sale of US Treasury Note before Maturity. Face Value $10 million",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "US Treasury Note 3.375% due 09/15/28 CUSIP 91282CNY3",
+        "amount_low": 5000001,
+        "amount_high": 25000000,
+        "days_to_disclose": 8,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

@@ -1,0 +1,82 @@
+{
+  "fetched_at": "2026-11-05T00:17:06.099628+00:00",
+  "filing": {
+    "doc_id": "20035274",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "DelBene",
+    "first": "Suzan K.",
+    "name": "Hon. Suzan K. DelBene",
+    "district": "WA01",
+    "year": 2026,
+    "filed": "2026-08-21",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035274.pdf"
+  },
+  "report": {
+    "name": "Hon. Suzan K. DelBene",
+    "status": "Member",
+    "district": "WA01",
+    "doc_id": "20035274",
+    "filed": "2026-08-21",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-08-06",
+        "notified": "2026-08-06",
+        "amount": "$250,001 - $500,000",
+        "status": "New",
+        "account": null,
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "California CMNTY Choice Fing Auth 5.00 % Due Oct 1, 2056",
+        "amount_low": 250001,
+        "amount_high": 500000,
+        "description": null,
+        "days_to_disclose": 15,
+        "late": false
+      },
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-08-06",
+        "notified": "2026-08-06",
+        "amount": "$250,001 - $500,000",
+        "status": "New",
+        "account": null,
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "Southeast Energy Auth Coop Dist Ala 5.00% Due Sep 1, 2035",
+        "amount_low": 250001,
+        "amount_high": 500000,
+        "description": null,
+        "days_to_disclose": 15,
+        "late": false
+      },
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-08-07",
+        "notified": "2026-08-07",
+        "amount": "$250,001 - $500,000",
+        "status": "New",
+        "account": null,
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "Washington ST 5% Go Utx Due 08/01/30",
+        "amount_low": 250001,
+        "amount_high": 500000,
+        "description": null,
+        "days_to_disclose": 14,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

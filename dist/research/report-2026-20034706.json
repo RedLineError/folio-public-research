@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:10.150477+00:00",
+  "filing": {
+    "doc_id": "20034706",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Johnson",
+    "first": "Julie",
+    "name": "Hon. Julie Johnson",
+    "district": "TX32",
+    "year": 2026,
+    "filed": "2026-06-12",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034706.pdf"
+  },
+  "report": {
+    "name": "Hon. Julie Johnson",
+    "status": "Member",
+    "district": "TX32",
+    "doc_id": "20034706",
+    "filed": "2026-06-12",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-05-12",
+        "notified": "2026-06-03",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Merrill Lynch Tax Efficient Core",
+        "ticker": "ABT",
+        "asset_type": "ST",
+        "asset": "Abbott Laboratories Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 31,
+        "late": false
+      },
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-05-12",
+        "notified": "2026-06-03",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Merrill Lynch Tax Efficient Core",
+        "ticker": "ACN",
+        "asset_type": "ST",
+        "asset": "Accenture plc Class A Ordinary Shares",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 31,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

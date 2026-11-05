@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:07.683947+00:00",
+  "filing": {
+    "doc_id": "20035075",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Miller",
+    "first": "Max",
+    "name": "Hon. Max Miller",
+    "district": "OH07",
+    "year": 2026,
+    "filed": "2026-07-26",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035075.pdf"
+  },
+  "report": {
+    "name": "Hon. Max Miller",
+    "status": "Member",
+    "district": "OH07",
+    "doc_id": "20035075",
+    "filed": "2026-07-26",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-07-22",
+        "notified": "2026-07-26",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "2012 Trust",
+        "description": "Capital call of $3,723.39 for RAC II",
+        "ticker": null,
+        "asset_type": "HN",
+        "asset": "Riverside Acceleration Capital Opportunity Fund II (GLAS Funds, LP)",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 4,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

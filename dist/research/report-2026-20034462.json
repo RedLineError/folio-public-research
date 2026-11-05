@@ -1,0 +1,82 @@
+{
+  "fetched_at": "2026-11-05T00:17:13.262905+00:00",
+  "filing": {
+    "doc_id": "20034462",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Wagner",
+    "first": "Ann",
+    "name": "Hon. Ann Wagner",
+    "district": "MO02",
+    "year": 2026,
+    "filed": "2026-05-04",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034462.pdf"
+  },
+  "report": {
+    "name": "Hon. Ann Wagner",
+    "status": "Member",
+    "district": "MO02",
+    "doc_id": "20034462",
+    "filed": "2026-05-04",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-04-28",
+        "notified": "2026-04-28",
+        "amount": "$100,001 - $250,000",
+        "status": "New",
+        "account": "Fidelity Trust",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "Ashwaubenon WI",
+        "amount_low": 100001,
+        "amount_high": 250000,
+        "description": null,
+        "days_to_disclose": 6,
+        "late": false
+      },
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-04-10",
+        "notified": "2026-04-10",
+        "amount": "$100,001 - $250,000",
+        "status": "New",
+        "account": "Fidelity Trust",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "ATHERTON MICH CMNTY SCH DIST GO UNLTD 4% 05/01/2026 TAX BLDG AND SITE BDS SER. 2020 I",
+        "amount_low": 100001,
+        "amount_high": 250000,
+        "description": null,
+        "days_to_disclose": 24,
+        "late": false
+      },
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-04-29",
+        "notified": "2026-04-30",
+        "amount": "$250,001 - $500,000",
+        "status": "New",
+        "account": "Fidelity Trust",
+        "ticker": null,
+        "asset_type": "HN",
+        "asset": "PARTNERS GROUP PRIVATE EQUITY MASTER FD LLC UNIT CL I",
+        "amount_low": 250001,
+        "amount_high": 500000,
+        "description": null,
+        "days_to_disclose": 5,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

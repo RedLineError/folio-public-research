@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:17.391532+00:00",
+  "filing": {
+    "doc_id": "20034016",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Meuser",
+    "first": "Daniel",
+    "name": "Hon. Daniel Meuser",
+    "district": "PA09",
+    "year": 2026,
+    "filed": "2026-02-17",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034016.pdf"
+  },
+  "report": {
+    "name": "Hon. Daniel Meuser",
+    "status": "Member",
+    "district": "PA09",
+    "doc_id": "20034016",
+    "filed": "2026-02-17",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-01-14",
+        "notified": "2026-02-11",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Schwab Brokerage Account",
+        "ticker": "NVDA",
+        "asset_type": "ST",
+        "asset": "NVIDIA Corporation - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 34,
+        "late": false
+      },
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-01-30",
+        "notified": "2026-02-11",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Schwab Brokerage Account",
+        "ticker": "NVDA",
+        "asset_type": "ST",
+        "asset": "NVIDIA Corporation - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 18,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

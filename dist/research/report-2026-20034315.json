@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:13.294045+00:00",
+  "filing": {
+    "doc_id": "20034315",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Allen",
+    "first": "Richard W.",
+    "name": "Hon. Richard W. Allen",
+    "district": "GA12",
+    "year": 2026,
+    "filed": "2026-05-04",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034315.pdf"
+  },
+  "report": {
+    "name": "Hon. Richard W. Allen",
+    "status": "Member",
+    "district": "GA12",
+    "doc_id": "20034315",
+    "filed": "2026-05-04",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-03-24",
+        "notified": "2026-04-08",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "SCH1",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "US Treasury Note 3.5% DUE 1/31/30 (91282CGJ4)",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 41,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

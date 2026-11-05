@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:03.044733+00:00",
+  "filing": {
+    "doc_id": "20035525",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Biggs",
+    "first": "Sheri",
+    "name": "Hon. Sheri Biggs",
+    "district": "SC03",
+    "year": 2026,
+    "filed": "2026-10-27",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035525.pdf"
+  },
+  "report": {
+    "name": "Hon. Sheri Biggs",
+    "status": "Member",
+    "district": "SC03",
+    "doc_id": "20035525",
+    "filed": "2026-10-27",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-09-30",
+        "notified": "2026-10-06",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "W.S.B Trust > Rockefeller Cap. Mgmt 3",
+        "description": "Professionally Managed Account",
+        "ticker": null,
+        "asset_type": "OT",
+        "asset": "Oaktree Strategic Credit Fund Class S",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 27,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

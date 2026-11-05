@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:16.658649+00:00",
+  "filing": {
+    "doc_id": "20034119",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Cohen",
+    "first": "Steve",
+    "name": "Hon. Steve Cohen",
+    "district": "TN09",
+    "year": 2026,
+    "filed": "2026-03-05",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034119.pdf"
+  },
+  "report": {
+    "name": "Hon. Steve Cohen",
+    "status": "Member",
+    "district": "TN09",
+    "doc_id": "20034119",
+    "filed": "2026-03-05",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-02-20",
+        "notified": "2026-02-27",
+        "amount": "$250,001 - $500,000",
+        "status": "New",
+        "account": "Stephens Advantage Account",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "United States Treasury Bill Mat 5/21/26",
+        "amount_low": 250001,
+        "amount_high": 500000,
+        "description": null,
+        "days_to_disclose": 13,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

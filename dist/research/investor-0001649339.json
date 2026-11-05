@@ -1,0 +1,640 @@
+{
+  "fetched_at": "2026-11-05T00:17:22.173184+00:00",
+  "meta": {
+    "filer": "Scion Asset Management, LLC",
+    "cik": "0001649339",
+    "period": "2025-09-30",
+    "filed": "2025-11-03",
+    "accession": "0001649339-25-000007",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/infotable.xml",
+    "notes": [],
+    "cover_total": 1381198076.0,
+    "total_check": "Matches the cover page total."
+  },
+  "prior": {
+    "filer": "Scion Asset Management, LLC",
+    "cik": "0001649339",
+    "period": "2025-06-30",
+    "filed": "2025-08-14",
+    "accession": "0001879202-25-000038",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1649339/000187920225000038/infotable.xml",
+    "notes": [],
+    "cover_total": 578337040.0
+  },
+  "total": 1381198076.0,
+  "positions": [
+    {
+      "issuer": "PALANTIR TECHNOLOGIES INC",
+      "title": "CL A",
+      "cusip": "69608A108",
+      "figi": "",
+      "put_call": "PUT",
+      "share_type": "SH",
+      "value": 912100000.0,
+      "shares": 5000000.0,
+      "rows": 1,
+      "pct_of_13f": 66.04,
+      "cusips": [
+        "69608A108"
+      ],
+      "issuer_cik": "0001321655",
+      "ticker": "PLTR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Palantir Technologies",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "NVIDIA CORPORATION",
+      "title": "COM",
+      "cusip": "67066G104",
+      "figi": "",
+      "put_call": "PUT",
+      "share_type": "SH",
+      "value": 186580000.0,
+      "shares": 1000000.0,
+      "rows": 1,
+      "pct_of_13f": 13.51,
+      "cusips": [
+        "67066G104"
+      ],
+      "issuer_cik": "0001045810",
+      "ticker": "NVDA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Nvidia",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "PFIZER INC",
+      "title": "COM",
+      "cusip": "717081103",
+      "figi": "",
+      "put_call": "CALL",
+      "share_type": "SH",
+      "value": 152880000.0,
+      "shares": 6000000.0,
+      "rows": 1,
+      "pct_of_13f": 11.07,
+      "cusips": [
+        "717081103"
+      ],
+      "issuer_cik": "0000078003",
+      "ticker": "PFE",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Pfizer",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "HALLIBURTON CO",
+      "title": "COM",
+      "cusip": "406216101",
+      "figi": "",
+      "put_call": "CALL",
+      "share_type": "SH",
+      "value": 61500000.0,
+      "shares": 2500000.0,
+      "rows": 1,
+      "pct_of_13f": 4.45,
+      "cusips": [
+        "406216101"
+      ],
+      "issuer_cik": "0000045012",
+      "ticker": "HAL",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Halliburton",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "MOLINA HEALTHCARE INC",
+      "title": "COM",
+      "cusip": "60855R100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 23920000.0,
+      "shares": 125000.0,
+      "rows": 1,
+      "pct_of_13f": 1.73,
+      "cusips": [
+        "60855R100"
+      ],
+      "issuer_cik": "0001179929",
+      "ticker": "MOH",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Molina Healthcare",
+      "tickers": [
+        "MOH"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "LULULEMON ATHLETICA INC",
+      "title": "COM",
+      "cusip": "550021109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 17793000.0,
+      "shares": 100000.0,
+      "rows": 1,
+      "pct_of_13f": 1.29,
+      "cusips": [
+        "550021109"
+      ],
+      "issuer_cik": "0001397187",
+      "ticker": "LULU",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "lululemon athletica",
+      "tickers": [
+        "LULU"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "SLM CORP",
+      "title": "COM",
+      "cusip": "78442P106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 13287895.0,
+      "shares": 480054.0,
+      "rows": 1,
+      "pct_of_13f": 0.96,
+      "cusips": [
+        "78442P106"
+      ],
+      "issuer_cik": "0001032033",
+      "ticker": "SLM",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Slm",
+      "tickers": [
+        "SLM"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "BRUKER CORP",
+      "title": "6.375 PREF SER A",
+      "cusip": "116794207",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 13137181.0,
+      "shares": 48334.0,
+      "rows": 1,
+      "pct_of_13f": 0.95,
+      "cusips": [
+        "116794207"
+      ],
+      "issuer_cik": "0001109354",
+      "ticker": "BRKR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Bruker",
+      "tickers": [
+        "BRKR"
+      ],
+      "classes": [
+        "6.375 PREF SER A"
+      ],
+      "copy_eligible": true
+    }
+  ],
+  "changes": [
+    {
+      "status": "NEW",
+      "issuer": "PALANTIR TECHNOLOGIES INC",
+      "title": "CL A",
+      "cusip": "69608A108",
+      "ticker": "PLTR",
+      "put_call": "PUT",
+      "shares_before": 0.0,
+      "shares_after": 5000000.0,
+      "change": 5000000.0,
+      "change_pct": null,
+      "value_after": 912100000.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "NVIDIA CORPORATION",
+      "title": "COM",
+      "cusip": "67066G104",
+      "ticker": "NVDA",
+      "put_call": "PUT",
+      "shares_before": 0.0,
+      "shares_after": 1000000.0,
+      "change": 1000000.0,
+      "change_pct": null,
+      "value_after": 186580000.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "PFIZER INC",
+      "title": "COM",
+      "cusip": "717081103",
+      "ticker": "PFE",
+      "put_call": "CALL",
+      "shares_before": 0.0,
+      "shares_after": 6000000.0,
+      "change": 6000000.0,
+      "change_pct": null,
+      "value_after": 152880000.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "HALLIBURTON CO",
+      "title": "COM",
+      "cusip": "406216101",
+      "ticker": "HAL",
+      "put_call": "CALL",
+      "shares_before": 0.0,
+      "shares_after": 2500000.0,
+      "change": 2500000.0,
+      "change_pct": null,
+      "value_after": 61500000.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "MOLINA HEALTHCARE INC",
+      "title": "COM",
+      "cusip": "60855R100",
+      "ticker": "MOH",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 125000.0,
+      "change": 125000.0,
+      "change_pct": null,
+      "value_after": 23920000.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "SLM CORP",
+      "title": "COM",
+      "cusip": "78442P106",
+      "ticker": "SLM",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 480054.0,
+      "change": 480054.0,
+      "change_pct": null,
+      "value_after": 13287895.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "BRUKER CORP",
+      "title": "6.375 PREF SER A",
+      "cusip": "116794207",
+      "ticker": "BRKR",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 48334.0,
+      "change": 48334.0,
+      "change_pct": null,
+      "value_after": 13137181.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "UNITEDHEALTH GROUP INC",
+      "title": "COM",
+      "cusip": "91324P102",
+      "ticker": "UNH",
+      "put_call": "CALL",
+      "shares_before": 350000.0,
+      "shares_after": 0.0,
+      "change": -350000.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 109189500.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "REGENERON PHARMACEUTICALS",
+      "title": "COM",
+      "cusip": "75886F107",
+      "ticker": "REGN",
+      "put_call": "CALL",
+      "shares_before": 200000.0,
+      "shares_after": 0.0,
+      "change": -200000.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 105000000.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "LULULEMON ATHLETICA INC",
+      "title": "COM",
+      "cusip": "550021109",
+      "ticker": "LULU",
+      "put_call": "CALL",
+      "shares_before": 400000.0,
+      "shares_after": 0.0,
+      "change": -400000.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 95032000.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "META PLATFORMS INC",
+      "title": "CL A",
+      "cusip": "30303M102",
+      "ticker": "META",
+      "put_call": "CALL",
+      "shares_before": 100000.0,
+      "shares_after": 0.0,
+      "change": -100000.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 73809000.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "LAUDER ESTEE COS INC",
+      "title": "CL A",
+      "cusip": "518439104",
+      "ticker": null,
+      "put_call": "CALL",
+      "shares_before": 500000.0,
+      "shares_after": 0.0,
+      "change": -500000.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 40400000.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "JD.COM INC",
+      "title": "SPON ADS CL A",
+      "cusip": "47215P106",
+      "ticker": "JD",
+      "put_call": "CALL",
+      "shares_before": 1000000.0,
+      "shares_after": 0.0,
+      "change": -1000000.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 32640000.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "ALIBABA GROUP HLDG LTD",
+      "title": "SPONSORED ADS",
+      "cusip": "01609W102",
+      "ticker": "BABA",
+      "put_call": "CALL",
+      "shares_before": 250000.0,
+      "shares_after": 0.0,
+      "change": -250000.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 28352500.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "ASML HOLDING N V",
+      "title": "N Y REGISTRY SHS",
+      "cusip": "N07059210",
+      "ticker": "ASML",
+      "put_call": "CALL",
+      "shares_before": 25000.0,
+      "shares_after": 0.0,
+      "change": -25000.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 20034750.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "V F CORP",
+      "title": "COM",
+      "cusip": "918204108",
+      "ticker": "VFC",
+      "put_call": "CALL",
+      "shares_before": 1500000.0,
+      "shares_after": 0.0,
+      "change": -1500000.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 17625000.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "LAUDER ESTEE COS INC",
+      "title": "CL A",
+      "cusip": "518439104",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 150000.0,
+      "shares_after": 0.0,
+      "change": -150000.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 12120000.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "BRUKER CORP",
+      "title": "COM",
+      "cusip": "116794108",
+      "ticker": "BRKR",
+      "put_call": "",
+      "shares_before": 250000.0,
+      "shares_after": 0.0,
+      "change": -250000.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 10300000.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "REGENERON PHARMACEUTICALS",
+      "title": "COM",
+      "cusip": "75886F107",
+      "ticker": "REGN",
+      "put_call": "",
+      "shares_before": 15000.0,
+      "shares_after": 0.0,
+      "change": -15000.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 7875000.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "MERCADOLIBRE INC",
+      "title": "COM",
+      "cusip": "58733R102",
+      "ticker": "MELI",
+      "put_call": "",
+      "shares_before": 3000.0,
+      "shares_after": 0.0,
+      "change": -3000.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 7840890.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "UNITEDHEALTH GROUP INC",
+      "title": "COM",
+      "cusip": "91324P102",
+      "ticker": "UNH",
+      "put_call": "",
+      "shares_before": 20000.0,
+      "shares_after": 0.0,
+      "change": -20000.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 6239400.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "LULULEMON ATHLETICA INC",
+      "title": "COM",
+      "cusip": "550021109",
+      "ticker": "LULU",
+      "put_call": "",
+      "shares_before": 50000.0,
+      "shares_after": 100000.0,
+      "change": 50000.0,
+      "change_pct": 100.0,
+      "value_after": 17793000.0,
+      "value_before": 11879000.0
+    }
+  ],
+  "diff_error": null,
+  "filings": [
+    {
+      "form": "13F-HR",
+      "accession": "0001649339-25-000007",
+      "filed": "2025-11-03",
+      "period": "2025-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001879202-25-000038",
+      "filed": "2025-08-14",
+      "period": "2025-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001879202-25-000025",
+      "filed": "2025-05-15",
+      "period": "2025-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001879202-25-000012",
+      "filed": "2025-02-14",
+      "period": "2024-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000905148-24-003106",
+      "filed": "2024-11-14",
+      "period": "2024-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000905148-24-002196",
+      "filed": "2024-08-14",
+      "period": "2024-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000905148-24-001390",
+      "filed": "2024-05-15",
+      "period": "2024-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR/A",
+      "accession": "0000905148-24-000751",
+      "filed": "2024-02-16",
+      "period": "2023-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000905148-24-000653",
+      "filed": "2024-02-14",
+      "period": "2023-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000905148-23-001400",
+      "filed": "2023-11-14",
+      "period": "2023-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000905148-23-000689",
+      "filed": "2023-08-14",
+      "period": "2023-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000905148-23-000408",
+      "filed": "2023-05-15",
+      "period": "2023-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000905148-23-000213",
+      "filed": "2023-02-14",
+      "period": "2022-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001567619-22-019784",
+      "filed": "2022-11-14",
+      "period": "2022-09-30",
+      "primary": "xslForm13F_X01/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001567619-22-015999",
+      "filed": "2022-08-15",
+      "period": "2022-06-30",
+      "primary": "xslForm13F_X01/primary_doc.xml"
+    }
+  ],
+  "source": "SEC EDGAR"
+}

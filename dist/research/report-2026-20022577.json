@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:08.031772+00:00",
+  "filing": {
+    "doc_id": "20022577",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Timmons",
+    "first": "William R.",
+    "name": "Hon. William R. Timmons IV",
+    "district": "SC04",
+    "year": 2026,
+    "filed": "2026-07-19",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20022577.pdf"
+  },
+  "report": {
+    "name": "Hon. William R. Timmons IV",
+    "status": "Member",
+    "district": "SC04",
+    "doc_id": "20022577",
+    "filed": "2026-07-19",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-06-15",
+        "notified": "2026-06-17",
+        "amount": "$50,001 - $100,000",
+        "status": "New",
+        "account": "SCH Invest",
+        "description": "Stock Ticker not available in system",
+        "ticker": "SPCX",
+        "asset_type": "OT",
+        "asset": "SpaceX",
+        "amount_low": 50001,
+        "amount_high": 100000,
+        "days_to_disclose": 34,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

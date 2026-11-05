@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:09.369469+00:00",
+  "filing": {
+    "doc_id": "20034915",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Wagner",
+    "first": "Ann",
+    "name": "Hon. Ann Wagner",
+    "district": "MO02",
+    "year": 2026,
+    "filed": "2026-07-02",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034915.pdf"
+  },
+  "report": {
+    "name": "Hon. Ann Wagner",
+    "status": "Member",
+    "district": "MO02",
+    "doc_id": "20034915",
+    "filed": "2026-07-02",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-06-22",
+        "notified": "2026-06-23",
+        "amount": "$250,001 - $500,000",
+        "status": "New",
+        "account": "Fidelity Trust",
+        "ticker": null,
+        "asset_type": "HN",
+        "asset": "KKR Private Equity Conglomerate LLC Class I",
+        "amount_low": 250001,
+        "amount_high": 500000,
+        "description": null,
+        "days_to_disclose": 10,
+        "late": false
+      },
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-06-10",
+        "notified": "2026-06-11",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Fidelity Trust",
+        "ticker": null,
+        "asset_type": "HN",
+        "asset": "PARTNERS GROUP PRIVATE EQUITY MASTER FD LLC UNIT CL I",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 22,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

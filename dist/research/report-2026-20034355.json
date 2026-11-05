@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:13.992455+00:00",
+  "filing": {
+    "doc_id": "20034355",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Friedman",
+    "first": "Laura",
+    "name": "Hon. Laura Friedman",
+    "district": "CA30",
+    "year": 2026,
+    "filed": "2026-04-17",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034355.pdf"
+  },
+  "report": {
+    "name": "Hon. Laura Friedman",
+    "status": "Member",
+    "district": "CA30",
+    "doc_id": "20034355",
+    "filed": "2026-04-17",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "E",
+        "type_name": "exchange",
+        "date": "2026-03-24",
+        "notified": "2026-04-03",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Fidelity Brokerage Services, LLC",
+        "description": "Exact Sciences Corp Stock (EXAS) exchanged for Abbot Laboratories (ABT) stock following merger.",
+        "ticker": "ABT",
+        "asset_type": "ST",
+        "asset": "Abbott Laboratories Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 24,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

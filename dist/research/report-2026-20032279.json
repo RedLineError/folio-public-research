@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:16.035886+00:00",
+  "filing": {
+    "doc_id": "20032279",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Scott",
+    "first": "Austin",
+    "name": "Hon. Austin Scott",
+    "district": "GA08",
+    "year": 2026,
+    "filed": "2026-03-12",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20032279.pdf"
+  },
+  "report": {
+    "name": "Hon. Austin Scott",
+    "status": "Member",
+    "district": "GA08",
+    "doc_id": "20032279",
+    "filed": "2026-03-12",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-02-17",
+        "notified": "2026-02-17",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Vivien G Scott IRA",
+        "description": "sale of 33 shares of GE @ $328.035",
+        "ticker": "GE",
+        "asset_type": "ST",
+        "asset": "GE Aerospace Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 23,
+        "late": false
+      },
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-02-17",
+        "notified": "2026-02-17",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Vivien G Scott IRA",
+        "description": "Retirement Account",
+        "ticker": "GEV",
+        "asset_type": "ST",
+        "asset": "GE Vernova Inc. Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 23,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

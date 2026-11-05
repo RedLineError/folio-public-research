@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:17.168487+00:00",
+  "filing": {
+    "doc_id": "20034044",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Bresnahan",
+    "first": "Rob",
+    "name": "Hon. Rob Bresnahan",
+    "district": "PA08",
+    "year": 2026,
+    "filed": "2026-02-22",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034044.pdf"
+  },
+  "report": {
+    "name": "Hon. Rob Bresnahan",
+    "status": "Member",
+    "district": "PA08",
+    "doc_id": "20034044",
+    "filed": "2026-02-22",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-02-03",
+        "notified": "2026-02-09",
+        "amount": "$50,001 - $100,000",
+        "status": "New",
+        "account": "JP Morgan Brokerage Account #4",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "Philadelphia, PA Municipal Bond",
+        "amount_low": 50001,
+        "amount_high": 100000,
+        "description": null,
+        "days_to_disclose": 19,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-02-03",
+        "notified": "2026-02-06",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "US Treasury Note 01/31/27",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 19,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

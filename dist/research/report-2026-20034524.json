@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:12.398899+00:00",
+  "filing": {
+    "doc_id": "20034524",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Bentz",
+    "first": "Cliff",
+    "name": "Hon. Cliff Bentz",
+    "district": "OR02",
+    "year": 2026,
+    "filed": "2026-05-09",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034524.pdf"
+  },
+  "report": {
+    "name": "Hon. Cliff Bentz",
+    "status": "Member",
+    "district": "OR02",
+    "doc_id": "20034524",
+    "filed": "2026-05-09",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-04-09",
+        "notified": "2026-05-04",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Charles Schwab SEP-IRA",
+        "ticker": "INTC",
+        "asset_type": "ST",
+        "asset": "Intel Corporation - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 30,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

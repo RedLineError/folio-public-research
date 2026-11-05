@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:12.438330+00:00",
+  "filing": {
+    "doc_id": "20034375",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Roy",
+    "first": "Chip",
+    "name": "Hon. Chip Roy",
+    "district": "TX21",
+    "year": 2026,
+    "filed": "2026-05-09",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034375.pdf"
+  },
+  "report": {
+    "name": "Hon. Chip Roy",
+    "status": "Member",
+    "district": "TX21",
+    "doc_id": "20034375",
+    "filed": "2026-05-09",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-04-30",
+        "notified": "2026-04-30",
+        "amount": "$5,000,001 - $25,000,000",
+        "status": "New",
+        "account": null,
+        "description": "Spouse awarded RSUs as part of total comp package",
+        "ticker": "AESI",
+        "asset_type": "RS",
+        "asset": "Atlas Energy Solutions Inc. Common Stock",
+        "amount_low": 5000001,
+        "amount_high": 25000000,
+        "days_to_disclose": 9,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

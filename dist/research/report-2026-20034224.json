@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:09.116627+00:00",
+  "filing": {
+    "doc_id": "20034224",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Torres",
+    "first": "Ritchie John",
+    "name": "Hon. Ritchie John Torres",
+    "district": "NY15",
+    "year": 2026,
+    "filed": "2026-07-08",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034224.pdf"
+  },
+  "report": {
+    "name": "Hon. Ritchie John Torres",
+    "status": "Member",
+    "district": "NY15",
+    "doc_id": "20034224",
+    "filed": "2026-07-08",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2025-01-07",
+        "notified": "2025-08-01",
+        "amount": "$1,001 - $15,000",
+        "status": "Amended",
+        "account": null,
+        "ticker": "MCK",
+        "asset_type": "ST",
+        "asset": "2000143044 McKesson Corporation Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 547,
+        "late": true
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

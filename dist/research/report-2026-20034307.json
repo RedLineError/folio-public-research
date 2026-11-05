@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:14.268862+00:00",
+  "filing": {
+    "doc_id": "20034307",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Keating",
+    "first": "William R.",
+    "name": "Hon. William R. Keating",
+    "district": "MA09",
+    "year": 2026,
+    "filed": "2026-04-13",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034307.pdf"
+  },
+  "report": {
+    "name": "Hon. William R. Keating",
+    "status": "Member",
+    "district": "MA09",
+    "doc_id": "20034307",
+    "filed": "2026-04-13",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-03-26",
+        "notified": "2026-04-08",
+        "amount": "$50,001 - $100,000",
+        "status": "New",
+        "account": "Bill's IRA",
+        "description": "912797TK3",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "UNITED STATES TREAS BILLS ZERO CPN 0.00000% 04/28/2026",
+        "amount_low": 50001,
+        "amount_high": 100000,
+        "days_to_disclose": 18,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

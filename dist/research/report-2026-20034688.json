@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:10.080927+00:00",
+  "filing": {
+    "doc_id": "20034688",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Jackson",
+    "first": "Jonathan",
+    "name": "Hon. Jonathan Jackson",
+    "district": "IL01",
+    "year": 2026,
+    "filed": "2026-06-16",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034688.pdf"
+  },
+  "report": {
+    "name": "Hon. Jonathan Jackson",
+    "status": "Member",
+    "district": "IL01",
+    "doc_id": "20034688",
+    "filed": "2026-06-16",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-05-12",
+        "notified": "2026-06-02",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Morgan Stanley Trust Account",
+        "description": "083057",
+        "ticker": "MSFT",
+        "asset_type": "ST",
+        "asset": "Microsoft Corporation - Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 35,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:09.000648+00:00",
+  "filing": {
+    "doc_id": "20034947",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Kelly",
+    "first": "Mike",
+    "name": "Hon. Mike Kelly",
+    "district": "PA16",
+    "year": 2026,
+    "filed": "2026-07-08",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034947.pdf"
+  },
+  "report": {
+    "name": "Hon. Mike Kelly",
+    "status": "Member",
+    "district": "PA16",
+    "doc_id": "20034947",
+    "filed": "2026-07-08",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-06-01",
+        "notified": "2026-07-08",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Victoria Kelly Trust ICA",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "California St Go Call 12/1/27 4% due 12/1/47",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 37,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

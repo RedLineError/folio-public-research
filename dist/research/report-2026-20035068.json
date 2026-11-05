@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:07.795965+00:00",
+  "filing": {
+    "doc_id": "20035068",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Sessions",
+    "first": "Pete",
+    "name": "Hon. Pete Sessions",
+    "district": "TX17",
+    "year": 2026,
+    "filed": "2026-07-24",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035068.pdf"
+  },
+  "report": {
+    "name": "Hon. Pete Sessions",
+    "status": "Member",
+    "district": "TX17",
+    "doc_id": "20035068",
+    "filed": "2026-07-24",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-07-24",
+        "notified": "2026-07-24",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "IRA One",
+        "ticker": "ARCC",
+        "asset_type": "ST",
+        "asset": "Ares Capital Corporation - Closed End Fund",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 0,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

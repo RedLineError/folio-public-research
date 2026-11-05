@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:08.667228+00:00",
+  "filing": {
+    "doc_id": "20034949",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "James",
+    "first": "John",
+    "name": "Hon. John James",
+    "district": "MI10",
+    "year": 2026,
+    "filed": "2026-07-12",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034949.pdf"
+  },
+  "report": {
+    "name": "Hon. John James",
+    "status": "Member",
+    "district": "MI10",
+    "doc_id": "20034949",
+    "filed": "2026-07-12",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-06-12",
+        "notified": "2026-06-12",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": null,
+        "description": "Purchase of SPCX public stock.",
+        "ticker": "SPCX",
+        "asset_type": "OT",
+        "asset": "Space Exploration Technologies Corp.",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 30,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

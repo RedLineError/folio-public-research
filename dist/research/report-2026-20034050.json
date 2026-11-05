@@ -1,0 +1,82 @@
+{
+  "fetched_at": "2026-11-05T00:17:17.041514+00:00",
+  "filing": {
+    "doc_id": "20034050",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Franklin",
+    "first": "Scott Scott",
+    "name": "Hon. Scott Scott Franklin",
+    "district": "FL18",
+    "year": 2026,
+    "filed": "2026-02-23",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034050.pdf"
+  },
+  "report": {
+    "name": "Hon. Scott Scott Franklin",
+    "status": "Member",
+    "district": "FL18",
+    "doc_id": "20034050",
+    "filed": "2026-02-23",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-02-10",
+        "notified": "2026-02-12",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Fidelity Roth IRA",
+        "ticker": "HSY",
+        "asset_type": "ST",
+        "asset": "The Hershey Company Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 13,
+        "late": false
+      },
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-02-10",
+        "notified": "2026-02-12",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Fidelity Roth IRA",
+        "ticker": "HSY",
+        "asset_type": "ST",
+        "asset": "The Hershey Company Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 13,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-02-10",
+        "notified": "2026-02-12",
+        "amount": "$50,001 - $100,000",
+        "status": "New",
+        "account": "Fidelity Traditional IRA",
+        "ticker": "HSY",
+        "asset_type": "ST",
+        "asset": "The Hershey Company Common Stock",
+        "amount_low": 50001,
+        "amount_high": 100000,
+        "description": null,
+        "days_to_disclose": 13,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

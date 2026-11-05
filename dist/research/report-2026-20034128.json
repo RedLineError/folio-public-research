@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:16.540297+00:00",
+  "filing": {
+    "doc_id": "20034128",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Hern",
+    "first": "Kevin",
+    "name": "Hon. Kevin Hern",
+    "district": "OK01",
+    "year": 2026,
+    "filed": "2026-03-06",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034128.pdf"
+  },
+  "report": {
+    "name": "Hon. Kevin Hern",
+    "status": "Member",
+    "district": "OK01",
+    "doc_id": "20034128",
+    "filed": "2026-03-06",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "E",
+        "type_name": "exchange",
+        "date": "2026-02-09",
+        "notified": "2026-03-01",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Hern Family Revocable Trust",
+        "description": "Family Revocable Trust",
+        "ticker": "WAT",
+        "asset_type": "ST",
+        "asset": "Waters Corporation Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 25,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

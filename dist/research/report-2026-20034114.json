@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:15.639120+00:00",
+  "filing": {
+    "doc_id": "20034114",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Dunn",
+    "first": "Neal Patrick MD, Facs",
+    "name": "Hon. Neal Patrick MD, Facs Dunn",
+    "district": "FL02",
+    "year": 2026,
+    "filed": "2026-03-17",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034114.pdf"
+  },
+  "report": {
+    "name": "Hon. Neal Patrick MD, Facs Dunn",
+    "status": "Member",
+    "district": "FL02",
+    "doc_id": "20034114",
+    "filed": "2026-03-17",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "E",
+        "type_name": "exchange",
+        "date": "2026-02-02",
+        "notified": "2026-03-02",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "IRA #3",
+        "description": "Received Huntington Banc Shares Series-L in exchange for asset listed above due to corporate action.",
+        "ticker": null,
+        "asset_type": "ST",
+        "asset": "Cadence Bank 5.50% Series A (CADE$A)",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 43,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "E",
+        "type_name": "exchange",
+        "date": "2026-02-02",
+        "notified": "2026-03-02",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "IRA #3",
+        "description": "Held at Merrill Lynch",
+        "ticker": "HBANZ",
+        "asset_type": "OT",
+        "asset": "Huntington Bancshares Incorporated - Depositary Shares L Preferred Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 43,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

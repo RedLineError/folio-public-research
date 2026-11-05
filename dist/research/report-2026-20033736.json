@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:20.032447+00:00",
+  "filing": {
+    "doc_id": "20033736",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "McClain",
+    "first": "Lisa",
+    "name": "Hon. Lisa McClain",
+    "district": "MI09",
+    "year": 2026,
+    "filed": "2026-01-07",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033736.pdf"
+  },
+  "report": {
+    "name": "Hon. Lisa McClain",
+    "status": "Member",
+    "district": "MI09",
+    "doc_id": "20033736",
+    "filed": "2026-01-07",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2025-12-15",
+        "notified": "2025-12-15",
+        "amount": "$100,001 - $250,000",
+        "status": "New",
+        "account": null,
+        "description": "Purchase of private stock.",
+        "ticker": null,
+        "asset_type": "PS",
+        "asset": "xAI",
+        "amount_low": 100001,
+        "amount_high": 250000,
+        "days_to_disclose": 23,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

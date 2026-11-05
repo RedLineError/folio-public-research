@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:08.600954+00:00",
+  "filing": {
+    "doc_id": "20034984",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Yakym",
+    "first": "Rudy C.",
+    "name": "Hon. Rudy C. Yakym III",
+    "district": "IN02",
+    "year": 2026,
+    "filed": "2026-07-13",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034984.pdf"
+  },
+  "report": {
+    "name": "Hon. Rudy C. Yakym III",
+    "status": "Member",
+    "district": "IN02",
+    "doc_id": "20034984",
+    "filed": "2026-07-13",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-07-13",
+        "notified": "2026-07-13",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Schwab (formerly TD Ameritrade)",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "Treasury Bill (3-Month, Matures 10/15/2026)",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 0,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

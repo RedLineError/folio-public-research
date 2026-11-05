@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:10.873038+00:00",
+  "filing": {
+    "doc_id": "20034702",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Dingell",
+    "first": "Debbie",
+    "name": "Hon. Debbie Dingell",
+    "district": "MI06",
+    "year": 2026,
+    "filed": "2026-06-05",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034702.pdf"
+  },
+  "report": {
+    "name": "Hon. Debbie Dingell",
+    "status": "Member",
+    "district": "MI06",
+    "doc_id": "20034702",
+    "filed": "2026-06-05",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-05-26",
+        "notified": "2026-06-01",
+        "amount": "$50,001 - $100,000",
+        "status": "New",
+        "account": "Morgan Stanley Smith Barney LLC Brokerage Account",
+        "description": "Corporate Bond; Maturity Date - 05/01/2056; Coupon Rate - 5.50% Fixed.",
+        "ticker": null,
+        "asset_type": "CS",
+        "asset": "FEDERAL NATIONAL MORTGAGE ASSOCIATION POOL MA6054",
+        "amount_low": 50001,
+        "amount_high": 100000,
+        "days_to_disclose": 10,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

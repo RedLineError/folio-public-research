@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:20.065102+00:00",
+  "filing": {
+    "doc_id": "20033738",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Lofgren",
+    "first": "Zoe",
+    "name": "Hon. Zoe Lofgren",
+    "district": "CA18",
+    "year": 2026,
+    "filed": "2026-01-06",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033738.pdf"
+  },
+  "report": {
+    "name": "Hon. Zoe Lofgren",
+    "status": "Member",
+    "district": "CA18",
+    "doc_id": "20033738",
+    "filed": "2026-01-06",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2025-12-11",
+        "notified": "2026-01-05",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Collins/Lofgren Family Trust",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "California State Public Works Board Lease Revenue Bonds, Ser. D",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 26,
+        "late": false
+      },
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2025-12-11",
+        "notified": "2026-01-05",
+        "amount": "$100,001 - $250,000",
+        "status": "New",
+        "account": "Collins/Lofgren Family Trust",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "Lynwood Unified School District GO Bonds",
+        "amount_low": 100001,
+        "amount_high": 250000,
+        "description": null,
+        "days_to_disclose": 26,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

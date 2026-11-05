@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:13.712354+00:00",
+  "filing": {
+    "doc_id": "20034368",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Cohen",
+    "first": "Steve",
+    "name": "Hon. Steve Cohen",
+    "district": "TN09",
+    "year": 2026,
+    "filed": "2026-04-28",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034368.pdf"
+  },
+  "report": {
+    "name": "Hon. Steve Cohen",
+    "status": "Member",
+    "district": "TN09",
+    "doc_id": "20034368",
+    "filed": "2026-04-28",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-03-16",
+        "notified": "2026-04-14",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Stephens Advantage Account",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "METROPOLITAN GOVT NA DAVIDSON CNTY TENN HEALTH & ED L FACS BRD 3.750% 03/15/28 B",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 43,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

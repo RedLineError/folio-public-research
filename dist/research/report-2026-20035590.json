@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:04.009324+00:00",
+  "filing": {
+    "doc_id": "20035590",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Gottheimer",
+    "first": "Josh",
+    "name": "Hon. Josh Gottheimer",
+    "district": "NJ05",
+    "year": 2026,
+    "filed": "2026-10-07",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf"
+  },
+  "report": {
+    "name": "Hon. Josh Gottheimer",
+    "status": "Member",
+    "district": "NJ05",
+    "doc_id": "20035590",
+    "filed": "2026-10-07",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-09-15",
+        "notified": "2026-10-06",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Morgan Stanley - Select UMA Account # 1",
+        "ticker": "AMAT",
+        "asset_type": "ST",
+        "asset": "Applied Materials, Inc. - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 22,
+        "late": false
+      },
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-09-25",
+        "notified": "2026-10-06",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Morgan Stanley - Select UMA Account # 1",
+        "ticker": "MCD",
+        "asset_type": "ST",
+        "asset": "McDonald's Corporation Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 12,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

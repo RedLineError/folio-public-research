@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:12.047700+00:00",
+  "filing": {
+    "doc_id": "20034581",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Hoyle",
+    "first": "Valerie",
+    "name": "Hon. Valerie Hoyle",
+    "district": "OR04",
+    "year": 2026,
+    "filed": "2026-05-15",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034581.pdf"
+  },
+  "report": {
+    "name": "Hon. Valerie Hoyle",
+    "status": "Member",
+    "district": "OR04",
+    "doc_id": "20034581",
+    "filed": "2026-05-15",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2025-04-02",
+        "notified": "2025-09-11",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Fidelity Rollover IRA",
+        "description": "Sale inadvertently omitted from PTR filed on 9/12/25. Filer and filer's spouse no longer hold any stocks. All stocks were sold in 2025.",
+        "ticker": "LPLA",
+        "asset_type": "ST",
+        "asset": "LPL Financial Holdings Inc. - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 408,
+        "late": true
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

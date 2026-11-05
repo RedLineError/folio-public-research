@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:17.691036+00:00",
+  "filing": {
+    "doc_id": "20033991",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Kelly",
+    "first": "Mike",
+    "name": "Hon. Mike Kelly",
+    "district": "PA16",
+    "year": 2026,
+    "filed": "2026-02-12",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033991.pdf"
+  },
+  "report": {
+    "name": "Hon. Mike Kelly",
+    "status": "Member",
+    "district": "PA16",
+    "doc_id": "20033991",
+    "filed": "2026-02-12",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-01-02",
+        "notified": "2026-02-12",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Victoria Kelly Trust ICA",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "Florida St Hsg Fin Corp Revenue Social Bon Rev Call 07/01/30 3% due 7/1/52",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 41,
+        "late": false
+      },
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-01-20",
+        "notified": "2026-02-12",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Victoria Kelly Trust ICA",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "N TX Tollway Auth Revenue Second Tie Rev 5% due 1/1/34",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 23,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:07.650130+00:00",
+  "filing": {
+    "doc_id": "20034736",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Liccardo",
+    "first": "Sam T.",
+    "name": "Hon. Sam T. Liccardo",
+    "district": "CA16",
+    "year": 2026,
+    "filed": "2026-07-27",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034736.pdf"
+  },
+  "report": {
+    "name": "Hon. Sam T. Liccardo",
+    "status": "Member",
+    "district": "CA16",
+    "doc_id": "20034736",
+    "filed": "2026-07-27",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-07-21",
+        "notified": "2026-07-22",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Schwab > Schwab Roth IRA -- Sam Liccardo",
+        "description": "100 shares",
+        "ticker": "NVDA",
+        "asset_type": "ST",
+        "asset": "NVIDIA Corporation - Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 6,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

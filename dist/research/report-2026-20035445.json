@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:05.118217+00:00",
+  "filing": {
+    "doc_id": "20035445",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Rose",
+    "first": "John W.",
+    "name": "Hon. John W. Rose",
+    "district": "TN06",
+    "year": 2026,
+    "filed": "2026-09-12",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035445.pdf"
+  },
+  "report": {
+    "name": "Hon. John W. Rose",
+    "status": "Member",
+    "district": "TN06",
+    "doc_id": "20035445",
+    "filed": "2026-09-12",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2025-06-03",
+        "notified": "2025-06-04",
+        "amount": "$500,001 - $1,000,000",
+        "status": "Amended",
+        "account": "Raymond James Brokerage Account",
+        "description": "John Williams Rose Brokerage Account.",
+        "ticker": null,
+        "asset_type": "OT",
+        "asset": "2000140446 American Funds AMCAP Fund Class A M/F [MF}",
+        "amount_low": 500001,
+        "amount_high": 1000000,
+        "days_to_disclose": 466,
+        "late": true
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

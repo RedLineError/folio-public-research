@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:13.633507+00:00",
+  "filing": {
+    "doc_id": "20034416",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Dingell",
+    "first": "Debbie",
+    "name": "Hon. Debbie Dingell",
+    "district": "MI06",
+    "year": 2026,
+    "filed": "2026-04-28",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034416.pdf"
+  },
+  "report": {
+    "name": "Hon. Debbie Dingell",
+    "status": "Member",
+    "district": "MI06",
+    "doc_id": "20034416",
+    "filed": "2026-04-28",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-04-21",
+        "notified": "2026-04-27",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Morgan Stanley Smith Barney LLC IRA",
+        "ticker": "PTA",
+        "asset_type": "ST",
+        "asset": "Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 7,
+        "late": false
+      },
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-04-21",
+        "notified": "2026-04-27",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Morgan Stanley Smith Barney LLC Brokerage Account",
+        "description": "Municipal Bond; Maturity Date - 12/01/2039; Coupon Rate - 4%",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "MICHIGAN ST HSG DEV AUTH SINGLE FAMILY M",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 7,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

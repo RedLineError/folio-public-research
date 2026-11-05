@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:12.149111+00:00",
+  "filing": {
+    "doc_id": "20034563",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Friedman",
+    "first": "Laura",
+    "name": "Hon. Laura Friedman",
+    "district": "CA30",
+    "year": 2026,
+    "filed": "2026-05-14",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034563.pdf"
+  },
+  "report": {
+    "name": "Hon. Laura Friedman",
+    "status": "Member",
+    "district": "CA30",
+    "doc_id": "20034563",
+    "filed": "2026-05-14",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "E",
+        "type_name": "exchange",
+        "date": "2026-04-08",
+        "notified": "2026-05-03",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Fidelity Brokerage Services, LLC",
+        "description": "Exchange of Hologic, Inc. common stock (HOLX) for undetermined amount of non-tradable contingent value right (CVR) to be paid in 2026-27.",
+        "ticker": null,
+        "asset_type": "PS",
+        "asset": "Hologic, Inc.",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 36,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-04-08",
+        "notified": "2026-05-03",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Fidelity Brokerage Services, LLC",
+        "description": "Cash-out payment due to privatization of Hologic, Inc. A non-tradable contingent value right of an undetermined amount is still held within the now-private company.",
+        "ticker": "HOLX",
+        "asset_type": "ST",
+        "asset": "Hologic, Inc. - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 36,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

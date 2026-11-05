@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:16.830273+00:00",
+  "filing": {
+    "doc_id": "20034085",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Beyer",
+    "first": "Donald Sternoff",
+    "name": "Hon. Donald Sternoff Beyer Jr",
+    "district": "VA08",
+    "year": 2026,
+    "filed": "2026-03-01",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034085.pdf"
+  },
+  "report": {
+    "name": "Hon. Donald Sternoff Beyer Jr",
+    "status": "Member",
+    "district": "VA08",
+    "doc_id": "20034085",
+    "filed": "2026-03-01",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-02-19",
+        "notified": "2026-03-01",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Stocks, Bonds, & Mutual Funds",
+        "description": "35,000 units of Arlington County, VA 5.00% 07/01/35",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "Arlington Cnty VA 5.00% 7/01/35",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 10,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

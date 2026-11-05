@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:17.868572+00:00",
+  "filing": {
+    "doc_id": "20033920",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Pfluger",
+    "first": "August Lee",
+    "name": "Hon. August Lee Pfluger II",
+    "district": "TX11",
+    "year": 2026,
+    "filed": "2026-02-11",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033920.pdf"
+  },
+  "report": {
+    "name": "Hon. August Lee Pfluger II",
+    "status": "Member",
+    "district": "TX11",
+    "doc_id": "20033920",
+    "filed": "2026-02-11",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-01-12",
+        "notified": "2026-02-02",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Roth IRA",
+        "ticker": "FNF",
+        "asset_type": "ST",
+        "asset": "Fidelity National Financial, Inc. Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 30,
+        "late": false
+      },
+      {
+        "owner": "DC",
+        "owner_name": "dependent child",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-01-13",
+        "notified": "2026-02-02",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "CP Roth IRA",
+        "ticker": "SIRI",
+        "asset_type": "ST",
+        "asset": "SiriusXM Holdings Inc. - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 29,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

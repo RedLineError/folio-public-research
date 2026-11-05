@@ -1,0 +1,629 @@
+{
+  "fetched_at": "2026-11-05T00:17:33.148281+00:00",
+  "meta": {
+    "filer": "ICAHN CARL C",
+    "cik": "0000921669",
+    "period": "2026-06-30",
+    "filed": "2026-08-14",
+    "accession": "0001539497-26-002243",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/921669/000153949726002243/infotable.xml",
+    "notes": [],
+    "cover_total": 8264090525.0,
+    "total_check": "Matches the cover page total."
+  },
+  "prior": {
+    "filer": "ICAHN CARL C",
+    "cik": "0000921669",
+    "period": "2026-03-31",
+    "filed": "2026-05-15",
+    "accession": "0001539497-26-001469",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/921669/000153949726001469/infotable.xml",
+    "notes": [],
+    "cover_total": 8553640766.0
+  },
+  "total": 8264090525.0,
+  "positions": [
+    {
+      "issuer": "Icahn Enterprises LP",
+      "title": "DEPOSITARY UNIT",
+      "cusip": "451100101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 4458616003.0,
+      "shares": 618393343.0,
+      "rows": 5,
+      "pct_of_13f": 53.95,
+      "cusips": [
+        "451100101"
+      ],
+      "issuer_cik": "0000813762",
+      "ticker": "IEP",
+      "ticker_source": "name-prefix",
+      "ticker_check": true,
+      "name": "Icahn Enterprises",
+      "tickers": [
+        "IEP"
+      ],
+      "classes": [
+        "DEPOSITARY UNIT"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "CVR Energy Inc",
+      "title": "COM",
+      "cusip": "12662P108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1960899637.0,
+      "shares": 71201875.0,
+      "rows": 2,
+      "pct_of_13f": 23.73,
+      "cusips": [
+        "12662P108"
+      ],
+      "issuer_cik": "0001376139",
+      "ticker": "CVI",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Cvr Energy",
+      "tickers": [
+        "CVI"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "CVR Partners, LP",
+      "title": "COM",
+      "cusip": "126633205",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 464233266.0,
+      "shares": 4164274.0,
+      "rows": 2,
+      "pct_of_13f": 5.62,
+      "cusips": [
+        "126633205"
+      ],
+      "issuer_cik": "0001425292",
+      "ticker": "UAN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Cvr Partners, Lp",
+      "tickers": [
+        "UAN"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Centuri Holdings, Inc.",
+      "title": "COM SHS",
+      "cusip": "155923105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 433521971.0,
+      "shares": 14336044.0,
+      "rows": 1,
+      "pct_of_13f": 5.25,
+      "cusips": [
+        "155923105"
+      ],
+      "issuer_cik": "0001981599",
+      "ticker": "CTRI",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Centuri Holdings",
+      "tickers": [
+        "CTRI"
+      ],
+      "classes": [
+        "COM SHS"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "International Flavors and Fragrances Inc.",
+      "title": "COM",
+      "cusip": "459506101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 338665500.0,
+      "shares": 4275000.0,
+      "rows": 1,
+      "pct_of_13f": 4.1,
+      "cusips": [
+        "459506101"
+      ],
+      "issuer_cik": "0000051253",
+      "ticker": "IFF",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "International Flavors & Fragrances",
+      "tickers": [
+        "IFF"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "EchoStar Corporation",
+      "title": "CL A",
+      "cusip": "278768106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 142561013.0,
+      "shares": 1404542.0,
+      "rows": 1,
+      "pct_of_13f": 1.73,
+      "cusips": [
+        "278768106"
+      ],
+      "issuer_cik": "0001415404",
+      "ticker": "ECHO",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "EchoStar",
+      "tickers": [
+        "ECHO"
+      ],
+      "classes": [
+        "CL A"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "JetBlue Airways Corp.",
+      "title": "COM",
+      "cusip": "477143101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 118371366.0,
+      "shares": 20658179.0,
+      "rows": 1,
+      "pct_of_13f": 1.43,
+      "cusips": [
+        "477143101"
+      ],
+      "issuer_cik": "0001158463",
+      "ticker": "JBLU",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Jetblue Airways",
+      "tickers": [
+        "JBLU"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Monro, Inc.",
+      "title": "COM",
+      "cusip": "610236101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 86894384.0,
+      "shares": 5078573.0,
+      "rows": 1,
+      "pct_of_13f": 1.05,
+      "cusips": [
+        "610236101"
+      ],
+      "issuer_cik": "0000876427",
+      "ticker": "MNRO",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Monro",
+      "tickers": [
+        "MNRO"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Caesars Entertainment, Inc.",
+      "title": "COM",
+      "cusip": "12769G100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 73642490.0,
+      "shares": 2440109.0,
+      "rows": 1,
+      "pct_of_13f": 0.89,
+      "cusips": [
+        "12769G100"
+      ],
+      "issuer_cik": "0001590895",
+      "ticker": "CZR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Caesars Entertainment",
+      "tickers": [
+        "CZR"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "SandRidge Energy, Inc.",
+      "title": "COM NEW",
+      "cusip": "80007P869",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 69252220.0,
+      "shares": 5054907.0,
+      "rows": 1,
+      "pct_of_13f": 0.84,
+      "cusips": [
+        "80007P869"
+      ],
+      "issuer_cik": "0001349436",
+      "ticker": "SD",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Sandridge Energy",
+      "tickers": [
+        "SD"
+      ],
+      "classes": [
+        "COM NEW"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "American Electric Power Company",
+      "title": "COM",
+      "cusip": "025537101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 59472675.0,
+      "shares": 434710.0,
+      "rows": 1,
+      "pct_of_13f": 0.72,
+      "cusips": [
+        "025537101"
+      ],
+      "issuer_cik": "0000004904",
+      "ticker": "AEP",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "American Electric Power",
+      "tickers": [
+        "AEP"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Bausch Plus Lomb Corp.",
+      "title": "COMMON SHARES",
+      "cusip": "071705107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 57960000.0,
+      "shares": 3500000.0,
+      "rows": 1,
+      "pct_of_13f": 0.7,
+      "cusips": [
+        "071705107"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Bausch Plus Lomb",
+      "tickers": [],
+      "classes": [
+        "COMMON SHARES"
+      ],
+      "copy_eligible": false
+    }
+  ],
+  "changes": [
+    {
+      "status": "ADDED",
+      "issuer": "Icahn Enterprises LP",
+      "title": "DEPOSITARY UNIT",
+      "cusip": "451100101",
+      "ticker": "IEP",
+      "put_call": "",
+      "shares_before": 549400539.0,
+      "shares_after": 618393343.0,
+      "change": 68992804.0,
+      "change_pct": 12.6,
+      "value_after": 4458616003.0,
+      "value_before": 4147974070.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "SandRidge Energy, Inc.",
+      "title": "COM NEW",
+      "cusip": "80007P869",
+      "ticker": "SD",
+      "put_call": "",
+      "shares_before": 4947701.0,
+      "shares_after": 5054907.0,
+      "change": 107206.0,
+      "change_pct": 2.2,
+      "value_after": 69252220.0,
+      "value_before": 80697003.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "American Electric Power Company",
+      "title": "COM",
+      "cusip": "025537101",
+      "ticker": "AEP",
+      "put_call": "",
+      "shares_before": 1205300.0,
+      "shares_after": 434710.0,
+      "change": -770590.0,
+      "change_pct": -63.9,
+      "value_after": 59472675.0,
+      "value_before": 157990724.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "JetBlue Airways Corp.",
+      "title": "COM",
+      "cusip": "477143101",
+      "ticker": "JBLU",
+      "put_call": "",
+      "shares_before": 33621735.0,
+      "shares_after": 20658179.0,
+      "change": -12963556.0,
+      "change_pct": -38.6,
+      "value_after": 118371366.0,
+      "value_before": 148608069.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "CVR Energy Inc",
+      "title": "COM",
+      "cusip": "12662P108",
+      "ticker": "CVI",
+      "put_call": "",
+      "shares_before": 71201875.0,
+      "shares_after": 71201875.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 1960899637.0,
+      "value_before": 2395943093.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "CVR Partners, LP",
+      "title": "COM",
+      "cusip": "126633205",
+      "ticker": "UAN",
+      "put_call": "",
+      "shares_before": 4164274.0,
+      "shares_after": 4164274.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 464233266.0,
+      "value_before": 527488588.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "Centuri Holdings, Inc.",
+      "title": "COM SHS",
+      "cusip": "155923105",
+      "ticker": "CTRI",
+      "put_call": "",
+      "shares_before": 14336044.0,
+      "shares_after": 14336044.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 433521971.0,
+      "value_before": 418755845.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "International Flavors and Fragrances Inc.",
+      "title": "COM",
+      "cusip": "459506101",
+      "ticker": "IFF",
+      "put_call": "",
+      "shares_before": 4275000.0,
+      "shares_after": 4275000.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 338665500.0,
+      "value_before": 310151250.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "EchoStar Corporation",
+      "title": "CL A",
+      "cusip": "278768106",
+      "ticker": "ECHO",
+      "put_call": "",
+      "shares_before": 1404542.0,
+      "shares_after": 1404542.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 142561013.0,
+      "value_before": 164429732.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "Monro, Inc.",
+      "title": "COM",
+      "cusip": "610236101",
+      "ticker": "MNRO",
+      "put_call": "",
+      "shares_before": 5078573.0,
+      "shares_after": 5078573.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 86894384.0,
+      "value_before": 81460311.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "Caesars Entertainment, Inc.",
+      "title": "COM",
+      "cusip": "12769G100",
+      "ticker": "CZR",
+      "put_call": "",
+      "shares_before": 2440109.0,
+      "shares_after": 2440109.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 73642490.0,
+      "value_before": 64492081.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "Bausch Plus Lomb Corp.",
+      "title": "COMMON SHARES",
+      "cusip": "071705107",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 3500000.0,
+      "shares_after": 3500000.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 57960000.0,
+      "value_before": 55650000.0
+    }
+  ],
+  "diff_error": null,
+  "filings": [
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-26-002243",
+      "filed": "2026-08-14",
+      "period": "2026-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-26-001469",
+      "filed": "2026-05-15",
+      "period": "2026-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-26-000679",
+      "filed": "2026-02-17",
+      "period": "2025-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-25-002973",
+      "filed": "2025-11-14",
+      "period": "2025-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-25-002145",
+      "filed": "2025-08-14",
+      "period": "2025-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-25-001390",
+      "filed": "2025-05-15",
+      "period": "2025-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-25-000660",
+      "filed": "2025-02-14",
+      "period": "2024-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-24-002435",
+      "filed": "2024-11-14",
+      "period": "2024-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-24-001704",
+      "filed": "2024-08-14",
+      "period": "2024-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-24-001052",
+      "filed": "2024-05-15",
+      "period": "2024-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-24-000494",
+      "filed": "2024-02-14",
+      "period": "2023-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-23-001928",
+      "filed": "2023-11-14",
+      "period": "2023-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-23-001450",
+      "filed": "2023-08-14",
+      "period": "2023-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-23-000903",
+      "filed": "2023-05-15",
+      "period": "2023-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-23-000294",
+      "filed": "2023-02-14",
+      "period": "2022-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    }
+  ],
+  "source": "SEC EDGAR"
+}

@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:08.699610+00:00",
+  "filing": {
+    "doc_id": "20034916",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Wittman",
+    "first": "Robert J.",
+    "name": "Hon. Robert J. Wittman",
+    "district": "VA01",
+    "year": 2026,
+    "filed": "2026-07-10",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034916.pdf"
+  },
+  "report": {
+    "name": "Hon. Robert J. Wittman",
+    "status": "Member",
+    "district": "VA01",
+    "doc_id": "20034916",
+    "filed": "2026-07-10",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-06-30",
+        "notified": "2026-07-02",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Morgan Stanley",
+        "ticker": "CCI",
+        "asset_type": "ST",
+        "asset": "Crown Castle Inc. Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 10,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

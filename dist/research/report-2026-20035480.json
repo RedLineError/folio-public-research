@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:04.866838+00:00",
+  "filing": {
+    "doc_id": "20035480",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Sessions",
+    "first": "Pete",
+    "name": "Hon. Pete Sessions",
+    "district": "TX17",
+    "year": 2026,
+    "filed": "2026-09-18",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf"
+  },
+  "report": {
+    "name": "Hon. Pete Sessions",
+    "status": "Member",
+    "district": "TX17",
+    "doc_id": "20035480",
+    "filed": "2026-09-18",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-09-14",
+        "notified": "2026-09-18",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "ET IRA",
+        "ticker": "ABBV",
+        "asset_type": "ST",
+        "asset": "AbbVie Inc. Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 4,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-09-14",
+        "notified": "2026-09-18",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "ET Invest",
+        "ticker": "GOOGL",
+        "asset_type": "ST",
+        "asset": "Alphabet Inc. - Class A Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 4,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

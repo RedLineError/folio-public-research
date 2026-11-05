@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:10.466110+00:00",
+  "filing": {
+    "doc_id": "20034747",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Suozzi",
+    "first": "Thomas",
+    "name": "Hon. Thomas Suozzi",
+    "district": "NY03",
+    "year": 2026,
+    "filed": "2026-06-09",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034747.pdf"
+  },
+  "report": {
+    "name": "Hon. Thomas Suozzi",
+    "status": "Member",
+    "district": "NY03",
+    "doc_id": "20034747",
+    "filed": "2026-06-09",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-05-08",
+        "notified": "2026-06-02",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "National Securities- Advisor Discretion Account",
+        "description": "Mutual Fund- 100% US Treasury Fund",
+        "ticker": null,
+        "asset_type": "OT",
+        "asset": "American US govt money market fund",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 32,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

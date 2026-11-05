@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:14.183282+00:00",
+  "filing": {
+    "doc_id": "20034345",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Steube",
+    "first": "Greg",
+    "name": "Hon. Greg Steube",
+    "district": "FL17",
+    "year": 2026,
+    "filed": "2026-04-14",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034345.pdf"
+  },
+  "report": {
+    "name": "Hon. Greg Steube",
+    "status": "Member",
+    "district": "FL17",
+    "doc_id": "20034345",
+    "filed": "2026-04-14",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-03-18",
+        "notified": "2026-04-14",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "IRA",
+        "ticker": "IONQ",
+        "asset_type": "ST",
+        "asset": "IonQ, Inc. Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 27,
+        "late": false
+      },
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-04-08",
+        "notified": "2026-04-14",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "INVESTMENT",
+        "description": "Corporate Bond",
+        "ticker": null,
+        "asset_type": "CS",
+        "asset": "MARRIOTT INTL INC NEW SER LL NOTE 5.45000% 09/15/2026 (571903BM4)",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 6,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

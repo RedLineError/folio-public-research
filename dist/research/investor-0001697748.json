@@ -1,0 +1,7895 @@
+{
+  "fetched_at": "2026-11-05T00:17:23.749860+00:00",
+  "meta": {
+    "filer": "ARK Investment Management LLC",
+    "cik": "0001697748",
+    "period": "2026-06-30",
+    "filed": "2026-08-14",
+    "accession": "0001104659-26-096910",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1697748/000110465926096910/infotable.xml",
+    "notes": [],
+    "cover_total": 15402788184.0,
+    "total_check": "Matches the cover page total."
+  },
+  "prior": {
+    "filer": "ARK Investment Management LLC",
+    "cik": "0001697748",
+    "period": "2026-03-31",
+    "filed": "2026-05-12",
+    "accession": "0001104659-26-059240",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1697748/000110465926059240/infotable.xml",
+    "notes": [],
+    "cover_total": 12859485476.0
+  },
+  "total": 15402788184.0,
+  "positions": [
+    {
+      "issuer": "Tesla Inc",
+      "title": "Common Stock",
+      "cusip": "88160R101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1160772073.0,
+      "shares": 2759800.0,
+      "rows": 1,
+      "pct_of_13f": 7.54,
+      "cusips": [
+        "88160R101"
+      ],
+      "issuer_cik": "0001318605",
+      "ticker": "TSLA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Tesla",
+      "tickers": [
+        "TSLA"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Advanced Micro Devices Inc",
+      "title": "Common Stock",
+      "cusip": "007903107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 822826048.0,
+      "shares": 1416443.0,
+      "rows": 1,
+      "pct_of_13f": 5.34,
+      "cusips": [
+        "007903107"
+      ],
+      "issuer_cik": "0000002488",
+      "ticker": "AMD",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Advanced Micro Devices",
+      "tickers": [
+        "AMD"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Space Exploration Technologies Corp",
+      "title": "Common Stock",
+      "cusip": "84615Q103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 765113281.0,
+      "shares": 4478013.0,
+      "rows": 1,
+      "pct_of_13f": 4.97,
+      "cusips": [
+        "84615Q103"
+      ],
+      "issuer_cik": "0001181412",
+      "ticker": "SPCX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Space Exploration Technologies",
+      "tickers": [
+        "SPCX"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Tempus AI Inc",
+      "title": "Common Stock",
+      "cusip": "88023B103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 580611200.0,
+      "shares": 10022634.0,
+      "rows": 1,
+      "pct_of_13f": 3.77,
+      "cusips": [
+        "88023B103"
+      ],
+      "issuer_cik": "0001717115",
+      "ticker": "TEM",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Tempus AI",
+      "tickers": [
+        "TEM"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Robinhood Markets Inc",
+      "title": "Common Stock",
+      "cusip": "770700102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 525069168.0,
+      "shares": 5236031.0,
+      "rows": 1,
+      "pct_of_13f": 3.41,
+      "cusips": [
+        "770700102"
+      ],
+      "issuer_cik": "0001783879",
+      "ticker": "HOOD",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Robinhood Markets",
+      "tickers": [
+        "HOOD"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "CRISPR Therapeutics AG",
+      "title": "Common Stock",
+      "cusip": "H17182108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 515999631.0,
+      "shares": 9460939.0,
+      "rows": 1,
+      "pct_of_13f": 3.35,
+      "cusips": [
+        "H17182108"
+      ],
+      "issuer_cik": "0001674416",
+      "ticker": "CRSP",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "CRISPR Therapeutics AG",
+      "tickers": [
+        "CRSP"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Shopify Inc",
+      "title": "Common Stock",
+      "cusip": "82509L107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 474523465.0,
+      "shares": 4155925.0,
+      "rows": 1,
+      "pct_of_13f": 3.08,
+      "cusips": [
+        "82509L107"
+      ],
+      "issuer_cik": "0001594805",
+      "ticker": "SHOP",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Shopify",
+      "tickers": [
+        "SHOP"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Twist Bioscience Corp",
+      "title": "Common Stock",
+      "cusip": "90184D100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 468083756.0,
+      "shares": 4549803.0,
+      "rows": 1,
+      "pct_of_13f": 3.04,
+      "cusips": [
+        "90184D100"
+      ],
+      "issuer_cik": "0001581280",
+      "ticker": "TWST",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Twist Bioscience",
+      "tickers": [
+        "TWST"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Alphabet Inc",
+      "title": "Common Stock",
+      "cusip": "02079K107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 418716711.0,
+      "shares": 1183456.0,
+      "rows": 2,
+      "pct_of_13f": 2.72,
+      "cusips": [
+        "02079K107",
+        "02079K305"
+      ],
+      "issuer_cik": "0001652044",
+      "ticker": "GOOG",
+      "ticker_source": "override",
+      "ticker_check": false,
+      "name": "Alphabet",
+      "tickers": [
+        "GOOG",
+        "GOOGL"
+      ],
+      "classes": [
+        "Common Stock",
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "10X Genomics Inc",
+      "title": "Common Stock",
+      "cusip": "88025U109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 383517223.0,
+      "shares": 10003057.0,
+      "rows": 1,
+      "pct_of_13f": 2.49,
+      "cusips": [
+        "88025U109"
+      ],
+      "issuer_cik": "0001770787",
+      "ticker": "TXG",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "10x Genomics",
+      "tickers": [
+        "TXG"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Amazon.com Inc",
+      "title": "Common Stock",
+      "cusip": "023135106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 379241133.0,
+      "shares": 1591177.0,
+      "rows": 1,
+      "pct_of_13f": 2.46,
+      "cusips": [
+        "023135106"
+      ],
+      "issuer_cik": "0001018724",
+      "ticker": "AMZN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Amazon Com",
+      "tickers": [
+        "AMZN"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Palantir Technologies Inc",
+      "title": "Common Stock",
+      "cusip": "69608A108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 374777381.0,
+      "shares": 3212286.0,
+      "rows": 1,
+      "pct_of_13f": 2.43,
+      "cusips": [
+        "69608A108"
+      ],
+      "issuer_cik": "0001321655",
+      "ticker": "PLTR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Palantir Technologies",
+      "tickers": [
+        "PLTR"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Coinbase Global Inc",
+      "title": "Common Stock",
+      "cusip": "19260Q107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 367129713.0,
+      "shares": 2511319.0,
+      "rows": 1,
+      "pct_of_13f": 2.38,
+      "cusips": [
+        "19260Q107"
+      ],
+      "issuer_cik": "0001679788",
+      "ticker": "COIN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Coinbase Global",
+      "tickers": [
+        "COIN"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "ROBLOX Corp",
+      "title": "Common Stock",
+      "cusip": "771049103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 351615103.0,
+      "shares": 6465890.0,
+      "rows": 1,
+      "pct_of_13f": 2.28,
+      "cusips": [
+        "771049103"
+      ],
+      "issuer_cik": "0001315098",
+      "ticker": "RBLX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Roblox",
+      "tickers": [
+        "RBLX"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Beam Therapeutics Inc",
+      "title": "Common Stock",
+      "cusip": "07373V105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 351260447.0,
+      "shares": 10234862.0,
+      "rows": 1,
+      "pct_of_13f": 2.28,
+      "cusips": [
+        "07373V105"
+      ],
+      "issuer_cik": "0001745999",
+      "ticker": "BEAM",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Beam Therapeutics",
+      "tickers": [
+        "BEAM"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Teradyne Inc",
+      "title": "Common Stock",
+      "cusip": "880770102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 311971420.0,
+      "shares": 644782.0,
+      "rows": 1,
+      "pct_of_13f": 2.03,
+      "cusips": [
+        "880770102"
+      ],
+      "issuer_cik": "0000097210",
+      "ticker": "TER",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Teradyne",
+      "tickers": [
+        "TER"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Intellia Therapeutics Inc",
+      "title": "Common Stock",
+      "cusip": "45826J105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 285536575.0,
+      "shares": 16875684.0,
+      "rows": 1,
+      "pct_of_13f": 1.85,
+      "cusips": [
+        "45826J105"
+      ],
+      "issuer_cik": "0001652130",
+      "ticker": "NTLA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Intellia Therapeutics",
+      "tickers": [
+        "NTLA"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Circle Internet Group Inc",
+      "title": "Common Stock",
+      "cusip": "172573107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 285477674.0,
+      "shares": 4558162.0,
+      "rows": 1,
+      "pct_of_13f": 1.85,
+      "cusips": [
+        "172573107"
+      ],
+      "issuer_cik": "0001876042",
+      "ticker": "CRCL",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Circle Internet Group",
+      "tickers": [
+        "CRCL"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "NVIDIA Corp",
+      "title": "Common Stock",
+      "cusip": "67066G104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 276373746.0,
+      "shares": 1381247.0,
+      "rows": 1,
+      "pct_of_13f": 1.79,
+      "cusips": [
+        "67066G104"
+      ],
+      "issuer_cik": "0001045810",
+      "ticker": "NVDA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Nvidia",
+      "tickers": [
+        "NVDA"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "CoreWeave Inc",
+      "title": "Common Stock",
+      "cusip": "21873S108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 264496911.0,
+      "shares": 2657192.0,
+      "rows": 1,
+      "pct_of_13f": 1.72,
+      "cusips": [
+        "21873S108"
+      ],
+      "issuer_cik": "0001769628",
+      "ticker": "CRWV",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "CoreWeave",
+      "tickers": [
+        "CRWV"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Deere & Co",
+      "title": "Common Stock",
+      "cusip": "244199105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 249307586.0,
+      "shares": 393025.0,
+      "rows": 1,
+      "pct_of_13f": 1.62,
+      "cusips": [
+        "244199105"
+      ],
+      "issuer_cik": "0000315189",
+      "ticker": "DE",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Deere &",
+      "tickers": [
+        "DE"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Block Inc",
+      "title": "Common Stock",
+      "cusip": "852234103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 235445950.0,
+      "shares": 3097973.0,
+      "rows": 1,
+      "pct_of_13f": 1.53,
+      "cusips": [
+        "852234103"
+      ],
+      "issuer_cik": "0001512673",
+      "ticker": "XYZ",
+      "ticker_source": "name",
+      "ticker_check": true,
+      "name": "Block",
+      "tickers": [
+        "XYZ"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Kratos Defense & Security Solutions Inc.",
+      "title": "Common Stock",
+      "cusip": "50077B207",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 232974116.0,
+      "shares": 4672566.0,
+      "rows": 1,
+      "pct_of_13f": 1.51,
+      "cusips": [
+        "50077B207"
+      ],
+      "issuer_cik": "0001069258",
+      "ticker": "KTOS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Kratos Defense & Security Solutions",
+      "tickers": [
+        "KTOS"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Taiwan Semiconductor Manufacturing Company Ltd",
+      "title": "ADR",
+      "cusip": "874039100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 230325325.0,
+      "shares": 482286.0,
+      "rows": 1,
+      "pct_of_13f": 1.5,
+      "cusips": [
+        "874039100"
+      ],
+      "issuer_cik": "0001046179",
+      "ticker": "TSM",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Taiwan Semiconductor Manufacturing",
+      "tickers": [
+        "TSM"
+      ],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Natera Inc",
+      "title": "Common Stock",
+      "cusip": "632307104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 186989592.0,
+      "shares": 688855.0,
+      "rows": 1,
+      "pct_of_13f": 1.21,
+      "cusips": [
+        "632307104"
+      ],
+      "issuer_cik": "0001604821",
+      "ticker": "NTRA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Natera",
+      "tickers": [
+        "NTRA"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Illumina Inc",
+      "title": "Common Stock",
+      "cusip": "452327109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 183744158.0,
+      "shares": 1045010.0,
+      "rows": 1,
+      "pct_of_13f": 1.19,
+      "cusips": [
+        "452327109"
+      ],
+      "issuer_cik": "0001110803",
+      "ticker": "ILMN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Illumina",
+      "tickers": [
+        "ILMN"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Cerebras Systems Inc",
+      "title": "Common Stock",
+      "cusip": "15675D103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 168979473.0,
+      "shares": 764613.0,
+      "rows": 1,
+      "pct_of_13f": 1.1,
+      "cusips": [
+        "15675D103"
+      ],
+      "issuer_cik": "0002021728",
+      "ticker": "CBRS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Cerebras Systems",
+      "tickers": [
+        "CBRS"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Rocket Lab Corp",
+      "title": "Common Stock",
+      "cusip": "773121108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 165812192.0,
+      "shares": 1631207.0,
+      "rows": 1,
+      "pct_of_13f": 1.08,
+      "cusips": [
+        "773121108"
+      ],
+      "issuer_cik": "0001819994",
+      "ticker": "RKLB",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Rocket Lab",
+      "tickers": [
+        "RKLB"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Bullish",
+      "title": "Common Stock",
+      "cusip": "G16910120",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 158063147.0,
+      "shares": 6746186.0,
+      "rows": 1,
+      "pct_of_13f": 1.03,
+      "cusips": [
+        "G16910120"
+      ],
+      "issuer_cik": "0001872195",
+      "ticker": "BLSH",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Bullish",
+      "tickers": [
+        "BLSH"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Broadcom Inc",
+      "title": "Common Stock",
+      "cusip": "11135F101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 153820556.0,
+      "shares": 407202.0,
+      "rows": 1,
+      "pct_of_13f": 1.0,
+      "cusips": [
+        "11135F101"
+      ],
+      "issuer_cik": "0001730168",
+      "ticker": "AVGO",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Broadcom",
+      "tickers": [
+        "AVGO"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Recursion Pharmaceuticals Inc",
+      "title": "Common Stock",
+      "cusip": "75629V104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 151709111.0,
+      "shares": 41337632.0,
+      "rows": 1,
+      "pct_of_13f": 0.98,
+      "cusips": [
+        "75629V104"
+      ],
+      "issuer_cik": "0001601830",
+      "ticker": "RXRX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Recursion Pharmaceuticals",
+      "tickers": [
+        "RXRX"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Archer Aviation Inc",
+      "title": "Common Stock",
+      "cusip": "03945R102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 151189352.0,
+      "shares": 31963922.0,
+      "rows": 1,
+      "pct_of_13f": 0.98,
+      "cusips": [
+        "03945R102"
+      ],
+      "issuer_cik": "0001824502",
+      "ticker": "ACHR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Archer Aviation",
+      "tickers": [
+        "ACHR"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Absci Corp",
+      "title": "Common Stock",
+      "cusip": "00091E109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 149803896.0,
+      "shares": 12925271.0,
+      "rows": 1,
+      "pct_of_13f": 0.97,
+      "cusips": [
+        "00091E109"
+      ],
+      "issuer_cik": "0001672688",
+      "ticker": "ABSI",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Absci",
+      "tickers": [
+        "ABSI"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Veracyte Inc",
+      "title": "Common Stock",
+      "cusip": "92337F107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 134841222.0,
+      "shares": 2295951.0,
+      "rows": 1,
+      "pct_of_13f": 0.88,
+      "cusips": [
+        "92337F107"
+      ],
+      "issuer_cik": "0001384101",
+      "ticker": "VCYT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Veracyte",
+      "tickers": [
+        "VCYT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Meta Platforms Inc",
+      "title": "Common Stock",
+      "cusip": "30303M102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 134610910.0,
+      "shares": 238973.0,
+      "rows": 1,
+      "pct_of_13f": 0.87,
+      "cusips": [
+        "30303M102"
+      ],
+      "issuer_cik": "0001326801",
+      "ticker": "META",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Meta Platforms",
+      "tickers": [
+        "META"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "ARK 21Shares Bitcoin ETF",
+      "title": "ETP",
+      "cusip": "040919102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 125605835.0,
+      "shares": 6454565.0,
+      "rows": 1,
+      "pct_of_13f": 0.82,
+      "cusips": [
+        "040919102"
+      ],
+      "issuer_cik": "0001869699",
+      "ticker": "ARKB",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Ark 21Shares Bitcoin ETF",
+      "tickers": [
+        "ARKB"
+      ],
+      "classes": [
+        "ETP"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "L3Harris Technologies Inc",
+      "title": "Common Stock",
+      "cusip": "502431109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 125296306.0,
+      "shares": 431179.0,
+      "rows": 1,
+      "pct_of_13f": 0.81,
+      "cusips": [
+        "502431109"
+      ],
+      "issuer_cik": "0000202058",
+      "ticker": "LHX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "L3harris Technologies",
+      "tickers": [
+        "LHX"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "BitMine Immersion Technologies",
+      "title": "Common Stock",
+      "cusip": "09175A206",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 117282236.0,
+      "shares": 8811588.0,
+      "rows": 1,
+      "pct_of_13f": 0.76,
+      "cusips": [
+        "09175A206"
+      ],
+      "issuer_cik": "0001829311",
+      "ticker": "BMNR",
+      "ticker_source": "name",
+      "ticker_check": true,
+      "name": "Bitmine Immersion Technologies",
+      "tickers": [
+        "BMNR"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Personalis Inc",
+      "title": "Common Stock",
+      "cusip": "71535D106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 110835941.0,
+      "shares": 8271339.0,
+      "rows": 1,
+      "pct_of_13f": 0.72,
+      "cusips": [
+        "71535D106"
+      ],
+      "issuer_cik": "0001527753",
+      "ticker": "PSNL",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Personalis",
+      "tickers": [
+        "PSNL"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "GeneDx Holdings Corp",
+      "title": "Common Stock",
+      "cusip": "81663L200",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 110539494.0,
+      "shares": 1610189.0,
+      "rows": 1,
+      "pct_of_13f": 0.72,
+      "cusips": [
+        "81663L200"
+      ],
+      "issuer_cik": "0001818331",
+      "ticker": "WGS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "GeneDx Holdings",
+      "tickers": [
+        "WGS"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "BWX Technologies Inc",
+      "title": "Common Stock",
+      "cusip": "05605H100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 107034337.0,
+      "shares": 549881.0,
+      "rows": 1,
+      "pct_of_13f": 0.69,
+      "cusips": [
+        "05605H100"
+      ],
+      "issuer_cik": "0001486957",
+      "ticker": "BWXT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "BWX Technologies",
+      "tickers": [
+        "BWXT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "AeroVironment Inc",
+      "title": "Common Stock",
+      "cusip": "008073108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 100280355.0,
+      "shares": 607502.0,
+      "rows": 1,
+      "pct_of_13f": 0.65,
+      "cusips": [
+        "008073108"
+      ],
+      "issuer_cik": "0001368622",
+      "ticker": "AVAV",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "AeroVironment",
+      "tickers": [
+        "AVAV"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "X-Energy Inc",
+      "title": "Common Stock",
+      "cusip": "98386P102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 99361493.0,
+      "shares": 5411846.0,
+      "rows": 1,
+      "pct_of_13f": 0.65,
+      "cusips": [
+        "98386P102"
+      ],
+      "issuer_cik": "0002088896",
+      "ticker": "XE",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "X-Energy",
+      "tickers": [
+        "XE"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Eli Lilly & Co",
+      "title": "Common Stock",
+      "cusip": "532457108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 92660897.0,
+      "shares": 77254.0,
+      "rows": 1,
+      "pct_of_13f": 0.6,
+      "cusips": [
+        "532457108"
+      ],
+      "issuer_cik": "0000059478",
+      "ticker": "LLY",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Eli Lilly &",
+      "tickers": [
+        "LLY"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Roku Inc",
+      "title": "Common Stock",
+      "cusip": "77543R102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 82314834.0,
+      "shares": 595880.0,
+      "rows": 1,
+      "pct_of_13f": 0.53,
+      "cusips": [
+        "77543R102"
+      ],
+      "issuer_cik": "0001428439",
+      "ticker": "ROKU",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Roku",
+      "tickers": [
+        "ROKU"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Guardant Health Inc",
+      "title": "Common Stock",
+      "cusip": "40131M109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 75977634.0,
+      "shares": 506416.0,
+      "rows": 1,
+      "pct_of_13f": 0.49,
+      "cusips": [
+        "40131M109"
+      ],
+      "issuer_cik": "0001576280",
+      "ticker": "GH",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Guardant Health",
+      "tickers": [
+        "GH"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "DoorDash Inc",
+      "title": "Common Stock",
+      "cusip": "25809K105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 70147050.0,
+      "shares": 380139.0,
+      "rows": 1,
+      "pct_of_13f": 0.46,
+      "cusips": [
+        "25809K105"
+      ],
+      "issuer_cik": "0001792789",
+      "ticker": "DASH",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "DoorDash",
+      "tickers": [
+        "DASH"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Snowflake Inc",
+      "title": "Common Stock",
+      "cusip": "833445109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 68597731.0,
+      "shares": 269539.0,
+      "rows": 1,
+      "pct_of_13f": 0.45,
+      "cusips": [
+        "833445109"
+      ],
+      "issuer_cik": "0001640147",
+      "ticker": "SNOW",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Snowflake",
+      "tickers": [
+        "SNOW"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Trimble Inc",
+      "title": "Common Stock",
+      "cusip": "896239100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 68155382.0,
+      "shares": 1331680.0,
+      "rows": 1,
+      "pct_of_13f": 0.44,
+      "cusips": [
+        "896239100"
+      ],
+      "issuer_cik": "0000864749",
+      "ticker": "TRMB",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Trimble",
+      "tickers": [
+        "TRMB"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "SoFi Technologies Inc",
+      "title": "Common Stock",
+      "cusip": "83406F102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 67102642.0,
+      "shares": 3742479.0,
+      "rows": 1,
+      "pct_of_13f": 0.44,
+      "cusips": [
+        "83406F102"
+      ],
+      "issuer_cik": "0001818874",
+      "ticker": "SOFI",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "SoFi Technologies",
+      "tickers": [
+        "SOFI"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Iridium Communications Inc",
+      "title": "Common Stock",
+      "cusip": "46269C102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 66648948.0,
+      "shares": 1215113.0,
+      "rows": 1,
+      "pct_of_13f": 0.43,
+      "cusips": [
+        "46269C102"
+      ],
+      "issuer_cik": "0001418819",
+      "ticker": "IRDM",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Iridium Communications",
+      "tickers": [
+        "IRDM"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Joby Aviation Inc",
+      "title": "Common Stock",
+      "cusip": "G65163100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 59713254.0,
+      "shares": 6694311.0,
+      "rows": 1,
+      "pct_of_13f": 0.39,
+      "cusips": [
+        "G65163100"
+      ],
+      "issuer_cik": "0001819848",
+      "ticker": "JOBY",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Joby Aviation",
+      "tickers": [
+        "JOBY"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Caterpillar Inc",
+      "title": "Common Stock",
+      "cusip": "149123101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 59642919.0,
+      "shares": 56008.0,
+      "rows": 1,
+      "pct_of_13f": 0.39,
+      "cusips": [
+        "149123101"
+      ],
+      "issuer_cik": "0000018230",
+      "ticker": "CAT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Caterpillar",
+      "tickers": [
+        "CAT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Intuitive Machines Inc",
+      "title": "Common Stock",
+      "cusip": "46125A100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 57740187.0,
+      "shares": 2699401.0,
+      "rows": 1,
+      "pct_of_13f": 0.37,
+      "cusips": [
+        "46125A100"
+      ],
+      "issuer_cik": "0001844452",
+      "ticker": "LUNR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Intuitive Machines",
+      "tickers": [
+        "LUNR"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "CareDx Inc",
+      "title": "Common Stock",
+      "cusip": "14167L103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 55675622.0,
+      "shares": 1953531.0,
+      "rows": 1,
+      "pct_of_13f": 0.36,
+      "cusips": [
+        "14167L103"
+      ],
+      "issuer_cik": "0001217234",
+      "ticker": "CDNA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "CareDx",
+      "tickers": [
+        "CDNA"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Figma Inc",
+      "title": "Common Stock",
+      "cusip": "316841105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 55030051.0,
+      "shares": 3042015.0,
+      "rows": 1,
+      "pct_of_13f": 0.36,
+      "cusips": [
+        "316841105"
+      ],
+      "issuer_cik": "0001579878",
+      "ticker": "FIG",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Figma",
+      "tickers": [
+        "FIG"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Datadog Inc",
+      "title": "Common Stock",
+      "cusip": "23804L103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 54714133.0,
+      "shares": 210148.0,
+      "rows": 1,
+      "pct_of_13f": 0.36,
+      "cusips": [
+        "23804L103"
+      ],
+      "issuer_cik": "0001561550",
+      "ticker": "DDOG",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Datadog",
+      "tickers": [
+        "DDOG"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Cerus Corp",
+      "title": "Common Stock",
+      "cusip": "157085101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 52361728.0,
+      "shares": 17932099.0,
+      "rows": 1,
+      "pct_of_13f": 0.34,
+      "cusips": [
+        "157085101"
+      ],
+      "issuer_cik": "0001020214",
+      "ticker": "CERS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Cerus",
+      "tickers": [
+        "CERS"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Toast Inc",
+      "title": "Common Stock",
+      "cusip": "888787108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 51742056.0,
+      "shares": 1859887.0,
+      "rows": 1,
+      "pct_of_13f": 0.34,
+      "cusips": [
+        "888787108"
+      ],
+      "issuer_cik": "0001650164",
+      "ticker": "TOST",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Toast",
+      "tickers": [
+        "TOST"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Pacific Biosciences of California, Inc.",
+      "title": "Common Stock",
+      "cusip": "69404D108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 50032778.0,
+      "shares": 29781416.0,
+      "rows": 1,
+      "pct_of_13f": 0.32,
+      "cusips": [
+        "69404D108"
+      ],
+      "issuer_cik": "0001299130",
+      "ticker": "PACB",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Pacific Biosciences of California",
+      "tickers": [
+        "PACB"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Compass Pathways Plc",
+      "title": "ADR",
+      "cusip": "20451W101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 48845310.0,
+      "shares": 3451965.0,
+      "rows": 1,
+      "pct_of_13f": 0.32,
+      "cusips": [
+        "20451W101"
+      ],
+      "issuer_cik": "0001816590",
+      "ticker": "CMPS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "COMPASS Pathways",
+      "tickers": [
+        "CMPS"
+      ],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Elbit Systems Ltd",
+      "title": "Common Stock",
+      "cusip": "M3760D101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 47578572.0,
+      "shares": 62709.0,
+      "rows": 1,
+      "pct_of_13f": 0.31,
+      "cusips": [
+        "M3760D101"
+      ],
+      "issuer_cik": "0001027664",
+      "ticker": "ESLT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Elbit Systems",
+      "tickers": [
+        "ESLT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Adaptive Biotechnologies Corp",
+      "title": "Common Stock",
+      "cusip": "00650F109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 44837058.0,
+      "shares": 2090306.0,
+      "rows": 1,
+      "pct_of_13f": 0.29,
+      "cusips": [
+        "00650F109"
+      ],
+      "issuer_cik": "0001478320",
+      "ticker": "ADPT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Adaptive Biotechnologies",
+      "tickers": [
+        "ADPT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Nurix Therapeutics Inc",
+      "title": "Common Stock",
+      "cusip": "67080M103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 43502930.0,
+      "shares": 1793196.0,
+      "rows": 1,
+      "pct_of_13f": 0.28,
+      "cusips": [
+        "67080M103"
+      ],
+      "issuer_cik": "0001549595",
+      "ticker": "NRIX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Nurix Therapeutics",
+      "tickers": [
+        "NRIX"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Cloudflare Inc",
+      "title": "Common Stock",
+      "cusip": "18915M107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 43101337.0,
+      "shares": 175723.0,
+      "rows": 1,
+      "pct_of_13f": 0.28,
+      "cusips": [
+        "18915M107"
+      ],
+      "issuer_cik": "0001477333",
+      "ticker": "NET",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Cloudflare",
+      "tickers": [
+        "NET"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Butterfly Network Inc",
+      "title": "Common Stock",
+      "cusip": "124155102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 42819541.0,
+      "shares": 5085456.0,
+      "rows": 1,
+      "pct_of_13f": 0.28,
+      "cusips": [
+        "124155102"
+      ],
+      "issuer_cik": "0001804176",
+      "ticker": "BFLY",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Butterfly Network",
+      "tickers": [
+        "BFLY"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Aurora Innovation Inc",
+      "title": "Common Stock",
+      "cusip": "051774107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 41819087.0,
+      "shares": 6131831.0,
+      "rows": 1,
+      "pct_of_13f": 0.27,
+      "cusips": [
+        "051774107"
+      ],
+      "issuer_cik": "0001828108",
+      "ticker": "AUR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Aurora Innovation",
+      "tickers": [
+        "AUR"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "MercadoLibre Inc",
+      "title": "Common Stock",
+      "cusip": "58733R102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 37417265.0,
+      "shares": 22044.0,
+      "rows": 1,
+      "pct_of_13f": 0.24,
+      "cusips": [
+        "58733R102"
+      ],
+      "issuer_cik": "0001099590",
+      "ticker": "MELI",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Mercadolibre",
+      "tickers": [
+        "MELI"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Alamar Biosciences Inc",
+      "title": "Common Stock",
+      "cusip": "010911105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 37220549.0,
+      "shares": 1373959.0,
+      "rows": 1,
+      "pct_of_13f": 0.24,
+      "cusips": [
+        "010911105"
+      ],
+      "issuer_cik": "0002104204",
+      "ticker": "ALMR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Alamar Biosciences",
+      "tickers": [
+        "ALMR"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Cameco Corp",
+      "title": "Common Stock",
+      "cusip": "13321L108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 36829520.0,
+      "shares": 361570.0,
+      "rows": 1,
+      "pct_of_13f": 0.24,
+      "cusips": [
+        "13321L108"
+      ],
+      "issuer_cik": "0001009001",
+      "ticker": "CCJ",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Cameco",
+      "tickers": [
+        "CCJ"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Teledyne Technologies Inc",
+      "title": "Common Stock",
+      "cusip": "879360105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 36594804.0,
+      "shares": 54873.0,
+      "rows": 1,
+      "pct_of_13f": 0.24,
+      "cusips": [
+        "879360105"
+      ],
+      "issuer_cik": "0001094285",
+      "ticker": "TDY",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Teledyne Technologies",
+      "tickers": [
+        "TDY"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Synopsys Inc",
+      "title": "Common Stock",
+      "cusip": "871607107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 36257908.0,
+      "shares": 81283.0,
+      "rows": 1,
+      "pct_of_13f": 0.24,
+      "cusips": [
+        "871607107"
+      ],
+      "issuer_cik": "0000883241",
+      "ticker": "SNPS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Synopsys",
+      "tickers": [
+        "SNPS"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Symbotic Inc",
+      "title": "Common Stock",
+      "cusip": "87151X101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 35813868.0,
+      "shares": 796749.0,
+      "rows": 1,
+      "pct_of_13f": 0.23,
+      "cusips": [
+        "87151X101"
+      ],
+      "issuer_cik": "0001837240",
+      "ticker": "SYM",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Symbotic",
+      "tickers": [
+        "SYM"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Schrodinger Inc",
+      "title": "Common Stock",
+      "cusip": "80810D103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 35002797.0,
+      "shares": 2154018.0,
+      "rows": 1,
+      "pct_of_13f": 0.23,
+      "cusips": [
+        "80810D103"
+      ],
+      "issuer_cik": "0001490978",
+      "ticker": "SDGR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Schrodinger",
+      "tickers": [
+        "SDGR"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Baidu Inc",
+      "title": "ADR",
+      "cusip": "056752108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 34508037.0,
+      "shares": 301934.0,
+      "rows": 1,
+      "pct_of_13f": 0.22,
+      "cusips": [
+        "056752108"
+      ],
+      "issuer_cik": "0001329099",
+      "ticker": "BIDU",
+      "ticker_source": "name",
+      "ticker_check": true,
+      "name": "Baidu",
+      "tickers": [
+        "BIDU"
+      ],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Spotify Technology SA",
+      "title": "Common Stock",
+      "cusip": "L8681T102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 34484423.0,
+      "shares": 75108.0,
+      "rows": 1,
+      "pct_of_13f": 0.22,
+      "cusips": [
+        "L8681T102"
+      ],
+      "issuer_cik": "0001639920",
+      "ticker": "SPOT",
+      "ticker_source": "name-prefix",
+      "ticker_check": true,
+      "name": "Spotify Technology",
+      "tickers": [
+        "SPOT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Everpure Inc",
+      "title": "Common Stock",
+      "cusip": "74624M102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 31354638.0,
+      "shares": 397952.0,
+      "rows": 1,
+      "pct_of_13f": 0.2,
+      "cusips": [
+        "74624M102"
+      ],
+      "issuer_cik": "0001474432",
+      "ticker": "P",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Everpure",
+      "tickers": [
+        "P"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "DraftKings Inc",
+      "title": "Common Stock",
+      "cusip": "26142V105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 31040642.0,
+      "shares": 1228846.0,
+      "rows": 1,
+      "pct_of_13f": 0.2,
+      "cusips": [
+        "26142V105"
+      ],
+      "issuer_cik": "0001883685",
+      "ticker": "DKNG",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "DraftKings",
+      "tickers": [
+        "DKNG"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Prime Medicine Inc",
+      "title": "Common Stock",
+      "cusip": "74168J101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 30806875.0,
+      "shares": 8348746.0,
+      "rows": 1,
+      "pct_of_13f": 0.2,
+      "cusips": [
+        "74168J101"
+      ],
+      "issuer_cik": "0001894562",
+      "ticker": "PRME",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Prime Medicine",
+      "tickers": [
+        "PRME"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Rubrik Inc",
+      "title": "Common Stock",
+      "cusip": "781154109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 29336399.0,
+      "shares": 365426.0,
+      "rows": 1,
+      "pct_of_13f": 0.19,
+      "cusips": [
+        "781154109"
+      ],
+      "issuer_cik": "0001943896",
+      "ticker": "RBRK",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Rubrik",
+      "tickers": [
+        "RBRK"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Intuitive Surgical Inc",
+      "title": "Common Stock",
+      "cusip": "46120E602",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 27986730.0,
+      "shares": 70375.0,
+      "rows": 1,
+      "pct_of_13f": 0.18,
+      "cusips": [
+        "46120E602"
+      ],
+      "issuer_cik": "0001035267",
+      "ticker": "ISRG",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Intuitive Surgical",
+      "tickers": [
+        "ISRG"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Kodiak AI Inc",
+      "title": "Common Stock",
+      "cusip": "500081104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 26163153.0,
+      "shares": 5150227.0,
+      "rows": 1,
+      "pct_of_13f": 0.17,
+      "cusips": [
+        "500081104"
+      ],
+      "issuer_cik": "0001853138",
+      "ticker": "KDK",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Kodiak AI",
+      "tickers": [
+        "KDK"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Ionis Pharmaceuticals Inc",
+      "title": "Common Stock",
+      "cusip": "462222100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 23848064.0,
+      "shares": 300770.0,
+      "rows": 1,
+      "pct_of_13f": 0.15,
+      "cusips": [
+        "462222100"
+      ],
+      "issuer_cik": "0000874015",
+      "ticker": "IONS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Ionis Pharmaceuticals",
+      "tickers": [
+        "IONS"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Gitlab Inc",
+      "title": "Common Stock",
+      "cusip": "37637K108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 23446979.0,
+      "shares": 767998.0,
+      "rows": 1,
+      "pct_of_13f": 0.15,
+      "cusips": [
+        "37637K108"
+      ],
+      "issuer_cik": "0001653482",
+      "ticker": "GTLB",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Gitlab",
+      "tickers": [
+        "GTLB"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "WeRide Inc",
+      "title": "ADR",
+      "cusip": "950915108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 21783963.0,
+      "shares": 3742949.0,
+      "rows": 1,
+      "pct_of_13f": 0.14,
+      "cusips": [
+        "950915108"
+      ],
+      "issuer_cik": "0001867729",
+      "ticker": "WRD",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "WeRide",
+      "tickers": [
+        "WRD"
+      ],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Generate Biomedicines Inc",
+      "title": "Common Stock",
+      "cusip": "370920100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 21671492.0,
+      "shares": 1284617.0,
+      "rows": 1,
+      "pct_of_13f": 0.14,
+      "cusips": [
+        "370920100"
+      ],
+      "issuer_cik": "0002100782",
+      "ticker": "GENB",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Generate Biomedicines",
+      "tickers": [
+        "GENB"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Airbnb Inc",
+      "title": "Common Stock",
+      "cusip": "009066101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 21224619.0,
+      "shares": 148320.0,
+      "rows": 1,
+      "pct_of_13f": 0.14,
+      "cusips": [
+        "009066101"
+      ],
+      "issuer_cik": "0001559720",
+      "ticker": "ABNB",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Airbnb",
+      "tickers": [
+        "ABNB"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Arcturus Therapeutics Holdings",
+      "title": "Common Stock",
+      "cusip": "03969T109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 19498987.0,
+      "shares": 2901635.0,
+      "rows": 1,
+      "pct_of_13f": 0.13,
+      "cusips": [
+        "03969T109"
+      ],
+      "issuer_cik": "0001768224",
+      "ticker": "ARCT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Arcturus Therapeutics Holdings",
+      "tickers": [
+        "ARCT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Oklo Inc",
+      "title": "Common Stock",
+      "cusip": "02156V109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 19480209.0,
+      "shares": 372257.0,
+      "rows": 1,
+      "pct_of_13f": 0.13,
+      "cusips": [
+        "02156V109"
+      ],
+      "issuer_cik": "0001849056",
+      "ticker": "OKLO",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Oklo",
+      "tickers": [
+        "OKLO"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Genius Sports Ltd",
+      "title": "Common Stock",
+      "cusip": "G3934V109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 18578566.0,
+      "shares": 3065770.0,
+      "rows": 1,
+      "pct_of_13f": 0.12,
+      "cusips": [
+        "G3934V109"
+      ],
+      "issuer_cik": "0001834489",
+      "ticker": "GENI",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Genius Sports",
+      "tickers": [
+        "GENI"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Crowdstrike Holdings Inc",
+      "title": "Common Stock",
+      "cusip": "22788C105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 18029183.0,
+      "shares": 94500.0,
+      "rows": 1,
+      "pct_of_13f": 0.12,
+      "cusips": [
+        "22788C105"
+      ],
+      "issuer_cik": "0001535527",
+      "ticker": "CRWD",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "CrowdStrike Holdings",
+      "tickers": [
+        "CRWD"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "HEICO Corp",
+      "title": "Common Stock",
+      "cusip": "422806109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 17828022.0,
+      "shares": 50052.0,
+      "rows": 1,
+      "pct_of_13f": 0.12,
+      "cusips": [
+        "422806109"
+      ],
+      "issuer_cik": "0000046619",
+      "ticker": "HEI",
+      "ticker_source": "override",
+      "ticker_check": false,
+      "name": "Heico",
+      "tickers": [
+        "HEI"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "908 Devices Inc",
+      "title": "Common Stock",
+      "cusip": "65443P102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 17642905.0,
+      "shares": 2027920.0,
+      "rows": 1,
+      "pct_of_13f": 0.11,
+      "cusips": [
+        "65443P102"
+      ],
+      "issuer_cik": "0001555279",
+      "ticker": "MASS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "908 Devices",
+      "tickers": [
+        "MASS"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Netflix Inc",
+      "title": "Common Stock",
+      "cusip": "64110L106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 16055789.0,
+      "shares": 224871.0,
+      "rows": 1,
+      "pct_of_13f": 0.1,
+      "cusips": [
+        "64110L106"
+      ],
+      "issuer_cik": "0001065280",
+      "ticker": "NFLX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Netflix",
+      "tickers": [
+        "NFLX"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Pony AI Inc",
+      "title": "ADR",
+      "cusip": "732908108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 15376555.0,
+      "shares": 2212454.0,
+      "rows": 1,
+      "pct_of_13f": 0.1,
+      "cusips": [
+        "732908108"
+      ],
+      "issuer_cik": "0001969302",
+      "ticker": "PONY",
+      "ticker_source": "name",
+      "ticker_check": true,
+      "name": "Pony AI",
+      "tickers": [
+        "PONY"
+      ],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Sea Ltd",
+      "title": "ADR",
+      "cusip": "81141R100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 15180586.0,
+      "shares": 158412.0,
+      "rows": 1,
+      "pct_of_13f": 0.1,
+      "cusips": [
+        "81141R100"
+      ],
+      "issuer_cik": "0001703399",
+      "ticker": "SE",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Sea",
+      "tickers": [
+        "SE"
+      ],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Garmin Ltd",
+      "title": "Common Stock",
+      "cusip": "H2906T109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 14651942.0,
+      "shares": 61682.0,
+      "rows": 1,
+      "pct_of_13f": 0.1,
+      "cusips": [
+        "H2906T109"
+      ],
+      "issuer_cik": "0001121788",
+      "ticker": "GRMN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Garmin",
+      "tickers": [
+        "GRMN"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Klarna Group PLC",
+      "title": "Common Stock",
+      "cusip": "G5279N105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 14414948.0,
+      "shares": 712201.0,
+      "rows": 1,
+      "pct_of_13f": 0.09,
+      "cusips": [
+        "G5279N105"
+      ],
+      "issuer_cik": "0002003292",
+      "ticker": "KLAR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Klarna Group",
+      "tickers": [
+        "KLAR"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Strata Critical Medical Inc",
+      "title": "Common Stock",
+      "cusip": "092667104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 14391606.0,
+      "shares": 2730855.0,
+      "rows": 1,
+      "pct_of_13f": 0.09,
+      "cusips": [
+        "092667104"
+      ],
+      "issuer_cik": "0001779128",
+      "ticker": "SRTA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Strata Critical Medical",
+      "tickers": [
+        "SRTA"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "NU Holdings Ltd",
+      "title": "Common Stock",
+      "cusip": "G6683N103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 14315494.0,
+      "shares": 1071519.0,
+      "rows": 1,
+      "pct_of_13f": 0.09,
+      "cusips": [
+        "G6683N103"
+      ],
+      "issuer_cik": "0001691493",
+      "ticker": "NU",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Nu Holdings",
+      "tickers": [
+        "NU"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Etoro Group Ltd",
+      "title": "Common Stock",
+      "cusip": "G32089107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 12458508.0,
+      "shares": 315645.0,
+      "rows": 1,
+      "pct_of_13f": 0.08,
+      "cusips": [
+        "G32089107"
+      ],
+      "issuer_cik": "0001493318",
+      "ticker": "ETOR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "eToro Group",
+      "tickers": [
+        "ETOR"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "BioNTech SE",
+      "title": "ADR",
+      "cusip": "09075V102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 12406622.0,
+      "shares": 133333.0,
+      "rows": 1,
+      "pct_of_13f": 0.08,
+      "cusips": [
+        "09075V102"
+      ],
+      "issuer_cik": "0001776985",
+      "ticker": "BNTX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "BioNTech SE",
+      "tickers": [
+        "BNTX"
+      ],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Alibaba Group Holding Ltd",
+      "title": "ADR",
+      "cusip": "01609W102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 11474896.0,
+      "shares": 119555.0,
+      "rows": 1,
+      "pct_of_13f": 0.07,
+      "cusips": [
+        "01609W102"
+      ],
+      "issuer_cik": "0001577552",
+      "ticker": "BABA",
+      "ticker_source": "name",
+      "ticker_check": true,
+      "name": "Alibaba Group Holding",
+      "tickers": [
+        "BABA"
+      ],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Canton Strategic Holdings Inc",
+      "title": "Common Stock",
+      "cusip": "432705309",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 10314285.0,
+      "shares": 3657548.0,
+      "rows": 1,
+      "pct_of_13f": 0.07,
+      "cusips": [
+        "432705309"
+      ],
+      "issuer_cik": "0001861657",
+      "ticker": "CNTN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Canton Strategic Holdings",
+      "tickers": [
+        "CNTN"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Lockheed Martin Corp",
+      "title": "Common Stock",
+      "cusip": "539830109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 7543065.0,
+      "shares": 14806.0,
+      "rows": 1,
+      "pct_of_13f": 0.05,
+      "cusips": [
+        "539830109"
+      ],
+      "issuer_cik": "0000936468",
+      "ticker": "LMT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Lockheed Martin",
+      "tickers": [
+        "LMT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "ARK Innovation ETF",
+      "title": "ETP",
+      "cusip": "00214Q104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 7432869.0,
+      "shares": 92764.0,
+      "rows": 2,
+      "pct_of_13f": 0.05,
+      "cusips": [
+        "00214Q104",
+        "00214Q302"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "ARK Innovation ETF",
+      "tickers": [],
+      "classes": [
+        "ETP",
+        "ETP"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Quantum-Si Inc",
+      "title": "Common Stock",
+      "cusip": "74765K105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 6343448.0,
+      "shares": 7167738.0,
+      "rows": 1,
+      "pct_of_13f": 0.04,
+      "cusips": [
+        "74765K105"
+      ],
+      "issuer_cik": "0001816431",
+      "ticker": "QSI",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Quantum-Si",
+      "tickers": [
+        "QSI"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Honeywell International Inc",
+      "title": "Common Stock",
+      "cusip": "438516205",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 5208362.0,
+      "shares": 23262.0,
+      "rows": 1,
+      "pct_of_13f": 0.03,
+      "cusips": [
+        "438516205"
+      ],
+      "issuer_cik": "0000773840",
+      "ticker": "HON",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Honeywell International",
+      "tickers": [
+        "HON"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Honeywell Aerospace Inc",
+      "title": "Common Stock",
+      "cusip": "43849R105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 5142763.0,
+      "shares": 23262.0,
+      "rows": 1,
+      "pct_of_13f": 0.03,
+      "cusips": [
+        "43849R105"
+      ],
+      "issuer_cik": "0002089271",
+      "ticker": "HONA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Honeywell Aerospace",
+      "tickers": [
+        "HONA"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "SimilarWeb Ltd",
+      "title": "Common Stock",
+      "cusip": "M84137104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 5116484.0,
+      "shares": 834663.0,
+      "rows": 1,
+      "pct_of_13f": 0.03,
+      "cusips": [
+        "M84137104"
+      ],
+      "issuer_cik": "0001842731",
+      "ticker": "SMWB",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Similarweb",
+      "tickers": [
+        "SMWB"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Zillow Group Inc",
+      "title": "Common Stock",
+      "cusip": "98954M200",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 4809164.0,
+      "shares": 152575.0,
+      "rows": 1,
+      "pct_of_13f": 0.03,
+      "cusips": [
+        "98954M200"
+      ],
+      "issuer_cik": "0001617640",
+      "ticker": "Z",
+      "ticker_source": "override",
+      "ticker_check": false,
+      "name": "Zillow Group",
+      "tickers": [
+        "Z"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "JFrog Ltd",
+      "title": "Common Stock",
+      "cusip": "M6191J100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 4600436.0,
+      "shares": 50621.0,
+      "rows": 1,
+      "pct_of_13f": 0.03,
+      "cusips": [
+        "M6191J100"
+      ],
+      "issuer_cik": "0001800667",
+      "ticker": "FROG",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "JFrog",
+      "tickers": [
+        "FROG"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Xometry Inc",
+      "title": "Common Stock",
+      "cusip": "98423F109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 4444553.0,
+      "shares": 46048.0,
+      "rows": 1,
+      "pct_of_13f": 0.03,
+      "cusips": [
+        "98423F109"
+      ],
+      "issuer_cik": "0001657573",
+      "ticker": "XMTR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Xometry",
+      "tickers": [
+        "XMTR"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Stratasys Ltd",
+      "title": "Common Stock",
+      "cusip": "M85548101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 4384261.0,
+      "shares": 512180.0,
+      "rows": 1,
+      "pct_of_13f": 0.03,
+      "cusips": [
+        "M85548101"
+      ],
+      "issuer_cik": "0001517396",
+      "ticker": "SSYS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Stratasys",
+      "tickers": [
+        "SSYS"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "UroGen Pharma Ltd",
+      "title": "Common Stock",
+      "cusip": "M96088105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 3735494.0,
+      "shares": 101508.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M96088105"
+      ],
+      "issuer_cik": "0001668243",
+      "ticker": "URGN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "UroGen Pharma",
+      "tickers": [
+        "URGN"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Kaspi.KZ JSC",
+      "title": "ADR",
+      "cusip": "48581R205",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 3597726.0,
+      "shares": 41525.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "48581R205"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Kaspi.KZ JSC",
+      "tickers": [],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "PayPay Corp",
+      "title": "ADR",
+      "cusip": "70450C101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 3510635.0,
+      "shares": 244985.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "70450C101"
+      ],
+      "issuer_cik": "0002080845",
+      "ticker": "PAYP",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "PayPay",
+      "tickers": [
+        "PAYP"
+      ],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Alpha Tau Medical Ltd",
+      "title": "Common Stock",
+      "cusip": "M0740A108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 3485742.0,
+      "shares": 277086.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M0740A108"
+      ],
+      "issuer_cik": "0001871321",
+      "ticker": "DRTS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Alpha Tau Medical",
+      "tickers": [
+        "DRTS"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Velo3D Inc",
+      "title": "Common Stock",
+      "cusip": "92259N302",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 3417915.0,
+      "shares": 194753.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "92259N302"
+      ],
+      "issuer_cik": "0001825079",
+      "ticker": "VELO",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Velo3D",
+      "tickers": [
+        "VELO"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Valens Semiconductor Ltd",
+      "title": "Common Stock",
+      "cusip": "M9607U115",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 3192408.0,
+      "shares": 1412570.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M9607U115"
+      ],
+      "issuer_cik": "0001863006",
+      "ticker": "VLN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Valens Semiconductor",
+      "tickers": [
+        "VLN"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "3D Systems Corp",
+      "title": "Common Stock",
+      "cusip": "88554D205",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 3119014.0,
+      "shares": 1032786.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "88554D205"
+      ],
+      "issuer_cik": "0000910638",
+      "ticker": "DDD",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "3d Systems",
+      "tickers": [
+        "DDD"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Materialise NV",
+      "title": "ADR",
+      "cusip": "57667T100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 3118995.0,
+      "shares": 419784.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "57667T100"
+      ],
+      "issuer_cik": "0001091223",
+      "ticker": "MTLS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Materialise Nv",
+      "tickers": [
+        "MTLS"
+      ],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Taboola.com Ltd",
+      "title": "Common Stock",
+      "cusip": "M8744T106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 3014060.0,
+      "shares": 602812.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M8744T106"
+      ],
+      "issuer_cik": "0001840502",
+      "ticker": "TBLA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Taboola.com",
+      "tickers": [
+        "TBLA"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Proto Labs Inc",
+      "title": "Common Stock",
+      "cusip": "743713109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2886921.0,
+      "shares": 35418.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "743713109"
+      ],
+      "issuer_cik": "0001443669",
+      "ticker": "PRLB",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Proto Labs",
+      "tickers": [
+        "PRLB"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Mobileye Global Inc",
+      "title": "Common Stock",
+      "cusip": "60741F104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2721087.0,
+      "shares": 281104.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "60741F104"
+      ],
+      "issuer_cik": "0001910139",
+      "ticker": "MBLY",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Mobileye Global",
+      "tickers": [
+        "MBLY"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Pagaya Technologies Ltd",
+      "title": "Common Stock",
+      "cusip": "M7S64L123",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2693755.0,
+      "shares": 147603.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M7S64L123"
+      ],
+      "issuer_cik": "0001883085",
+      "ticker": "PGY",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Pagaya Technologies",
+      "tickers": [
+        "PGY"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Radware Ltd",
+      "title": "Common Stock",
+      "cusip": "M81873107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2662601.0,
+      "shares": 86280.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M81873107"
+      ],
+      "issuer_cik": "0001094366",
+      "ticker": "RDWR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Radware",
+      "tickers": [
+        "RDWR"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Tower Semiconductor Ltd",
+      "title": "Common Stock",
+      "cusip": "M87915274",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2639241.0,
+      "shares": 10126.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M87915274"
+      ],
+      "issuer_cik": "0000928876",
+      "ticker": "TSEM",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Tower Semiconductor",
+      "tickers": [
+        "TSEM"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Allot Ltd",
+      "title": "Common Stock",
+      "cusip": "M0854Q105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2587620.0,
+      "shares": 297726.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M0854Q105"
+      ],
+      "issuer_cik": "0001365767",
+      "ticker": "ALLT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Allot",
+      "tickers": [
+        "ALLT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "TAT Technologies Ltd",
+      "title": "Common Stock",
+      "cusip": "M8740S227",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2508930.0,
+      "shares": 52284.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M8740S227"
+      ],
+      "issuer_cik": "0000808439",
+      "ticker": "TATT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Tat Technologies",
+      "tickers": [
+        "TATT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Dentsply Sirona Inc",
+      "title": "Common Stock",
+      "cusip": "24906P109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2499058.0,
+      "shares": 235538.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "24906P109"
+      ],
+      "issuer_cik": "0000818479",
+      "ticker": "XRAY",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Dentsply Sirona",
+      "tickers": [
+        "XRAY"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "HP Inc",
+      "title": "Common Stock",
+      "cusip": "40434L105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2498286.0,
+      "shares": 113869.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "40434L105"
+      ],
+      "issuer_cik": "0000047217",
+      "ticker": "HPQ",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Hp",
+      "tickers": [
+        "HPQ"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Cellebrite DI Ltd",
+      "title": "Common Stock",
+      "cusip": "M2197Q107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2495476.0,
+      "shares": 170923.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M2197Q107"
+      ],
+      "issuer_cik": "0001854587",
+      "ticker": "CLBT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Cellebrite DI",
+      "tickers": [
+        "CLBT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Riskified Ltd",
+      "title": "Common Stock",
+      "cusip": "M8216R109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2463537.0,
+      "shares": 488797.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M8216R109"
+      ],
+      "issuer_cik": "0001851112",
+      "ticker": "RSKD",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Riskified",
+      "tickers": [
+        "RSKD"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "RADCOM Ltd",
+      "title": "Common Stock",
+      "cusip": "M81865111",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2456417.0,
+      "shares": 174214.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M81865111"
+      ],
+      "issuer_cik": "0001016838",
+      "ticker": "RDCM",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Radcom",
+      "tickers": [
+        "RDCM"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Ituran Location and Control Ltd",
+      "title": "Common Stock",
+      "cusip": "M6158M104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2448758.0,
+      "shares": 40137.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M6158M104"
+      ],
+      "issuer_cik": "0001337117",
+      "ticker": "ITRN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Ituran Location & Control",
+      "tickers": [
+        "ITRN"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Monday.com Ltd",
+      "title": "Common Stock",
+      "cusip": "M7S64H106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2400959.0,
+      "shares": 33167.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M7S64H106"
+      ],
+      "issuer_cik": "0001845338",
+      "ticker": "MNDY",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "monday.com",
+      "tickers": [
+        "MNDY"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "PTC Inc",
+      "title": "Common Stock",
+      "cusip": "69370C100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2391377.0,
+      "shares": 21049.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "69370C100"
+      ],
+      "issuer_cik": "0000857005",
+      "ticker": "PTC",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Ptc",
+      "tickers": [
+        "PTC"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "AudioCodes Ltd",
+      "title": "Common Stock",
+      "cusip": "M15342104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2385520.0,
+      "shares": 246438.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "M15342104"
+      ],
+      "issuer_cik": "0001086434",
+      "ticker": "AUDC",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Audiocodes",
+      "tickers": [
+        "AUDC"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Autodesk Inc",
+      "title": "Common Stock",
+      "cusip": "052769106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2376979.0,
+      "shares": 12226.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "052769106"
+      ],
+      "issuer_cik": "0000769397",
+      "ticker": "ADSK",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Autodesk",
+      "tickers": [
+        "ADSK"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Teva Pharmaceutical Industries",
+      "title": "ADR",
+      "cusip": "881624209",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2325964.0,
+      "shares": 68653.0,
+      "rows": 1,
+      "pct_of_13f": 0.02,
+      "cusips": [
+        "881624209"
+      ],
+      "issuer_cik": "0000818686",
+      "ticker": "TEVA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Teva Pharmaceutical Industries",
+      "tickers": [
+        "TEVA"
+      ],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Microsoft Corp",
+      "title": "Common Stock",
+      "cusip": "594918104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2304145.0,
+      "shares": 6177.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "594918104"
+      ],
+      "issuer_cik": "0000789019",
+      "ticker": "MSFT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Microsoft",
+      "tickers": [
+        "MSFT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Nova Ltd",
+      "title": "Common Stock",
+      "cusip": "M7516K103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2291207.0,
+      "shares": 4220.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M7516K103"
+      ],
+      "issuer_cik": "0001109345",
+      "ticker": "NVMI",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Nova",
+      "tickers": [
+        "NVMI"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Playtika Holding Corp",
+      "title": "Common Stock",
+      "cusip": "72815L107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2284095.0,
+      "shares": 614004.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "72815L107"
+      ],
+      "issuer_cik": "0001828016",
+      "ticker": "PLTK",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Playtika Holding",
+      "tickers": [
+        "PLTK"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Inmode Ltd",
+      "title": "Common Stock",
+      "cusip": "M5425M103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2240135.0,
+      "shares": 153224.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M5425M103"
+      ],
+      "issuer_cik": "0001742692",
+      "ticker": "INMD",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "InMode",
+      "tickers": [
+        "INMD"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Oddity Tech Ltd",
+      "title": "Common Stock",
+      "cusip": "M7518J104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2220388.0,
+      "shares": 146754.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M7518J104"
+      ],
+      "issuer_cik": "0001907085",
+      "ticker": "ODD",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Oddity Tech",
+      "tickers": [
+        "ODD"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Brainsway Ltd",
+      "title": "ADR",
+      "cusip": "10501L106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2210175.0,
+      "shares": 142500.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "10501L106"
+      ],
+      "issuer_cik": "0001505065",
+      "ticker": "BWAY",
+      "ticker_source": "name",
+      "ticker_check": true,
+      "name": "Brainsway",
+      "tickers": [
+        "BWAY"
+      ],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Nayax Ltd",
+      "title": "Common Stock",
+      "cusip": "M7S750159",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2163772.0,
+      "shares": 33306.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M7S750159"
+      ],
+      "issuer_cik": "0001901279",
+      "ticker": "NYAX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Nayax",
+      "tickers": [
+        "NYAX"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Check Point Software Technologies Ltd",
+      "title": "Common Stock",
+      "cusip": "M22465104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2117600.0,
+      "shares": 16112.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M22465104"
+      ],
+      "issuer_cik": "0001015922",
+      "ticker": "CHKP",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Check Point Software Technologies",
+      "tickers": [
+        "CHKP"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Fiverr International Ltd",
+      "title": "Common Stock",
+      "cusip": "M4R82T106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2085042.0,
+      "shares": 202039.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M4R82T106"
+      ],
+      "issuer_cik": "0001762301",
+      "ticker": "FVRR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Fiverr International",
+      "tickers": [
+        "FVRR"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Perion Network Ltd",
+      "title": "Common Stock",
+      "cusip": "M78673114",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 2058365.0,
+      "shares": 211984.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M78673114"
+      ],
+      "issuer_cik": "0001338940",
+      "ticker": "PERI",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Perion Network",
+      "tickers": [
+        "PERI"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Camtek Ltd",
+      "title": "Common Stock",
+      "cusip": "M20791105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1983702.0,
+      "shares": 12161.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M20791105"
+      ],
+      "issuer_cik": "0001109138",
+      "ticker": "CAMT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Camtek",
+      "tickers": [
+        "CAMT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Cognyte Software Ltd",
+      "title": "Common Stock",
+      "cusip": "M25133105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1982480.0,
+      "shares": 225795.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M25133105"
+      ],
+      "issuer_cik": "0001824814",
+      "ticker": "CGNT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Cognyte Software",
+      "tickers": [
+        "CGNT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Kamada Ltd",
+      "title": "Common Stock",
+      "cusip": "M6240T109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1931485.0,
+      "shares": 263304.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M6240T109"
+      ],
+      "issuer_cik": "0001567529",
+      "ticker": "KMDA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Kamada",
+      "tickers": [
+        "KMDA"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Nice Ltd",
+      "title": "ADR",
+      "cusip": "653656108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1911030.0,
+      "shares": 21035.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "653656108"
+      ],
+      "issuer_cik": "0001003935",
+      "ticker": "NICE",
+      "ticker_source": "name",
+      "ticker_check": true,
+      "name": "Nice",
+      "tickers": [
+        "NICE"
+      ],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "MediWound Ltd",
+      "title": "Common Stock",
+      "cusip": "M68830112",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1860667.0,
+      "shares": 126576.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M68830112"
+      ],
+      "issuer_cik": "0001593984",
+      "ticker": "MDWD",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "MediWound",
+      "tickers": [
+        "MDWD"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Nano Dimension Ltd",
+      "title": "ADR",
+      "cusip": "63008G203",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1808872.0,
+      "shares": 1247498.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "63008G203"
+      ],
+      "issuer_cik": "0001643303",
+      "ticker": "NNDM",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Nano Dimension",
+      "tickers": [
+        "NNDM"
+      ],
+      "classes": [
+        "ADR"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Compugen Ltd",
+      "title": "Common Stock",
+      "cusip": "M25722105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1683187.0,
+      "shares": 786536.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M25722105"
+      ],
+      "issuer_cik": "0001119774",
+      "ticker": "CGEN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Compugen",
+      "tickers": [
+        "CGEN"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Gilat Satellite Networks Ltd",
+      "title": "Common Stock",
+      "cusip": "M51474118",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1578579.0,
+      "shares": 118601.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M51474118"
+      ],
+      "issuer_cik": "0000897322",
+      "ticker": "GILT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Gilat Satellite Networks",
+      "tickers": [
+        "GILT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Kaiser Aluminum Corp",
+      "title": "Common Stock",
+      "cusip": "483007704",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1473094.0,
+      "shares": 7530.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "483007704"
+      ],
+      "issuer_cik": "0000811596",
+      "ticker": "KALU",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Kaiser Aluminum",
+      "tickers": [
+        "KALU"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Wix.com Ltd",
+      "title": "Common Stock",
+      "cusip": "M98068105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1465995.0,
+      "shares": 32312.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M98068105"
+      ],
+      "issuer_cik": "0001576789",
+      "ticker": "WIX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Wix.com",
+      "tickers": [
+        "WIX"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Moog Inc",
+      "title": "Common Stock",
+      "cusip": "615394202",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1464367.0,
+      "shares": 3455.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "615394202"
+      ],
+      "issuer_cik": "0000067887",
+      "ticker": "MOG.A",
+      "ticker_source": "name",
+      "ticker_check": true,
+      "name": "Moog",
+      "tickers": [
+        "MOG.A"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "GE Aerospace",
+      "title": "Common Stock",
+      "cusip": "369604301",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1349165.0,
+      "shares": 3610.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "369604301"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "GE Aerospace",
+      "tickers": [],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Enlivex Ltd",
+      "title": "Common Stock",
+      "cusip": "M4130Y106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1310264.0,
+      "shares": 2382731.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M4130Y106"
+      ],
+      "issuer_cik": "0001596812",
+      "ticker": "ENLV",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Enlivex",
+      "tickers": [
+        "ENLV"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Lincoln Electric Holdings Inc",
+      "title": "Common Stock",
+      "cusip": "533900106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1113283.0,
+      "shares": 4193.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "533900106"
+      ],
+      "issuer_cik": "0000059527",
+      "ticker": "LECO",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Lincoln Electric Holdings",
+      "tickers": [
+        "LECO"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "AMETEK Inc",
+      "title": "Common Stock",
+      "cusip": "031100100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1012761.0,
+      "shares": 4186.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "031100100"
+      ],
+      "issuer_cik": "0001037868",
+      "ticker": "AME",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Ametek Inc/",
+      "tickers": [
+        "AME"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Nano-X Imaging Ltd",
+      "title": "Common Stock",
+      "cusip": "M70700105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 935672.0,
+      "shares": 806614.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "M70700105"
+      ],
+      "issuer_cik": "0001795251",
+      "ticker": "NNOX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Nano-X Imaging",
+      "tickers": [
+        "NNOX"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Align Technology Inc",
+      "title": "Common Stock",
+      "cusip": "016255101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 887826.0,
+      "shares": 5264.0,
+      "rows": 1,
+      "pct_of_13f": 0.01,
+      "cusips": [
+        "016255101"
+      ],
+      "issuer_cik": "0001097149",
+      "ticker": "ALGN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Align Technology",
+      "tickers": [
+        "ALGN"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "ARK Innovation ETF",
+      "title": "ETP",
+      "cusip": "00214Q104",
+      "figi": "",
+      "put_call": "CALL",
+      "share_type": "SH",
+      "value": 719298.0,
+      "shares": 8900.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "00214Q104"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "ARK Innovation ETF",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Octave Intelligence PLC",
+      "title": "Common Stock",
+      "cusip": "G22845104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 145021.0,
+      "shares": 8897.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "G22845104"
+      ],
+      "issuer_cik": "0002083632",
+      "ticker": "OCTV",
+      "ticker_source": "name",
+      "ticker_check": true,
+      "name": "Octave Intelligence",
+      "tickers": [
+        "OCTV"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Materion Corp",
+      "title": "Common Stock",
+      "cusip": "576690101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 135312.0,
+      "shares": 455.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "576690101"
+      ],
+      "issuer_cik": "0001104657",
+      "ticker": "MTRN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Materion",
+      "tickers": [
+        "MTRN"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Carpenter Technology Corp",
+      "title": "Common Stock",
+      "cusip": "144285103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 109798.0,
+      "shares": 178.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "144285103"
+      ],
+      "issuer_cik": "0000017843",
+      "ticker": "CRS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Carpenter Technology",
+      "tickers": [
+        "CRS"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "ATI Inc",
+      "title": "Common Stock",
+      "cusip": "01741R102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 95988.0,
+      "shares": 487.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "01741R102"
+      ],
+      "issuer_cik": "0001018963",
+      "ticker": "ATI",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Ati",
+      "tickers": [
+        "ATI"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Jabil Inc",
+      "title": "Common Stock",
+      "cusip": "466313103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 94443.0,
+      "shares": 245.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "466313103"
+      ],
+      "issuer_cik": "0000898293",
+      "ticker": "JBL",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Jabil",
+      "tickers": [
+        "JBL"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "3M Co",
+      "title": "Common Stock",
+      "cusip": "88579Y101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 76098.0,
+      "shares": 470.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "88579Y101"
+      ],
+      "issuer_cik": "0000066740",
+      "ticker": "MMM",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "3m",
+      "tickers": [
+        "MMM"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "iShares Russell 1000 Growth ETF",
+      "title": "ETP",
+      "cusip": "464287614",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 75901.0,
+      "shares": 626.0,
+      "rows": 2,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "464287614",
+        "464287515"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "iShares Russell 1000 Growth ETF",
+      "tickers": [],
+      "classes": [
+        "ETP",
+        "ETP"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Avient Corp",
+      "title": "Common Stock",
+      "cusip": "05368V106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 74474.0,
+      "shares": 2015.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "05368V106"
+      ],
+      "issuer_cik": "0001122976",
+      "ticker": "AVNT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Avient",
+      "tickers": [
+        "AVNT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Kennametal Inc",
+      "title": "Common Stock",
+      "cusip": "489170100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 69364.0,
+      "shares": 1979.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "489170100"
+      ],
+      "issuer_cik": "0000055242",
+      "ticker": "KMT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Kennametal",
+      "tickers": [
+        "KMT"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "Vanguard Growth ETF",
+      "title": "ETP",
+      "cusip": "922908736",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 66182.0,
+      "shares": 768.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "922908736"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Vanguard Growth ETF",
+      "tickers": [],
+      "classes": [
+        "ETP"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Grayscale Ethereum Staking Min",
+      "title": "ETP",
+      "cusip": "38964R203",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 64328.0,
+      "shares": 4280.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "38964R203"
+      ],
+      "issuer_cik": "0002020455",
+      "ticker": "ETH",
+      "ticker_source": "name-prefix",
+      "ticker_check": true,
+      "name": "Grayscale Ethereum Staking Mini ETF",
+      "tickers": [
+        "ETH"
+      ],
+      "classes": [
+        "ETP"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Dauch Corporation",
+      "title": "Common Stock",
+      "cusip": "024061103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 34612.0,
+      "shares": 6386.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "024061103"
+      ],
+      "issuer_cik": "0001062231",
+      "ticker": "DCH",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Dauch",
+      "tickers": [
+        "DCH"
+      ],
+      "classes": [
+        "Common Stock"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "State Street SPDR S&P Biotech ETF",
+      "title": "ETP",
+      "cusip": "78464A870",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 20131.0,
+      "shares": 137.0,
+      "rows": 4,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "78464A870",
+        "78464A771",
+        "78464A581",
+        "78464A631"
+      ],
+      "issuer_cik": "0000093751",
+      "ticker": "STT",
+      "ticker_source": "name-prefix",
+      "ticker_check": true,
+      "name": "State Street",
+      "tickers": [
+        "STT",
+        "STT",
+        "STT",
+        "STT"
+      ],
+      "classes": [
+        "ETP",
+        "ETP",
+        "ETP",
+        "ETP"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "Fidelity MSCI Communication Services Index ETF",
+      "title": "ETP",
+      "cusip": "316092873",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 482.0,
+      "shares": 7.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "316092873"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Fidelity MSCI Communication Services Index ETF",
+      "tickers": [],
+      "classes": [
+        "ETP"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "iShares U.S. Broker-Dealers & Securities Exchanges ETF",
+      "title": "ETP",
+      "cusip": "464288794",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 424.0,
+      "shares": 2.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "464288794"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "iShares U.S. Broker-Dealers & Securities Exchanges ETF",
+      "tickers": [],
+      "classes": [
+        "ETP"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "State Street SPDR S&P 500 ETF Trust",
+      "title": "ETP",
+      "cusip": "78462F103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 344.0,
+      "shares": 0.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "78462F103"
+      ],
+      "issuer_cik": "0000093751",
+      "ticker": "STT",
+      "ticker_source": "name-prefix",
+      "ticker_check": true,
+      "name": "State Street",
+      "tickers": [
+        "STT"
+      ],
+      "classes": [
+        "ETP"
+      ],
+      "copy_eligible": false
+    }
+  ],
+  "changes": [
+    {
+      "status": "NEW",
+      "issuer": "Space Exploration Technologies Corp",
+      "title": "Common Stock",
+      "cusip": "84615Q103",
+      "ticker": "SPCX",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 4478013.0,
+      "change": 4478013.0,
+      "change_pct": null,
+      "value_after": 765113281.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "Cerebras Systems Inc",
+      "title": "Common Stock",
+      "cusip": "15675D103",
+      "ticker": "CBRS",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 764613.0,
+      "change": 764613.0,
+      "change_pct": null,
+      "value_after": 168979473.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "X-Energy Inc",
+      "title": "Common Stock",
+      "cusip": "98386P102",
+      "ticker": "XE",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 5411846.0,
+      "change": 5411846.0,
+      "change_pct": null,
+      "value_after": 99361493.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "Snowflake Inc",
+      "title": "Common Stock",
+      "cusip": "833445109",
+      "ticker": "SNOW",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 269539.0,
+      "change": 269539.0,
+      "change_pct": null,
+      "value_after": 68597731.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "Alphabet Inc",
+      "title": "Common Stock",
+      "cusip": "02079K305",
+      "ticker": "GOOGL",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 140122.0,
+      "change": 140122.0,
+      "change_pct": null,
+      "value_after": 50075399.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "Alamar Biosciences Inc",
+      "title": "Common Stock",
+      "cusip": "010911105",
+      "ticker": "ALMR",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 1373959.0,
+      "change": 1373959.0,
+      "change_pct": null,
+      "value_after": 37220549.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "Honeywell International Inc",
+      "title": "Common Stock",
+      "cusip": "438516205",
+      "ticker": "HON",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 23262.0,
+      "change": 23262.0,
+      "change_pct": null,
+      "value_after": 5208362.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "Honeywell Aerospace Inc",
+      "title": "Common Stock",
+      "cusip": "43849R105",
+      "ticker": "HONA",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 23262.0,
+      "change": 23262.0,
+      "change_pct": null,
+      "value_after": 5142763.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "Octave Intelligence PLC",
+      "title": "Common Stock",
+      "cusip": "G22845104",
+      "ticker": "OCTV",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 8897.0,
+      "change": 8897.0,
+      "change_pct": null,
+      "value_after": 145021.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "State Street SPDR S&P Biotech ETF",
+      "title": "ETP",
+      "cusip": "78464A870",
+      "ticker": "STT",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 94.0,
+      "change": 94.0,
+      "change_pct": null,
+      "value_after": 14822.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "iShares Expanded Tech-Software Sector ETF",
+      "title": "ETP",
+      "cusip": "464287515",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 56.0,
+      "change": 56.0,
+      "change_pct": null,
+      "value_after": 5109.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "State Street SPDR S&P Capital Markets ETF",
+      "title": "ETP",
+      "cusip": "78464A771",
+      "ticker": "STT",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 19.0,
+      "change": 19.0,
+      "change_pct": null,
+      "value_after": 2775.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "State Street SPDR S&P Health Care Equipment ETF",
+      "title": "ETP",
+      "cusip": "78464A581",
+      "ticker": "STT",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 21.0,
+      "change": 21.0,
+      "change_pct": null,
+      "value_after": 1805.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "State Street SPDR S&P Aerospace & Defense ETF",
+      "title": "ETP",
+      "cusip": "78464A631",
+      "ticker": "STT",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 3.0,
+      "change": 3.0,
+      "change_pct": null,
+      "value_after": 729.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "Fidelity MSCI Communication Services Index ETF",
+      "title": "ETP",
+      "cusip": "316092873",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 7.0,
+      "change": 7.0,
+      "change_pct": null,
+      "value_after": 482.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "iShares U.S. Broker-Dealers & Securities Exchanges ETF",
+      "title": "ETP",
+      "cusip": "464288794",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 2.0,
+      "change": 2.0,
+      "change_pct": null,
+      "value_after": 424.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "Honeywell International Inc",
+      "title": "Common Stock",
+      "cusip": "438516106",
+      "ticker": "HON",
+      "put_call": "",
+      "shares_before": 38709.0,
+      "shares_after": 0.0,
+      "change": -38709.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 8749395.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "Brera Holdings PLC",
+      "title": "Common Stock",
+      "cusip": "G13311116",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 9687877.0,
+      "shares_after": 0.0,
+      "change": -9687877.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 7595296.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "Intercontinental Exchange Inc",
+      "title": "Common Stock",
+      "cusip": "45866F104",
+      "ticker": "ICE",
+      "put_call": "",
+      "shares_before": 29181.0,
+      "shares_after": 0.0,
+      "change": -29181.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 4589588.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "Palo Alto Networks Inc",
+      "title": "Common Stock",
+      "cusip": "697435105",
+      "ticker": "PANW",
+      "put_call": "",
+      "shares_before": 10866.0,
+      "shares_after": 0.0,
+      "change": -10866.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 1742037.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "Salesforce Inc",
+      "title": "Common Stock",
+      "cusip": "79466L302",
+      "ticker": "CRM",
+      "put_call": "",
+      "shares_before": 6062.0,
+      "shares_after": 0.0,
+      "change": -6062.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 1131594.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "Pinterest Inc",
+      "title": "Common Stock",
+      "cusip": "72352L106",
+      "ticker": "PINS",
+      "put_call": "",
+      "shares_before": 36028.0,
+      "shares_after": 0.0,
+      "change": -36028.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 660754.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "iShares Russell 1000 ETF",
+      "title": "ETP",
+      "cusip": "464287622",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 0.0,
+      "change": -0.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 125.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Tempus AI Inc",
+      "title": "Common Stock",
+      "cusip": "88023B103",
+      "ticker": "TEM",
+      "put_call": "",
+      "shares_before": 9607745.0,
+      "shares_after": 10022634.0,
+      "change": 414889.0,
+      "change_pct": 4.3,
+      "value_after": 580611200.0,
+      "value_before": 434462230.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Palantir Technologies Inc",
+      "title": "Common Stock",
+      "cusip": "69608A108",
+      "ticker": "PLTR",
+      "put_call": "",
+      "shares_before": 3109881.0,
+      "shares_after": 3212286.0,
+      "change": 102405.0,
+      "change_pct": 3.3,
+      "value_after": 374777381.0,
+      "value_before": 454913400.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Circle Internet Group Inc",
+      "title": "Common Stock",
+      "cusip": "172573107",
+      "ticker": "CRCL",
+      "put_call": "",
+      "shares_before": 4509482.0,
+      "shares_after": 4558162.0,
+      "change": 48680.0,
+      "change_pct": 1.1,
+      "value_after": 285477674.0,
+      "value_before": 430249668.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Coinbase Global Inc",
+      "title": "Common Stock",
+      "cusip": "19260Q107",
+      "ticker": "COIN",
+      "put_call": "",
+      "shares_before": 2372884.0,
+      "shares_after": 2511319.0,
+      "change": 138435.0,
+      "change_pct": 5.8,
+      "value_after": 367129713.0,
+      "value_before": 414329300.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Amazon.com Inc",
+      "title": "Common Stock",
+      "cusip": "023135106",
+      "ticker": "AMZN",
+      "put_call": "",
+      "shares_before": 1355283.0,
+      "shares_after": 1591177.0,
+      "change": 235894.0,
+      "change_pct": 17.4,
+      "value_after": 379241133.0,
+      "value_before": 282264888.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Alphabet Inc",
+      "title": "Common Stock",
+      "cusip": "02079K107",
+      "ticker": "GOOG",
+      "put_call": "",
+      "shares_before": 720414.0,
+      "shares_after": 1043334.0,
+      "change": 322920.0,
+      "change_pct": 44.8,
+      "value_after": 368641312.0,
+      "value_before": 206658015.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "ROBLOX Corp",
+      "title": "Common Stock",
+      "cusip": "771049103",
+      "ticker": "RBLX",
+      "put_call": "",
+      "shares_before": 5896106.0,
+      "shares_after": 6465890.0,
+      "change": 569784.0,
+      "change_pct": 9.7,
+      "value_after": 351615103.0,
+      "value_before": 333483744.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Intellia Therapeutics Inc",
+      "title": "Common Stock",
+      "cusip": "45826J105",
+      "ticker": "NTLA",
+      "put_call": "",
+      "shares_before": 14509247.0,
+      "shares_after": 16875684.0,
+      "change": 2366437.0,
+      "change_pct": 16.3,
+      "value_after": 285536575.0,
+      "value_before": 186008545.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "NVIDIA Corp",
+      "title": "Common Stock",
+      "cusip": "67066G104",
+      "ticker": "NVDA",
+      "put_call": "",
+      "shares_before": 1035426.0,
+      "shares_after": 1381247.0,
+      "change": 345821.0,
+      "change_pct": 33.4,
+      "value_after": 276373746.0,
+      "value_before": 180578233.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "CoreWeave Inc",
+      "title": "Common Stock",
+      "cusip": "21873S108",
+      "ticker": "CRWV",
+      "put_call": "",
+      "shares_before": 2538125.0,
+      "shares_after": 2657192.0,
+      "change": 119067.0,
+      "change_pct": 4.7,
+      "value_after": 264496911.0,
+      "value_before": 196628508.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Kratos Defense & Security Solutions Inc.",
+      "title": "Common Stock",
+      "cusip": "50077B207",
+      "ticker": "KTOS",
+      "put_call": "",
+      "shares_before": 3491194.0,
+      "shares_after": 4672566.0,
+      "change": 1181372.0,
+      "change_pct": 33.8,
+      "value_after": 232974116.0,
+      "value_before": 246164080.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Block Inc",
+      "title": "Common Stock",
+      "cusip": "852234103",
+      "ticker": "XYZ",
+      "put_call": "",
+      "shares_before": 3093936.0,
+      "shares_after": 3097973.0,
+      "change": 4037.0,
+      "change_pct": 0.1,
+      "value_after": 235445950.0,
+      "value_before": 186193070.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Bullish",
+      "title": "Common Stock",
+      "cusip": "G16910120",
+      "ticker": "BLSH",
+      "put_call": "",
+      "shares_before": 6562039.0,
+      "shares_after": 6746186.0,
+      "change": 184147.0,
+      "change_pct": 2.8,
+      "value_after": 158063147.0,
+      "value_before": 234461649.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Natera Inc",
+      "title": "Common Stock",
+      "cusip": "632307104",
+      "ticker": "NTRA",
+      "put_call": "",
+      "shares_before": 684255.0,
+      "shares_after": 688855.0,
+      "change": 4600.0,
+      "change_pct": 0.7,
+      "value_after": 186989592.0,
+      "value_before": 136844067.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Recursion Pharmaceuticals Inc",
+      "title": "Common Stock",
+      "cusip": "75629V104",
+      "ticker": "RXRX",
+      "put_call": "",
+      "shares_before": 40212769.0,
+      "shares_after": 41337632.0,
+      "change": 1124863.0,
+      "change_pct": 2.8,
+      "value_after": 151709111.0,
+      "value_before": 123453202.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Meta Platforms Inc",
+      "title": "Common Stock",
+      "cusip": "30303M102",
+      "ticker": "META",
+      "put_call": "",
+      "shares_before": 153996.0,
+      "shares_after": 238973.0,
+      "change": 84977.0,
+      "change_pct": 55.2,
+      "value_after": 134610910.0,
+      "value_before": 88105657.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "L3Harris Technologies Inc",
+      "title": "Common Stock",
+      "cusip": "502431109",
+      "ticker": "LHX",
+      "put_call": "",
+      "shares_before": 389694.0,
+      "shares_after": 431179.0,
+      "change": 41485.0,
+      "change_pct": 10.6,
+      "value_after": 125296306.0,
+      "value_before": 134502884.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Personalis Inc",
+      "title": "Common Stock",
+      "cusip": "71535D106",
+      "ticker": "PSNL",
+      "put_call": "",
+      "shares_before": 7944112.0,
+      "shares_after": 8271339.0,
+      "change": 327227.0,
+      "change_pct": 4.1,
+      "value_after": 110835941.0,
+      "value_before": 50603993.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "GeneDx Holdings Corp",
+      "title": "Common Stock",
+      "cusip": "81663L200",
+      "ticker": "WGS",
+      "put_call": "",
+      "shares_before": 1324583.0,
+      "shares_after": 1610189.0,
+      "change": 285606.0,
+      "change_pct": 21.6,
+      "value_after": 110539494.0,
+      "value_before": 85064722.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "AeroVironment Inc",
+      "title": "Common Stock",
+      "cusip": "008073108",
+      "ticker": "AVAV",
+      "put_call": "",
+      "shares_before": 559254.0,
+      "shares_after": 607502.0,
+      "change": 48248.0,
+      "change_pct": 8.6,
+      "value_after": 100280355.0,
+      "value_before": 102371445.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Eli Lilly & Co",
+      "title": "Common Stock",
+      "cusip": "532457108",
+      "ticker": "LLY",
+      "put_call": "",
+      "shares_before": 12676.0,
+      "shares_after": 77254.0,
+      "change": 64578.0,
+      "change_pct": 509.5,
+      "value_after": 92660897.0,
+      "value_before": 11658637.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Trimble Inc",
+      "title": "Common Stock",
+      "cusip": "896239100",
+      "ticker": "TRMB",
+      "put_call": "",
+      "shares_before": 1247925.0,
+      "shares_after": 1331680.0,
+      "change": 83755.0,
+      "change_pct": 6.7,
+      "value_after": 68155382.0,
+      "value_before": 81402148.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Guardant Health Inc",
+      "title": "Common Stock",
+      "cusip": "40131M109",
+      "ticker": "GH",
+      "put_call": "",
+      "shares_before": 486675.0,
+      "shares_after": 506416.0,
+      "change": 19741.0,
+      "change_pct": 4.1,
+      "value_after": 75977634.0,
+      "value_before": 44954162.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "DoorDash Inc",
+      "title": "Common Stock",
+      "cusip": "25809K105",
+      "ticker": "DASH",
+      "put_call": "",
+      "shares_before": 346147.0,
+      "shares_after": 380139.0,
+      "change": 33992.0,
+      "change_pct": 9.8,
+      "value_after": 70147050.0,
+      "value_before": 51973972.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Joby Aviation Inc",
+      "title": "Common Stock",
+      "cusip": "G65163100",
+      "ticker": "JOBY",
+      "put_call": "",
+      "shares_before": 6173944.0,
+      "shares_after": 6694311.0,
+      "change": 520367.0,
+      "change_pct": 8.4,
+      "value_after": 59713254.0,
+      "value_before": 50996777.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Intuitive Machines Inc",
+      "title": "Common Stock",
+      "cusip": "46125A100",
+      "ticker": "LUNR",
+      "put_call": "",
+      "shares_before": 2656531.0,
+      "shares_after": 2699401.0,
+      "change": 42870.0,
+      "change_pct": 1.6,
+      "value_after": 57740187.0,
+      "value_before": 49305215.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Toast Inc",
+      "title": "Common Stock",
+      "cusip": "888787108",
+      "ticker": "TOST",
+      "put_call": "",
+      "shares_before": 1810754.0,
+      "shares_after": 1859887.0,
+      "change": 49133.0,
+      "change_pct": 2.7,
+      "value_after": 51742056.0,
+      "value_before": 48003089.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Elbit Systems Ltd",
+      "title": "Common Stock",
+      "cusip": "M3760D101",
+      "ticker": "ESLT",
+      "put_call": "",
+      "shares_before": 60281.0,
+      "shares_after": 62709.0,
+      "change": 2428.0,
+      "change_pct": 4.0,
+      "value_after": 47578572.0,
+      "value_before": 51183994.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Compass Pathways Plc",
+      "title": "ADR",
+      "cusip": "20451W101",
+      "ticker": "CMPS",
+      "put_call": "",
+      "shares_before": 3301050.0,
+      "shares_after": 3451965.0,
+      "change": 150915.0,
+      "change_pct": 4.6,
+      "value_after": 48845310.0,
+      "value_before": 18254806.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Nurix Therapeutics Inc",
+      "title": "Common Stock",
+      "cusip": "67080M103",
+      "ticker": "NRIX",
+      "put_call": "",
+      "shares_before": 1721135.0,
+      "shares_after": 1793196.0,
+      "change": 72061.0,
+      "change_pct": 4.2,
+      "value_after": 43502930.0,
+      "value_before": 26677596.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Symbotic Inc",
+      "title": "Common Stock",
+      "cusip": "87151X101",
+      "ticker": "SYM",
+      "put_call": "",
+      "shares_before": 782223.0,
+      "shares_after": 796749.0,
+      "change": 14526.0,
+      "change_pct": 1.9,
+      "value_after": 35813868.0,
+      "value_before": 41614264.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Teledyne Technologies Inc",
+      "title": "Common Stock",
+      "cusip": "879360105",
+      "ticker": "TDY",
+      "put_call": "",
+      "shares_before": 51435.0,
+      "shares_after": 54873.0,
+      "change": 3438.0,
+      "change_pct": 6.7,
+      "value_after": 36594804.0,
+      "value_before": 31118689.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Synopsys Inc",
+      "title": "Common Stock",
+      "cusip": "871607107",
+      "ticker": "SNPS",
+      "put_call": "",
+      "shares_before": 76070.0,
+      "shares_after": 81283.0,
+      "change": 5213.0,
+      "change_pct": 6.9,
+      "value_after": 36257908.0,
+      "value_before": 30160234.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Schrodinger Inc",
+      "title": "Common Stock",
+      "cusip": "80810D103",
+      "ticker": "SDGR",
+      "put_call": "",
+      "shares_before": 2067135.0,
+      "shares_after": 2154018.0,
+      "change": 86883.0,
+      "change_pct": 4.2,
+      "value_after": 35002797.0,
+      "value_before": 23482650.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Spotify Technology SA",
+      "title": "Common Stock",
+      "cusip": "L8681T102",
+      "ticker": "SPOT",
+      "put_call": "",
+      "shares_before": 67778.0,
+      "shares_after": 75108.0,
+      "change": 7330.0,
+      "change_pct": 10.8,
+      "value_after": 34484423.0,
+      "value_before": 32866104.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Intuitive Surgical Inc",
+      "title": "Common Stock",
+      "cusip": "46120E602",
+      "ticker": "ISRG",
+      "put_call": "",
+      "shares_before": 68991.0,
+      "shares_after": 70375.0,
+      "change": 1384.0,
+      "change_pct": 2.0,
+      "value_after": 27986730.0,
+      "value_before": 31804161.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Prime Medicine Inc",
+      "title": "Common Stock",
+      "cusip": "74168J101",
+      "ticker": "PRME",
+      "put_call": "",
+      "shares_before": 6246827.0,
+      "shares_after": 8348746.0,
+      "change": 2101919.0,
+      "change_pct": 33.6,
+      "value_after": 30806875.0,
+      "value_before": 21738957.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "WeRide Inc",
+      "title": "ADR",
+      "cusip": "950915108",
+      "ticker": "WRD",
+      "put_call": "",
+      "shares_before": 3649331.0,
+      "shares_after": 3742949.0,
+      "change": 93618.0,
+      "change_pct": 2.6,
+      "value_after": 21783963.0,
+      "value_before": 29523088.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Kodiak AI Inc",
+      "title": "Common Stock",
+      "cusip": "500081104",
+      "ticker": "KDK",
+      "put_call": "",
+      "shares_before": 3805228.0,
+      "shares_after": 5150227.0,
+      "change": 1344999.0,
+      "change_pct": 35.3,
+      "value_after": 26163153.0,
+      "value_before": 26408282.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Ionis Pharmaceuticals Inc",
+      "title": "Common Stock",
+      "cusip": "462222100",
+      "ticker": "IONS",
+      "put_call": "",
+      "shares_before": 288716.0,
+      "shares_after": 300770.0,
+      "change": 12054.0,
+      "change_pct": 4.2,
+      "value_after": 23848064.0,
+      "value_before": 21679720.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Generate Biomedicines Inc",
+      "title": "Common Stock",
+      "cusip": "370920100",
+      "ticker": "GENB",
+      "put_call": "",
+      "shares_before": 498408.0,
+      "shares_after": 1284617.0,
+      "change": 786209.0,
+      "change_pct": 157.7,
+      "value_after": 21671492.0,
+      "value_before": 6230105.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Arcturus Therapeutics Holdings",
+      "title": "Common Stock",
+      "cusip": "03969T109",
+      "ticker": "ARCT",
+      "put_call": "",
+      "shares_before": 2769518.0,
+      "shares_after": 2901635.0,
+      "change": 132117.0,
+      "change_pct": 4.8,
+      "value_after": 19498987.0,
+      "value_before": 21380678.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Netflix Inc",
+      "title": "Common Stock",
+      "cusip": "64110L106",
+      "ticker": "NFLX",
+      "put_call": "",
+      "shares_before": 217421.0,
+      "shares_after": 224871.0,
+      "change": 7450.0,
+      "change_pct": 3.4,
+      "value_after": 16055789.0,
+      "value_before": 20905029.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Oklo Inc",
+      "title": "Common Stock",
+      "cusip": "02156V109",
+      "ticker": "OKLO",
+      "put_call": "",
+      "shares_before": 351169.0,
+      "shares_after": 372257.0,
+      "change": 21088.0,
+      "change_pct": 6.0,
+      "value_after": 19480209.0,
+      "value_before": 17414471.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Pony AI Inc",
+      "title": "ADR",
+      "cusip": "732908108",
+      "ticker": "PONY",
+      "put_call": "",
+      "shares_before": 1926151.0,
+      "shares_after": 2212454.0,
+      "change": 286303.0,
+      "change_pct": 14.9,
+      "value_after": 15376555.0,
+      "value_before": 18182865.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "HEICO Corp",
+      "title": "Common Stock",
+      "cusip": "422806109",
+      "ticker": "HEI",
+      "put_call": "",
+      "shares_before": 43741.0,
+      "shares_after": 50052.0,
+      "change": 6311.0,
+      "change_pct": 14.4,
+      "value_after": 17828022.0,
+      "value_before": 11993782.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "908 Devices Inc",
+      "title": "Common Stock",
+      "cusip": "65443P102",
+      "ticker": "MASS",
+      "put_call": "",
+      "shares_before": 1946685.0,
+      "shares_after": 2027920.0,
+      "change": 81235.0,
+      "change_pct": 4.2,
+      "value_after": 17642905.0,
+      "value_before": 11913711.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Garmin Ltd",
+      "title": "Common Stock",
+      "cusip": "H2906T109",
+      "ticker": "GRMN",
+      "put_call": "",
+      "shares_before": 53700.0,
+      "shares_after": 61682.0,
+      "change": 7982.0,
+      "change_pct": 14.9,
+      "value_after": 14651942.0,
+      "value_before": 12458937.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "BioNTech SE",
+      "title": "ADR",
+      "cusip": "09075V102",
+      "ticker": "BNTX",
+      "put_call": "",
+      "shares_before": 127878.0,
+      "shares_after": 133333.0,
+      "change": 5455.0,
+      "change_pct": 4.3,
+      "value_after": 12406622.0,
+      "value_before": 11365812.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Lockheed Martin Corp",
+      "title": "Common Stock",
+      "cusip": "539830109",
+      "ticker": "LMT",
+      "put_call": "",
+      "shares_before": 13267.0,
+      "shares_after": 14806.0,
+      "change": 1539.0,
+      "change_pct": 11.6,
+      "value_after": 7543065.0,
+      "value_before": 8018442.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Quantum-Si Inc",
+      "title": "Common Stock",
+      "cusip": "74765K105",
+      "ticker": "QSI",
+      "put_call": "",
+      "shares_before": 6878899.0,
+      "shares_after": 7167738.0,
+      "change": 288839.0,
+      "change_pct": 4.2,
+      "value_after": 6343448.0,
+      "value_before": 5324268.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "SimilarWeb Ltd",
+      "title": "Common Stock",
+      "cusip": "M84137104",
+      "ticker": "SMWB",
+      "put_call": "",
+      "shares_before": 352070.0,
+      "shares_after": 834663.0,
+      "change": 482593.0,
+      "change_pct": 137.1,
+      "value_after": 5116484.0,
+      "value_before": 918903.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "JFrog Ltd",
+      "title": "Common Stock",
+      "cusip": "M6191J100",
+      "ticker": "FROG",
+      "put_call": "",
+      "shares_before": 39541.0,
+      "shares_after": 50621.0,
+      "change": 11080.0,
+      "change_pct": 28.0,
+      "value_after": 4600436.0,
+      "value_before": 1855659.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Xometry Inc",
+      "title": "Common Stock",
+      "cusip": "98423F109",
+      "ticker": "XMTR",
+      "put_call": "",
+      "shares_before": 40296.0,
+      "shares_after": 46048.0,
+      "change": 5752.0,
+      "change_pct": 14.3,
+      "value_after": 4444553.0,
+      "value_before": 1645689.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Stratasys Ltd",
+      "title": "Common Stock",
+      "cusip": "M85548101",
+      "ticker": "SSYS",
+      "put_call": "",
+      "shares_before": 416428.0,
+      "shares_after": 512180.0,
+      "change": 95752.0,
+      "change_pct": 23.0,
+      "value_after": 4384261.0,
+      "value_before": 3252303.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Velo3D Inc",
+      "title": "Common Stock",
+      "cusip": "92259N302",
+      "ticker": "VELO",
+      "put_call": "",
+      "shares_before": 117898.0,
+      "shares_after": 194753.0,
+      "change": 76855.0,
+      "change_pct": 65.2,
+      "value_after": 3417915.0,
+      "value_before": 1107062.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Valens Semiconductor Ltd",
+      "title": "Common Stock",
+      "cusip": "M9607U115",
+      "ticker": "VLN",
+      "put_call": "",
+      "shares_before": 1048488.0,
+      "shares_after": 1412570.0,
+      "change": 364082.0,
+      "change_pct": 34.7,
+      "value_after": 3192408.0,
+      "value_before": 1184791.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "3D Systems Corp",
+      "title": "Common Stock",
+      "cusip": "88554D205",
+      "ticker": "DDD",
+      "put_call": "",
+      "shares_before": 915200.0,
+      "shares_after": 1032786.0,
+      "change": 117586.0,
+      "change_pct": 12.8,
+      "value_after": 3119014.0,
+      "value_before": 1720576.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Taboola.com Ltd",
+      "title": "Common Stock",
+      "cusip": "M8744T106",
+      "ticker": "TBLA",
+      "put_call": "",
+      "shares_before": 524429.0,
+      "shares_after": 602812.0,
+      "change": 78383.0,
+      "change_pct": 14.9,
+      "value_after": 3014060.0,
+      "value_before": 1625730.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "PTC Inc",
+      "title": "Common Stock",
+      "cusip": "69370C100",
+      "ticker": "PTC",
+      "put_call": "",
+      "shares_before": 19563.0,
+      "shares_after": 21049.0,
+      "change": 1486.0,
+      "change_pct": 7.6,
+      "value_after": 2391377.0,
+      "value_before": 2787532.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Mobileye Global Inc",
+      "title": "Common Stock",
+      "cusip": "60741F104",
+      "ticker": "MBLY",
+      "put_call": "",
+      "shares_before": 202423.0,
+      "shares_after": 281104.0,
+      "change": 78681.0,
+      "change_pct": 38.9,
+      "value_after": 2721087.0,
+      "value_before": 1390646.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Pagaya Technologies Ltd",
+      "title": "Common Stock",
+      "cusip": "M7S64L123",
+      "ticker": "PGY",
+      "put_call": "",
+      "shares_before": 99061.0,
+      "shares_after": 147603.0,
+      "change": 48542.0,
+      "change_pct": 49.0,
+      "value_after": 2693755.0,
+      "value_before": 1154061.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Allot Ltd",
+      "title": "Common Stock",
+      "cusip": "M0854Q105",
+      "ticker": "ALLT",
+      "put_call": "",
+      "shares_before": 202708.0,
+      "shares_after": 297726.0,
+      "change": 95018.0,
+      "change_pct": 46.9,
+      "value_after": 2587620.0,
+      "value_before": 1294388.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "TAT Technologies Ltd",
+      "title": "Common Stock",
+      "cusip": "M8740S227",
+      "ticker": "TATT",
+      "put_call": "",
+      "shares_before": 42690.0,
+      "shares_after": 52284.0,
+      "change": 9594.0,
+      "change_pct": 22.5,
+      "value_after": 2508930.0,
+      "value_before": 1682725.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Cellebrite DI Ltd",
+      "title": "Common Stock",
+      "cusip": "M2197Q107",
+      "ticker": "CLBT",
+      "put_call": "",
+      "shares_before": 126183.0,
+      "shares_after": 170923.0,
+      "change": 44740.0,
+      "change_pct": 35.5,
+      "value_after": 2495476.0,
+      "value_before": 1738802.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Riskified Ltd",
+      "title": "Common Stock",
+      "cusip": "M8216R109",
+      "ticker": "RSKD",
+      "put_call": "",
+      "shares_before": 474057.0,
+      "shares_after": 488797.0,
+      "change": 14740.0,
+      "change_pct": 3.1,
+      "value_after": 2463537.0,
+      "value_before": 1858303.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "RADCOM Ltd",
+      "title": "Common Stock",
+      "cusip": "M81865111",
+      "ticker": "RDCM",
+      "put_call": "",
+      "shares_before": 172735.0,
+      "shares_after": 174214.0,
+      "change": 1479.0,
+      "change_pct": 0.9,
+      "value_after": 2456417.0,
+      "value_before": 2100458.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Monday.com Ltd",
+      "title": "Common Stock",
+      "cusip": "M7S64H106",
+      "ticker": "MNDY",
+      "put_call": "",
+      "shares_before": 16992.0,
+      "shares_after": 33167.0,
+      "change": 16175.0,
+      "change_pct": 95.2,
+      "value_after": 2400959.0,
+      "value_before": 1174317.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Wix.com Ltd",
+      "title": "Common Stock",
+      "cusip": "M98068105",
+      "ticker": "WIX",
+      "put_call": "",
+      "shares_before": 26621.0,
+      "shares_after": 32312.0,
+      "change": 5691.0,
+      "change_pct": 21.4,
+      "value_after": 1465995.0,
+      "value_before": 2397753.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Teva Pharmaceutical Industries",
+      "title": "ADR",
+      "cusip": "881624209",
+      "ticker": "TEVA",
+      "put_call": "",
+      "shares_before": 68279.0,
+      "shares_after": 68653.0,
+      "change": 374.0,
+      "change_pct": 0.5,
+      "value_after": 2325964.0,
+      "value_before": 2056563.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Oddity Tech Ltd",
+      "title": "Common Stock",
+      "cusip": "M7518J104",
+      "ticker": "ODD",
+      "put_call": "",
+      "shares_before": 65515.0,
+      "shares_after": 146754.0,
+      "change": 81239.0,
+      "change_pct": 124.0,
+      "value_after": 2220388.0,
+      "value_before": 876591.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Nice Ltd",
+      "title": "ADR",
+      "cusip": "653656108",
+      "ticker": "NICE",
+      "put_call": "",
+      "shares_before": 19245.0,
+      "shares_after": 21035.0,
+      "change": 1790.0,
+      "change_pct": 9.3,
+      "value_after": 1911030.0,
+      "value_before": 2121954.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Check Point Software Technologies Ltd",
+      "title": "Common Stock",
+      "cusip": "M22465104",
+      "ticker": "CHKP",
+      "put_call": "",
+      "shares_before": 11768.0,
+      "shares_after": 16112.0,
+      "change": 4344.0,
+      "change_pct": 36.9,
+      "value_after": 2117600.0,
+      "value_before": 1681059.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Fiverr International Ltd",
+      "title": "Common Stock",
+      "cusip": "M4R82T106",
+      "ticker": "FVRR",
+      "put_call": "",
+      "shares_before": 128156.0,
+      "shares_after": 202039.0,
+      "change": 73883.0,
+      "change_pct": 57.7,
+      "value_after": 2085042.0,
+      "value_before": 1284123.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Nano-X Imaging Ltd",
+      "title": "Common Stock",
+      "cusip": "M70700105",
+      "ticker": "NNOX",
+      "put_call": "",
+      "shares_before": 733290.0,
+      "shares_after": 806614.0,
+      "change": 73324.0,
+      "change_pct": 10.0,
+      "value_after": 935672.0,
+      "value_before": 1664568.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Enlivex Ltd",
+      "title": "Common Stock",
+      "cusip": "M4130Y106",
+      "ticker": "ENLV",
+      "put_call": "",
+      "shares_before": 628310.0,
+      "shares_after": 2382731.0,
+      "change": 1754421.0,
+      "change_pct": 279.2,
+      "value_after": 1310264.0,
+      "value_before": 584391.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "iShares Russell 1000 Growth ETF",
+      "title": "ETP",
+      "cusip": "464287614",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 216.0,
+      "shares_after": 570.0,
+      "change": 354.0,
+      "change_pct": 163.9,
+      "value_after": 70792.0,
+      "value_before": 92260.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Vanguard Growth ETF",
+      "title": "ETP",
+      "cusip": "922908736",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 93.0,
+      "shares_after": 768.0,
+      "change": 675.0,
+      "change_pct": 725.8,
+      "value_after": 66182.0,
+      "value_before": 40495.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "Dauch Corporation",
+      "title": "Common Stock",
+      "cusip": "024061103",
+      "ticker": "DCH",
+      "put_call": "",
+      "shares_before": 5981.0,
+      "shares_after": 6386.0,
+      "change": 405.0,
+      "change_pct": 6.8,
+      "value_after": 34612.0,
+      "value_before": 35467.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Tesla Inc",
+      "title": "Common Stock",
+      "cusip": "88160R101",
+      "ticker": "TSLA",
+      "put_call": "",
+      "shares_before": 2831329.0,
+      "shares_after": 2759800.0,
+      "change": -71529.0,
+      "change_pct": -2.5,
+      "value_after": 1160772073.0,
+      "value_before": 1052546690.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Advanced Micro Devices Inc",
+      "title": "Common Stock",
+      "cusip": "007903107",
+      "ticker": "AMD",
+      "put_call": "",
+      "shares_before": 2712854.0,
+      "shares_after": 1416443.0,
+      "change": -1296411.0,
+      "change_pct": -47.8,
+      "value_after": 822826048.0,
+      "value_before": 551875889.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "CRISPR Therapeutics AG",
+      "title": "Common Stock",
+      "cusip": "H17182108",
+      "ticker": "CRSP",
+      "put_call": "",
+      "shares_before": 11313623.0,
+      "shares_after": 9460939.0,
+      "change": -1852684.0,
+      "change_pct": -16.4,
+      "value_after": 515999631.0,
+      "value_before": 538189027.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Robinhood Markets Inc",
+      "title": "Common Stock",
+      "cusip": "770700102",
+      "ticker": "HOOD",
+      "put_call": "",
+      "shares_before": 6003061.0,
+      "shares_after": 5236031.0,
+      "change": -767030.0,
+      "change_pct": -12.8,
+      "value_after": 525069168.0,
+      "value_before": 416012113.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Shopify Inc",
+      "title": "Common Stock",
+      "cusip": "82509L107",
+      "ticker": "SHOP",
+      "put_call": "",
+      "shares_before": 4177652.0,
+      "shares_after": 4155925.0,
+      "change": -21727.0,
+      "change_pct": -0.5,
+      "value_after": 474523465.0,
+      "value_before": 495553074.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Twist Bioscience Corp",
+      "title": "Common Stock",
+      "cusip": "90184D100",
+      "ticker": "TWST",
+      "put_call": "",
+      "shares_before": 6342733.0,
+      "shares_after": 4549803.0,
+      "change": -1792930.0,
+      "change_pct": -28.3,
+      "value_after": 468083756.0,
+      "value_before": 301406681.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "10X Genomics Inc",
+      "title": "Common Stock",
+      "cusip": "88025U109",
+      "ticker": "TXG",
+      "put_call": "",
+      "shares_before": 11717317.0,
+      "shares_after": 10003057.0,
+      "change": -1714260.0,
+      "change_pct": -14.6,
+      "value_after": 383517223.0,
+      "value_before": 248758647.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Teradyne Inc",
+      "title": "Common Stock",
+      "cusip": "880770102",
+      "ticker": "TER",
+      "put_call": "",
+      "shares_before": 1245122.0,
+      "shares_after": 644782.0,
+      "change": -600340.0,
+      "change_pct": -48.2,
+      "value_after": 311971420.0,
+      "value_before": 369128978.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Roku Inc",
+      "title": "Common Stock",
+      "cusip": "77543R102",
+      "ticker": "ROKU",
+      "put_call": "",
+      "shares_before": 3820405.0,
+      "shares_after": 595880.0,
+      "change": -3224525.0,
+      "change_pct": -84.4,
+      "value_after": 82314834.0,
+      "value_before": 361486706.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Beam Therapeutics Inc",
+      "title": "Common Stock",
+      "cusip": "07373V105",
+      "ticker": "BEAM",
+      "put_call": "",
+      "shares_before": 12133433.0,
+      "shares_after": 10234862.0,
+      "change": -1898571.0,
+      "change_pct": -15.6,
+      "value_after": 351260447.0,
+      "value_before": 289139697.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Deere & Co",
+      "title": "Common Stock",
+      "cusip": "244199105",
+      "ticker": "DE",
+      "put_call": "",
+      "shares_before": 399074.0,
+      "shares_after": 393025.0,
+      "change": -6049.0,
+      "change_pct": -1.5,
+      "value_after": 249307586.0,
+      "value_before": 224798576.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Taiwan Semiconductor Manufacturing Company Ltd",
+      "title": "ADR",
+      "cusip": "874039100",
+      "ticker": "TSM",
+      "put_call": "",
+      "shares_before": 627704.0,
+      "shares_after": 482286.0,
+      "change": -145418.0,
+      "change_pct": -23.2,
+      "value_after": 230325325.0,
+      "value_before": 212132567.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Archer Aviation Inc",
+      "title": "Common Stock",
+      "cusip": "03945R102",
+      "ticker": "ACHR",
+      "put_call": "",
+      "shares_before": 37437062.0,
+      "shares_after": 31963922.0,
+      "change": -5473140.0,
+      "change_pct": -14.6,
+      "value_after": 151189352.0,
+      "value_before": 193549613.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "BitMine Immersion Technologies",
+      "title": "Common Stock",
+      "cusip": "09175A206",
+      "ticker": "BMNR",
+      "put_call": "",
+      "shares_before": 9699165.0,
+      "shares_after": 8811588.0,
+      "change": -887577.0,
+      "change_pct": -9.2,
+      "value_after": 117282236.0,
+      "value_before": 191849484.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Illumina Inc",
+      "title": "Common Stock",
+      "cusip": "452327109",
+      "ticker": "ILMN",
+      "put_call": "",
+      "shares_before": 1129459.0,
+      "shares_after": 1045010.0,
+      "change": -84449.0,
+      "change_pct": -7.5,
+      "value_after": 183744158.0,
+      "value_before": 139217163.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Rocket Lab Corp",
+      "title": "Common Stock",
+      "cusip": "773121108",
+      "ticker": "RKLB",
+      "put_call": "",
+      "shares_before": 2243656.0,
+      "shares_after": 1631207.0,
+      "change": -612449.0,
+      "change_pct": -27.3,
+      "value_after": 165812192.0,
+      "value_before": 144087588.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Broadcom Inc",
+      "title": "Common Stock",
+      "cusip": "11135F101",
+      "ticker": "AVGO",
+      "put_call": "",
+      "shares_before": 407803.0,
+      "shares_after": 407202.0,
+      "change": -601.0,
+      "change_pct": -0.1,
+      "value_after": 153820556.0,
+      "value_before": 126219107.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "ARK 21Shares Bitcoin ETF",
+      "title": "ETP",
+      "cusip": "040919102",
+      "ticker": "ARKB",
+      "put_call": "",
+      "shares_before": 6698206.0,
+      "shares_after": 6454565.0,
+      "change": -243641.0,
+      "change_pct": -3.6,
+      "value_after": 125605835.0,
+      "value_before": 150642653.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Absci Corp",
+      "title": "Common Stock",
+      "cusip": "00091E109",
+      "ticker": "ABSI",
+      "put_call": "",
+      "shares_before": 13726169.0,
+      "shares_after": 12925271.0,
+      "change": -800898.0,
+      "change_pct": -5.8,
+      "value_after": 149803896.0,
+      "value_before": 41178507.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Veracyte Inc",
+      "title": "Common Stock",
+      "cusip": "92337F107",
+      "ticker": "VCYT",
+      "put_call": "",
+      "shares_before": 3053818.0,
+      "shares_after": 2295951.0,
+      "change": -757867.0,
+      "change_pct": -24.8,
+      "value_after": 134841222.0,
+      "value_before": 98363488.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "BWX Technologies Inc",
+      "title": "Common Stock",
+      "cusip": "05605H100",
+      "ticker": "BWXT",
+      "put_call": "",
+      "shares_before": 622546.0,
+      "shares_after": 549881.0,
+      "change": -72665.0,
+      "change_pct": -11.7,
+      "value_after": 107034337.0,
+      "value_before": 127304432.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Baidu Inc",
+      "title": "ADR",
+      "cusip": "056752108",
+      "ticker": "BIDU",
+      "put_call": "",
+      "shares_before": 1120331.0,
+      "shares_after": 301934.0,
+      "change": -818397.0,
+      "change_pct": -73.0,
+      "value_after": 34508037.0,
+      "value_before": 124827258.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Alibaba Group Holding Ltd",
+      "title": "ADR",
+      "cusip": "01609W102",
+      "ticker": "BABA",
+      "put_call": "",
+      "shares_before": 783171.0,
+      "shares_after": 119555.0,
+      "change": -663616.0,
+      "change_pct": -84.7,
+      "value_after": 11474896.0,
+      "value_before": 98256590.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Figma Inc",
+      "title": "Common Stock",
+      "cusip": "316841105",
+      "ticker": "FIG",
+      "put_call": "",
+      "shares_before": 3392869.0,
+      "shares_after": 3042015.0,
+      "change": -350854.0,
+      "change_pct": -10.3,
+      "value_after": 55030051.0,
+      "value_before": 71725251.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "SoFi Technologies Inc",
+      "title": "Common Stock",
+      "cusip": "83406F102",
+      "ticker": "SOFI",
+      "put_call": "",
+      "shares_before": 3836003.0,
+      "shares_after": 3742479.0,
+      "change": -93524.0,
+      "change_pct": -2.4,
+      "value_after": 67102642.0,
+      "value_before": 60915722.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Iridium Communications Inc",
+      "title": "Common Stock",
+      "cusip": "46269C102",
+      "ticker": "IRDM",
+      "put_call": "",
+      "shares_before": 1726802.0,
+      "shares_after": 1215113.0,
+      "change": -511689.0,
+      "change_pct": -29.6,
+      "value_after": 66648948.0,
+      "value_before": 47901487.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Caterpillar Inc",
+      "title": "Common Stock",
+      "cusip": "149123101",
+      "ticker": "CAT",
+      "put_call": "",
+      "shares_before": 58578.0,
+      "shares_after": 56008.0,
+      "change": -2570.0,
+      "change_pct": -4.4,
+      "value_after": 59642919.0,
+      "value_before": 41500170.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "CareDx Inc",
+      "title": "Common Stock",
+      "cusip": "14167L103",
+      "ticker": "CDNA",
+      "put_call": "",
+      "shares_before": 2227556.0,
+      "shares_after": 1953531.0,
+      "change": -274025.0,
+      "change_pct": -12.3,
+      "value_after": 55675622.0,
+      "value_before": 38670379.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Datadog Inc",
+      "title": "Common Stock",
+      "cusip": "23804L103",
+      "ticker": "DDOG",
+      "put_call": "",
+      "shares_before": 226622.0,
+      "shares_after": 210148.0,
+      "change": -16474.0,
+      "change_pct": -7.3,
+      "value_after": 54714133.0,
+      "value_before": 26752727.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Cerus Corp",
+      "title": "Common Stock",
+      "cusip": "157085101",
+      "ticker": "CERS",
+      "put_call": "",
+      "shares_before": 19161148.0,
+      "shares_after": 17932099.0,
+      "change": -1229049.0,
+      "change_pct": -6.4,
+      "value_after": 52361728.0,
+      "value_before": 34873289.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Pacific Biosciences of California, Inc.",
+      "title": "Common Stock",
+      "cusip": "69404D108",
+      "ticker": "PACB",
+      "put_call": "",
+      "shares_before": 36273288.0,
+      "shares_after": 29781416.0,
+      "change": -6491872.0,
+      "change_pct": -17.9,
+      "value_after": 50032778.0,
+      "value_before": 47880740.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Adaptive Biotechnologies Corp",
+      "title": "Common Stock",
+      "cusip": "00650F109",
+      "ticker": "ADPT",
+      "put_call": "",
+      "shares_before": 2092969.0,
+      "shares_after": 2090306.0,
+      "change": -2663.0,
+      "change_pct": -0.1,
+      "value_after": 44837058.0,
+      "value_before": 29050406.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Cloudflare Inc",
+      "title": "Common Stock",
+      "cusip": "18915M107",
+      "ticker": "NET",
+      "put_call": "",
+      "shares_before": 183644.0,
+      "shares_after": 175723.0,
+      "change": -7921.0,
+      "change_pct": -4.3,
+      "value_after": 43101337.0,
+      "value_before": 37893103.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Butterfly Network Inc",
+      "title": "Common Stock",
+      "cusip": "124155102",
+      "ticker": "BFLY",
+      "put_call": "",
+      "shares_before": 5227503.0,
+      "shares_after": 5085456.0,
+      "change": -142047.0,
+      "change_pct": -2.7,
+      "value_after": 42819541.0,
+      "value_before": 21119112.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Aurora Innovation Inc",
+      "title": "Common Stock",
+      "cusip": "051774107",
+      "ticker": "AUR",
+      "put_call": "",
+      "shares_before": 6450763.0,
+      "shares_after": 6131831.0,
+      "change": -318932.0,
+      "change_pct": -4.9,
+      "value_after": 41819087.0,
+      "value_before": 26577144.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "MercadoLibre Inc",
+      "title": "Common Stock",
+      "cusip": "58733R102",
+      "ticker": "MELI",
+      "put_call": "",
+      "shares_before": 23988.0,
+      "shares_after": 22044.0,
+      "change": -1944.0,
+      "change_pct": -8.1,
+      "value_after": 37417265.0,
+      "value_before": 41475732.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Crowdstrike Holdings Inc",
+      "title": "Common Stock",
+      "cusip": "22788C105",
+      "ticker": "CRWD",
+      "put_call": "",
+      "shares_before": 105866.0,
+      "shares_after": 94500.0,
+      "change": -11366.0,
+      "change_pct": -10.7,
+      "value_after": 18029183.0,
+      "value_before": 41331145.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Cameco Corp",
+      "title": "Common Stock",
+      "cusip": "13321L108",
+      "ticker": "CCJ",
+      "put_call": "",
+      "shares_before": 367177.0,
+      "shares_after": 361570.0,
+      "change": -5607.0,
+      "change_pct": -1.5,
+      "value_after": 36829520.0,
+      "value_before": 39879094.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Everpure Inc",
+      "title": "Common Stock",
+      "cusip": "74624M102",
+      "ticker": "P",
+      "put_call": "",
+      "shares_before": 428616.0,
+      "shares_after": 397952.0,
+      "change": -30664.0,
+      "change_pct": -7.2,
+      "value_after": 31354638.0,
+      "value_before": 25305489.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Strata Critical Medical Inc",
+      "title": "Common Stock",
+      "cusip": "092667104",
+      "ticker": "SRTA",
+      "put_call": "",
+      "shares_before": 7455284.0,
+      "shares_after": 2730855.0,
+      "change": -4724429.0,
+      "change_pct": -63.4,
+      "value_after": 14391606.0,
+      "value_before": 31163087.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "DraftKings Inc",
+      "title": "Common Stock",
+      "cusip": "26142V105",
+      "ticker": "DKNG",
+      "put_call": "",
+      "shares_before": 1353109.0,
+      "shares_after": 1228846.0,
+      "change": -124263.0,
+      "change_pct": -9.2,
+      "value_after": 31040642.0,
+      "value_before": 29254220.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Rubrik Inc",
+      "title": "Common Stock",
+      "cusip": "781154109",
+      "ticker": "RBRK",
+      "put_call": "",
+      "shares_before": 395049.0,
+      "shares_after": 365426.0,
+      "change": -29623.0,
+      "change_pct": -7.5,
+      "value_after": 29336399.0,
+      "value_before": 19345550.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Gitlab Inc",
+      "title": "Common Stock",
+      "cusip": "37637K108",
+      "ticker": "GTLB",
+      "put_call": "",
+      "shares_before": 826885.0,
+      "shares_after": 767998.0,
+      "change": -58887.0,
+      "change_pct": -7.1,
+      "value_after": 23446979.0,
+      "value_before": 17893791.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Airbnb Inc",
+      "title": "Common Stock",
+      "cusip": "009066101",
+      "ticker": "ABNB",
+      "put_call": "",
+      "shares_before": 161662.0,
+      "shares_after": 148320.0,
+      "change": -13342.0,
+      "change_pct": -8.3,
+      "value_after": 21224619.0,
+      "value_before": 20414701.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Genius Sports Ltd",
+      "title": "Common Stock",
+      "cusip": "G3934V109",
+      "ticker": "GENI",
+      "put_call": "",
+      "shares_before": 3331190.0,
+      "shares_after": 3065770.0,
+      "change": -265420.0,
+      "change_pct": -8.0,
+      "value_after": 18578566.0,
+      "value_before": 14757172.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "NU Holdings Ltd",
+      "title": "Common Stock",
+      "cusip": "G6683N103",
+      "ticker": "NU",
+      "put_call": "",
+      "shares_before": 1170765.0,
+      "shares_after": 1071519.0,
+      "change": -99246.0,
+      "change_pct": -8.5,
+      "value_after": 14315494.0,
+      "value_before": 16823893.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Sea Ltd",
+      "title": "ADR",
+      "cusip": "81141R100",
+      "ticker": "SE",
+      "put_call": "",
+      "shares_before": 173066.0,
+      "shares_after": 158412.0,
+      "change": -14654.0,
+      "change_pct": -8.5,
+      "value_after": 15180586.0,
+      "value_before": 14331564.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Klarna Group PLC",
+      "title": "Common Stock",
+      "cusip": "G5279N105",
+      "ticker": "KLAR",
+      "put_call": "",
+      "shares_before": 778161.0,
+      "shares_after": 712201.0,
+      "change": -65960.0,
+      "change_pct": -8.5,
+      "value_after": 14414948.0,
+      "value_before": 10186127.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Etoro Group Ltd",
+      "title": "Common Stock",
+      "cusip": "G32089107",
+      "ticker": "ETOR",
+      "put_call": "",
+      "shares_before": 352252.0,
+      "shares_after": 315645.0,
+      "change": -36607.0,
+      "change_pct": -10.4,
+      "value_after": 12458508.0,
+      "value_before": 10578128.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Canton Strategic Holdings Inc",
+      "title": "Common Stock",
+      "cusip": "432705309",
+      "ticker": "CNTN",
+      "put_call": "",
+      "shares_before": 3695084.0,
+      "shares_after": 3657548.0,
+      "change": -37536.0,
+      "change_pct": -1.0,
+      "value_after": 10314285.0,
+      "value_before": 12082925.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "ARK Innovation ETF",
+      "title": "ETP",
+      "cusip": "00214Q104",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 95637.0,
+      "shares_after": 91105.0,
+      "change": -4532.0,
+      "change_pct": -4.7,
+      "value_after": 7363075.0,
+      "value_before": 6464105.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Zillow Group Inc",
+      "title": "Common Stock",
+      "cusip": "98954M200",
+      "ticker": "Z",
+      "put_call": "",
+      "shares_before": 166685.0,
+      "shares_after": 152575.0,
+      "change": -14110.0,
+      "change_pct": -8.5,
+      "value_after": 4809164.0,
+      "value_before": 6897425.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "PayPay Corp",
+      "title": "ADR",
+      "cusip": "70450C101",
+      "ticker": "PAYP",
+      "put_call": "",
+      "shares_before": 267663.0,
+      "shares_after": 244985.0,
+      "change": -22678.0,
+      "change_pct": -8.5,
+      "value_after": 3510635.0,
+      "value_before": 5711928.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Kaspi.KZ JSC",
+      "title": "ADR",
+      "cusip": "48581R205",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 62632.0,
+      "shares_after": 41525.0,
+      "change": -21107.0,
+      "change_pct": -33.7,
+      "value_after": 3597726.0,
+      "value_before": 4639152.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "UroGen Pharma Ltd",
+      "title": "Common Stock",
+      "cusip": "M96088105",
+      "ticker": "URGN",
+      "put_call": "",
+      "shares_before": 115545.0,
+      "shares_after": 101508.0,
+      "change": -14037.0,
+      "change_pct": -12.1,
+      "value_after": 3735494.0,
+      "value_before": 2077499.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Alpha Tau Medical Ltd",
+      "title": "Common Stock",
+      "cusip": "M0740A108",
+      "ticker": "DRTS",
+      "put_call": "",
+      "shares_before": 292134.0,
+      "shares_after": 277086.0,
+      "change": -15048.0,
+      "change_pct": -5.2,
+      "value_after": 3485742.0,
+      "value_before": 2065387.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Tower Semiconductor Ltd",
+      "title": "Common Stock",
+      "cusip": "M87915274",
+      "ticker": "TSEM",
+      "put_call": "",
+      "shares_before": 18090.0,
+      "shares_after": 10126.0,
+      "change": -7964.0,
+      "change_pct": -44.0,
+      "value_after": 2639241.0,
+      "value_before": 3174433.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Materialise NV",
+      "title": "ADR",
+      "cusip": "57667T100",
+      "ticker": "MTLS",
+      "put_call": "",
+      "shares_before": 444324.0,
+      "shares_after": 419784.0,
+      "change": -24540.0,
+      "change_pct": -5.5,
+      "value_after": 3118995.0,
+      "value_before": 2194961.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Dentsply Sirona Inc",
+      "title": "Common Stock",
+      "cusip": "24906P109",
+      "ticker": "XRAY",
+      "put_call": "",
+      "shares_before": 266748.0,
+      "shares_after": 235538.0,
+      "change": -31210.0,
+      "change_pct": -11.7,
+      "value_after": 2499058.0,
+      "value_before": 3094277.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Autodesk Inc",
+      "title": "Common Stock",
+      "cusip": "052769106",
+      "ticker": "ADSK",
+      "put_call": "",
+      "shares_before": 12449.0,
+      "shares_after": 12226.0,
+      "change": -223.0,
+      "change_pct": -1.8,
+      "value_after": 2376979.0,
+      "value_before": 2980291.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Proto Labs Inc",
+      "title": "Common Stock",
+      "cusip": "743713109",
+      "ticker": "PRLB",
+      "put_call": "",
+      "shares_before": 45704.0,
+      "shares_after": 35418.0,
+      "change": -10286.0,
+      "change_pct": -22.5,
+      "value_after": 2886921.0,
+      "value_before": 2606042.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Radware Ltd",
+      "title": "Common Stock",
+      "cusip": "M81873107",
+      "ticker": "RDWR",
+      "put_call": "",
+      "shares_before": 91580.0,
+      "shares_after": 86280.0,
+      "change": -5300.0,
+      "change_pct": -5.8,
+      "value_after": 2662601.0,
+      "value_before": 2410386.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Brainsway Ltd",
+      "title": "ADR",
+      "cusip": "10501L106",
+      "ticker": "BWAY",
+      "put_call": "",
+      "shares_before": 193686.0,
+      "shares_after": 142500.0,
+      "change": -51186.0,
+      "change_pct": -26.4,
+      "value_after": 2210175.0,
+      "value_before": 2574087.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "HP Inc",
+      "title": "Common Stock",
+      "cusip": "40434L105",
+      "ticker": "HPQ",
+      "put_call": "",
+      "shares_before": 122753.0,
+      "shares_after": 113869.0,
+      "change": -8884.0,
+      "change_pct": -7.2,
+      "value_after": 2498286.0,
+      "value_before": 2358085.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Ituran Location and Control Ltd",
+      "title": "Common Stock",
+      "cusip": "M6158M104",
+      "ticker": "ITRN",
+      "put_call": "",
+      "shares_before": 50525.0,
+      "shares_after": 40137.0,
+      "change": -10388.0,
+      "change_pct": -20.6,
+      "value_after": 2448758.0,
+      "value_before": 2476230.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Nano Dimension Ltd",
+      "title": "ADR",
+      "cusip": "63008G203",
+      "ticker": "NNDM",
+      "put_call": "",
+      "shares_before": 1416118.0,
+      "shares_after": 1247498.0,
+      "change": -168620.0,
+      "change_pct": -11.9,
+      "value_after": 1808872.0,
+      "value_before": 2407401.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "AudioCodes Ltd",
+      "title": "Common Stock",
+      "cusip": "M15342104",
+      "ticker": "AUDC",
+      "put_call": "",
+      "shares_before": 254834.0,
+      "shares_after": 246438.0,
+      "change": -8396.0,
+      "change_pct": -3.3,
+      "value_after": 2385520.0,
+      "value_before": 2143154.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Microsoft Corp",
+      "title": "Common Stock",
+      "cusip": "594918104",
+      "ticker": "MSFT",
+      "put_call": "",
+      "shares_before": 6399.0,
+      "shares_after": 6177.0,
+      "change": -222.0,
+      "change_pct": -3.5,
+      "value_after": 2304145.0,
+      "value_before": 2368718.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Perion Network Ltd",
+      "title": "Common Stock",
+      "cusip": "M78673114",
+      "ticker": "PERI",
+      "put_call": "",
+      "shares_before": 233860.0,
+      "shares_after": 211984.0,
+      "change": -21876.0,
+      "change_pct": -9.4,
+      "value_after": 2058365.0,
+      "value_before": 2336261.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Camtek Ltd",
+      "title": "Common Stock",
+      "cusip": "M20791105",
+      "ticker": "CAMT",
+      "put_call": "",
+      "shares_before": 15354.0,
+      "shares_after": 12161.0,
+      "change": -3193.0,
+      "change_pct": -20.8,
+      "value_after": 1983702.0,
+      "value_before": 2327820.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Nova Ltd",
+      "title": "Common Stock",
+      "cusip": "M7516K103",
+      "ticker": "NVMI",
+      "put_call": "",
+      "shares_before": 5082.0,
+      "shares_after": 4220.0,
+      "change": -862.0,
+      "change_pct": -17.0,
+      "value_after": 2291207.0,
+      "value_before": 2207011.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Inmode Ltd",
+      "title": "Common Stock",
+      "cusip": "M5425M103",
+      "ticker": "INMD",
+      "put_call": "",
+      "shares_before": 157726.0,
+      "shares_after": 153224.0,
+      "change": -4502.0,
+      "change_pct": -2.9,
+      "value_after": 2240135.0,
+      "value_before": 2157692.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Compugen Ltd",
+      "title": "Common Stock",
+      "cusip": "M25722105",
+      "ticker": "CGEN",
+      "put_call": "",
+      "shares_before": 1049873.0,
+      "shares_after": 786536.0,
+      "change": -263337.0,
+      "change_pct": -25.1,
+      "value_after": 1683187.0,
+      "value_before": 2236229.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Kamada Ltd",
+      "title": "Common Stock",
+      "cusip": "M6240T109",
+      "ticker": "KMDA",
+      "put_call": "",
+      "shares_before": 269557.0,
+      "shares_after": 263304.0,
+      "change": -6253.0,
+      "change_pct": -2.3,
+      "value_after": 1931485.0,
+      "value_before": 2225134.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Nayax Ltd",
+      "title": "Common Stock",
+      "cusip": "M7S750159",
+      "ticker": "NYAX",
+      "put_call": "",
+      "shares_before": 37598.0,
+      "shares_after": 33306.0,
+      "change": -4292.0,
+      "change_pct": -11.4,
+      "value_after": 2163772.0,
+      "value_before": 2112046.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "MediWound Ltd",
+      "title": "Common Stock",
+      "cusip": "M68830112",
+      "ticker": "MDWD",
+      "put_call": "",
+      "shares_before": 129961.0,
+      "shares_after": 126576.0,
+      "change": -3385.0,
+      "change_pct": -2.6,
+      "value_after": 1860667.0,
+      "value_before": 2093672.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Cognyte Software Ltd",
+      "title": "Common Stock",
+      "cusip": "M25133105",
+      "ticker": "CGNT",
+      "put_call": "",
+      "shares_before": 240953.0,
+      "shares_after": 225795.0,
+      "change": -15158.0,
+      "change_pct": -6.3,
+      "value_after": 1982480.0,
+      "value_before": 1951719.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Gilat Satellite Networks Ltd",
+      "title": "Common Stock",
+      "cusip": "M51474118",
+      "ticker": "GILT",
+      "put_call": "",
+      "shares_before": 126911.0,
+      "shares_after": 118601.0,
+      "change": -8310.0,
+      "change_pct": -6.5,
+      "value_after": 1578579.0,
+      "value_before": 1906203.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Kaiser Aluminum Corp",
+      "title": "Common Stock",
+      "cusip": "483007704",
+      "ticker": "KALU",
+      "put_call": "",
+      "shares_before": 9412.0,
+      "shares_after": 7530.0,
+      "change": -1882.0,
+      "change_pct": -20.0,
+      "value_after": 1473094.0,
+      "value_before": 1134240.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Moog Inc",
+      "title": "Common Stock",
+      "cusip": "615394202",
+      "ticker": "MOG.A",
+      "put_call": "",
+      "shares_before": 4149.0,
+      "shares_after": 3455.0,
+      "change": -694.0,
+      "change_pct": -16.7,
+      "value_after": 1464367.0,
+      "value_before": 1214163.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "GE Aerospace",
+      "title": "Common Stock",
+      "cusip": "369604301",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 3723.0,
+      "shares_after": 3610.0,
+      "change": -113.0,
+      "change_pct": -3.0,
+      "value_after": 1349165.0,
+      "value_before": 1056476.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Lincoln Electric Holdings Inc",
+      "title": "Common Stock",
+      "cusip": "533900106",
+      "ticker": "LECO",
+      "put_call": "",
+      "shares_before": 4610.0,
+      "shares_after": 4193.0,
+      "change": -417.0,
+      "change_pct": -9.0,
+      "value_after": 1113283.0,
+      "value_before": 1148259.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Align Technology Inc",
+      "title": "Common Stock",
+      "cusip": "016255101",
+      "ticker": "ALGN",
+      "put_call": "",
+      "shares_before": 6361.0,
+      "shares_after": 5264.0,
+      "change": -1097.0,
+      "change_pct": -17.2,
+      "value_after": 887826.0,
+      "value_before": 1090466.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "AMETEK Inc",
+      "title": "Common Stock",
+      "cusip": "031100100",
+      "ticker": "AME",
+      "put_call": "",
+      "shares_before": 5076.0,
+      "shares_after": 4186.0,
+      "change": -890.0,
+      "change_pct": -17.5,
+      "value_after": 1012761.0,
+      "value_before": 1088091.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "ARK Innovation ETF",
+      "title": "ETP",
+      "cusip": "00214Q104",
+      "ticker": null,
+      "put_call": "CALL",
+      "shares_before": 9000.0,
+      "shares_after": 8900.0,
+      "change": -100.0,
+      "change_pct": -1.1,
+      "value_after": 719298.0,
+      "value_before": 608310.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "ARK Genomic Revolution ETF",
+      "title": "ETP",
+      "cusip": "00214Q302",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 6773.0,
+      "shares_after": 1659.0,
+      "change": -5114.0,
+      "change_pct": -75.5,
+      "value_after": 69794.0,
+      "value_before": 178949.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Materion Corp",
+      "title": "Common Stock",
+      "cusip": "576690101",
+      "ticker": "MTRN",
+      "put_call": "",
+      "shares_before": 571.0,
+      "shares_after": 455.0,
+      "change": -116.0,
+      "change_pct": -20.3,
+      "value_after": 135312.0,
+      "value_before": 82595.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Carpenter Technology Corp",
+      "title": "Common Stock",
+      "cusip": "144285103",
+      "ticker": "CRS",
+      "put_call": "",
+      "shares_before": 253.0,
+      "shares_after": 178.0,
+      "change": -75.0,
+      "change_pct": -29.6,
+      "value_after": 109798.0,
+      "value_before": 99720.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "ATI Inc",
+      "title": "Common Stock",
+      "cusip": "01741R102",
+      "ticker": "ATI",
+      "put_call": "",
+      "shares_before": 679.0,
+      "shares_after": 487.0,
+      "change": -192.0,
+      "change_pct": -28.3,
+      "value_after": 95988.0,
+      "value_before": 98767.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Jabil Inc",
+      "title": "Common Stock",
+      "cusip": "466313103",
+      "ticker": "JBL",
+      "put_call": "",
+      "shares_before": 337.0,
+      "shares_after": 245.0,
+      "change": -92.0,
+      "change_pct": -27.3,
+      "value_after": 94443.0,
+      "value_before": 89517.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Kennametal Inc",
+      "title": "Common Stock",
+      "cusip": "489170100",
+      "ticker": "KMT",
+      "put_call": "",
+      "shares_before": 2458.0,
+      "shares_after": 1979.0,
+      "change": -479.0,
+      "change_pct": -19.5,
+      "value_after": 69364.0,
+      "value_before": 88808.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Grayscale Ethereum Staking Min",
+      "title": "ETP",
+      "cusip": "38964R203",
+      "ticker": "ETH",
+      "put_call": "",
+      "shares_before": 4458.0,
+      "shares_after": 4280.0,
+      "change": -178.0,
+      "change_pct": -4.0,
+      "value_after": 64328.0,
+      "value_before": 88536.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Avient Corp",
+      "title": "Common Stock",
+      "cusip": "05368V106",
+      "ticker": "AVNT",
+      "put_call": "",
+      "shares_before": 2359.0,
+      "shares_after": 2015.0,
+      "change": -344.0,
+      "change_pct": -14.6,
+      "value_after": 74474.0,
+      "value_before": 85632.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "3M Co",
+      "title": "Common Stock",
+      "cusip": "88579Y101",
+      "ticker": "MMM",
+      "put_call": "",
+      "shares_before": 497.0,
+      "shares_after": 470.0,
+      "change": -27.0,
+      "change_pct": -5.4,
+      "value_after": 76098.0,
+      "value_before": 72179.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "State Street SPDR S&P 500 ETF Trust",
+      "title": "ETP",
+      "cusip": "78462F103",
+      "ticker": "STT",
+      "put_call": "",
+      "shares_before": 28.0,
+      "shares_after": 0.0,
+      "change": -28.0,
+      "change_pct": -100.0,
+      "value_after": 344.0,
+      "value_before": 17910.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "Playtika Holding Corp",
+      "title": "Common Stock",
+      "cusip": "72815L107",
+      "ticker": "PLTK",
+      "put_call": "",
+      "shares_before": 614004.0,
+      "shares_after": 614004.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 2284095.0,
+      "value_before": 1706931.0
+    }
+  ],
+  "diff_error": null,
+  "filings": [
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-26-096910",
+      "filed": "2026-08-14",
+      "period": "2026-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-26-059240",
+      "filed": "2026-05-12",
+      "period": "2026-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-26-013538",
+      "filed": "2026-02-11",
+      "period": "2025-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-25-110217",
+      "filed": "2025-11-12",
+      "period": "2025-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-25-072098",
+      "filed": "2025-07-30",
+      "period": "2025-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-25-045396",
+      "filed": "2025-05-07",
+      "period": "2025-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-25-009155",
+      "filed": "2025-02-04",
+      "period": "2024-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-24-113006",
+      "filed": "2024-10-31",
+      "period": "2024-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-24-082900",
+      "filed": "2024-07-26",
+      "period": "2024-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-24-048700",
+      "filed": "2024-04-18",
+      "period": "2024-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-24-004517",
+      "filed": "2024-01-17",
+      "period": "2023-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-23-109811",
+      "filed": "2023-10-18",
+      "period": "2023-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-23-079512",
+      "filed": "2023-07-10",
+      "period": "2023-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-23-046032",
+      "filed": "2023-04-17",
+      "period": "2023-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-23-006118",
+      "filed": "2023-01-24",
+      "period": "2022-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    }
+  ],
+  "source": "SEC EDGAR"
+}

@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:09.690733+00:00",
+  "filing": {
+    "doc_id": "20034717",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Stanton",
+    "first": "Greg",
+    "name": "Hon. Greg Stanton",
+    "district": "AZ04",
+    "year": 2026,
+    "filed": "2026-06-26",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034717.pdf"
+  },
+  "report": {
+    "name": "Hon. Greg Stanton",
+    "status": "Member",
+    "district": "AZ04",
+    "doc_id": "20034717",
+    "filed": "2026-06-26",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-05-28",
+        "notified": "2026-05-28",
+        "amount": "$100,001 - $250,000",
+        "status": "New",
+        "account": null,
+        "ticker": "TCNNF",
+        "asset_type": "ST",
+        "asset": "TRULIEVE CANNABIS CORP",
+        "amount_low": 100001,
+        "amount_high": 250000,
+        "description": null,
+        "days_to_disclose": 29,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

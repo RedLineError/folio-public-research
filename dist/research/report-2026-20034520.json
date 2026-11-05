@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:11.624770+00:00",
+  "filing": {
+    "doc_id": "20034520",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Morrison",
+    "first": "Kelly Louise",
+    "name": "Hon. Kelly Louise Morrison",
+    "district": "MN03",
+    "year": 2026,
+    "filed": "2026-05-21",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034520.pdf"
+  },
+  "report": {
+    "name": "Hon. Kelly Louise Morrison",
+    "status": "Member",
+    "district": "MN03",
+    "doc_id": "20034520",
+    "filed": "2026-05-21",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-05-04",
+        "notified": "2026-05-01",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Investment Fund 1",
+        "description": "Data Centers, Redmond, WA",
+        "ticker": null,
+        "asset_type": "OI",
+        "asset": "StarCloud",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 17,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

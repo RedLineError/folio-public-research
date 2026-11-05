@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:03.220800+00:00",
+  "filing": {
+    "doc_id": "20035687",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Himes",
+    "first": "James A.",
+    "name": "Hon. James A. Himes",
+    "district": "CT04",
+    "year": 2026,
+    "filed": "2026-10-20",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035687.pdf"
+  },
+  "report": {
+    "name": "Hon. James A. Himes",
+    "status": "Member",
+    "district": "CT04",
+    "doc_id": "20035687",
+    "filed": "2026-10-20",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-09-29",
+        "notified": "2026-09-29",
+        "amount": "$50,001 - $100,000",
+        "status": "New",
+        "account": null,
+        "description": "Mandatorily convertible SAFE (Simple Agreement for Future Equity)",
+        "ticker": null,
+        "asset_type": "OL",
+        "asset": "So Fine Foods LLC",
+        "amount_low": 50001,
+        "amount_high": 100000,
+        "days_to_disclose": 21,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

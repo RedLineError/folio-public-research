@@ -1,0 +1,1738 @@
+{
+  "fetched_at": "2026-11-05T00:17:43.382498+00:00",
+  "meta": {
+    "filer": "LONE PINE CAPITAL LLC",
+    "cik": "0001061165",
+    "period": "2026-06-30",
+    "filed": "2026-08-14",
+    "accession": "0000919574-26-005485",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1061165/000091957426005485/infotable.xml",
+    "notes": [],
+    "cover_total": 16357760275.0,
+    "total_check": "Matches the cover page total."
+  },
+  "prior": {
+    "filer": "LONE PINE CAPITAL LLC",
+    "cik": "0001061165",
+    "period": "2026-03-31",
+    "filed": "2026-05-15",
+    "accession": "0000919574-26-003439",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1061165/000091957426003439/infotable.xml",
+    "notes": [],
+    "cover_total": 12543849391.0
+  },
+  "total": 16357760275.0,
+  "positions": [
+    {
+      "issuer": "NEBIUS GROUP N.V.",
+      "title": "SHS CLASS A",
+      "cusip": "N97284108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1175934069.0,
+      "shares": 4258008.0,
+      "rows": 1,
+      "pct_of_13f": 7.19,
+      "cusips": [
+        "N97284108"
+      ],
+      "issuer_cik": "0001513845",
+      "ticker": "NBIS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Nebius Group",
+      "tickers": [
+        "NBIS"
+      ],
+      "classes": [
+        "SHS CLASS A"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "ASML HLDG NV",
+      "title": "N Y REGISTRY SHS",
+      "cusip": "N07059210",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1132337523.0,
+      "shares": 569174.0,
+      "rows": 1,
+      "pct_of_13f": 6.92,
+      "cusips": [
+        "N07059210"
+      ],
+      "issuer_cik": "0000937966",
+      "ticker": "ASML",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Asml Holding Nv",
+      "tickers": [
+        "ASML"
+      ],
+      "classes": [
+        "N Y REGISTRY SHS"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "SEAGATE TECHNOLOGY HLDNGS PL",
+      "title": "ORD SHS",
+      "cusip": "G7997R103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 965105185.0,
+      "shares": 1000109.0,
+      "rows": 1,
+      "pct_of_13f": 5.9,
+      "cusips": [
+        "G7997R103"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Seagate Technology Hldngs Pl",
+      "tickers": [],
+      "classes": [
+        "ORD SHS"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "HOME DEPOT INC",
+      "title": "COM",
+      "cusip": "437076102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 918092697.0,
+      "shares": 2603189.0,
+      "rows": 1,
+      "pct_of_13f": 5.61,
+      "cusips": [
+        "437076102"
+      ],
+      "issuer_cik": "0000354950",
+      "ticker": "HD",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Home Depot",
+      "tickers": [
+        "HD"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "APPLIED MATLS INC",
+      "title": "COM",
+      "cusip": "038222105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 873193851.0,
+      "shares": 1207737.0,
+      "rows": 1,
+      "pct_of_13f": 5.34,
+      "cusips": [
+        "038222105"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Applied Matls",
+      "tickers": [],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "MEDLINE INC",
+      "title": "COM CL A",
+      "cusip": "58507V107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 826992394.0,
+      "shares": 20968367.0,
+      "rows": 1,
+      "pct_of_13f": 5.06,
+      "cusips": [
+        "58507V107"
+      ],
+      "issuer_cik": "0002046386",
+      "ticker": "MDLN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Medline",
+      "tickers": [
+        "MDLN"
+      ],
+      "classes": [
+        "COM CL A"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "LINDE PLC",
+      "title": "SHS",
+      "cusip": "G54950103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 808550554.0,
+      "shares": 1558081.0,
+      "rows": 1,
+      "pct_of_13f": 4.94,
+      "cusips": [
+        "G54950103"
+      ],
+      "issuer_cik": "0001707925",
+      "ticker": "LIN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Linde",
+      "tickers": [
+        "LIN"
+      ],
+      "classes": [
+        "SHS"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "TERADYNE INC",
+      "title": "COM",
+      "cusip": "880770102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 722411827.0,
+      "shares": 1493080.0,
+      "rows": 1,
+      "pct_of_13f": 4.42,
+      "cusips": [
+        "880770102"
+      ],
+      "issuer_cik": "0000097210",
+      "ticker": "TER",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Teradyne",
+      "tickers": [
+        "TER"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "CORNING INC",
+      "title": "COM",
+      "cusip": "219350105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 696827855.0,
+      "shares": 2728058.0,
+      "rows": 1,
+      "pct_of_13f": 4.26,
+      "cusips": [
+        "219350105"
+      ],
+      "issuer_cik": "0000024741",
+      "ticker": "GLW",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Corning",
+      "tickers": [
+        "GLW"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "CARVANA CO",
+      "title": "CL A",
+      "cusip": "146869102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 692470236.0,
+      "shares": 10520666.0,
+      "rows": 1,
+      "pct_of_13f": 4.23,
+      "cusips": [
+        "146869102"
+      ],
+      "issuer_cik": "0001690820",
+      "ticker": "CVNA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Carvana",
+      "tickers": [
+        "CVNA"
+      ],
+      "classes": [
+        "CL A"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "HUT 8 CORP",
+      "title": "COM",
+      "cusip": "44812J104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 666469180.0,
+      "shares": 5773045.0,
+      "rows": 1,
+      "pct_of_13f": 4.07,
+      "cusips": [
+        "44812J104"
+      ],
+      "issuer_cik": "0001964789",
+      "ticker": "HUT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Hut 8",
+      "tickers": [
+        "HUT"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "PERFORMANCE FOOD GROUP CO",
+      "title": "COM",
+      "cusip": "71377A103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 654277805.0,
+      "shares": 5852740.0,
+      "rows": 1,
+      "pct_of_13f": 4.0,
+      "cusips": [
+        "71377A103"
+      ],
+      "issuer_cik": "0001618673",
+      "ticker": "PFGC",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Performance Food Group",
+      "tickers": [
+        "PFGC"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "NU HLDGS LTD",
+      "title": "ORD SHS CL A",
+      "cusip": "G6683N103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 630855419.0,
+      "shares": 47219717.0,
+      "rows": 1,
+      "pct_of_13f": 3.86,
+      "cusips": [
+        "G6683N103"
+      ],
+      "issuer_cik": "0001691493",
+      "ticker": "NU",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Nu Holdings",
+      "tickers": [
+        "NU"
+      ],
+      "classes": [
+        "ORD SHS CL A"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "TERAWULF INC",
+      "title": "COM",
+      "cusip": "88080T104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 596372238.0,
+      "shares": 24144625.0,
+      "rows": 1,
+      "pct_of_13f": 3.65,
+      "cusips": [
+        "88080T104"
+      ],
+      "issuer_cik": "0001083301",
+      "ticker": "WULF",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Terawulf",
+      "tickers": [
+        "WULF"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "CARPENTER TECHNOLOGY CORP",
+      "title": "COM",
+      "cusip": "144285103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 593917609.0,
+      "shares": 962839.0,
+      "rows": 1,
+      "pct_of_13f": 3.63,
+      "cusips": [
+        "144285103"
+      ],
+      "issuer_cik": "0000017843",
+      "ticker": "CRS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Carpenter Technology",
+      "tickers": [
+        "CRS"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "MASTEC INC",
+      "title": "COM",
+      "cusip": "576323109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 559666021.0,
+      "shares": 1345157.0,
+      "rows": 1,
+      "pct_of_13f": 3.42,
+      "cusips": [
+        "576323109"
+      ],
+      "issuer_cik": "0000015615",
+      "ticker": "MTZ",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Mastec",
+      "tickers": [
+        "MTZ"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "APPLOVIN CORP",
+      "title": "COM CL A",
+      "cusip": "03831W108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 537007742.0,
+      "shares": 1042268.0,
+      "rows": 1,
+      "pct_of_13f": 3.28,
+      "cusips": [
+        "03831W108"
+      ],
+      "issuer_cik": "0001751008",
+      "ticker": "APP",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "AppLovin",
+      "tickers": [
+        "APP"
+      ],
+      "classes": [
+        "COM CL A"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "TTM TECHNOLOGIES INC",
+      "title": "COM",
+      "cusip": "87305R109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 512074787.0,
+      "shares": 2738075.0,
+      "rows": 1,
+      "pct_of_13f": 3.13,
+      "cusips": [
+        "87305R109"
+      ],
+      "issuer_cik": "0001116942",
+      "ticker": "TTMI",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Ttm Technologies",
+      "tickers": [
+        "TTMI"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "STERLING INFRASTRUCTURE INC",
+      "title": "COM",
+      "cusip": "859241101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 511709948.0,
+      "shares": 609643.0,
+      "rows": 1,
+      "pct_of_13f": 3.13,
+      "cusips": [
+        "859241101"
+      ],
+      "issuer_cik": "0000874238",
+      "ticker": "STRL",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Sterling Infrastructure",
+      "tickers": [
+        "STRL"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "US FOODS HLDG CORP",
+      "title": "COM",
+      "cusip": "912008109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 502506807.0,
+      "shares": 4914492.0,
+      "rows": 1,
+      "pct_of_13f": 3.07,
+      "cusips": [
+        "912008109"
+      ],
+      "issuer_cik": "0001665918",
+      "ticker": "USFD",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "US Foods Holding",
+      "tickers": [
+        "USFD"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "ON HLDG AG",
+      "title": "NAMEN AKT A",
+      "cusip": "H5919C104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 470378663.0,
+      "shares": 13280030.0,
+      "rows": 1,
+      "pct_of_13f": 2.88,
+      "cusips": [
+        "H5919C104"
+      ],
+      "issuer_cik": "0001858985",
+      "ticker": "ONON",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "On Holding AG",
+      "tickers": [
+        "ONON"
+      ],
+      "classes": [
+        "NAMEN AKT A"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "LPL FINL HLDGS INC",
+      "title": "COM",
+      "cusip": "50212V100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 343395806.0,
+      "shares": 1219099.0,
+      "rows": 1,
+      "pct_of_13f": 2.1,
+      "cusips": [
+        "50212V100"
+      ],
+      "issuer_cik": "0001397911",
+      "ticker": "LPLA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "LPL Financial Holdings",
+      "tickers": [
+        "LPLA"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "ARGAN INC",
+      "title": "COM",
+      "cusip": "04010E109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 294403824.0,
+      "shares": 368673.0,
+      "rows": 1,
+      "pct_of_13f": 1.8,
+      "cusips": [
+        "04010E109"
+      ],
+      "issuer_cik": "0000100591",
+      "ticker": "AGX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Argan",
+      "tickers": [
+        "AGX"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "BITDEER TECHNOLOGIES GROUP",
+      "title": "CL A ORD SHS",
+      "cusip": "G11448100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 111407813.0,
+      "shares": 7020026.0,
+      "rows": 1,
+      "pct_of_13f": 0.68,
+      "cusips": [
+        "G11448100"
+      ],
+      "issuer_cik": "0001899123",
+      "ticker": "BTDR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Bitdeer Technologies Group",
+      "tickers": [
+        "BTDR"
+      ],
+      "classes": [
+        "CL A ORD SHS"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "SHARONAI HOLDINGS INC",
+      "title": "COM CL A",
+      "cusip": "778920306",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 102425731.0,
+      "shares": 1209848.0,
+      "rows": 1,
+      "pct_of_13f": 0.63,
+      "cusips": [
+        "778920306"
+      ],
+      "issuer_cik": "0002068385",
+      "ticker": "SHAZ",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "SharonAI Holdings",
+      "tickers": [
+        "SHAZ"
+      ],
+      "classes": [
+        "COM CL A"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "title": "CAP STK CL A",
+      "cusip": "02079K305",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 77039680.0,
+      "shares": 215574.0,
+      "rows": 1,
+      "pct_of_13f": 0.47,
+      "cusips": [
+        "02079K305"
+      ],
+      "issuer_cik": "0001652044",
+      "ticker": "GOOGL",
+      "ticker_source": "override",
+      "ticker_check": false,
+      "name": "Alphabet",
+      "tickers": [
+        "GOOGL"
+      ],
+      "classes": [
+        "CAP STK CL A"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "KODIAK GAS SVCS INC",
+      "title": "COM",
+      "cusip": "50012A108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 63490109.0,
+      "shares": 845070.0,
+      "rows": 1,
+      "pct_of_13f": 0.39,
+      "cusips": [
+        "50012A108"
+      ],
+      "issuer_cik": "0001767042",
+      "ticker": "KGS",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Kodiak Gas Services",
+      "tickers": [
+        "KGS"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "VISA INC",
+      "title": "COM CL A",
+      "cusip": "92826C839",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 56939216.0,
+      "shares": 165960.0,
+      "rows": 1,
+      "pct_of_13f": 0.35,
+      "cusips": [
+        "92826C839"
+      ],
+      "issuer_cik": "0001403161",
+      "ticker": "V",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Visa",
+      "tickers": [
+        "V"
+      ],
+      "classes": [
+        "COM CL A"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "INTERACTIVE BROKERS GROUP IN",
+      "title": "COM CL A",
+      "cusip": "45841N107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 50280049.0,
+      "shares": 577666.0,
+      "rows": 1,
+      "pct_of_13f": 0.31,
+      "cusips": [
+        "45841N107"
+      ],
+      "issuer_cik": "0001381197",
+      "ticker": "IBKR",
+      "ticker_source": "name-prefix",
+      "ticker_check": true,
+      "name": "Interactive Brokers Group",
+      "tickers": [
+        "IBKR"
+      ],
+      "classes": [
+        "COM CL A"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
+      "title": "SPONSORED ADS",
+      "cusip": "874039100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 48350142.0,
+      "shares": 101242.0,
+      "rows": 1,
+      "pct_of_13f": 0.3,
+      "cusips": [
+        "874039100"
+      ],
+      "issuer_cik": "0001046179",
+      "ticker": "TSM",
+      "ticker_source": "name-prefix",
+      "ticker_check": true,
+      "name": "Taiwan Semiconductor Manufacturing",
+      "tickers": [
+        "TSM"
+      ],
+      "classes": [
+        "SPONSORED ADS"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "SEA LTD",
+      "title": "SPONSORD ADS",
+      "cusip": "81141R100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 47395697.0,
+      "shares": 494581.0,
+      "rows": 1,
+      "pct_of_13f": 0.29,
+      "cusips": [
+        "81141R100"
+      ],
+      "issuer_cik": "0001703399",
+      "ticker": "SE",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Sea",
+      "tickers": [
+        "SE"
+      ],
+      "classes": [
+        "SPONSORD ADS"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "MCKESSON CORP",
+      "title": "COM",
+      "cusip": "58155Q103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 43712216.0,
+      "shares": 57851.0,
+      "rows": 1,
+      "pct_of_13f": 0.27,
+      "cusips": [
+        "58155Q103"
+      ],
+      "issuer_cik": "0000927653",
+      "ticker": "MCK",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Mckesson",
+      "tickers": [
+        "MCK"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "TRANSDIGM GROUP INC",
+      "title": "COM",
+      "cusip": "893641100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 38005765.0,
+      "shares": 28532.0,
+      "rows": 1,
+      "pct_of_13f": 0.23,
+      "cusips": [
+        "893641100"
+      ],
+      "issuer_cik": "0001260221",
+      "ticker": "TDG",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "TransDigm Group",
+      "tickers": [
+        "TDG"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "BROOKFIELD CORP",
+      "title": "CL A LTD VT SH",
+      "cusip": "11271J107",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 33761817.0,
+      "shares": 792717.0,
+      "rows": 1,
+      "pct_of_13f": 0.21,
+      "cusips": [
+        "11271J107"
+      ],
+      "issuer_cik": "0001001085",
+      "ticker": "BKPA",
+      "ticker_source": "name",
+      "ticker_check": true,
+      "name": "Brookfield",
+      "tickers": [
+        "BKPA"
+      ],
+      "classes": [
+        "CL A LTD VT SH"
+      ],
+      "copy_eligible": false
+    }
+  ],
+  "changes": [
+    {
+      "status": "NEW",
+      "issuer": "NEBIUS GROUP N.V.",
+      "title": "SHS CLASS A",
+      "cusip": "N97284108",
+      "ticker": "NBIS",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 4258008.0,
+      "change": 4258008.0,
+      "change_pct": null,
+      "value_after": 1175934069.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "SEAGATE TECHNOLOGY HLDNGS PL",
+      "title": "ORD SHS",
+      "cusip": "G7997R103",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 1000109.0,
+      "change": 1000109.0,
+      "change_pct": null,
+      "value_after": 965105185.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "HOME DEPOT INC",
+      "title": "COM",
+      "cusip": "437076102",
+      "ticker": "HD",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 2603189.0,
+      "change": 2603189.0,
+      "change_pct": null,
+      "value_after": 918092697.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "APPLIED MATLS INC",
+      "title": "COM",
+      "cusip": "038222105",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 1207737.0,
+      "change": 1207737.0,
+      "change_pct": null,
+      "value_after": 873193851.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "LINDE PLC",
+      "title": "SHS",
+      "cusip": "G54950103",
+      "ticker": "LIN",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 1558081.0,
+      "change": 1558081.0,
+      "change_pct": null,
+      "value_after": 808550554.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "TTM TECHNOLOGIES INC",
+      "title": "COM",
+      "cusip": "87305R109",
+      "ticker": "TTMI",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 2738075.0,
+      "change": 2738075.0,
+      "change_pct": null,
+      "value_after": 512074787.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "STERLING INFRASTRUCTURE INC",
+      "title": "COM",
+      "cusip": "859241101",
+      "ticker": "STRL",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 609643.0,
+      "change": 609643.0,
+      "change_pct": null,
+      "value_after": 511709948.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "ON HLDG AG",
+      "title": "NAMEN AKT A",
+      "cusip": "H5919C104",
+      "ticker": "ONON",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 13280030.0,
+      "change": 13280030.0,
+      "change_pct": null,
+      "value_after": 470378663.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "BITDEER TECHNOLOGIES GROUP",
+      "title": "CL A ORD SHS",
+      "cusip": "G11448100",
+      "ticker": "BTDR",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 7020026.0,
+      "change": 7020026.0,
+      "change_pct": null,
+      "value_after": 111407813.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "SHARONAI HOLDINGS INC",
+      "title": "COM CL A",
+      "cusip": "778920306",
+      "ticker": "SHAZ",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 1209848.0,
+      "change": 1209848.0,
+      "change_pct": null,
+      "value_after": 102425731.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "KODIAK GAS SVCS INC",
+      "title": "COM",
+      "cusip": "50012A108",
+      "ticker": "KGS",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 845070.0,
+      "change": 845070.0,
+      "change_pct": null,
+      "value_after": 63490109.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "INTERACTIVE BROKERS GROUP IN",
+      "title": "COM CL A",
+      "cusip": "45841N107",
+      "ticker": "IBKR",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 577666.0,
+      "change": 577666.0,
+      "change_pct": null,
+      "value_after": 50280049.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "SEA LTD",
+      "title": "SPONSORD ADS",
+      "cusip": "81141R100",
+      "ticker": "SE",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 494581.0,
+      "change": 494581.0,
+      "change_pct": null,
+      "value_after": 47395697.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "VISTRA CORP",
+      "title": "COM",
+      "cusip": "92840M102",
+      "ticker": "VST",
+      "put_call": "",
+      "shares_before": 6187585.0,
+      "shares_after": 0.0,
+      "change": -6187585.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 930179653.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "TALEN ENERGY CORP",
+      "title": "COM",
+      "cusip": "87422Q109",
+      "ticker": "TLN",
+      "put_call": "",
+      "shares_before": 1817947.0,
+      "shares_after": 0.0,
+      "change": -1817947.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 580343221.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "CLEAN HARBORS INC",
+      "title": "COM",
+      "cusip": "184496107",
+      "ticker": "CLH",
+      "put_call": "",
+      "shares_before": 1754950.0,
+      "shares_after": 0.0,
+      "change": -1754950.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 503196814.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "TENET HEALTHCARE CORP",
+      "title": "COM NEW",
+      "cusip": "88033G407",
+      "ticker": "THC",
+      "put_call": "",
+      "shares_before": 2258717.0,
+      "shares_after": 0.0,
+      "change": -2258717.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 426242485.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "CAPITAL ONE FINL CORP",
+      "title": "COM",
+      "cusip": "14040H105",
+      "ticker": "COF",
+      "put_call": "",
+      "shares_before": 2267056.0,
+      "shares_after": 0.0,
+      "change": -2267056.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 413579026.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "ENTEGRIS INC",
+      "title": "COM",
+      "cusip": "29362U104",
+      "ticker": "ENTG",
+      "put_call": "",
+      "shares_before": 3115054.0,
+      "shares_after": 0.0,
+      "change": -3115054.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 365208931.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "CIENA CORP",
+      "title": "COM NEW",
+      "cusip": "171779309",
+      "ticker": "CIEN",
+      "put_call": "",
+      "shares_before": 809522.0,
+      "shares_after": 0.0,
+      "change": -809522.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 314280726.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "VULCAN MATLS CO",
+      "title": "COM",
+      "cusip": "929160109",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 144179.0,
+      "shares_after": 0.0,
+      "change": -144179.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 39259942.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "SPOTIFY TECHNOLOGY S A",
+      "title": "SHS",
+      "cusip": "L8681T102",
+      "ticker": "SPOT",
+      "put_call": "",
+      "shares_before": 68844.0,
+      "shares_after": 0.0,
+      "change": -68844.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 33383144.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "MASTERCARD INCORPORATED",
+      "title": "CL A",
+      "cusip": "57636Q104",
+      "ticker": "MA",
+      "put_call": "",
+      "shares_before": 57201.0,
+      "shares_after": 0.0,
+      "change": -57201.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 28581052.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "AMPHENOL CORP",
+      "title": "CL A",
+      "cusip": "032095101",
+      "ticker": "APH",
+      "put_call": "",
+      "shares_before": 223084.0,
+      "shares_after": 0.0,
+      "change": -223084.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 28186663.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "HILTON WORLDWIDE HLDGS INC",
+      "title": "COM",
+      "cusip": "43300A203",
+      "ticker": "HLT",
+      "put_call": "",
+      "shares_before": 89249.0,
+      "shares_after": 0.0,
+      "change": -89249.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 27138836.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "KKR & CO INC",
+      "title": "COM",
+      "cusip": "48251W104",
+      "ticker": "KKR",
+      "put_call": "",
+      "shares_before": 179308.0,
+      "shares_after": 0.0,
+      "change": -179308.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 16585990.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "BOOKING HOLDINGS INC",
+      "title": "COM",
+      "cusip": "09857L108",
+      "ticker": "BKNG",
+      "put_call": "",
+      "shares_before": 2405.0,
+      "shares_after": 0.0,
+      "change": -2405.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 10125820.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "BOSTON SCIENTIFIC CORP",
+      "title": "COM",
+      "cusip": "101137107",
+      "ticker": "BSX",
+      "put_call": "",
+      "shares_before": 104655.0,
+      "shares_after": 0.0,
+      "change": -104655.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 6567101.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "MEDLINE INC",
+      "title": "COM CL A",
+      "cusip": "58507V107",
+      "ticker": "MDLN",
+      "put_call": "",
+      "shares_before": 11789156.0,
+      "shares_after": 20968367.0,
+      "change": 9179211.0,
+      "change_pct": 77.9,
+      "value_after": 826992394.0,
+      "value_before": 524617442.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "CARVANA CO",
+      "title": "CL A",
+      "cusip": "146869102",
+      "ticker": "CVNA",
+      "put_call": "",
+      "shares_before": 1754709.0,
+      "shares_after": 10520666.0,
+      "change": 8765957.0,
+      "change_pct": 499.6,
+      "value_after": 692470236.0,
+      "value_before": 551645415.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "PERFORMANCE FOOD GROUP CO",
+      "title": "COM",
+      "cusip": "71377A103",
+      "ticker": "PFGC",
+      "put_call": "",
+      "shares_before": 3978158.0,
+      "shares_after": 5852740.0,
+      "change": 1874582.0,
+      "change_pct": 47.1,
+      "value_after": 654277805.0,
+      "value_before": 340769014.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "NU HLDGS LTD",
+      "title": "ORD SHS CL A",
+      "cusip": "G6683N103",
+      "ticker": "NU",
+      "put_call": "",
+      "shares_before": 38011225.0,
+      "shares_after": 47219717.0,
+      "change": 9208492.0,
+      "change_pct": 24.2,
+      "value_after": 630855419.0,
+      "value_before": 546221303.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "TERAWULF INC",
+      "title": "COM",
+      "cusip": "88080T104",
+      "ticker": "WULF",
+      "put_call": "",
+      "shares_before": 19921430.0,
+      "shares_after": 24144625.0,
+      "change": 4223195.0,
+      "change_pct": 21.2,
+      "value_after": 596372238.0,
+      "value_before": 287466235.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "US FOODS HLDG CORP",
+      "title": "COM",
+      "cusip": "912008109",
+      "ticker": "USFD",
+      "put_call": "",
+      "shares_before": 3795998.0,
+      "shares_after": 4914492.0,
+      "change": 1118494.0,
+      "change_pct": 29.5,
+      "value_after": 502506807.0,
+      "value_before": 350028976.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "ALPHABET INC",
+      "title": "CAP STK CL A",
+      "cusip": "02079K305",
+      "ticker": "GOOGL",
+      "put_call": "",
+      "shares_before": 187561.0,
+      "shares_after": 215574.0,
+      "change": 28013.0,
+      "change_pct": 14.9,
+      "value_after": 77039680.0,
+      "value_before": 53935041.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "VISA INC",
+      "title": "COM CL A",
+      "cusip": "92826C839",
+      "ticker": "V",
+      "put_call": "",
+      "shares_before": 92775.0,
+      "shares_after": 165960.0,
+      "change": 73185.0,
+      "change_pct": 78.9,
+      "value_after": 56939216.0,
+      "value_before": 28040316.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "ASML HLDG NV",
+      "title": "N Y REGISTRY SHS",
+      "cusip": "N07059210",
+      "ticker": "ASML",
+      "put_call": "",
+      "shares_before": 655148.0,
+      "shares_after": 569174.0,
+      "change": -85974.0,
+      "change_pct": -13.1,
+      "value_after": 1132337523.0,
+      "value_before": 865339133.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "TERADYNE INC",
+      "title": "COM",
+      "cusip": "880770102",
+      "ticker": "TER",
+      "put_call": "",
+      "shares_before": 1872876.0,
+      "shares_after": 1493080.0,
+      "change": -379796.0,
+      "change_pct": -20.3,
+      "value_after": 722411827.0,
+      "value_before": 555232819.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "CARPENTER TECHNOLOGY CORP",
+      "title": "COM",
+      "cusip": "144285103",
+      "ticker": "CRS",
+      "put_call": "",
+      "shares_before": 1817940.0,
+      "shares_after": 962839.0,
+      "change": -855101.0,
+      "change_pct": -47.0,
+      "value_after": 593917609.0,
+      "value_before": 716541051.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "CORNING INC",
+      "title": "COM",
+      "cusip": "219350105",
+      "ticker": "GLW",
+      "put_call": "",
+      "shares_before": 3718147.0,
+      "shares_after": 2728058.0,
+      "change": -990089.0,
+      "change_pct": -26.6,
+      "value_after": 696827855.0,
+      "value_before": 505556448.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "HUT 8 CORP",
+      "title": "COM",
+      "cusip": "44812J104",
+      "ticker": "HUT",
+      "put_call": "",
+      "shares_before": 6078951.0,
+      "shares_after": 5773045.0,
+      "change": -305906.0,
+      "change_pct": -5.0,
+      "value_after": 666469180.0,
+      "value_before": 285163591.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "LPL FINL HLDGS INC",
+      "title": "COM",
+      "cusip": "50212V100",
+      "ticker": "LPLA",
+      "put_call": "",
+      "shares_before": 2049967.0,
+      "shares_after": 1219099.0,
+      "change": -830868.0,
+      "change_pct": -40.5,
+      "value_after": 343395806.0,
+      "value_before": 616691573.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "APPLOVIN CORP",
+      "title": "COM CL A",
+      "cusip": "03831W108",
+      "ticker": "APP",
+      "put_call": "",
+      "shares_before": 1464923.0,
+      "shares_after": 1042268.0,
+      "change": -422655.0,
+      "change_pct": -28.9,
+      "value_after": 537007742.0,
+      "value_before": 583039354.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "MASTEC INC",
+      "title": "COM",
+      "cusip": "576323109",
+      "ticker": "MTZ",
+      "put_call": "",
+      "shares_before": 1531050.0,
+      "shares_after": 1345157.0,
+      "change": -185893.0,
+      "change_pct": -12.1,
+      "value_after": 559666021.0,
+      "value_before": 492600027.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
+      "title": "SPONSORED ADS",
+      "cusip": "874039100",
+      "ticker": "TSM",
+      "put_call": "",
+      "shares_before": 1389530.0,
+      "shares_after": 101242.0,
+      "change": -1288288.0,
+      "change_pct": -92.7,
+      "value_after": 48350142.0,
+      "value_before": 469591664.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "BROOKFIELD CORP",
+      "title": "CL A LTD VT SH",
+      "cusip": "11271J107",
+      "ticker": "BKPA",
+      "put_call": "",
+      "shares_before": 11208969.0,
+      "shares_after": 792717.0,
+      "change": -10416252.0,
+      "change_pct": -92.9,
+      "value_after": 33761817.0,
+      "value_before": 453626975.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "MCKESSON CORP",
+      "title": "COM",
+      "cusip": "58155Q103",
+      "ticker": "MCK",
+      "put_call": "",
+      "shares_before": 392224.0,
+      "shares_after": 57851.0,
+      "change": -334373.0,
+      "change_pct": -85.3,
+      "value_after": 43712216.0,
+      "value_before": 339414961.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "ARGAN INC",
+      "title": "COM",
+      "cusip": "04010E109",
+      "ticker": "AGX",
+      "put_call": "",
+      "shares_before": 393134.0,
+      "shares_after": 368673.0,
+      "change": -24461.0,
+      "change_pct": -6.2,
+      "value_after": 294403824.0,
+      "value_before": 214120433.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "TRANSDIGM GROUP INC",
+      "title": "COM",
+      "cusip": "893641100",
+      "ticker": "TDG",
+      "put_call": "",
+      "shares_before": 35677.0,
+      "shares_after": 28532.0,
+      "change": -7145.0,
+      "change_pct": -20.0,
+      "value_after": 38005765.0,
+      "value_before": 41348216.0
+    }
+  ],
+  "diff_error": null,
+  "filings": [
+    {
+      "form": "13F-HR",
+      "accession": "0000919574-26-005485",
+      "filed": "2026-08-14",
+      "period": "2026-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000919574-26-003439",
+      "filed": "2026-05-15",
+      "period": "2026-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000902664-26-001084",
+      "filed": "2026-02-17",
+      "period": "2025-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000902664-25-004988",
+      "filed": "2025-11-14",
+      "period": "2025-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000902664-25-003627",
+      "filed": "2025-08-14",
+      "period": "2025-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000902664-25-002417",
+      "filed": "2025-05-15",
+      "period": "2025-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000902664-25-001072",
+      "filed": "2025-02-14",
+      "period": "2024-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000902664-24-006633",
+      "filed": "2024-11-14",
+      "period": "2024-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000902664-24-005150",
+      "filed": "2024-08-14",
+      "period": "2024-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000902664-24-003638",
+      "filed": "2024-05-15",
+      "period": "2024-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000902664-24-001732",
+      "filed": "2024-02-14",
+      "period": "2023-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000902664-23-005548",
+      "filed": "2023-11-14",
+      "period": "2023-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000902664-23-004451",
+      "filed": "2023-08-14",
+      "period": "2023-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000902664-23-003075",
+      "filed": "2023-05-15",
+      "period": "2023-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0000902664-23-001763",
+      "filed": "2023-02-14",
+      "period": "2022-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    }
+  ],
+  "source": "SEC EDGAR"
+}

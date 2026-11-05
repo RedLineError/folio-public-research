@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:09.724798+00:00",
+  "filing": {
+    "doc_id": "20034851",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Evans",
+    "first": "Dwight",
+    "name": "Hon. Dwight Evans",
+    "district": "PA03",
+    "year": 2026,
+    "filed": "2026-06-24",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034851.pdf"
+  },
+  "report": {
+    "name": "Hon. Dwight Evans",
+    "status": "Member",
+    "district": "PA03",
+    "doc_id": "20034851",
+    "filed": "2026-06-24",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-06-10",
+        "notified": "2026-06-11",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "CETERA",
+        "ticker": "GD",
+        "asset_type": "ST",
+        "asset": "General Dynamics Corporation Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 14,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-06-10",
+        "notified": "2026-06-11",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "CETERA",
+        "ticker": "INTC",
+        "asset_type": "ST",
+        "asset": "Intel Corporation - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 14,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

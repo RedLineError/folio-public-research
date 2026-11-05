@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:12.290661+00:00",
+  "filing": {
+    "doc_id": "20034542",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "McCormick",
+    "first": "Richard Dean Dr",
+    "name": "Hon. Richard Dean Dr McCormick",
+    "district": "GA06",
+    "year": 2026,
+    "filed": "2026-05-12",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034542.pdf"
+  },
+  "report": {
+    "name": "Hon. Richard Dean Dr McCormick",
+    "status": "Member",
+    "district": "GA06",
+    "doc_id": "20034542",
+    "filed": "2026-05-12",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-04-17",
+        "notified": "2026-05-07",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Growth Partners Roth IRA",
+        "ticker": "AMT",
+        "asset_type": "ST",
+        "asset": "American Tower Corporation",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 25,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

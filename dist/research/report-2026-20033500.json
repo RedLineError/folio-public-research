@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:16.416631+00:00",
+  "filing": {
+    "doc_id": "20033500",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Sessions",
+    "first": "Pete",
+    "name": "Hon. Pete Sessions",
+    "district": "TX17",
+    "year": 2026,
+    "filed": "2026-03-09",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033500.pdf"
+  },
+  "report": {
+    "name": "Hon. Pete Sessions",
+    "status": "Member",
+    "district": "TX17",
+    "doc_id": "20033500",
+    "filed": "2026-03-09",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-03-09",
+        "notified": "2026-03-09",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "ticker": "VZ",
+        "asset_type": "ST",
+        "asset": "Verizon Communications Inc. Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 0,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

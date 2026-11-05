@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:13.961279+00:00",
+  "filing": {
+    "doc_id": "20034357",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Fields",
+    "first": "Cleo",
+    "name": "Cleo Fields",
+    "district": "LA06",
+    "year": 2026,
+    "filed": "2026-04-20",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034357.pdf"
+  },
+  "report": {
+    "name": "Cleo Fields",
+    "status": "Member",
+    "district": "LA06",
+    "doc_id": "20034357",
+    "filed": "2026-04-20",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-04-09",
+        "notified": "2026-04-09",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Morgan Stanley - E*TRADE #2",
+        "ticker": "TSM",
+        "asset_type": "ST",
+        "asset": "Taiwan Semiconductor Manufacturing Company Ltd.",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 11,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

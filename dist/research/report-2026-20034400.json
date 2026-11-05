@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:13.674218+00:00",
+  "filing": {
+    "doc_id": "20034400",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "DelBene",
+    "first": "Suzan K.",
+    "name": "Hon. Suzan K. DelBene",
+    "district": "WA01",
+    "year": 2026,
+    "filed": "2026-04-28",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034400.pdf"
+  },
+  "report": {
+    "name": "Hon. Suzan K. DelBene",
+    "status": "Member",
+    "district": "WA01",
+    "doc_id": "20034400",
+    "filed": "2026-04-28",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-04-09",
+        "notified": "2026-04-09",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": null,
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "Maryland ST Dept TR 5% Comb Tax Due Nov 1, 2027",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 19,
+        "late": false
+      },
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-04-01",
+        "notified": "2026-04-01",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": null,
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "Tarrant CNTY Tex Cultural Ed Facs Fin 5.00% Due Nov 15, 2051",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 27,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

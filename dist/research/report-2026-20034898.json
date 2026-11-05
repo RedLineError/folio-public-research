@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:06.577338+00:00",
+  "filing": {
+    "doc_id": "20034898",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Keating",
+    "first": "William R.",
+    "name": "Hon. William R. Keating",
+    "district": "MA09",
+    "year": 2026,
+    "filed": "2026-08-13",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034898.pdf"
+  },
+  "report": {
+    "name": "Hon. William R. Keating",
+    "status": "Member",
+    "district": "MA09",
+    "doc_id": "20034898",
+    "filed": "2026-08-13",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-06-30",
+        "notified": "2026-08-11",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Focus Partners IRA",
+        "description": "14040HDC6",
+        "ticker": null,
+        "asset_type": "CS",
+        "asset": "CAPITAL ONE FINL CORP NOTE 7.62400% 10/30/2031",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 44,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-06-30",
+        "notified": "2026-08-11",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Focus Partners IRA",
+        "description": "404121AJ4",
+        "ticker": null,
+        "asset_type": "CS",
+        "asset": "HCA INC. NOTE CALL MAKE WHOLE 5.62500% 09/01/2028",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 44,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

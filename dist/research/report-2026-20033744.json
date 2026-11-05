@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:19.653642+00:00",
+  "filing": {
+    "doc_id": "20033744",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Dingell",
+    "first": "Debbie",
+    "name": "Hon. Debbie Dingell",
+    "district": "MI06",
+    "year": 2026,
+    "filed": "2026-01-12",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033744.pdf"
+  },
+  "report": {
+    "name": "Hon. Debbie Dingell",
+    "status": "Member",
+    "district": "MI06",
+    "doc_id": "20033744",
+    "filed": "2026-01-12",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "E",
+        "type_name": "exchange",
+        "date": "2026-01-05",
+        "notified": "2026-01-05",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Morgan Stanley Smith Barney LLC Brokerage Account",
+        "description": "Asset was acquired through a spin-off of Comcast Corporation (CMCSA).",
+        "ticker": "VSNT",
+        "asset_type": "OT",
+        "asset": "VERSANT MEDIA GROUP INC CL A",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 7,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

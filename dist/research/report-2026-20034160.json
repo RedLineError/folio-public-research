@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:15.765754+00:00",
+  "filing": {
+    "doc_id": "20034160",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Jayapal",
+    "first": "Pramila",
+    "name": "Hon. Pramila Jayapal",
+    "district": "WA07",
+    "year": 2026,
+    "filed": "2026-03-15",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034160.pdf"
+  },
+  "report": {
+    "name": "Hon. Pramila Jayapal",
+    "status": "Member",
+    "district": "WA07",
+    "doc_id": "20034160",
+    "filed": "2026-03-15",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2023-10-31",
+        "notified": "2024-05-13",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Personal Account",
+        "description": "All Shares sold C : Notified and Disclosed on the 2023 Federal Disclosure",
+        "ticker": "NWL",
+        "asset_type": "ST",
+        "asset": "Newell Brands Inc.",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 866,
+        "late": true
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

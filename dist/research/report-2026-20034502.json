@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:12.551583+00:00",
+  "filing": {
+    "doc_id": "20034502",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Carter",
+    "first": "Earl Leroy",
+    "name": "Hon. Earl Leroy Carter",
+    "district": "GA01",
+    "year": 2026,
+    "filed": "2026-05-08",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034502.pdf"
+  },
+  "report": {
+    "name": "Hon. Earl Leroy Carter",
+    "status": "Member",
+    "district": "GA01",
+    "doc_id": "20034502",
+    "filed": "2026-05-08",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-05-07",
+        "notified": "2026-05-08",
+        "amount": "$1,000,001 - $5,000,000",
+        "status": "New",
+        "account": "Stifel",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "US Treasury Bill",
+        "amount_low": 1000001,
+        "amount_high": 5000000,
+        "description": null,
+        "days_to_disclose": 1,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

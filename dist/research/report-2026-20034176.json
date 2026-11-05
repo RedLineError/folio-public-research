@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:15.797227+00:00",
+  "filing": {
+    "doc_id": "20034176",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Case",
+    "first": "Ed",
+    "name": "Hon. Ed Case",
+    "district": "HI01",
+    "year": 2026,
+    "filed": "2026-03-14",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034176.pdf"
+  },
+  "report": {
+    "name": "Hon. Ed Case",
+    "status": "Member",
+    "district": "HI01",
+    "doc_id": "20034176",
+    "filed": "2026-03-14",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-02-12",
+        "notified": "2026-03-10",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "description": "Automatic stock dividend reinvestment.",
+        "ticker": "AAPL",
+        "asset_type": "ST",
+        "asset": "Apple Inc. - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 30,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

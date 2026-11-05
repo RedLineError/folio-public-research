@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:18.058722+00:00",
+  "filing": {
+    "doc_id": "20033946",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Keating",
+    "first": "William R.",
+    "name": "Hon. William R. Keating",
+    "district": "MA09",
+    "year": 2026,
+    "filed": "2026-02-06",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033946.pdf"
+  },
+  "report": {
+    "name": "Hon. William R. Keating",
+    "status": "Member",
+    "district": "MA09",
+    "doc_id": "20033946",
+    "filed": "2026-02-06",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-01-08",
+        "notified": "2026-02-04",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Bill's IRA",
+        "description": "912797TA5",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "UNITED STATES TREAS BILLS ZERO CPN 0.00000% 03/24/2026",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 29,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-01-26",
+        "notified": "2026-02-04",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Bill's IRA",
+        "description": "912797TA5",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "UNITED STATES TREAS BILLS ZERO CPN 0.00000% 03/24/2026",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 11,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

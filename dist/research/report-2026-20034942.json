@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:09.040756+00:00",
+  "filing": {
+    "doc_id": "20034942",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "McGuire",
+    "first": "John",
+    "name": "Hon. John McGuire",
+    "district": "VA05",
+    "year": 2026,
+    "filed": "2026-07-08",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034942.pdf"
+  },
+  "report": {
+    "name": "Hon. John McGuire",
+    "status": "Member",
+    "district": "VA05",
+    "doc_id": "20034942",
+    "filed": "2026-07-08",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-07-07",
+        "notified": "2026-07-07",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Merrill Lynch SEP IRA",
+        "ticker": "BLK",
+        "asset_type": "ST",
+        "asset": "BlackRock, Inc. Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 1,
+        "late": false
+      },
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-06-15",
+        "notified": "2026-06-30",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Merrill Lynch Brokerage Account",
+        "ticker": "SPCX",
+        "asset_type": "ST",
+        "asset": "Space Exploration Technologies Corp. - Class A Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 23,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

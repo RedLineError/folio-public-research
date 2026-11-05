@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:11.721594+00:00",
+  "filing": {
+    "doc_id": "20034498",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Jacobs",
+    "first": "Sara",
+    "name": "Hon. Sara Jacobs",
+    "district": "CA51",
+    "year": 2026,
+    "filed": "2026-05-20",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034498.pdf"
+  },
+  "report": {
+    "name": "Hon. Sara Jacobs",
+    "status": "Member",
+    "district": "CA51",
+    "doc_id": "20034498",
+    "filed": "2026-05-20",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-05-06",
+        "notified": "2026-05-06",
+        "amount": "$500,001 - $1,000,000",
+        "status": "New",
+        "account": "Sara J Jacobs 1999 Trust > Merrill Lynch - SJ QCOM",
+        "ticker": "QCOM",
+        "asset_type": "ST",
+        "asset": "QUALCOMM Incorporated - Common Stock",
+        "amount_low": 500001,
+        "amount_high": 1000000,
+        "description": null,
+        "days_to_disclose": 14,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-05-07",
+        "notified": "2026-05-07",
+        "amount": "$500,001 - $1,000,000",
+        "status": "New",
+        "account": "Sara J Jacobs 1999 Trust > Merrill Lynch - SJ QCOM",
+        "ticker": "QCOM",
+        "asset_type": "ST",
+        "asset": "QUALCOMM Incorporated - Common Stock",
+        "amount_low": 500001,
+        "amount_high": 1000000,
+        "description": null,
+        "days_to_disclose": 13,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

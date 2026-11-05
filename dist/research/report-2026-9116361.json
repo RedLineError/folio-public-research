@@ -1,0 +1,24 @@
+{
+  "fetched_at": "2026-11-05T00:17:04.192308+00:00",
+  "filing": {
+    "doc_id": "9116361",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Wied",
+    "first": "Tony",
+    "name": "Tony Wied",
+    "district": "WI08",
+    "year": 2026,
+    "filed": "2026-10-02",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116361.pdf"
+  },
+  "report": {
+    "name": null,
+    "status": null,
+    "district": null,
+    "doc_id": null,
+    "filed": "2026-10-02",
+    "rows": []
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

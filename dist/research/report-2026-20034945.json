@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:08.380573+00:00",
+  "filing": {
+    "doc_id": "20034945",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Allen",
+    "first": "Richard W.",
+    "name": "Hon. Richard W. Allen",
+    "district": "GA12",
+    "year": 2026,
+    "filed": "2026-07-15",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034945.pdf"
+  },
+  "report": {
+    "name": "Hon. Richard W. Allen",
+    "status": "Member",
+    "district": "GA12",
+    "doc_id": "20034945",
+    "filed": "2026-07-15",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-06-10",
+        "notified": "2026-07-07",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "LIVTR",
+        "ticker": "INTU",
+        "asset_type": "ST",
+        "asset": "Intuit Inc. - Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 35,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

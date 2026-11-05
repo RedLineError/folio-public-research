@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:16.734841+00:00",
+  "filing": {
+    "doc_id": "20034102",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Morrison",
+    "first": "Kelly Louise",
+    "name": "Hon. Kelly Louise Morrison",
+    "district": "MN03",
+    "year": 2026,
+    "filed": "2026-03-03",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034102.pdf"
+  },
+  "report": {
+    "name": "Hon. Kelly Louise Morrison",
+    "status": "Member",
+    "district": "MN03",
+    "doc_id": "20034102",
+    "filed": "2026-03-03",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-03-02",
+        "notified": "2026-03-02",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Investment Fund 1",
+        "description": "San Francisco, CA",
+        "ticker": null,
+        "asset_type": "OI",
+        "asset": "Arcade AI. Inc.",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 1,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:05.802592+00:00",
+  "filing": {
+    "doc_id": "20035345",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Fields",
+    "first": "Cleo",
+    "name": "Cleo Fields",
+    "district": "LA06",
+    "year": 2026,
+    "filed": "2026-09-02",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035345.pdf"
+  },
+  "report": {
+    "name": "Cleo Fields",
+    "status": "Member",
+    "district": "LA06",
+    "doc_id": "20035345",
+    "filed": "2026-09-02",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-08-13",
+        "notified": "2026-08-13",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Morgan Stanley - E*TRADE #2",
+        "ticker": "AAPL",
+        "asset_type": "ST",
+        "asset": "Apple Inc. - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 20,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

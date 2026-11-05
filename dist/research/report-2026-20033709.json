@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:20.303329+00:00",
+  "filing": {
+    "doc_id": "20033709",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Shreve",
+    "first": "Jefferson",
+    "name": "Hon. Jefferson Shreve",
+    "district": "IN06",
+    "year": 2026,
+    "filed": "2026-01-02",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033709.pdf"
+  },
+  "report": {
+    "name": "Hon. Jefferson Shreve",
+    "status": "Member",
+    "district": "IN06",
+    "doc_id": "20033709",
+    "filed": "2026-01-02",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2025-12-30",
+        "notified": "2025-12-30",
+        "amount": "$5,000,001 - $25,000,000",
+        "status": "New",
+        "account": "Advisory Account holding Structured Notes",
+        "description": "Structured Note",
+        "ticker": null,
+        "asset_type": "CS",
+        "asset": "JP Morgan 3-year auto callable buffer note",
+        "amount_low": 5000001,
+        "amount_high": 25000000,
+        "days_to_disclose": 3,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2025-12-30",
+        "notified": "2025-12-30",
+        "amount": "$5,000,001 - $25,000,000",
+        "status": "New",
+        "account": "Advisory Account holding Structured Notes",
+        "description": "Structured Note",
+        "ticker": null,
+        "asset_type": "CS",
+        "asset": "JP Morgan 3-year one-time callable barrier note",
+        "amount_low": 5000001,
+        "amount_high": 25000000,
+        "days_to_disclose": 3,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

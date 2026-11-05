@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:08.876393+00:00",
+  "filing": {
+    "doc_id": "20034952",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Moore",
+    "first": "Tim",
+    "name": "Hon. Tim Moore",
+    "district": "NC14",
+    "year": 2026,
+    "filed": "2026-07-09",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034952.pdf"
+  },
+  "report": {
+    "name": "Hon. Tim Moore",
+    "status": "Member",
+    "district": "NC14",
+    "doc_id": "20034952",
+    "filed": "2026-07-09",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-06-09",
+        "notified": "2026-07-08",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "ticker": "DASH",
+        "asset_type": "ST",
+        "asset": "DoorDash, Inc. - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 30,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

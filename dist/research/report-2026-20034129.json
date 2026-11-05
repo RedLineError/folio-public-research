@@ -1,0 +1,82 @@
+{
+  "fetched_at": "2026-11-05T00:17:15.126997+00:00",
+  "filing": {
+    "doc_id": "20034129",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Moskowitz",
+    "first": "Jared",
+    "name": "Hon. Jared Moskowitz",
+    "district": "FL23",
+    "year": 2026,
+    "filed": "2026-03-30",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034129.pdf"
+  },
+  "report": {
+    "name": "Hon. Jared Moskowitz",
+    "status": "Member",
+    "district": "FL23",
+    "doc_id": "20034129",
+    "filed": "2026-03-30",
+    "rows": [
+      {
+        "owner": "DC",
+        "owner_name": "dependent child",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-02-27",
+        "notified": "2026-02-28",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Morgan Stanley Active Assets (5)",
+        "ticker": "ROP",
+        "asset_type": "ST",
+        "asset": "Roper Technologies, Inc.",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 31,
+        "late": false
+      },
+      {
+        "owner": "DC",
+        "owner_name": "dependent child",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-02-27",
+        "notified": "2026-02-28",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Morgan Stanley Active Assets (6)",
+        "ticker": "ROP",
+        "asset_type": "ST",
+        "asset": "Roper Technologies, Inc.",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 31,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-02-27",
+        "notified": "2026-02-28",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Morgan Stanley Active Assets (1)",
+        "ticker": "ROP",
+        "asset_type": "ST",
+        "asset": "Roper Technologies, Inc.",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 31,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:07.042171+00:00",
+  "filing": {
+    "doc_id": "20035157",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Menefee",
+    "first": "Christian D.",
+    "name": "Hon. Christian D. Menefee",
+    "district": "TX18",
+    "year": 2026,
+    "filed": "2026-08-07",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035157.pdf"
+  },
+  "report": {
+    "name": "Hon. Christian D. Menefee",
+    "status": "Member",
+    "district": "TX18",
+    "doc_id": "20035157",
+    "filed": "2026-08-07",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-08-07",
+        "notified": "2026-08-07",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": null,
+        "description": "Spouse received these restricted stock units (RSUs) as part of her compensation as a former employee of Pinterest (she did not purchase the shares). RSUs vest periodically and can be sold only during predetermined \"trading windows\" -- time periods the company opens after publicly releasing its quarterly financial results -- to prevent insider trading. Spouse completed this transaction after the company's most recent earnings call, consistent with those requirements. C : Spouse received these restricted stock units (RSUs) as part of her compensation as a former employee of Pinterest (she did not purchase the shares). RSUs vest periodically and can be sold only during predetermined \"trading windows\" -- time periods the company opens after publicly releasing its quarterly financial results -- to prevent insider trading. Spouse completed this transaction after the company's most recent earnings call, consistent with those requirements.",
+        "ticker": "PINS",
+        "asset_type": "ST",
+        "asset": "Pinterest, Inc. Class A Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 0,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

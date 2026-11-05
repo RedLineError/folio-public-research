@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:11.511175+00:00",
+  "filing": {
+    "doc_id": "20034622",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Auchincloss",
+    "first": "Jake",
+    "name": "Hon. Jake Auchincloss",
+    "district": "MA04",
+    "year": 2026,
+    "filed": "2026-05-22",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034622.pdf"
+  },
+  "report": {
+    "name": "Hon. Jake Auchincloss",
+    "status": "Member",
+    "district": "MA04",
+    "doc_id": "20034622",
+    "filed": "2026-05-22",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-05-18",
+        "notified": "2026-05-18",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Fidelity Brokerage - MG",
+        "description": "RSU distribution",
+        "ticker": "STT",
+        "asset_type": "ST",
+        "asset": "State Street Corporation Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 4,
+        "late": false
+      },
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-05-18",
+        "notified": "2026-05-18",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Fidelity Brokerage - MG",
+        "description": "RSU distribution",
+        "ticker": "STT",
+        "asset_type": "ST",
+        "asset": "State Street Corporation Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 4,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

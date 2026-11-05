@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:16.935969+00:00",
+  "filing": {
+    "doc_id": "20034056",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Morrison",
+    "first": "Kelly Louise",
+    "name": "Hon. Kelly Louise Morrison",
+    "district": "MN03",
+    "year": 2026,
+    "filed": "2026-02-25",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034056.pdf"
+  },
+  "report": {
+    "name": "Hon. Kelly Louise Morrison",
+    "status": "Member",
+    "district": "MN03",
+    "doc_id": "20034056",
+    "filed": "2026-02-25",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-02-11",
+        "notified": "2026-02-11",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Investment Fund 1",
+        "description": "Fetal Monitoring Medical Equipment Manufacturing; Palo Alto, CA",
+        "ticker": null,
+        "asset_type": "OI",
+        "asset": "Project Stardust",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 14,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-02-20",
+        "notified": "2026-02-20",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Investment Fund 1",
+        "description": "Robotics; San Jose, CA",
+        "ticker": null,
+        "asset_type": "OI",
+        "asset": "Rhoda AI",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 5,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

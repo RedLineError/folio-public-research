@@ -1,0 +1,298 @@
+{
+  "fetched_at": "2026-11-05T00:17:53.422400+00:00",
+  "meta": {
+    "filer": "Dalal Street, LLC",
+    "cik": "0001549575",
+    "period": "2026-06-30",
+    "filed": "2026-08-13",
+    "accession": "0001549575-26-000015",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957526000015/infotable.xml",
+    "notes": [],
+    "cover_total": 326749980.0,
+    "total_check": "Matches the cover page total."
+  },
+  "prior": {
+    "filer": "Dalal Street, LLC",
+    "cik": "0001549575",
+    "period": "2026-03-31",
+    "filed": "2026-05-14",
+    "accession": "0001549575-26-000009",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957526000009/infotable.xml",
+    "notes": [],
+    "cover_total": 422885142.0
+  },
+  "total": 326749980.0,
+  "positions": [
+    {
+      "issuer": "WARRIOR MET COAL INC",
+      "title": "COM",
+      "cusip": "93627C101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 141547098.0,
+      "shares": 1744050.0,
+      "rows": 1,
+      "pct_of_13f": 43.32,
+      "cusips": [
+        "93627C101"
+      ],
+      "issuer_cik": "0001691303",
+      "ticker": "HCC",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Warrior Met Coal",
+      "tickers": [
+        "HCC"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "TRANSOCEAN LTD",
+      "title": "REGISTERED SHS",
+      "cusip": "H8817H100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 99749443.0,
+      "shares": 20398659.0,
+      "rows": 1,
+      "pct_of_13f": 30.53,
+      "cusips": [
+        "H8817H100"
+      ],
+      "issuer_cik": "0001451505",
+      "ticker": "RIG",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Transocean",
+      "tickers": [
+        "RIG"
+      ],
+      "classes": [
+        "REGISTERED SHS"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "ALPHA METALLURGICAL RESOUR I",
+      "title": "COM",
+      "cusip": "020764106",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 85305978.0,
+      "shares": 517194.0,
+      "rows": 1,
+      "pct_of_13f": 26.11,
+      "cusips": [
+        "020764106"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Alpha Metallurgical Resour I",
+      "tickers": [],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "KASPI KZ JSC",
+      "title": "SPONSORED ADS",
+      "cusip": "48581R205",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 147461.0,
+      "shares": 1702.0,
+      "rows": 1,
+      "pct_of_13f": 0.05,
+      "cusips": [
+        "48581R205"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Kaspi Kz Jsc",
+      "tickers": [],
+      "classes": [
+        "SPONSORED ADS"
+      ],
+      "copy_eligible": false
+    }
+  ],
+  "changes": [
+    {
+      "status": "NEW",
+      "issuer": "KASPI KZ JSC",
+      "title": "SPONSORED ADS",
+      "cusip": "48581R205",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 1702.0,
+      "change": 1702.0,
+      "change_pct": null,
+      "value_after": 147461.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "TRANSOCEAN LTD",
+      "title": "REGISTERED SHS",
+      "cusip": "H8817H100",
+      "ticker": "RIG",
+      "put_call": "",
+      "shares_before": 20392672.0,
+      "shares_after": 20398659.0,
+      "change": 5987.0,
+      "change_pct": 0.0,
+      "value_after": 99749443.0,
+      "value_before": 135203415.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "WARRIOR MET COAL INC",
+      "title": "COM",
+      "cusip": "93627C101",
+      "ticker": "HCC",
+      "put_call": "",
+      "shares_before": 1810831.0,
+      "shares_after": 1744050.0,
+      "change": -66781.0,
+      "change_pct": -3.7,
+      "value_after": 141547098.0,
+      "value_before": 168678908.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "ALPHA METALLURGICAL RESOUR I",
+      "title": "COM",
+      "cusip": "020764106",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 579738.0,
+      "shares_after": 517194.0,
+      "change": -62544.0,
+      "change_pct": -10.8,
+      "value_after": 85305978.0,
+      "value_before": 119002819.0
+    }
+  ],
+  "diff_error": null,
+  "filings": [
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-26-000015",
+      "filed": "2026-08-13",
+      "period": "2026-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-26-000009",
+      "filed": "2026-05-14",
+      "period": "2026-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-26-000002",
+      "filed": "2026-02-13",
+      "period": "2025-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-25-000012",
+      "filed": "2025-11-13",
+      "period": "2025-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-25-000006",
+      "filed": "2025-08-13",
+      "period": "2025-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-25-000004",
+      "filed": "2025-05-14",
+      "period": "2025-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-25-000002",
+      "filed": "2025-02-13",
+      "period": "2024-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-24-000013",
+      "filed": "2024-11-13",
+      "period": "2024-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-24-000009",
+      "filed": "2024-08-13",
+      "period": "2024-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-24-000007",
+      "filed": "2024-05-14",
+      "period": "2024-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-24-000005",
+      "filed": "2024-02-14",
+      "period": "2023-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-23-000017",
+      "filed": "2023-11-13",
+      "period": "2023-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-23-000014",
+      "filed": "2023-08-11",
+      "period": "2023-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-23-000008",
+      "filed": "2023-05-12",
+      "period": "2023-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-23-000004",
+      "filed": "2023-02-14",
+      "period": "2022-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    }
+  ],
+  "source": "SEC EDGAR"
+}

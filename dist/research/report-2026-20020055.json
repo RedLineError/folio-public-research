@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:10.190101+00:00",
+  "filing": {
+    "doc_id": "20020055",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Begich",
+    "first": "Nicholas",
+    "name": "Hon. Nicholas Begich III",
+    "district": "AK00",
+    "year": 2026,
+    "filed": "2026-06-12",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20020055.pdf"
+  },
+  "report": {
+    "name": "Hon. Nicholas Begich III",
+    "status": "Member",
+    "district": "AK00",
+    "doc_id": "20020055",
+    "filed": "2026-06-12",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-05-13",
+        "notified": "2026-05-13",
+        "amount": "$250,001 - $500,000",
+        "status": "New",
+        "account": null,
+        "ticker": null,
+        "asset_type": "HN",
+        "asset": "Listen Ventures IV, LP",
+        "amount_low": 250001,
+        "amount_high": 500000,
+        "description": null,
+        "days_to_disclose": 30,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

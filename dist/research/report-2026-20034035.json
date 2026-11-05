@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:17.078078+00:00",
+  "filing": {
+    "doc_id": "20034035",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Dingell",
+    "first": "Debbie",
+    "name": "Hon. Debbie Dingell",
+    "district": "MI06",
+    "year": 2026,
+    "filed": "2026-02-23",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034035.pdf"
+  },
+  "report": {
+    "name": "Hon. Debbie Dingell",
+    "status": "Member",
+    "district": "MI06",
+    "doc_id": "20034035",
+    "filed": "2026-02-23",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "E",
+        "type_name": "exchange",
+        "date": "2026-02-10",
+        "notified": "2026-02-17",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Morgan Stanley Smith Barney LLC Brokerage Account",
+        "description": "Asset acquired through a spin-off of Becton Dickinson (BDX).",
+        "ticker": "WAT",
+        "asset_type": "ST",
+        "asset": "Waters Corporation Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 13,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

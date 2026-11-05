@@ -1,0 +1,82 @@
+{
+  "fetched_at": "2026-11-05T00:17:09.763218+00:00",
+  "filing": {
+    "doc_id": "20034815",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Dunn",
+    "first": "Neal Patrick MD, Facs",
+    "name": "Hon. Neal Patrick MD, Facs Dunn",
+    "district": "FL02",
+    "year": 2026,
+    "filed": "2026-06-23",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034815.pdf"
+  },
+  "report": {
+    "name": "Hon. Neal Patrick MD, Facs Dunn",
+    "status": "Member",
+    "district": "FL02",
+    "doc_id": "20034815",
+    "filed": "2026-06-23",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-05-11",
+        "notified": "2026-06-17",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "IRA #3",
+        "ticker": null,
+        "asset_type": "ST",
+        "asset": "AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual Preferred Stock, Series A (T$A)",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 43,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-05-11",
+        "notified": "2026-06-17",
+        "amount": "$50,001 - $100,000",
+        "status": "New",
+        "account": "IRA #3",
+        "description": "Preferred Stock",
+        "ticker": null,
+        "asset_type": "OT",
+        "asset": "JP Morgan Chase & Co Depositary Shares Preferred Series GG",
+        "amount_low": 50001,
+        "amount_high": 100000,
+        "days_to_disclose": 43,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-05-11",
+        "notified": "2026-06-17",
+        "amount": "$50,001 - $100,000",
+        "status": "New",
+        "account": "IRA #3",
+        "ticker": null,
+        "asset_type": "ST",
+        "asset": "Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E (RF$E)",
+        "amount_low": 50001,
+        "amount_high": 100000,
+        "description": null,
+        "days_to_disclose": 43,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

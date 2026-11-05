@@ -1,0 +1,82 @@
+{
+  "fetched_at": "2026-11-05T00:17:04.237419+00:00",
+  "filing": {
+    "doc_id": "20035558",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Rulli",
+    "first": "Michael",
+    "name": "Hon. Michael Rulli",
+    "district": "OH06",
+    "year": 2026,
+    "filed": "2026-10-02",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf"
+  },
+  "report": {
+    "name": "Hon. Michael Rulli",
+    "status": "Member",
+    "district": "OH06",
+    "doc_id": "20035558",
+    "filed": "2026-10-02",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-09-03",
+        "notified": "2026-09-04",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Merrill Lynch SIMPLE Managed Account",
+        "ticker": "GS",
+        "asset_type": "ST",
+        "asset": "Goldman Sachs Group, Inc.",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 29,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-09-28",
+        "notified": "2026-09-28",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Merrill Lynch SIMPLE Managed Account",
+        "ticker": "MSFT",
+        "asset_type": "ST",
+        "asset": "Microsoft Corporation - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 4,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-09-03",
+        "notified": "2026-09-04",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Merrill Lynch SIMPLE Managed Account",
+        "ticker": "WFC",
+        "asset_type": "ST",
+        "asset": "Wells Fargo & Company Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 29,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

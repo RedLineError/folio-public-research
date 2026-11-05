@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:13.807485+00:00",
+  "filing": {
+    "doc_id": "20034384",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Sewell",
+    "first": "Terri A.",
+    "name": "Hon. Terri A. Sewell",
+    "district": "AL07",
+    "year": 2026,
+    "filed": "2026-04-21",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034384.pdf"
+  },
+  "report": {
+    "name": "Hon. Terri A. Sewell",
+    "status": "Member",
+    "district": "AL07",
+    "doc_id": "20034384",
+    "filed": "2026-04-21",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-03-25",
+        "notified": "2026-03-26",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "ticker": "GEHC",
+        "asset_type": "ST",
+        "asset": "GE HealthCare Technologies Inc. - Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 27,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-03-25",
+        "notified": "2026-03-26",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": null,
+        "ticker": "TPR",
+        "asset_type": "ST",
+        "asset": "Tapestry, Inc. Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 27,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

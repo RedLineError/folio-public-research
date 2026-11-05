@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:16.693618+00:00",
+  "filing": {
+    "doc_id": "20034105",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "McClain",
+    "first": "Lisa",
+    "name": "Hon. Lisa McClain",
+    "district": "MI09",
+    "year": 2026,
+    "filed": "2026-03-04",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034105.pdf"
+  },
+  "report": {
+    "name": "Hon. Lisa McClain",
+    "status": "Member",
+    "district": "MI09",
+    "doc_id": "20034105",
+    "filed": "2026-03-04",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-02-04",
+        "notified": "2026-03-01",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Charles Schwab 401K > Schwab 824",
+        "ticker": "BBAI",
+        "asset_type": "ST",
+        "asset": "BigBear.ai, Inc. Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 28,
+        "late": false
+      },
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-02-06",
+        "notified": "2026-03-01",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Charles Schwab 401K > Schwab 824",
+        "ticker": "BBAI",
+        "asset_type": "ST",
+        "asset": "BigBear.ai, Inc. Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 26,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

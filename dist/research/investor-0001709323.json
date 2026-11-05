@@ -1,0 +1,528 @@
+{
+  "fetched_at": "2026-11-05T00:17:31.595313+00:00",
+  "meta": {
+    "filer": "Himalaya Capital Management LLC",
+    "cik": "0001709323",
+    "period": "2026-06-30",
+    "filed": "2026-08-14",
+    "accession": "0002043585-26-000022",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1709323/000204358526000022/13fhciq226.xml",
+    "notes": [],
+    "cover_total": 3702921098.0,
+    "total_check": "Matches the cover page total."
+  },
+  "prior": {
+    "filer": "Himalaya Capital Management LLC",
+    "cik": "0001709323",
+    "period": "2026-03-31",
+    "filed": "2026-05-15",
+    "accession": "0002043585-26-000013",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1709323/000204358526000013/13fhciq126.xml",
+    "notes": [],
+    "cover_total": 3201226867.0
+  },
+  "total": 3702921099.0,
+  "positions": [
+    {
+      "issuer": "ALPHABET INC",
+      "title": "CAP STK CL A",
+      "cusip": "02079K305",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1775016950.0,
+      "shares": 4994600.0,
+      "rows": 2,
+      "pct_of_13f": 47.94,
+      "cusips": [
+        "02079K305",
+        "02079K107"
+      ],
+      "issuer_cik": "0001652044",
+      "ticker": "GOOGL",
+      "ticker_source": "override",
+      "ticker_check": false,
+      "name": "Alphabet",
+      "tickers": [
+        "GOOGL",
+        "GOOG"
+      ],
+      "classes": [
+        "CAP STK CL A",
+        "CAP STK CL C"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "PDD HOLDINGS INC",
+      "title": "SPON ADS",
+      "cusip": "722304102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 820858157.0,
+      "shares": 10761119.0,
+      "rows": 1,
+      "pct_of_13f": 22.17,
+      "cusips": [
+        "722304102"
+      ],
+      "issuer_cik": "0001737806",
+      "ticker": "PDD",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "PDD Holdings",
+      "tickers": [
+        "PDD"
+      ],
+      "classes": [
+        "SPON ADS"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "BERKSHIRE HATHAWAY INC DEL",
+      "title": "CL B NEW",
+      "cusip": "084670702",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 554591244.0,
+      "shares": 1108318.0,
+      "rows": 1,
+      "pct_of_13f": 14.98,
+      "cusips": [
+        "084670702"
+      ],
+      "issuer_cik": "0001067983",
+      "ticker": "BRK.B",
+      "ticker_source": "override",
+      "ticker_check": false,
+      "name": "Berkshire Hathaway",
+      "tickers": [
+        "BRK.B"
+      ],
+      "classes": [
+        "CL B NEW"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "EAST WEST BANCORP INC",
+      "title": "COM",
+      "cusip": "27579R104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 358399151.0,
+      "shares": 2776351.0,
+      "rows": 1,
+      "pct_of_13f": 9.68,
+      "cusips": [
+        "27579R104"
+      ],
+      "issuer_cik": "0001069157",
+      "ticker": "EWBC",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "East West Bancorp",
+      "tickers": [
+        "EWBC"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "CROCS INC",
+      "title": "COM",
+      "cusip": "227046109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 107018900.0,
+      "shares": 887093.0,
+      "rows": 1,
+      "pct_of_13f": 2.89,
+      "cusips": [
+        "227046109"
+      ],
+      "issuer_cik": "0001334036",
+      "ticker": "CROX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Crocs",
+      "tickers": [
+        "CROX"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "TENCENT MUSIC ENTERTAINM",
+      "title": "SPON ADS",
+      "cusip": "88034P109",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 55033481.0,
+      "shares": 6590836.0,
+      "rows": 1,
+      "pct_of_13f": 1.49,
+      "cusips": [
+        "88034P109"
+      ],
+      "issuer_cik": "0001744676",
+      "ticker": "TME",
+      "ticker_source": "name-prefix",
+      "ticker_check": true,
+      "name": "Tencent Music Entertainment Group",
+      "tickers": [
+        "TME"
+      ],
+      "classes": [
+        "SPON ADS"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "APPLE INC",
+      "title": "COM",
+      "cusip": "037833100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 32003216.0,
+      "shares": 110600.0,
+      "rows": 1,
+      "pct_of_13f": 0.86,
+      "cusips": [
+        "037833100"
+      ],
+      "issuer_cik": "0000320193",
+      "ticker": "AAPL",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Apple",
+      "tickers": [
+        "AAPL"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    }
+  ],
+  "changes": [
+    {
+      "status": "SOLD OUT",
+      "issuer": "BK OF AMERICA CORP",
+      "title": "COM",
+      "cusip": "060505104",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 2997987.0,
+      "shares_after": 0.0,
+      "change": -2997987.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 146151866.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "OCCIDENTAL PETE CORP",
+      "title": "COM",
+      "cusip": "674599105",
+      "ticker": "OXY",
+      "put_call": "",
+      "shares_before": 1466500.0,
+      "shares_after": 0.0,
+      "change": -1466500.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 95322500.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "S&P GLOBAL INC",
+      "title": "COM",
+      "cusip": "78409V104",
+      "ticker": "SPGI",
+      "put_call": "",
+      "shares_before": 121463.0,
+      "shares_after": 0.0,
+      "change": -121463.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 51663072.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "BLOCK H & R INC",
+      "title": "COM",
+      "cusip": "093671105",
+      "ticker": "HRB",
+      "put_call": "",
+      "shares_before": 1626906.0,
+      "shares_after": 0.0,
+      "change": -1626906.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 51637996.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "MOODYS CORP",
+      "title": "COM",
+      "cusip": "615369105",
+      "ticker": "MCO",
+      "put_call": "",
+      "shares_before": 117784.0,
+      "shares_after": 0.0,
+      "change": -117784.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 51383270.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "MSCI INC",
+      "title": "COM",
+      "cusip": "55354G100",
+      "ticker": "MSCI",
+      "put_call": "",
+      "shares_before": 18939.0,
+      "shares_after": 0.0,
+      "change": -18939.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 10208310.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "PDD HOLDINGS INC",
+      "title": "SPON ADS",
+      "cusip": "722304102",
+      "ticker": "PDD",
+      "put_call": "",
+      "shares_before": 4608000.0,
+      "shares_after": 10761119.0,
+      "change": 6153119.0,
+      "change_pct": 133.5,
+      "value_after": 820858157.0,
+      "value_before": 470845440.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "BERKSHIRE HATHAWAY INC DEL",
+      "title": "CL B NEW",
+      "cusip": "084670702",
+      "ticker": "BRK.B",
+      "put_call": "",
+      "shares_before": 897749.0,
+      "shares_after": 1108318.0,
+      "change": 210569.0,
+      "change_pct": 23.5,
+      "value_after": 554591244.0,
+      "value_before": 430201321.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "ALPHABET INC",
+      "title": "CAP STK CL A",
+      "cusip": "02079K305",
+      "ticker": "GOOGL",
+      "put_call": "",
+      "shares_before": 2543300.0,
+      "shares_after": 2543300.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 908899121.0,
+      "value_before": 731351348.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "ALPHABET INC",
+      "title": "CAP STK CL C",
+      "cusip": "02079K107",
+      "ticker": "GOOG",
+      "put_call": "",
+      "shares_before": 2451300.0,
+      "shares_after": 2451300.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 866117829.0,
+      "value_before": 703179918.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "EAST WEST BANCORP INC",
+      "title": "COM",
+      "cusip": "27579R104",
+      "ticker": "EWBC",
+      "put_call": "",
+      "shares_before": 2776351.0,
+      "shares_after": 2776351.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 358399151.0,
+      "value_before": 296403233.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "CROCS INC",
+      "title": "COM",
+      "cusip": "227046109",
+      "ticker": "CROX",
+      "put_call": "",
+      "shares_before": 887093.0,
+      "shares_after": 887093.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 107018900.0,
+      "value_before": 73646461.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "TENCENT MUSIC ENTERTAINM",
+      "title": "SPON ADS",
+      "cusip": "88034P109",
+      "ticker": "TME",
+      "put_call": "",
+      "shares_before": 6590836.0,
+      "shares_after": 6590836.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 55033481.0,
+      "value_before": 61162958.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "APPLE INC",
+      "title": "COM",
+      "cusip": "037833100",
+      "ticker": "AAPL",
+      "put_call": "",
+      "shares_before": 110600.0,
+      "shares_after": 110600.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 32003216.0,
+      "value_before": 28069174.0
+    }
+  ],
+  "diff_error": null,
+  "filings": [
+    {
+      "form": "13F-HR",
+      "accession": "0002043585-26-000022",
+      "filed": "2026-08-14",
+      "period": "2026-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0002043585-26-000013",
+      "filed": "2026-05-15",
+      "period": "2026-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR/A",
+      "accession": "0002043585-26-000012",
+      "filed": "2026-02-19",
+      "period": "2025-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0002043585-26-000011",
+      "filed": "2026-02-17",
+      "period": "2025-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0002043585-25-000015",
+      "filed": "2025-11-12",
+      "period": "2025-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0002043585-25-000010",
+      "filed": "2025-08-14",
+      "period": "2025-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0002043585-25-000004",
+      "filed": "2025-05-15",
+      "period": "2025-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001709323-25-000001",
+      "filed": "2025-02-14",
+      "period": "2024-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001709323-24-000009",
+      "filed": "2024-11-14",
+      "period": "2024-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001709323-24-000005",
+      "filed": "2024-08-14",
+      "period": "2024-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001709323-24-000004",
+      "filed": "2024-05-15",
+      "period": "2024-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001709323-24-000001",
+      "filed": "2024-02-14",
+      "period": "2023-12-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001709323-23-000006",
+      "filed": "2023-11-14",
+      "period": "2023-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001709323-23-000005",
+      "filed": "2023-08-14",
+      "period": "2023-06-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
+    {
+      "form": "13F-HR",
+      "accession": "0001709323-23-000004",
+      "filed": "2023-05-16",
+      "period": "2023-03-31",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    }
+  ],
+  "source": "SEC EDGAR"
+}

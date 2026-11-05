@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-05T00:17:06.613582+00:00",
+  "filing": {
+    "doc_id": "20033910",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Thanedar",
+    "first": "Shri",
+    "name": "Hon. Shri Thanedar",
+    "district": "MI13",
+    "year": 2026,
+    "filed": "2026-08-13",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf"
+  },
+  "report": {
+    "name": "Hon. Shri Thanedar",
+    "status": "Member",
+    "district": "MI13",
+    "doc_id": "20033910",
+    "filed": "2026-08-13",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-01-09",
+        "notified": "2026-01-09",
+        "amount": "$100,001 - $250,000",
+        "status": "New",
+        "account": null,
+        "ticker": "AAPL",
+        "asset_type": "ST",
+        "asset": "Apple Inc. - Common Stock",
+        "amount_low": 100001,
+        "amount_high": 250000,
+        "description": null,
+        "days_to_disclose": 216,
+        "late": true
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2025-10-21",
+        "notified": "2025-10-21",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": null,
+        "ticker": "MSTR",
+        "asset_type": "ST",
+        "asset": "Strategy Inc - Class A Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 296,
+        "late": true
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

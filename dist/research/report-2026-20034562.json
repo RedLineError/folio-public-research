@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:11.248803+00:00",
+  "filing": {
+    "doc_id": "20034562",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Webster",
+    "first": "Daniel",
+    "name": "Hon. Daniel Webster",
+    "district": "FL11",
+    "year": 2026,
+    "filed": "2026-06-01",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034562.pdf"
+  },
+  "report": {
+    "name": "Hon. Daniel Webster",
+    "status": "Member",
+    "district": "FL11",
+    "doc_id": "20034562",
+    "filed": "2026-06-01",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2025-02-26",
+        "notified": "2025-03-01",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Merrill Lynch Portfolio",
+        "ticker": "REXR",
+        "asset_type": "ST",
+        "asset": "Rexford Industrial Realty, Inc. Common Stock",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 460,
+        "late": true
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

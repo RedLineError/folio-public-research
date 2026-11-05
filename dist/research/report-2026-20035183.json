@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:06.540057+00:00",
+  "filing": {
+    "doc_id": "20035183",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Tran",
+    "first": "Derek",
+    "name": "Hon. Derek Tran",
+    "district": "CA45",
+    "year": 2026,
+    "filed": "2026-08-13",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035183.pdf"
+  },
+  "report": {
+    "name": "Hon. Derek Tran",
+    "status": "Member",
+    "district": "CA45",
+    "doc_id": "20035183",
+    "filed": "2026-08-13",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2025-07-28",
+        "notified": "2026-07-21",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Coinbase cryptocurrency wallet",
+        "ticker": "LTC",
+        "asset_type": "CT",
+        "asset": "Litecoin",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 381,
+        "late": true
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

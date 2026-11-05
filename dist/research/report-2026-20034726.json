@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:10.731247+00:00",
+  "filing": {
+    "doc_id": "20034726",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Latta",
+    "first": "Robert E.",
+    "name": "Hon. Robert E. Latta",
+    "district": "OH05",
+    "year": 2026,
+    "filed": "2026-06-05",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034726.pdf"
+  },
+  "report": {
+    "name": "Hon. Robert E. Latta",
+    "status": "Member",
+    "district": "OH05",
+    "doc_id": "20034726",
+    "filed": "2026-06-05",
+    "rows": [
+      {
+        "owner": "SP",
+        "owner_name": "spouse",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-06-04",
+        "notified": "2026-06-04",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": null,
+        "description": "Compensation C : Compensation",
+        "ticker": "FMAO",
+        "asset_type": "ST",
+        "asset": "Farmers & Merchants Bancorp, Inc.",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 1,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

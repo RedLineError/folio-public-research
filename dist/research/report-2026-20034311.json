@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:14.064119+00:00",
+  "filing": {
+    "doc_id": "20034311",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "McClellan",
+    "first": "Jennifer",
+    "name": "Hon. Jennifer McClellan",
+    "district": "VA04",
+    "year": 2026,
+    "filed": "2026-04-16",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034311.pdf"
+  },
+  "report": {
+    "name": "Hon. Jennifer McClellan",
+    "status": "Member",
+    "district": "VA04",
+    "doc_id": "20034311",
+    "filed": "2026-04-16",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-04-07",
+        "notified": "2026-04-07",
+        "amount": "$100,001 - $250,000",
+        "status": "New",
+        "account": "Fidelity Investment Account",
+        "ticker": "VZ",
+        "asset_type": "ST",
+        "asset": "Verizon Communications Inc. Common Stock",
+        "amount_low": 100001,
+        "amount_high": 250000,
+        "description": null,
+        "days_to_disclose": 9,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

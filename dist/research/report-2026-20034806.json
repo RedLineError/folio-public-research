@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-05T00:17:08.915275+00:00",
+  "filing": {
+    "doc_id": "20034806",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Morrison",
+    "first": "Kelly Louise",
+    "name": "Hon. Kelly Louise Morrison",
+    "district": "MN03",
+    "year": 2026,
+    "filed": "2026-07-09",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034806.pdf"
+  },
+  "report": {
+    "name": "Hon. Kelly Louise Morrison",
+    "status": "Member",
+    "district": "MN03",
+    "doc_id": "20034806",
+    "filed": "2026-07-09",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S (partial)",
+        "type_name": "partial sale",
+        "date": "2026-06-19",
+        "notified": "2026-06-22",
+        "amount": "$100,001 - $250,000",
+        "status": "New",
+        "account": "Investment Fund 1",
+        "description": "Window manufacturer",
+        "ticker": null,
+        "asset_type": "OL",
+        "asset": "Andersen Corporation",
+        "amount_low": 100001,
+        "amount_high": 250000,
+        "days_to_disclose": 20,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}
