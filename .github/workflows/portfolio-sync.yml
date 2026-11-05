@@ -31,6 +31,12 @@ jobs:
             const history=await check.json();
             if(!receipt.ok||history.last_cloud_update<receipt.observed_at||history.background_stale)throw Error('Cloud history readback did not confirm this run.');
             console.log('Private cloud snapshot saved and read back successfully.');
+            const scan=await fetch(origin+'/api/trials/scan',{method:'POST',headers,redirect:'manual',signal:AbortSignal.timeout(60000)});
+            if(!scan.ok)throw Error('Strategy scan HTTP '+scan.status);
+            const scanned=await scan.json();
+            if(scanned.busy)throw Error('Strategy scan lock requires review.');
+            if(!scanned.ok)throw Error('Strategy scan was not confirmed.');
+            console.log('Private strategy scan saved successfully.');
           }
           for(let attempt=0;attempt<3;attempt++){
             try{await run();break;}catch(error){if(attempt===2)throw error;await new Promise(r=>setTimeout(r,5000));}
