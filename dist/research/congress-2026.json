@@ -1,8 +1,44 @@
 {
   "year": 2026,
-  "fetched_at": "2026-11-05T21:59:38.447226+00:00",
+  "fetched_at": "2026-11-06T02:27:32.358960+00:00",
   "source": "U.S. House Clerk",
   "filings": [
+    {
+      "doc_id": "20035778",
+      "type": "P",
+      "type_name": "Periodic Transaction Report",
+      "last": "Salazar",
+      "first": "Maria Elvira",
+      "name": "Hon. Maria Elvira Salazar",
+      "district": "FL27",
+      "year": 2026,
+      "filed": "2026-11-05",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
+    },
+    {
+      "doc_id": "20035662",
+      "type": "P",
+      "type_name": "Periodic Transaction Report",
+      "last": "Meuser",
+      "first": "Daniel",
+      "name": "Hon. Daniel Meuser",
+      "district": "PA09",
+      "year": 2026,
+      "filed": "2026-11-05",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035662.pdf"
+    },
+    {
+      "doc_id": "20035765",
+      "type": "P",
+      "type_name": "Periodic Transaction Report",
+      "last": "Kelly",
+      "first": "Mike",
+      "name": "Hon. Mike Kelly",
+      "district": "PA16",
+      "year": 2026,
+      "filed": "2026-11-04",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035765.pdf"
+    },
     {
       "doc_id": "20035763",
       "type": "P",
