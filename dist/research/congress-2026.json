@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "fetched_at": "2026-11-06T23:10:18.800859+00:00",
+  "fetched_at": "2026-11-07T02:48:53.497852+00:00",
   "source": "U.S. House Clerk",
   "filings": [
     {
@@ -14,6 +14,18 @@
       "year": 2026,
       "filed": "2026-11-05",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
+    },
+    {
+      "doc_id": "20035770",
+      "type": "P",
+      "type_name": "Periodic Transaction Report",
+      "last": "Gottheimer",
+      "first": "Josh",
+      "name": "Hon. Josh Gottheimer",
+      "district": "NJ05",
+      "year": 2026,
+      "filed": "2026-11-05",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf"
     },
     {
       "doc_id": "20035662",
