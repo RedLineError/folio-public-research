@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T10:11:57.539851+00:00",
+  "fetched_at": "2026-11-07T16:27:45.826922+00:00",
   "meta": {
     "filer": "RENAISSANCE TECHNOLOGIES LLC",
     "cik": "0001037389",
@@ -13142,17 +13142,17 @@
         "816851109"
       ],
       "issuer_cik": "0001032208",
-      "ticker": "SRE",
+      "ticker": "SREA",
       "ticker_source": "name",
-      "ticker_check": false,
+      "ticker_check": true,
       "name": "Sempra",
       "tickers": [
-        "SRE"
+        "SREA"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "AURORA INNOVATION INC",
@@ -13918,17 +13918,17 @@
         "14316J108"
       ],
       "issuer_cik": "0001527166",
-      "ticker": "CG",
+      "ticker": "CGABL",
       "ticker_source": "name",
-      "ticker_check": false,
+      "ticker_check": true,
       "name": "Carlyle Group",
       "tickers": [
-        "CG"
+        "CGABL"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "PENTAIR PLC",
@@ -19652,17 +19652,17 @@
         "02665T306"
       ],
       "issuer_cik": "0001562401",
-      "ticker": "AMH",
+      "ticker": "AMH.H",
       "ticker_source": "name",
-      "ticker_check": false,
+      "ticker_check": true,
       "name": "American Homes 4 Rent",
       "tickers": [
-        "AMH"
+        "AMH.H"
       ],
       "classes": [
         "CL A"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "DHT HOLDINGS INC",
@@ -21541,18 +21541,15 @@
       "cusips": [
         "632347100"
       ],
-      "issuer_cik": "0000069733",
-      "ticker": "NATH",
-      "ticker_source": "name",
-      "ticker_check": false,
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
       "name": "Nathans Famous",
-      "tickers": [
-        "NATH"
-      ],
+      "tickers": [],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "LSI INDS INC OHIO",
@@ -23207,7 +23204,7 @@
       "ticker": "VRDN",
       "ticker_source": "name-prefix",
       "ticker_check": true,
-      "name": "Viridian Therapeutics, Inc.\\DE",
+      "name": "Viridian Therapeutics, Inc.DE",
       "tickers": [
         "VRDN"
       ],
@@ -28635,17 +28632,17 @@
         "04914Y102"
       ],
       "issuer_cik": "0001464343",
-      "ticker": "ATLC",
+      "ticker": "ATLCL",
       "ticker_source": "name",
-      "ticker_check": false,
+      "ticker_check": true,
       "name": "Atlanticus Holdings",
       "tickers": [
-        "ATLC"
+        "ATLCL"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "STARWOOD PPTY TR INC",
@@ -34468,18 +34465,15 @@
       "cusips": [
         "94724R108"
       ],
-      "issuer_cik": "0001609151",
-      "ticker": "WEAV",
-      "ticker_source": "name",
-      "ticker_check": false,
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
       "name": "Weave Communications",
-      "tickers": [
-        "WEAV"
-      ],
+      "tickers": [],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "WESTWOOD HLDGS GROUP INC",
@@ -39200,18 +39194,15 @@
       "cusips": [
         "71385M107"
       ],
-      "issuer_cik": "0001880319",
-      "ticker": "PRM",
-      "ticker_source": "name",
-      "ticker_check": false,
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
       "name": "Perimeter Solutions",
-      "tickers": [
-        "PRM"
-      ],
+      "tickers": [],
       "classes": [
         "COMMON STOCK"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "LANTRONIX INC",
@@ -45561,7 +45552,7 @@
       "ticker": "KVHI",
       "ticker_source": "name-prefix",
       "ticker_check": true,
-      "name": "Kvh Industries Inc \\de\\",
+      "name": "Kvh Industries Inc De",
       "tickers": [
         "KVHI"
       ],
@@ -55226,18 +55217,15 @@
       "cusips": [
         "12738K109"
       ],
-      "issuer_cik": "0001978867",
-      "ticker": "CDLR",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "Cadeler A/S",
-      "tickers": [
-        "CDLR"
-      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Cadeler A S",
+      "tickers": [],
       "classes": [
         "SPON ADR"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "ISHARES TR",
@@ -63859,18 +63847,15 @@
       "cusips": [
         "51807Q100"
       ],
-      "issuer_cik": "0001807887",
-      "ticker": "LASE",
-      "ticker_source": "name",
-      "ticker_check": false,
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
       "name": "Laser Photonics",
-      "tickers": [
-        "LASE"
-      ],
+      "tickers": [],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "BRP INC",
@@ -64184,7 +64169,7 @@
       "ticker": "LFCR",
       "ticker_source": "name-prefix",
       "ticker_check": true,
-      "name": "Lifecore Biomedical, Inc. De",
+      "name": "Lifecore Biomedical, Inc. \\de\\",
       "tickers": [
         "LFCR"
       ],
@@ -66233,17 +66218,17 @@
         "86260J102"
       ],
       "issuer_cik": "0001872525",
-      "ticker": "SWAGW",
+      "ticker": "SWAG",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Stran & Company",
       "tickers": [
-        "SWAGW"
+        "SWAG"
       ],
       "classes": [
         "COMMON STOCK"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "PRIME MEDICINE INC",
@@ -71753,12 +71738,12 @@
         "74965L101"
       ],
       "issuer_cik": "0001511337",
-      "ticker": "RLJ",
+      "ticker": "RLJ.A",
       "ticker_source": "name-prefix",
       "ticker_check": true,
       "name": "RLJ Lodging Trust",
       "tickers": [
-        "RLJ"
+        "RLJ.A"
       ],
       "classes": [
         "COM"
@@ -79079,7 +79064,7 @@
       "issuer": "SEMPRA",
       "title": "COM",
       "cusip": "816851109",
-      "ticker": "SRE",
+      "ticker": "SREA",
       "put_call": "",
       "shares_before": 0.0,
       "shares_after": 360700.0,
@@ -79597,7 +79582,7 @@
       "issuer": "AMERICAN HOMES 4 RENT",
       "title": "CL A",
       "cusip": "02665T306",
-      "ticker": "AMH",
+      "ticker": "AMH.H",
       "put_call": "",
       "shares_before": 0.0,
       "shares_after": 553129.0,
@@ -84189,7 +84174,7 @@
       "issuer": "LASER PHOTONICS CORP",
       "title": "COM",
       "cusip": "51807Q100",
-      "ticker": "LASE",
+      "ticker": null,
       "put_call": "",
       "shares_before": 0.0,
       "shares_after": 344055.0,
@@ -94535,7 +94520,7 @@
       "issuer": "AIRSHIP AI HLDGS INC",
       "title": "COM",
       "cusip": "008940108",
-      "ticker": "AISP",
+      "ticker": "AISPW",
       "put_call": "",
       "shares_before": 23668.0,
       "shares_after": 0.0,
@@ -95095,7 +95080,7 @@
       "issuer": "GREEN CIRCLE DECARBONIZE TEC",
       "title": "ORD SHS",
       "cusip": "G4092C107",
-      "ticker": "GCDT",
+      "ticker": "GCDTF",
       "put_call": "",
       "shares_before": 14388.0,
       "shares_after": 0.0,
@@ -98343,7 +98328,7 @@
       "issuer": "CARLYLE GROUP INC",
       "title": "COM",
       "cusip": "14316J108",
-      "ticker": "CG",
+      "ticker": "CGABL",
       "put_call": "",
       "shares_before": 136700.0,
       "shares_after": 744700.0,
@@ -100009,7 +99994,7 @@
       "issuer": "NATHANS FAMOUS INC",
       "title": "COM",
       "cusip": "632347100",
-      "ticker": "NATH",
+      "ticker": null,
       "put_call": "",
       "shares_before": 154356.0,
       "shares_after": 158056.0,
@@ -106617,7 +106602,7 @@
       "issuer": "CADELER A S",
       "title": "SPON ADR",
       "cusip": "12738K109",
-      "ticker": "CDLR",
+      "ticker": null,
       "put_call": "",
       "shares_before": 11503.0,
       "shares_after": 58500.0,
@@ -117327,7 +117312,7 @@
       "issuer": "PERIMETER SOLUTIONS INC",
       "title": "COMMON STOCK",
       "cusip": "71385M107",
-      "ticker": "PRM",
+      "ticker": null,
       "put_call": "",
       "shares_before": 591257.0,
       "shares_after": 126231.0,
@@ -119049,7 +119034,7 @@
       "issuer": "ATLANTICUS HOLDINGS CORP",
       "title": "COM",
       "cusip": "04914Y102",
-      "ticker": "ATLC",
+      "ticker": "ATLCL",
       "put_call": "",
       "shares_before": 115558.0,
       "shares_after": 92158.0,
@@ -120407,7 +120392,7 @@
       "issuer": "WEAVE COMMUNICATIONS INC",
       "title": "COM",
       "cusip": "94724R108",
-      "ticker": "WEAV",
+      "ticker": null,
       "put_call": "",
       "shares_before": 1487900.0,
       "shares_after": 1053438.0,
@@ -125125,7 +125110,7 @@
       "issuer": "RLJ LODGING TR",
       "title": "COM",
       "cusip": "74965L101",
-      "ticker": "RLJ",
+      "ticker": "RLJ.A",
       "put_call": "",
       "shares_before": 299232.0,
       "shares_after": 16600.0,
@@ -129185,7 +129170,7 @@
       "issuer": "STRAN & COMPANY INC",
       "title": "COMMON STOCK",
       "cusip": "86260J102",
-      "ticker": "SWAGW",
+      "ticker": "SWAG",
       "put_call": "",
       "shares_before": 214731.0,
       "shares_after": 194331.0,
