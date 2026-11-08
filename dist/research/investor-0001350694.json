@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T00:37:34.381224+00:00",
+  "fetched_at": "2026-11-08T07:22:58.893040+00:00",
   "meta": {
     "filer": "Bridgewater Associates, LP",
     "cik": "0001350694",
@@ -9209,17 +9209,17 @@
         "04621X108"
       ],
       "issuer_cik": "0001267238",
-      "ticker": "AIZN",
+      "ticker": "AIZ",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Assurant",
       "tickers": [
-        "AIZN"
+        "AIZ"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "VERISIGN INC",
@@ -13172,17 +13172,17 @@
         "12621E103"
       ],
       "issuer_cik": "0001224608",
-      "ticker": "CNOPA",
+      "ticker": "CNO",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "CNO Financial Group",
       "tickers": [
-        "CNOPA"
+        "CNO"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "INTEL CORP",
@@ -24320,17 +24320,17 @@
         "42806J700"
       ],
       "issuer_cik": "0001657853",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Hertz Global Holdings",
       "tickers": [
-        "HTZWW"
+        "HTZ"
       ],
       "classes": [
         "COM NEW"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "BILL HOLDINGS INC",
@@ -30504,7 +30504,7 @@
       "issuer": "ARCOSA INC",
       "title": "COM",
       "cusip": "039653100",
-      "ticker": null,
+      "ticker": "ACA",
       "put_call": "",
       "shares_before": 22588.0,
       "shares_after": 0.0,
@@ -30714,7 +30714,7 @@
       "issuer": "SIX FLAGS ENTERTAINMENT CORP",
       "title": "COM",
       "cusip": "83001C108",
-      "ticker": "FUN",
+      "ticker": null,
       "put_call": "",
       "shares_before": 102954.0,
       "shares_after": 0.0,
@@ -31330,7 +31330,7 @@
       "issuer": "AMERICAN HOMES 4 RENT",
       "title": "CL A",
       "cusip": "02665T306",
-      "ticker": "AMH.H",
+      "ticker": "AMH",
       "put_call": "",
       "shares_before": 30228.0,
       "shares_after": 0.0,
@@ -35236,7 +35236,7 @@
       "issuer": "ASSURANT INC",
       "title": "COM",
       "cusip": "04621X108",
-      "ticker": "AIZN",
+      "ticker": "AIZ",
       "put_call": "",
       "shares_before": 8966.0,
       "shares_after": 34707.0,
@@ -37938,7 +37938,7 @@
       "issuer": "HERTZ GLOBAL HLDGS INC",
       "title": "COM NEW",
       "cusip": "42806J700",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "put_call": "",
       "shares_before": 74969.0,
       "shares_after": 233691.0,
@@ -40640,7 +40640,7 @@
       "issuer": "CNO FINL GROUP INC",
       "title": "COM",
       "cusip": "12621E103",
-      "ticker": "CNOPA",
+      "ticker": "CNO",
       "put_call": "",
       "shares_before": 188785.0,
       "shares_after": 89137.0,

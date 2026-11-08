@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T00:37:32.952458+00:00",
+  "fetched_at": "2026-11-08T07:22:55.252933+00:00",
   "meta": {
     "filer": "Pershing Square Capital Management, L.P.",
     "cik": "0001336528",
@@ -286,17 +286,17 @@
         "42806J700"
       ],
       "issuer_cik": "0001657853",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Hertz Global Holdings",
       "tickers": [
-        "HTZWW"
+        "HTZ"
       ],
       "classes": [
         "COM NEW"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     }
   ],
   "changes": [
@@ -459,7 +459,7 @@
       "issuer": "HERTZ GLOBAL HLDGS INC",
       "title": "COM NEW",
       "cusip": "42806J700",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "put_call": "",
       "shares_before": 15241127.0,
       "shares_after": 15241127.0,

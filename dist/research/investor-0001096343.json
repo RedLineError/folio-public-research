@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T00:37:43.519782+00:00",
+  "fetched_at": "2026-11-08T07:23:26.072535+00:00",
   "meta": {
     "filer": "MARKEL GROUP INC.",
     "cik": "0001096343",
@@ -1404,17 +1404,17 @@
         "14316J108"
       ],
       "issuer_cik": "0001527166",
-      "ticker": "CGABL",
+      "ticker": "CG",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Carlyle Group",
       "tickers": [
-        "CGABL"
+        "CG"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "THERMO FISHER SCIENTIFIC INC",
@@ -5125,7 +5125,7 @@
       "issuer": "CARLYLE GROUP INC",
       "title": "COM",
       "cusip": "14316J108",
-      "ticker": "CGABL",
+      "ticker": "CG",
       "put_call": "",
       "shares_before": 1327000.0,
       "shares_after": 1327000.0,
