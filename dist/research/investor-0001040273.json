@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T06:31:58.000702+00:00",
+  "fetched_at": "2026-11-09T17:31:01.248498+00:00",
   "meta": {
     "filer": "Third Point LLC",
     "cik": "0001040273",
@@ -864,17 +864,17 @@
         "42806J148"
       ],
       "issuer_cik": "0001657853",
-      "ticker": "HTZ",
+      "ticker": "HTZWW",
       "ticker_source": "name",
-      "ticker_check": false,
+      "ticker_check": true,
       "name": "Hertz Global Holdings",
       "tickers": [
-        "HTZ"
+        "HTZWW"
       ],
       "classes": [
         "*W EXP 06/30/205"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "FLYEXCLUSIVE INC",
@@ -1710,7 +1710,7 @@
       "issuer": "HERTZ GLOBAL HLDGS INC",
       "title": "*W EXP 06/30/205",
       "cusip": "42806J148",
-      "ticker": "HTZ",
+      "ticker": "HTZWW",
       "put_call": "",
       "shares_before": 3970000.0,
       "shares_after": 3970000.0,

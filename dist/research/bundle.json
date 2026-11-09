@@ -1,6 +1,6 @@
 {
   "catalog": {
-    "updated_at": "2026-11-09T06:32:03.255868+00:00",
+    "updated_at": "2026-11-09T17:31:30.016325+00:00",
     "filers": [
       {
         "cik": "0001067983",
@@ -203,7 +203,7 @@
   },
   "investors": {
     "0001067983": {
-      "fetched_at": "2026-11-09T06:31:56.143078+00:00",
+      "fetched_at": "2026-11-09T17:30:42.787853+00:00",
       "meta": {
         "filer": "BERKSHIRE HATHAWAY INC",
         "cik": "0001067983",
@@ -1477,9 +1477,45 @@
   "congress": {
     "2026": {
       "year": 2026,
-      "fetched_at": "2026-11-09T06:31:55.620226+00:00",
+      "fetched_at": "2026-11-09T17:30:25.262401+00:00",
       "source": "U.S. House Clerk",
       "filings": [
+        {
+          "doc_id": "20035780",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "Pelosi",
+          "first": "Nancy",
+          "name": "Hon. Nancy Pelosi",
+          "district": "CA11",
+          "year": 2026,
+          "filed": "2026-11-06",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf"
+        },
+        {
+          "doc_id": "20035775",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "McGuire",
+          "first": "John J Mr",
+          "name": "Hon. John J Mr McGuire III",
+          "district": "VA05",
+          "year": 2026,
+          "filed": "2026-11-06",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035775.pdf"
+        },
+        {
+          "doc_id": "9116399",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "Khanna",
+          "first": "Rohit",
+          "name": "Hon. Rohit Khanna",
+          "district": "CA17",
+          "year": 2026,
+          "filed": "2026-11-05",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116399.pdf"
+        },
         {
           "doc_id": "20035778",
           "type": "P",
