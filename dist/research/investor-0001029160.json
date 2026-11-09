@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T23:44:31.916672+00:00",
+  "fetched_at": "2026-11-09T06:31:58.897857+00:00",
   "meta": {
     "filer": "SOROS FUND MANAGEMENT LLC",
     "cik": "0001029160",
@@ -1524,17 +1524,17 @@
         "816851109"
       ],
       "issuer_cik": "0001032208",
-      "ticker": "SREA",
+      "ticker": "SRE",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Sempra",
       "tickers": [
-        "SREA"
+        "SRE"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "WARNER BROS DISCOVERY INC",
@@ -2489,15 +2489,18 @@
       "cusips": [
         "039653100"
       ],
-      "ticker": null,
-      "ticker_source": "none",
-      "ticker_check": true,
+      "issuer_cik": "0001739445",
+      "ticker": "ACA",
+      "ticker_source": "name",
+      "ticker_check": false,
       "name": "Arcosa",
-      "tickers": [],
+      "tickers": [
+        "ACA"
+      ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "ETSY INC",
@@ -3744,17 +3747,17 @@
         "14316J108"
       ],
       "issuer_cik": "0001527166",
-      "ticker": "CGABL",
+      "ticker": "CG",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Carlyle Group",
       "tickers": [
-        "CGABL"
+        "CG"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "JANUS LIVING INC",
@@ -5937,17 +5940,17 @@
         "42806J700"
       ],
       "issuer_cik": "0001657853",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Hertz Global Holdings",
       "tickers": [
-        "HTZWW"
+        "HTZ"
       ],
       "classes": [
         "COM NEW"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "FIRSTENERGY CORP",
@@ -7238,7 +7241,7 @@
       "issuer": "ARCOSA INC",
       "title": "COM",
       "cusip": "039653100",
-      "ticker": null,
+      "ticker": "ACA",
       "put_call": "",
       "shares_before": 0.0,
       "shares_after": 155000.0,
@@ -8036,7 +8039,7 @@
       "issuer": "HERTZ GLOBAL HLDGS INC",
       "title": "COM NEW",
       "cusip": "42806J700",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "put_call": "",
       "shares_before": 0.0,
       "shares_after": 445207.0,
@@ -9520,7 +9523,7 @@
       "issuer": "CADIZ INC",
       "title": "COM NEW",
       "cusip": "127537207",
-      "ticker": "CDZI",
+      "ticker": "CDZIP",
       "put_call": "",
       "shares_before": 29206.0,
       "shares_after": 0.0,
@@ -9870,7 +9873,7 @@
       "issuer": "SEMPRA",
       "title": "COM",
       "cusip": "816851109",
-      "ticker": "SREA",
+      "ticker": "SRE",
       "put_call": "",
       "shares_before": 108570.0,
       "shares_after": 441114.0,
@@ -10990,7 +10993,7 @@
       "issuer": "CARLYLE GROUP INC",
       "title": "COM",
       "cusip": "14316J108",
-      "ticker": "CGABL",
+      "ticker": "CG",
       "put_call": "",
       "shares_before": 244985.0,
       "shares_after": 226767.0,

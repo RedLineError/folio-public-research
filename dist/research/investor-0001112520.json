@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T23:44:36.405623+00:00",
+  "fetched_at": "2026-11-09T06:32:03.074414+00:00",
   "meta": {
     "filer": "AKRE CAPITAL MANAGEMENT LLC",
     "cik": "0001112520",
@@ -486,15 +486,18 @@
       "cusips": [
         "71385M107"
       ],
-      "ticker": null,
-      "ticker_source": "none",
-      "ticker_check": true,
+      "issuer_cik": "0001880319",
+      "ticker": "PRM",
+      "ticker_source": "name",
+      "ticker_check": false,
       "name": "Perimeter Solutions",
-      "tickers": [],
+      "tickers": [
+        "PRM"
+      ],
       "classes": [
         "COMMON STOCK"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "AMERICAN TOWER CORP NEW",
@@ -823,7 +826,7 @@
       "issuer": "PERIMETER SOLUTIONS INC",
       "title": "COMMON STOCK",
       "cusip": "71385M107",
-      "ticker": null,
+      "ticker": "PRM",
       "put_call": "",
       "shares_before": 250000.0,
       "shares_after": 250000.0,
