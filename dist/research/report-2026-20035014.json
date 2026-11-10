@@ -1,0 +1,63 @@
+{
+  "fetched_at": "2026-11-10T23:23:23.869872+00:00",
+  "filing": {
+    "doc_id": "20035014",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Suozzi",
+    "first": "Thomas",
+    "name": "Hon. Thomas Suozzi",
+    "district": "NY03",
+    "year": 2026,
+    "filed": "2026-11-09",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035014.pdf"
+  },
+  "report": {
+    "name": "Hon. Thomas Suozzi",
+    "status": "Member",
+    "district": "NY03",
+    "doc_id": "20035014",
+    "filed": "2026-11-09",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-10-13",
+        "notified": "2026-11-01",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Thomas Suozzi IRA FBO Thomas Suozzi",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "US Treasury Bill",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "description": null,
+        "days_to_disclose": 27,
+        "late": false
+      },
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-10-15",
+        "notified": "2026-11-01",
+        "amount": "$15,001 - $50,000",
+        "status": "New",
+        "account": "Thomas Suozzi IRA FBO Thomas Suozzi",
+        "description": "Retirement Account",
+        "ticker": null,
+        "asset_type": "GS",
+        "asset": "US Treasury Bill",
+        "amount_low": 15001,
+        "amount_high": 50000,
+        "days_to_disclose": 25,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

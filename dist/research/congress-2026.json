@@ -1,8 +1,32 @@
 {
   "year": 2026,
-  "fetched_at": "2026-11-10T17:51:45.140883+00:00",
+  "fetched_at": "2026-11-10T23:23:23.758238+00:00",
   "source": "U.S. House Clerk",
   "filings": [
+    {
+      "doc_id": "20035014",
+      "type": "P",
+      "type_name": "Periodic Transaction Report",
+      "last": "Suozzi",
+      "first": "Thomas",
+      "name": "Hon. Thomas Suozzi",
+      "district": "NY03",
+      "year": 2026,
+      "filed": "2026-11-09",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035014.pdf"
+    },
+    {
+      "doc_id": "20024921",
+      "type": "P",
+      "type_name": "Periodic Transaction Report",
+      "last": "Kustoff",
+      "first": "David",
+      "name": "Hon. David Kustoff",
+      "district": "TN08",
+      "year": 2026,
+      "filed": "2026-11-09",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20024921.pdf"
+    },
     {
       "doc_id": "20035780",
       "type": "P",
