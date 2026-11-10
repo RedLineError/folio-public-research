@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T09:52:34.349844+00:00",
+  "fetched_at": "2026-11-10T17:52:36.650551+00:00",
   "meta": {
     "filer": "MARKEL GROUP INC.",
     "cik": "0001096343",
@@ -154,12 +154,12 @@
         "11271J107"
       ],
       "issuer_cik": "0001001085",
-      "ticker": "BKPA",
+      "ticker": "BN",
       "ticker_source": "name",
       "ticker_check": true,
       "name": "Brookfield",
       "tickers": [
-        "BKPA"
+        "BN"
       ],
       "classes": [
         "CL A LTD VT SH"
@@ -1036,12 +1036,12 @@
         "113004105"
       ],
       "issuer_cik": "0001001085",
-      "ticker": "BKPA",
+      "ticker": "BN",
       "ticker_source": "name-prefix",
       "ticker_check": true,
       "name": "Brookfield",
       "tickers": [
-        "BKPA"
+        "BN"
       ],
       "classes": [
         "CL A LMT VTG SHS"
@@ -1404,17 +1404,17 @@
         "14316J108"
       ],
       "issuer_cik": "0001527166",
-      "ticker": "CGABL",
+      "ticker": "CG",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Carlyle Group",
       "tickers": [
-        "CGABL"
+        "CG"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "THERMO FISHER SCIENTIFIC INC",
@@ -4509,7 +4509,7 @@
       "issuer": "BROOKFIELD ASSET MANAGMT LTD",
       "title": "CL A LMT VTG SHS",
       "cusip": "113004105",
-      "ticker": "BKPA",
+      "ticker": "BN",
       "put_call": "",
       "shares_before": 2193953.0,
       "shares_after": 2173953.0,
@@ -4621,7 +4621,7 @@
       "issuer": "BROOKFIELD CORP",
       "title": "CL A LTD VT SH",
       "cusip": "11271J107",
-      "ticker": "BKPA",
+      "ticker": "BN",
       "put_call": "",
       "shares_before": 13073609.0,
       "shares_after": 13073609.0,
@@ -5125,7 +5125,7 @@
       "issuer": "CARLYLE GROUP INC",
       "title": "COM",
       "cusip": "14316J108",
-      "ticker": "CGABL",
+      "ticker": "CG",
       "put_call": "",
       "shares_before": 1327000.0,
       "shares_after": 1327000.0,

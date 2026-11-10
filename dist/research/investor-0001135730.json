@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T09:52:33.569554+00:00",
+  "fetched_at": "2026-11-10T17:52:29.413647+00:00",
   "meta": {
     "filer": "COATUE MANAGEMENT LLC",
     "cik": "0001135730",
@@ -1652,19 +1652,19 @@
         "42806J700"
       ],
       "issuer_cik": "0001657853",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Hertz Global Holdings",
       "tickers": [
-        "HTZWW",
-        "HTZWW"
+        "HTZ",
+        "HTZ"
       ],
       "classes": [
         "*W EXP 06/30/205",
         "COM NEW"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "AMC ENTMT HLDGS INC",
@@ -2665,7 +2665,7 @@
       "issuer": "HERTZ GLOBAL HLDGS INC",
       "title": "*W EXP 06/30/205",
       "cusip": "42806J148",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "put_call": "",
       "shares_before": 468814.0,
       "shares_after": 468814.0,
@@ -2693,7 +2693,7 @@
       "issuer": "HERTZ GLOBAL HLDGS INC",
       "title": "COM NEW",
       "cusip": "42806J700",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "put_call": "",
       "shares_before": 106823.0,
       "shares_after": 106823.0,

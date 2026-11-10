@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T09:52:35.241596+00:00",
+  "fetched_at": "2026-11-10T17:52:43.667839+00:00",
   "meta": {
     "filer": "OAKTREE CAPITAL MANAGEMENT LP",
     "cik": "0000949509",
@@ -215,17 +215,17 @@
         "879433829"
       ],
       "issuer_cik": "0001051512",
-      "ticker": "TDS",
+      "ticker": "TDSPRV",
       "ticker_source": "name",
-      "ticker_check": false,
+      "ticker_check": true,
       "name": "Telephone & Data Systems",
       "tickers": [
-        "TDS"
+        "TDSPRV"
       ],
       "classes": [
         "COMMON STOCK"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "VIPER ENERGY INC",
@@ -2829,9 +2829,8 @@
       "cusips": [
         "55303JAB2"
       ],
-      "issuer_cik": "0000835011",
-      "ticker": "CASK",
-      "ticker_source": "name",
+      "ticker": null,
+      "ticker_source": "none",
       "ticker_check": true,
       "name": "Mgp Ingredients",
       "copy_eligible": false
@@ -4537,7 +4536,7 @@
       "issuer": "TELEPHONE AND DATA SYSTEMS INC",
       "title": "COMMON STOCK",
       "cusip": "879433829",
-      "ticker": "TDS",
+      "ticker": "TDSPRV",
       "put_call": "",
       "shares_before": 4292243.0,
       "shares_after": 5282905.0,
@@ -5587,7 +5586,7 @@
       "issuer": "MGP INGREDIENTS INC",
       "title": "CONVERTIBLE BOND",
       "cusip": "55303JAB2",
-      "ticker": "CASK",
+      "ticker": null,
       "put_call": "",
       "shares_before": 6251000.0,
       "shares_after": 2515000.0,

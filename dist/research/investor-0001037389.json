@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T09:52:32.877978+00:00",
+  "fetched_at": "2026-11-10T17:52:26.001148+00:00",
   "meta": {
     "filer": "RENAISSANCE TECHNOLOGIES LLC",
     "cik": "0001037389",
@@ -8236,12 +8236,12 @@
         "29364G103"
       ],
       "issuer_cik": "0000071508",
-      "ticker": "ENJ",
+      "ticker": "ENO",
       "ticker_source": "name-prefix",
       "ticker_check": true,
       "name": "Entergy New Orleans",
       "tickers": [
-        "ENJ"
+        "ENO"
       ],
       "classes": [
         "COM"
@@ -12233,7 +12233,7 @@
       "ticker": "RUSHB",
       "ticker_source": "name-prefix",
       "ticker_check": true,
-      "name": "Rush Enterprises Inc \\tx\\",
+      "name": "Rush Enterprises Inc Tx",
       "tickers": [
         "RUSHB",
         "RUSHA"
@@ -13142,17 +13142,17 @@
         "816851109"
       ],
       "issuer_cik": "0001032208",
-      "ticker": "SREA",
+      "ticker": "SRE",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Sempra",
       "tickers": [
-        "SREA"
+        "SRE"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "AURORA INNOVATION INC",
@@ -13918,17 +13918,17 @@
         "14316J108"
       ],
       "issuer_cik": "0001527166",
-      "ticker": "CGABL",
+      "ticker": "CG",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Carlyle Group",
       "tickers": [
-        "CGABL"
+        "CG"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "PENTAIR PLC",
@@ -19652,17 +19652,17 @@
         "02665T306"
       ],
       "issuer_cik": "0001562401",
-      "ticker": "AMH.H",
+      "ticker": "AMH",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "American Homes 4 Rent",
       "tickers": [
-        "AMH.H"
+        "AMH"
       ],
       "classes": [
         "CL A"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "DHT HOLDINGS INC",
@@ -28632,17 +28632,17 @@
         "04914Y102"
       ],
       "issuer_cik": "0001464343",
-      "ticker": "ATLCL",
+      "ticker": "ATLC",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Atlanticus Holdings",
       "tickers": [
-        "ATLCL"
+        "ATLC"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "STARWOOD PPTY TR INC",
@@ -66508,14 +66508,11 @@
       "cusips": [
         "55303J106"
       ],
-      "issuer_cik": "0000835011",
-      "ticker": "CASK",
-      "ticker_source": "name-prefix",
+      "ticker": null,
+      "ticker_source": "none",
       "ticker_check": true,
-      "name": "Mgp Ingredients",
-      "tickers": [
-        "CASK"
-      ],
+      "name": "Mgp Ingredients Inc New",
+      "tickers": [],
       "classes": [
         "COM"
       ],
@@ -71738,12 +71735,12 @@
         "74965L101"
       ],
       "issuer_cik": "0001511337",
-      "ticker": "RLJ.A",
+      "ticker": "RLJ",
       "ticker_source": "name-prefix",
       "ticker_check": true,
       "name": "RLJ Lodging Trust",
       "tickers": [
-        "RLJ.A"
+        "RLJ"
       ],
       "classes": [
         "COM"
@@ -79064,7 +79061,7 @@
       "issuer": "SEMPRA",
       "title": "COM",
       "cusip": "816851109",
-      "ticker": "SREA",
+      "ticker": "SRE",
       "put_call": "",
       "shares_before": 0.0,
       "shares_after": 360700.0,
@@ -79582,7 +79579,7 @@
       "issuer": "AMERICAN HOMES 4 RENT",
       "title": "CL A",
       "cusip": "02665T306",
-      "ticker": "AMH.H",
+      "ticker": "AMH",
       "put_call": "",
       "shares_before": 0.0,
       "shares_after": 553129.0,
@@ -86750,7 +86747,7 @@
       "issuer": "BROOKFIELD ASSET MANAGMT LTD",
       "title": "CL A LMT VTG SHS",
       "cusip": "113004105",
-      "ticker": "BKPA",
+      "ticker": "BN",
       "put_call": "",
       "shares_before": 1103325.0,
       "shares_after": 0.0,
@@ -88094,7 +88091,7 @@
       "issuer": "ARES MANAGEMENT CORPORATION",
       "title": "CL A COM STK",
       "cusip": "03990B101",
-      "ticker": "ARES",
+      "ticker": "ARES.PRB",
       "put_call": "",
       "shares_before": 85700.0,
       "shares_after": 0.0,
@@ -94520,7 +94517,7 @@
       "issuer": "AIRSHIP AI HLDGS INC",
       "title": "COM",
       "cusip": "008940108",
-      "ticker": "AISPW",
+      "ticker": "AISP",
       "put_call": "",
       "shares_before": 23668.0,
       "shares_after": 0.0,
@@ -98328,7 +98325,7 @@
       "issuer": "CARLYLE GROUP INC",
       "title": "COM",
       "cusip": "14316J108",
-      "ticker": "CGABL",
+      "ticker": "CG",
       "put_call": "",
       "shares_before": 136700.0,
       "shares_after": 744700.0,
@@ -112972,7 +112969,7 @@
       "issuer": "ENTERGY CORP NEW",
       "title": "COM",
       "cusip": "29364G103",
-      "ticker": "ENJ",
+      "ticker": "ENO",
       "put_call": "",
       "shares_before": 561700.0,
       "shares_after": 484100.0,
@@ -119034,7 +119031,7 @@
       "issuer": "ATLANTICUS HOLDINGS CORP",
       "title": "COM",
       "cusip": "04914Y102",
-      "ticker": "ATLCL",
+      "ticker": "ATLC",
       "put_call": "",
       "shares_before": 115558.0,
       "shares_after": 92158.0,
@@ -125110,7 +125107,7 @@
       "issuer": "RLJ LODGING TR",
       "title": "COM",
       "cusip": "74965L101",
-      "ticker": "RLJ.A",
+      "ticker": "RLJ",
       "put_call": "",
       "shares_before": 299232.0,
       "shares_after": 16600.0,
@@ -128498,7 +128495,7 @@
       "issuer": "MGP INGREDIENTS INC NEW",
       "title": "COM",
       "cusip": "55303J106",
-      "ticker": "CASK",
+      "ticker": null,
       "put_call": "",
       "shares_before": 35986.0,
       "shares_after": 23686.0,

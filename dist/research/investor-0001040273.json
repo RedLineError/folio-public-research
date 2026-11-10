@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T09:52:27.839645+00:00",
+  "fetched_at": "2026-11-10T17:52:15.568388+00:00",
   "meta": {
     "filer": "Third Point LLC",
     "cik": "0001040273",
@@ -151,17 +151,17 @@
         "879433829"
       ],
       "issuer_cik": "0001051512",
-      "ticker": "TDS",
+      "ticker": "TDSPRV",
       "ticker_source": "name",
-      "ticker_check": false,
+      "ticker_check": true,
       "name": "Telephone & Data Systems",
       "tickers": [
-        "TDS"
+        "TDSPRV"
       ],
       "classes": [
         "COM NEW"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
@@ -685,17 +685,17 @@
         "03990B101"
       ],
       "issuer_cik": "0001176948",
-      "ticker": "ARES",
+      "ticker": "ARES.PRB",
       "ticker_source": "name",
-      "ticker_check": false,
+      "ticker_check": true,
       "name": "Ares Management",
       "tickers": [
-        "ARES"
+        "ARES.PRB"
       ],
       "classes": [
         "CL A COM STK"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "SPACE EXPLORATION TECHN CORP",
@@ -864,17 +864,17 @@
         "42806J148"
       ],
       "issuer_cik": "0001657853",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Hertz Global Holdings",
       "tickers": [
-        "HTZWW"
+        "HTZ"
       ],
       "classes": [
         "*W EXP 06/30/205"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "FLYEXCLUSIVE INC",
@@ -1178,7 +1178,7 @@
       "issuer": "ARES MANAGEMENT CORPORATION",
       "title": "CL A COM STK",
       "cusip": "03990B101",
-      "ticker": "ARES",
+      "ticker": "ARES.PRB",
       "put_call": "",
       "shares_before": 0.0,
       "shares_after": 375000.0,
@@ -1654,7 +1654,7 @@
       "issuer": "TELEPHONE & DATA SYS INC",
       "title": "COM NEW",
       "cusip": "879433829",
-      "ticker": "TDS",
+      "ticker": "TDSPRV",
       "put_call": "",
       "shares_before": 6600000.0,
       "shares_after": 6275000.0,
@@ -1710,7 +1710,7 @@
       "issuer": "HERTZ GLOBAL HLDGS INC",
       "title": "*W EXP 06/30/205",
       "cusip": "42806J148",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "put_call": "",
       "shares_before": 3970000.0,
       "shares_after": 3970000.0,

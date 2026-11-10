@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T09:52:28.783365+00:00",
+  "fetched_at": "2026-11-10T17:52:20.867768+00:00",
   "meta": {
     "filer": "SOROS FUND MANAGEMENT LLC",
     "cik": "0001029160",
@@ -431,12 +431,12 @@
         "29364G103"
       ],
       "issuer_cik": "0000071508",
-      "ticker": "ENJ",
+      "ticker": "ENO",
       "ticker_source": "name-prefix",
       "ticker_check": true,
       "name": "Entergy New Orleans",
       "tickers": [
-        "ENJ"
+        "ENO"
       ],
       "classes": [
         "COM"
@@ -1524,17 +1524,17 @@
         "816851109"
       ],
       "issuer_cik": "0001032208",
-      "ticker": "SREA",
+      "ticker": "SRE",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Sempra",
       "tickers": [
-        "SREA"
+        "SRE"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "WARNER BROS DISCOVERY INC",
@@ -3744,17 +3744,17 @@
         "14316J108"
       ],
       "issuer_cik": "0001527166",
-      "ticker": "CGABL",
+      "ticker": "CG",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Carlyle Group",
       "tickers": [
-        "CGABL"
+        "CG"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "JANUS LIVING INC",
@@ -4233,17 +4233,17 @@
         "03990B101"
       ],
       "issuer_cik": "0001176948",
-      "ticker": "ARES",
+      "ticker": "ARES.PRB",
       "ticker_source": "name",
-      "ticker_check": false,
+      "ticker_check": true,
       "name": "Ares Management",
       "tickers": [
-        "ARES"
+        "ARES.PRB"
       ],
       "classes": [
         "CL A COM STK"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "BLACKSTONE INC",
@@ -5937,17 +5937,17 @@
         "42806J700"
       ],
       "issuer_cik": "0001657853",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Hertz Global Holdings",
       "tickers": [
-        "HTZWW"
+        "HTZ"
       ],
       "classes": [
         "COM NEW"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "FIRSTENERGY CORP",
@@ -6666,7 +6666,7 @@
       "ticker": "RUSHA",
       "ticker_source": "name-prefix",
       "ticker_check": true,
-      "name": "Rush Enterprises Inc \\tx\\",
+      "name": "Rush Enterprises Inc Tx",
       "tickers": [
         "RUSHA"
       ],
@@ -8036,7 +8036,7 @@
       "issuer": "HERTZ GLOBAL HLDGS INC",
       "title": "COM NEW",
       "cusip": "42806J700",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "put_call": "",
       "shares_before": 0.0,
       "shares_after": 445207.0,
@@ -9632,7 +9632,7 @@
       "issuer": "ENTERGY CORP NEW",
       "title": "COM",
       "cusip": "29364G103",
-      "ticker": "ENJ",
+      "ticker": "ENO",
       "put_call": "",
       "shares_before": 77178.0,
       "shares_after": 913912.0,
@@ -9870,7 +9870,7 @@
       "issuer": "SEMPRA",
       "title": "COM",
       "cusip": "816851109",
-      "ticker": "SREA",
+      "ticker": "SRE",
       "put_call": "",
       "shares_before": 108570.0,
       "shares_after": 441114.0,
@@ -10794,7 +10794,7 @@
       "issuer": "ARES MANAGEMENT CORPORATION",
       "title": "CL A COM STK",
       "cusip": "03990B101",
-      "ticker": "ARES",
+      "ticker": "ARES.PRB",
       "put_call": "",
       "shares_before": 196054.0,
       "shares_after": 54026.0,
@@ -10990,7 +10990,7 @@
       "issuer": "CARLYLE GROUP INC",
       "title": "COM",
       "cusip": "14316J108",
-      "ticker": "CGABL",
+      "ticker": "CG",
       "put_call": "",
       "shares_before": 244985.0,
       "shares_after": 226767.0,

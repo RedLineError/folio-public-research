@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T09:52:26.815578+00:00",
+  "fetched_at": "2026-11-10T17:52:06.819765+00:00",
   "meta": {
     "filer": "Bridgewater Associates, LP",
     "cik": "0001350694",
@@ -9209,17 +9209,17 @@
         "04621X108"
       ],
       "issuer_cik": "0001267238",
-      "ticker": "AIZN",
+      "ticker": "AIZ",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Assurant",
       "tickers": [
-        "AIZN"
+        "AIZ"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "VERISIGN INC",
@@ -13172,17 +13172,17 @@
         "12621E103"
       ],
       "issuer_cik": "0001224608",
-      "ticker": "CNOPA",
+      "ticker": "CNO",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "CNO Financial Group",
       "tickers": [
-        "CNOPA"
+        "CNO"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "INTEL CORP",
@@ -15668,12 +15668,12 @@
         "113004105"
       ],
       "issuer_cik": "0001001085",
-      "ticker": "BKPA",
+      "ticker": "BN",
       "ticker_source": "name-prefix",
       "ticker_check": true,
       "name": "Brookfield",
       "tickers": [
-        "BKPA"
+        "BN"
       ],
       "classes": [
         "CL A LMT VTG SHS"
@@ -24320,17 +24320,17 @@
         "42806J700"
       ],
       "issuer_cik": "0001657853",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Hertz Global Holdings",
       "tickers": [
-        "HTZWW"
+        "HTZ"
       ],
       "classes": [
         "COM NEW"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "BILL HOLDINGS INC",
@@ -29566,7 +29566,7 @@
       "issuer": "BROOKFIELD CORP",
       "title": "CL A LTD VT SH",
       "cusip": "11271J107",
-      "ticker": "BKPA",
+      "ticker": "BN",
       "put_call": "",
       "shares_before": 477453.0,
       "shares_after": 0.0,
@@ -30700,7 +30700,7 @@
       "issuer": "ARES MANAGEMENT CORPORATION",
       "title": "CL A COM STK",
       "cusip": "03990B101",
-      "ticker": "ARES",
+      "ticker": "ARES.PRB",
       "put_call": "",
       "shares_before": 17067.0,
       "shares_after": 0.0,
@@ -31330,7 +31330,7 @@
       "issuer": "AMERICAN HOMES 4 RENT",
       "title": "CL A",
       "cusip": "02665T306",
-      "ticker": "AMH.H",
+      "ticker": "AMH",
       "put_call": "",
       "shares_before": 30228.0,
       "shares_after": 0.0,
@@ -35236,7 +35236,7 @@
       "issuer": "ASSURANT INC",
       "title": "COM",
       "cusip": "04621X108",
-      "ticker": "AIZN",
+      "ticker": "AIZ",
       "put_call": "",
       "shares_before": 8966.0,
       "shares_after": 34707.0,
@@ -36692,7 +36692,7 @@
       "issuer": "BROOKFIELD ASSET MANAGMT LTD",
       "title": "CL A LMT VTG SHS",
       "cusip": "113004105",
-      "ticker": "BKPA",
+      "ticker": "BN",
       "put_call": "",
       "shares_before": 30379.0,
       "shares_after": 67547.0,
@@ -37938,7 +37938,7 @@
       "issuer": "HERTZ GLOBAL HLDGS INC",
       "title": "COM NEW",
       "cusip": "42806J700",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "put_call": "",
       "shares_before": 74969.0,
       "shares_after": 233691.0,
@@ -40640,7 +40640,7 @@
       "issuer": "CNO FINL GROUP INC",
       "title": "COM",
       "cusip": "12621E103",
-      "ticker": "CNOPA",
+      "ticker": "CNO",
       "put_call": "",
       "shares_before": 188785.0,
       "shares_after": 89137.0,

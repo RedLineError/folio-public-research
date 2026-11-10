@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T09:52:34.948972+00:00",
+  "fetched_at": "2026-11-10T17:52:41.894948+00:00",
   "meta": {
     "filer": "AKRE CAPITAL MANAGEMENT LLC",
     "cik": "0001112520",
@@ -94,12 +94,12 @@
         "11271J107"
       ],
       "issuer_cik": "0001001085",
-      "ticker": "BKPA",
+      "ticker": "BN",
       "ticker_source": "name",
       "ticker_check": true,
       "name": "Brookfield",
       "tickers": [
-        "BKPA"
+        "BN"
       ],
       "classes": [
         "CL A LTD VT SH"
@@ -599,7 +599,7 @@
       "issuer": "BROOKFIELD CORP",
       "title": "CL A LTD VT SH",
       "cusip": "11271J107",
-      "ticker": "BKPA",
+      "ticker": "BN",
       "put_call": "",
       "shares_before": 17027077.0,
       "shares_after": 12119927.0,

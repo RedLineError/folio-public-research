@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T09:52:33.684877+00:00",
+  "fetched_at": "2026-11-10T17:52:31.117997+00:00",
   "meta": {
     "filer": "LONE PINE CAPITAL LLC",
     "cik": "0001061165",
@@ -925,12 +925,12 @@
         "11271J107"
       ],
       "issuer_cik": "0001001085",
-      "ticker": "BKPA",
+      "ticker": "BN",
       "ticker_source": "name",
       "ticker_check": true,
       "name": "Brookfield",
       "tickers": [
-        "BKPA"
+        "BN"
       ],
       "classes": [
         "CL A LTD VT SH"
@@ -1574,7 +1574,7 @@
       "issuer": "BROOKFIELD CORP",
       "title": "CL A LTD VT SH",
       "cusip": "11271J107",
-      "ticker": "BKPA",
+      "ticker": "BN",
       "put_call": "",
       "shares_before": 11208969.0,
       "shares_after": 792717.0,

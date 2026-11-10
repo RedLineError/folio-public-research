@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T09:52:25.579271+00:00",
+  "fetched_at": "2026-11-10T17:52:02.754563+00:00",
   "meta": {
     "filer": "Pershing Square Capital Management, L.P.",
     "cik": "0001336528",
@@ -40,12 +40,12 @@
         "11271J107"
       ],
       "issuer_cik": "0001001085",
-      "ticker": "BKPA",
+      "ticker": "BN",
       "ticker_source": "name",
       "ticker_check": true,
       "name": "Brookfield",
       "tickers": [
-        "BKPA"
+        "BN"
       ],
       "classes": [
         "CL A LTD VT SH"
@@ -286,17 +286,17 @@
         "42806J700"
       ],
       "issuer_cik": "0001657853",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Hertz Global Holdings",
       "tickers": [
-        "HTZWW"
+        "HTZ"
       ],
       "classes": [
         "COM NEW"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     }
   ],
   "changes": [
@@ -347,7 +347,7 @@
       "issuer": "BROOKFIELD CORP",
       "title": "CL A LTD VT SH",
       "cusip": "11271J107",
-      "ticker": "BKPA",
+      "ticker": "BN",
       "put_call": "",
       "shares_before": 61403089.0,
       "shares_after": 59697208.0,
@@ -459,7 +459,7 @@
       "issuer": "HERTZ GLOBAL HLDGS INC",
       "title": "COM NEW",
       "cusip": "42806J700",
-      "ticker": "HTZWW",
+      "ticker": "HTZ",
       "put_call": "",
       "shares_before": 15241127.0,
       "shares_after": 15241127.0,
