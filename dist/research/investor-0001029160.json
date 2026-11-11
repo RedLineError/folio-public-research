@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T06:23:19.351000+00:00",
+  "fetched_at": "2026-11-11T22:00:00.046421+00:00",
   "meta": {
     "filer": "SOROS FUND MANAGEMENT LLC",
     "cik": "0001029160",
@@ -4233,17 +4233,17 @@
         "03990B101"
       ],
       "issuer_cik": "0001176948",
-      "ticker": "ARES.PRB",
+      "ticker": "ARES",
       "ticker_source": "name",
-      "ticker_check": true,
+      "ticker_check": false,
       "name": "Ares Management",
       "tickers": [
-        "ARES.PRB"
+        "ARES"
       ],
       "classes": [
         "CL A COM STK"
       ],
-      "copy_eligible": false
+      "copy_eligible": true
     },
     {
       "issuer": "BLACKSTONE INC",
@@ -10794,7 +10794,7 @@
       "issuer": "ARES MANAGEMENT CORPORATION",
       "title": "CL A COM STK",
       "cusip": "03990B101",
-      "ticker": "ARES.PRB",
+      "ticker": "ARES",
       "put_call": "",
       "shares_before": 196054.0,
       "shares_after": 54026.0,

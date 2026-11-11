@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T06:23:24.234291+00:00",
+  "fetched_at": "2026-11-11T22:00:05.606209+00:00",
   "meta": {
     "filer": "RENAISSANCE TECHNOLOGIES LLC",
     "cik": "0001037389",
@@ -88091,7 +88091,7 @@
       "issuer": "ARES MANAGEMENT CORPORATION",
       "title": "CL A COM STK",
       "cusip": "03990B101",
-      "ticker": "ARES.PRB",
+      "ticker": "ARES",
       "put_call": "",
       "shares_before": 85700.0,
       "shares_after": 0.0,

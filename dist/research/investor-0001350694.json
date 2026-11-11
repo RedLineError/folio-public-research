@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T06:23:17.365914+00:00",
+  "fetched_at": "2026-11-11T21:59:46.422570+00:00",
   "meta": {
     "filer": "Bridgewater Associates, LP",
     "cik": "0001350694",
@@ -30700,7 +30700,7 @@
       "issuer": "ARES MANAGEMENT CORPORATION",
       "title": "CL A COM STK",
       "cusip": "03990B101",
-      "ticker": "ARES.PRB",
+      "ticker": "ARES",
       "put_call": "",
       "shares_before": 17067.0,
       "shares_after": 0.0,
