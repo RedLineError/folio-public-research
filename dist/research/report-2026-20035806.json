@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-12T03:00:16.573263+00:00",
+  "filing": {
+    "doc_id": "20035806",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Johnson",
+    "first": "Julie",
+    "name": "Hon. Julie Johnson",
+    "district": "TX32",
+    "year": 2026,
+    "filed": "2026-11-10",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035806.pdf"
+  },
+  "report": {
+    "name": "Hon. Julie Johnson",
+    "status": "Member",
+    "district": "TX32",
+    "doc_id": "20035806",
+    "filed": "2026-11-10",
+    "rows": [
+      {
+        "owner": "JT",
+        "owner_name": "joint",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-10-07",
+        "notified": "2026-11-09",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Merrill Lynch Tax Efficient Core",
+        "ticker": "WBD",
+        "asset_type": "ST",
+        "asset": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 34,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}
