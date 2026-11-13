@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-11-13T16:26:24.001128+00:00",
+  "fetched_at": "2026-11-13T22:38:49.972180+00:00",
   "meta": {
+    "filer": "ICAHN CARL C",
+    "cik": "0000921669",
+    "period": "2026-09-30",
+    "filed": "2026-11-13",
+    "accession": "0001539497-26-002964",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/921669/000153949726002964/infotable.xml",
+    "notes": [],
+    "cover_total": 9428081917.0,
+    "total_check": "Matches the cover page total."
+  },
+  "prior": {
     "filer": "ICAHN CARL C",
     "cik": "0000921669",
     "period": "2026-06-30",
@@ -9,21 +21,9 @@
     "form": "13F-HR",
     "info_table_url": "https://www.sec.gov/Archives/edgar/data/921669/000153949726002243/infotable.xml",
     "notes": [],
-    "cover_total": 8264090525.0,
-    "total_check": "Matches the cover page total."
+    "cover_total": 8264090525.0
   },
-  "prior": {
-    "filer": "ICAHN CARL C",
-    "cik": "0000921669",
-    "period": "2026-03-31",
-    "filed": "2026-05-15",
-    "accession": "0001539497-26-001469",
-    "form": "13F-HR",
-    "info_table_url": "https://www.sec.gov/Archives/edgar/data/921669/000153949726001469/infotable.xml",
-    "notes": [],
-    "cover_total": 8553640766.0
-  },
-  "total": 8264090525.0,
+  "total": 9428081917.0,
   "positions": [
     {
       "issuer": "Icahn Enterprises LP",
@@ -32,10 +32,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 4458616003.0,
-      "shares": 618393343.0,
+      "value": 4447740626.0,
+      "shares": 658924537.0,
       "rows": 5,
-      "pct_of_13f": 53.95,
+      "pct_of_13f": 47.18,
       "cusips": [
         "451100101"
       ],
@@ -59,10 +59,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 1960899637.0,
+      "value": 3630583606.0,
       "shares": 71201875.0,
       "rows": 2,
-      "pct_of_13f": 23.73,
+      "pct_of_13f": 38.51,
       "cusips": [
         "12662P108"
       ],
@@ -86,10 +86,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 464233266.0,
+      "value": 515453836.0,
       "shares": 4164274.0,
       "rows": 2,
-      "pct_of_13f": 5.62,
+      "pct_of_13f": 5.47,
       "cusips": [
         "126633205"
       ],
@@ -113,10 +113,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 433521971.0,
+      "value": 287294322.0,
       "shares": 14336044.0,
       "rows": 1,
-      "pct_of_13f": 5.25,
+      "pct_of_13f": 3.05,
       "cusips": [
         "155923105"
       ],
@@ -140,10 +140,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 338665500.0,
-      "shares": 4275000.0,
+      "value": 249916413.0,
+      "shares": 2993728.0,
       "rows": 1,
-      "pct_of_13f": 4.1,
+      "pct_of_13f": 2.65,
       "cusips": [
         "459506101"
       ],
@@ -161,97 +161,16 @@
       "copy_eligible": true
     },
     {
-      "issuer": "EchoStar Corporation",
-      "title": "CL A",
-      "cusip": "278768106",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 142561013.0,
-      "shares": 1404542.0,
-      "rows": 1,
-      "pct_of_13f": 1.73,
-      "cusips": [
-        "278768106"
-      ],
-      "issuer_cik": "0001415404",
-      "ticker": "ECHO",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "EchoStar",
-      "tickers": [
-        "ECHO"
-      ],
-      "classes": [
-        "CL A"
-      ],
-      "copy_eligible": true
-    },
-    {
-      "issuer": "JetBlue Airways Corp.",
-      "title": "COM",
-      "cusip": "477143101",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 118371366.0,
-      "shares": 20658179.0,
-      "rows": 1,
-      "pct_of_13f": 1.43,
-      "cusips": [
-        "477143101"
-      ],
-      "issuer_cik": "0001158463",
-      "ticker": "JBLU",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "Jetblue Airways",
-      "tickers": [
-        "JBLU"
-      ],
-      "classes": [
-        "COM"
-      ],
-      "copy_eligible": true
-    },
-    {
-      "issuer": "Monro, Inc.",
-      "title": "COM",
-      "cusip": "610236101",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 86894384.0,
-      "shares": 5078573.0,
-      "rows": 1,
-      "pct_of_13f": 1.05,
-      "cusips": [
-        "610236101"
-      ],
-      "issuer_cik": "0000876427",
-      "ticker": "MNRO",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "Monro",
-      "tickers": [
-        "MNRO"
-      ],
-      "classes": [
-        "COM"
-      ],
-      "copy_eligible": true
-    },
-    {
       "issuer": "Caesars Entertainment, Inc.",
       "title": "COM",
       "cusip": "12769G100",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 73642490.0,
+      "value": 72349232.0,
       "shares": 2440109.0,
       "rows": 1,
-      "pct_of_13f": 0.89,
+      "pct_of_13f": 0.77,
       "cusips": [
         "12769G100"
       ],
@@ -269,16 +188,43 @@
       "copy_eligible": true
     },
     {
+      "issuer": "Monro, Inc.",
+      "title": "COM",
+      "cusip": "610236101",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 71049236.0,
+      "shares": 5078573.0,
+      "rows": 1,
+      "pct_of_13f": 0.75,
+      "cusips": [
+        "610236101"
+      ],
+      "issuer_cik": "0000876427",
+      "ticker": "MNRO",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Monro",
+      "tickers": [
+        "MNRO"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
       "issuer": "SandRidge Energy, Inc.",
       "title": "COM NEW",
       "cusip": "80007P869",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 69252220.0,
-      "shares": 5054907.0,
+      "value": 68561946.0,
+      "shares": 5082427.0,
       "rows": 1,
-      "pct_of_13f": 0.84,
+      "pct_of_13f": 0.73,
       "cusips": [
         "80007P869"
       ],
@@ -296,29 +242,29 @@
       "copy_eligible": true
     },
     {
-      "issuer": "American Electric Power Company",
-      "title": "COM",
-      "cusip": "025537101",
+      "issuer": "EchoStar Corporation",
+      "title": "CL A",
+      "cusip": "278768106",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 59472675.0,
-      "shares": 434710.0,
+      "value": 44705000.0,
+      "shares": 500000.0,
       "rows": 1,
-      "pct_of_13f": 0.72,
+      "pct_of_13f": 0.47,
       "cusips": [
-        "025537101"
+        "278768106"
       ],
-      "issuer_cik": "0000004904",
-      "ticker": "AEP",
+      "issuer_cik": "0001415404",
+      "ticker": "ECHO",
       "ticker_source": "name",
       "ticker_check": false,
-      "name": "American Electric Power",
+      "name": "EchoStar",
       "tickers": [
-        "AEP"
+        "ECHO"
       ],
       "classes": [
-        "COM"
+        "CL A"
       ],
       "copy_eligible": true
     },
@@ -329,10 +275,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 57960000.0,
-      "shares": 3500000.0,
+      "value": 40427700.0,
+      "shares": 2378100.0,
       "rows": 1,
-      "pct_of_13f": 0.7,
+      "pct_of_13f": 0.43,
       "cusips": [
         "071705107"
       ],
@@ -349,18 +295,46 @@
   ],
   "changes": [
     {
+      "status": "SOLD OUT",
+      "issuer": "JetBlue Airways Corp.",
+      "title": "COM",
+      "cusip": "477143101",
+      "ticker": "JBLU",
+      "put_call": "",
+      "shares_before": 20658179.0,
+      "shares_after": 0.0,
+      "change": -20658179.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 118371366.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "American Electric Power Company",
+      "title": "COM",
+      "cusip": "025537101",
+      "ticker": "AEP",
+      "put_call": "",
+      "shares_before": 434710.0,
+      "shares_after": 0.0,
+      "change": -434710.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 59472675.0
+    },
+    {
       "status": "ADDED",
       "issuer": "Icahn Enterprises LP",
       "title": "DEPOSITARY UNIT",
       "cusip": "451100101",
       "ticker": "IEP",
       "put_call": "",
-      "shares_before": 549400539.0,
-      "shares_after": 618393343.0,
-      "change": 68992804.0,
-      "change_pct": 12.6,
-      "value_after": 4458616003.0,
-      "value_before": 4147974070.0
+      "shares_before": 618393343.0,
+      "shares_after": 658924537.0,
+      "change": 40531194.0,
+      "change_pct": 6.6,
+      "value_after": 4447740626.0,
+      "value_before": 4458616003.0
     },
     {
       "status": "ADDED",
@@ -369,40 +343,54 @@
       "cusip": "80007P869",
       "ticker": "SD",
       "put_call": "",
-      "shares_before": 4947701.0,
-      "shares_after": 5054907.0,
-      "change": 107206.0,
-      "change_pct": 2.2,
-      "value_after": 69252220.0,
-      "value_before": 80697003.0
+      "shares_before": 5054907.0,
+      "shares_after": 5082427.0,
+      "change": 27520.0,
+      "change_pct": 0.5,
+      "value_after": 68561946.0,
+      "value_before": 69252220.0
     },
     {
       "status": "TRIMMED",
-      "issuer": "American Electric Power Company",
+      "issuer": "International Flavors and Fragrances Inc.",
       "title": "COM",
-      "cusip": "025537101",
-      "ticker": "AEP",
+      "cusip": "459506101",
+      "ticker": "IFF",
       "put_call": "",
-      "shares_before": 1205300.0,
-      "shares_after": 434710.0,
-      "change": -770590.0,
-      "change_pct": -63.9,
-      "value_after": 59472675.0,
-      "value_before": 157990724.0
+      "shares_before": 4275000.0,
+      "shares_after": 2993728.0,
+      "change": -1281272.0,
+      "change_pct": -30.0,
+      "value_after": 249916413.0,
+      "value_before": 338665500.0
     },
     {
       "status": "TRIMMED",
-      "issuer": "JetBlue Airways Corp.",
-      "title": "COM",
-      "cusip": "477143101",
-      "ticker": "JBLU",
+      "issuer": "EchoStar Corporation",
+      "title": "CL A",
+      "cusip": "278768106",
+      "ticker": "ECHO",
       "put_call": "",
-      "shares_before": 33621735.0,
-      "shares_after": 20658179.0,
-      "change": -12963556.0,
-      "change_pct": -38.6,
-      "value_after": 118371366.0,
-      "value_before": 148608069.0
+      "shares_before": 1404542.0,
+      "shares_after": 500000.0,
+      "change": -904542.0,
+      "change_pct": -64.4,
+      "value_after": 44705000.0,
+      "value_before": 142561013.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "Bausch Plus Lomb Corp.",
+      "title": "COMMON SHARES",
+      "cusip": "071705107",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 3500000.0,
+      "shares_after": 2378100.0,
+      "change": -1121900.0,
+      "change_pct": -32.1,
+      "value_after": 40427700.0,
+      "value_before": 57960000.0
     },
     {
       "status": "UNCHANGED",
@@ -415,8 +403,8 @@
       "shares_after": 71201875.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 1960899637.0,
-      "value_before": 2395943093.0
+      "value_after": 3630583606.0,
+      "value_before": 1960899637.0
     },
     {
       "status": "UNCHANGED",
@@ -429,8 +417,8 @@
       "shares_after": 4164274.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 464233266.0,
-      "value_before": 527488588.0
+      "value_after": 515453836.0,
+      "value_before": 464233266.0
     },
     {
       "status": "UNCHANGED",
@@ -443,36 +431,8 @@
       "shares_after": 14336044.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 433521971.0,
-      "value_before": 418755845.0
-    },
-    {
-      "status": "UNCHANGED",
-      "issuer": "International Flavors and Fragrances Inc.",
-      "title": "COM",
-      "cusip": "459506101",
-      "ticker": "IFF",
-      "put_call": "",
-      "shares_before": 4275000.0,
-      "shares_after": 4275000.0,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "value_after": 338665500.0,
-      "value_before": 310151250.0
-    },
-    {
-      "status": "UNCHANGED",
-      "issuer": "EchoStar Corporation",
-      "title": "CL A",
-      "cusip": "278768106",
-      "ticker": "ECHO",
-      "put_call": "",
-      "shares_before": 1404542.0,
-      "shares_after": 1404542.0,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "value_after": 142561013.0,
-      "value_before": 164429732.0
+      "value_after": 287294322.0,
+      "value_before": 433521971.0
     },
     {
       "status": "UNCHANGED",
@@ -485,8 +445,8 @@
       "shares_after": 5078573.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 86894384.0,
-      "value_before": 81460311.0
+      "value_after": 71049236.0,
+      "value_before": 86894384.0
     },
     {
       "status": "UNCHANGED",
@@ -499,26 +459,19 @@
       "shares_after": 2440109.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 73642490.0,
-      "value_before": 64492081.0
-    },
-    {
-      "status": "UNCHANGED",
-      "issuer": "Bausch Plus Lomb Corp.",
-      "title": "COMMON SHARES",
-      "cusip": "071705107",
-      "ticker": null,
-      "put_call": "",
-      "shares_before": 3500000.0,
-      "shares_after": 3500000.0,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "value_after": 57960000.0,
-      "value_before": 55650000.0
+      "value_after": 72349232.0,
+      "value_before": 73642490.0
     }
   ],
   "diff_error": null,
   "filings": [
+    {
+      "form": "13F-HR",
+      "accession": "0001539497-26-002964",
+      "filed": "2026-11-13",
+      "period": "2026-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
     {
       "form": "13F-HR",
       "accession": "0001539497-26-002243",
@@ -615,13 +568,6 @@
       "accession": "0001539497-23-000903",
       "filed": "2023-05-15",
       "period": "2023-03-31",
-      "primary": "xslForm13F_X02/primary_doc.xml"
-    },
-    {
-      "form": "13F-HR",
-      "accession": "0001539497-23-000294",
-      "filed": "2023-02-14",
-      "period": "2022-12-31",
       "primary": "xslForm13F_X02/primary_doc.xml"
     }
   ],

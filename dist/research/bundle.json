@@ -1,6 +1,6 @@
 {
   "catalog": {
-    "updated_at": "2026-11-13T16:26:31.326956+00:00",
+    "updated_at": "2026-11-13T22:38:58.440133+00:00",
     "filers": [
       {
         "cik": "0001067983",
@@ -203,7 +203,7 @@
   },
   "investors": {
     "0001067983": {
-      "fetched_at": "2026-11-13T16:26:21.511476+00:00",
+      "fetched_at": "2026-11-13T22:38:44.842296+00:00",
       "meta": {
         "filer": "BERKSHIRE HATHAWAY INC",
         "cik": "0001067983",
@@ -1477,9 +1477,21 @@
   "congress": {
     "2026": {
       "year": 2026,
-      "fetched_at": "2026-11-13T16:26:20.977688+00:00",
+      "fetched_at": "2026-11-13T22:38:44.189978+00:00",
       "source": "U.S. House Clerk",
       "filings": [
+        {
+          "doc_id": "20035831",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "Taylor",
+          "first": "David J.",
+          "name": "Hon. David J. Taylor",
+          "district": "OH02",
+          "year": 2026,
+          "filed": "2026-11-12",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+        },
         {
           "doc_id": "20035826",
           "type": "P",

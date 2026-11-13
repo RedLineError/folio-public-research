@@ -1,8 +1,20 @@
 {
   "year": 2026,
-  "fetched_at": "2026-11-13T16:26:20.977688+00:00",
+  "fetched_at": "2026-11-13T22:38:44.189978+00:00",
   "source": "U.S. House Clerk",
   "filings": [
+    {
+      "doc_id": "20035831",
+      "type": "P",
+      "type_name": "Periodic Transaction Report",
+      "last": "Taylor",
+      "first": "David J.",
+      "name": "Hon. David J. Taylor",
+      "district": "OH02",
+      "year": 2026,
+      "filed": "2026-11-12",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+    },
     {
       "doc_id": "20035826",
       "type": "P",

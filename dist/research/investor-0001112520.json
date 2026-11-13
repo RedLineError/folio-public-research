@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-11-13T16:26:31.102145+00:00",
+  "fetched_at": "2026-11-13T22:38:58.108440+00:00",
   "meta": {
+    "filer": "AKRE CAPITAL MANAGEMENT LLC",
+    "cik": "0001112520",
+    "period": "2026-09-30",
+    "filed": "2026-11-13",
+    "accession": "0001112520-26-000022",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1112520/000111252026000022/infotable.xml",
+    "notes": [],
+    "cover_total": 4424875808.0,
+    "total_check": "Matches the cover page total."
+  },
+  "prior": {
     "filer": "AKRE CAPITAL MANAGEMENT LLC",
     "cik": "0001112520",
     "period": "2026-06-30",
@@ -9,21 +21,9 @@
     "form": "13F-HR",
     "info_table_url": "https://www.sec.gov/Archives/edgar/data/1112520/000111252026000014/infotable.xml",
     "notes": [],
-    "cover_total": 5122536308.0,
-    "total_check": "Matches the cover page total."
+    "cover_total": 5122536308.0
   },
-  "prior": {
-    "filer": "AKRE CAPITAL MANAGEMENT LLC",
-    "cik": "0001112520",
-    "period": "2026-03-31",
-    "filed": "2026-05-14",
-    "accession": "0001112520-26-000009",
-    "form": "13F-HR",
-    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1112520/000111252026000009/infotable.xml",
-    "notes": [],
-    "cover_total": 6134537825.0
-  },
-  "total": 5122536308.0,
+  "total": 4424875808.0,
   "positions": [
     {
       "issuer": "MASTERCARD INCORPORATED",
@@ -32,10 +32,10 @@
       "figi": "BBG000F1ZSQ2",
       "put_call": "",
       "share_type": "SH",
-      "value": 1022015722.0,
-      "shares": 1989906.0,
+      "value": 970165325.0,
+      "shares": 1759235.0,
       "rows": 1,
-      "pct_of_13f": 19.95,
+      "pct_of_13f": 21.93,
       "cusips": [
         "57636Q104"
       ],
@@ -59,10 +59,10 @@
       "figi": "BBG000F86GP6",
       "put_call": "",
       "share_type": "SH",
-      "value": 523979978.0,
-      "shares": 1156893.0,
+      "value": 462720323.0,
+      "shares": 1018916.0,
       "rows": 1,
-      "pct_of_13f": 10.23,
+      "pct_of_13f": 10.46,
       "cusips": [
         "615369105"
       ],
@@ -80,16 +80,40 @@
       "copy_eligible": true
     },
     {
+      "issuer": "KKR & CO L P DEL",
+      "title": "COM UNITS",
+      "cusip": "48251W104",
+      "figi": "BBG000BCQ6J8",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 393502138.0,
+      "shares": 4309991.0,
+      "rows": 1,
+      "pct_of_13f": 8.89,
+      "cusips": [
+        "48251W104"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Kkr & Co L P Del",
+      "tickers": [],
+      "classes": [
+        "COM UNITS"
+      ],
+      "copy_eligible": false
+    },
+    {
       "issuer": "BROOKFIELD CORP",
       "title": "CL A LTD VT SH",
       "cusip": "11271J107",
       "figi": "BBG000C9KL89",
       "put_call": "",
       "share_type": "SH",
-      "value": 516187709.0,
-      "shares": 12119927.0,
+      "value": 382924957.0,
+      "shares": 10502604.0,
       "rows": 1,
-      "pct_of_13f": 10.08,
+      "pct_of_13f": 8.65,
       "cusips": [
         "11271J107"
       ],
@@ -107,67 +131,16 @@
       "copy_eligible": false
     },
     {
-      "issuer": "KKR & CO L P DEL",
-      "title": "COM UNITS",
-      "cusip": "48251W104",
-      "figi": "BBG000BCQ6J8",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 457200745.0,
-      "shares": 4981486.0,
-      "rows": 1,
-      "pct_of_13f": 8.93,
-      "cusips": [
-        "48251W104"
-      ],
-      "ticker": null,
-      "ticker_source": "none",
-      "ticker_check": true,
-      "name": "Kkr & Co L P Del",
-      "tickers": [],
-      "classes": [
-        "COM UNITS"
-      ],
-      "copy_eligible": false
-    },
-    {
-      "issuer": "FAIR ISAAC CORP",
-      "title": "COM",
-      "cusip": "303250104",
-      "figi": "BBG000DW76Y6",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 432302468.0,
-      "shares": 361826.0,
-      "rows": 1,
-      "pct_of_13f": 8.44,
-      "cusips": [
-        "303250104"
-      ],
-      "issuer_cik": "0000814547",
-      "ticker": "FICO",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "Fair Isaac",
-      "tickers": [
-        "FICO"
-      ],
-      "classes": [
-        "COM"
-      ],
-      "copy_eligible": true
-    },
-    {
       "issuer": "ROPER TECHNOLOGIES INC",
       "title": "COM",
       "cusip": "776696106",
       "figi": "BBG000F1ZSN5",
       "put_call": "",
       "share_type": "SH",
-      "value": 398136815.0,
-      "shares": 1176562.0,
+      "value": 350242644.0,
+      "shares": 1002383.0,
       "rows": 1,
-      "pct_of_13f": 7.77,
+      "pct_of_13f": 7.92,
       "cusips": [
         "776696106"
       ],
@@ -191,10 +164,10 @@
       "figi": "BBG000PSKYX7",
       "put_call": "",
       "share_type": "SH",
-      "value": 381132162.0,
-      "shares": 1110881.0,
+      "value": 334207084.0,
+      "shares": 930084.0,
       "rows": 1,
-      "pct_of_13f": 7.44,
+      "pct_of_13f": 7.55,
       "cusips": [
         "92826C839"
       ],
@@ -218,10 +191,10 @@
       "figi": "BBG000D7JKW9",
       "put_call": "",
       "share_type": "SH",
-      "value": 331326895.0,
-      "shares": 11699396.0,
+      "value": 296188465.0,
+      "shares": 10809798.0,
       "rows": 1,
-      "pct_of_13f": 6.47,
+      "pct_of_13f": 6.69,
       "cusips": [
         "22160N109"
       ],
@@ -239,16 +212,43 @@
       "copy_eligible": true
     },
     {
+      "issuer": "FAIR ISAAC CORP",
+      "title": "COM",
+      "cusip": "303250104",
+      "figi": "BBG000DW76Y6",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 222811378.0,
+      "shares": 376072.0,
+      "rows": 1,
+      "pct_of_13f": 5.04,
+      "cusips": [
+        "303250104"
+      ],
+      "issuer_cik": "0000814547",
+      "ticker": "FICO",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Fair Isaac",
+      "tickers": [
+        "FICO"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
       "issuer": "COPART INC",
       "title": "COM",
       "cusip": "217204106",
       "figi": "BBG000BM9RH1",
       "put_call": "",
       "share_type": "SH",
-      "value": 225119928.0,
-      "shares": 7985808.0,
+      "value": 202342334.0,
+      "shares": 7417241.0,
       "rows": 1,
-      "pct_of_13f": 4.39,
+      "pct_of_13f": 4.57,
       "cusips": [
         "217204106"
       ],
@@ -266,16 +266,40 @@
       "copy_eligible": true
     },
     {
+      "issuer": "CCC INTELLIGENT SOLUTIONS HL",
+      "title": "COM",
+      "cusip": "12510Q100",
+      "figi": "BBG00WNSJM49",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 194420911.0,
+      "shares": 29192329.0,
+      "rows": 1,
+      "pct_of_13f": 4.39,
+      "cusips": [
+        "12510Q100"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Ccc Intelligent Solutions Hl",
+      "tickers": [],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": false
+    },
+    {
       "issuer": "OREILLY AUTOMOTIVE INC",
       "title": "COM",
       "cusip": "67103H107",
       "figi": "BBG000BGYWY6",
       "put_call": "",
       "share_type": "SH",
-      "value": 199081820.0,
-      "shares": 2161818.0,
+      "value": 173387510.0,
+      "shares": 2030061.0,
       "rows": 1,
-      "pct_of_13f": 3.89,
+      "pct_of_13f": 3.92,
       "cusips": [
         "67103H107"
       ],
@@ -293,67 +317,16 @@
       "copy_eligible": true
     },
     {
-      "issuer": "AIRBNB INC",
-      "title": "COM CL A",
-      "cusip": "009066101",
-      "figi": "BBG001Y2XS07",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 169394482.0,
-      "shares": 1183749.0,
-      "rows": 1,
-      "pct_of_13f": 3.31,
-      "cusips": [
-        "009066101"
-      ],
-      "issuer_cik": "0001559720",
-      "ticker": "ABNB",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "Airbnb",
-      "tickers": [
-        "ABNB"
-      ],
-      "classes": [
-        "COM CL A"
-      ],
-      "copy_eligible": true
-    },
-    {
-      "issuer": "CCC INTELLIGENT SOLUTIONS HL",
-      "title": "COM",
-      "cusip": "12510Q100",
-      "figi": "BBG00WNSJM49",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 154072105.0,
-      "shares": 29858935.0,
-      "rows": 1,
-      "pct_of_13f": 3.01,
-      "cusips": [
-        "12510Q100"
-      ],
-      "ticker": null,
-      "ticker_source": "none",
-      "ticker_check": true,
-      "name": "Ccc Intelligent Solutions Hl",
-      "tickers": [],
-      "classes": [
-        "COM"
-      ],
-      "copy_eligible": false
-    },
-    {
       "issuer": "SERVICENOW INC",
       "title": "COM",
       "cusip": "81762P102",
       "figi": "BBG000M1R011",
       "put_call": "",
       "share_type": "SH",
-      "value": 123712709.0,
+      "value": 166989727.0,
       "shares": 1246099.0,
       "rows": 1,
-      "pct_of_13f": 2.42,
+      "pct_of_13f": 3.77,
       "cusips": [
         "81762P102"
       ],
@@ -377,10 +350,10 @@
       "figi": "BBG000BN2DC2",
       "put_call": "",
       "share_type": "SH",
-      "value": 112450391.0,
+      "value": 164785116.0,
       "shares": 717799.0,
       "rows": 1,
-      "pct_of_13f": 2.2,
+      "pct_of_13f": 3.72,
       "cusips": [
         "79466L302"
       ],
@@ -398,43 +371,16 @@
       "copy_eligible": true
     },
     {
-      "issuer": "GOOSEHEAD INS INC",
-      "title": "COM CL A",
-      "cusip": "38267D109",
-      "figi": "BBG00KHHBMC5",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 21504172.0,
-      "shares": 443385.0,
-      "rows": 1,
-      "pct_of_13f": 0.42,
-      "cusips": [
-        "38267D109"
-      ],
-      "issuer_cik": "0001726978",
-      "ticker": "GSHD",
-      "ticker_source": "name-prefix",
-      "ticker_check": true,
-      "name": "Goosehead Insurance",
-      "tickers": [
-        "GSHD"
-      ],
-      "classes": [
-        "COM CL A"
-      ],
-      "copy_eligible": false
-    },
-    {
       "issuer": "SOPHIA GENETICS SA",
       "title": "ORDINARY SHARES",
       "cusip": "H82027105",
       "figi": "BBG011PFK7Q9",
       "put_call": "",
       "share_type": "SH",
-      "value": 21459438.0,
+      "value": 31166393.0,
       "shares": 3719140.0,
       "rows": 1,
-      "pct_of_13f": 0.42,
+      "pct_of_13f": 0.7,
       "cusips": [
         "H82027105"
       ],
@@ -458,10 +404,10 @@
       "figi": "BBG000BN2DC2",
       "put_call": "CALL",
       "share_type": "SH",
-      "value": 15666000.0,
+      "value": 22957000.0,
       "shares": 100000.0,
       "rows": 1,
-      "pct_of_13f": 0.31,
+      "pct_of_13f": 0.52,
       "cusips": [
         "79466L302"
       ],
@@ -473,16 +419,97 @@
       "copy_eligible": false
     },
     {
+      "issuer": "GOOSEHEAD INS INC",
+      "title": "COM CL A",
+      "cusip": "38267D109",
+      "figi": "BBG00KHHBMC5",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 18801402.0,
+      "shares": 414493.0,
+      "rows": 1,
+      "pct_of_13f": 0.42,
+      "cusips": [
+        "38267D109"
+      ],
+      "issuer_cik": "0001726978",
+      "ticker": "GSHD",
+      "ticker_source": "name-prefix",
+      "ticker_check": true,
+      "name": "Goosehead Insurance",
+      "tickers": [
+        "GSHD"
+      ],
+      "classes": [
+        "COM CL A"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "TRANSDIGM GROUP INC",
+      "title": "COM",
+      "cusip": "893641100",
+      "figi": "BBG000L8CBX4",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 12449900.0,
+      "shares": 11500.0,
+      "rows": 1,
+      "pct_of_13f": 0.28,
+      "cusips": [
+        "893641100"
+      ],
+      "issuer_cik": "0001260221",
+      "ticker": "TDG",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "TransDigm Group",
+      "tickers": [
+        "TDG"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "ROLLINS INC",
+      "title": "COM",
+      "cusip": "775711104",
+      "figi": "BBG000BSBBP1",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 9638400.0,
+      "shares": 320000.0,
+      "rows": 1,
+      "pct_of_13f": 0.22,
+      "cusips": [
+        "775711104"
+      ],
+      "issuer_cik": "0000084839",
+      "ticker": "ROL",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Rollins",
+      "tickers": [
+        "ROL"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
       "issuer": "PERIMETER SOLUTIONS INC",
       "title": "COMMON STOCK",
       "cusip": "71385M107",
       "figi": "BBG01QXPR7H6",
       "put_call": "",
       "share_type": "SH",
-      "value": 8912500.0,
+      "value": 6580000.0,
       "shares": 250000.0,
       "rows": 1,
-      "pct_of_13f": 0.17,
+      "pct_of_13f": 0.15,
       "cusips": [
         "71385M107"
       ],
@@ -503,10 +530,10 @@
       "figi": "BBG000B9Y2N0",
       "put_call": "",
       "share_type": "SH",
-      "value": 4785077.0,
-      "shares": 29254.0,
+      "value": 4619168.0,
+      "shares": 28219.0,
       "rows": 1,
-      "pct_of_13f": 0.09,
+      "pct_of_13f": 0.1,
       "cusips": [
         "03027X100"
       ],
@@ -530,10 +557,10 @@
       "figi": "BBG000DWG505",
       "put_call": "",
       "share_type": "SH",
-      "value": 4095192.0,
-      "shares": 8184.0,
+      "value": 3975633.0,
+      "shares": 7984.0,
       "rows": 1,
-      "pct_of_13f": 0.08,
+      "pct_of_13f": 0.09,
       "cusips": [
         "084670702"
       ],
@@ -553,32 +580,60 @@
   ],
   "changes": [
     {
-      "status": "ADDED",
-      "issuer": "COSTAR GROUP INC",
+      "status": "NEW",
+      "issuer": "TRANSDIGM GROUP INC",
       "title": "COM",
-      "cusip": "22160N109",
-      "ticker": "CSGP",
+      "cusip": "893641100",
+      "ticker": "TDG",
       "put_call": "",
-      "shares_before": 10348273.0,
-      "shares_after": 11699396.0,
-      "change": 1351123.0,
-      "change_pct": 13.1,
-      "value_after": 331326895.0,
-      "value_before": 417449333.0
+      "shares_before": 0.0,
+      "shares_after": 11500.0,
+      "change": 11500.0,
+      "change_pct": null,
+      "value_after": 12449900.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "ROLLINS INC",
+      "title": "COM",
+      "cusip": "775711104",
+      "ticker": "ROL",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 320000.0,
+      "change": 320000.0,
+      "change_pct": null,
+      "value_after": 9638400.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "SOLD OUT",
+      "issuer": "AIRBNB INC",
+      "title": "COM CL A",
+      "cusip": "009066101",
+      "ticker": "ABNB",
+      "put_call": "",
+      "shares_before": 1183749.0,
+      "shares_after": 0.0,
+      "change": -1183749.0,
+      "change_pct": -100.0,
+      "value_after": 0.0,
+      "value_before": 169394482.0
     },
     {
       "status": "ADDED",
-      "issuer": "SERVICENOW INC",
+      "issuer": "FAIR ISAAC CORP",
       "title": "COM",
-      "cusip": "81762P102",
-      "ticker": "NOW",
+      "cusip": "303250104",
+      "ticker": "FICO",
       "put_call": "",
-      "shares_before": 1096099.0,
-      "shares_after": 1246099.0,
-      "change": 150000.0,
-      "change_pct": 13.7,
-      "value_after": 123712709.0,
-      "value_before": 114597150.0
+      "shares_before": 361826.0,
+      "shares_after": 376072.0,
+      "change": 14246.0,
+      "change_pct": 3.9,
+      "value_after": 222811378.0,
+      "value_before": 432302468.0
     },
     {
       "status": "TRIMMED",
@@ -587,40 +642,12 @@
       "cusip": "57636Q104",
       "ticker": "MA",
       "put_call": "",
-      "shares_before": 2281106.0,
-      "shares_after": 1989906.0,
-      "change": -291200.0,
-      "change_pct": -12.8,
-      "value_after": 1022015722.0,
-      "value_before": 1139777424.0
-    },
-    {
-      "status": "TRIMMED",
-      "issuer": "BROOKFIELD CORP",
-      "title": "CL A LTD VT SH",
-      "cusip": "11271J107",
-      "ticker": "BN",
-      "put_call": "",
-      "shares_before": 17027077.0,
-      "shares_after": 12119927.0,
-      "change": -4907150.0,
-      "change_pct": -28.8,
-      "value_after": 516187709.0,
-      "value_before": 689085823.0
-    },
-    {
-      "status": "TRIMMED",
-      "issuer": "KKR & CO L P DEL",
-      "title": "COM UNITS",
-      "cusip": "48251W104",
-      "ticker": null,
-      "put_call": "",
-      "shares_before": 6718078.0,
-      "shares_after": 4981486.0,
-      "change": -1736592.0,
-      "change_pct": -25.8,
-      "value_after": 457200745.0,
-      "value_before": 621422174.0
+      "shares_before": 1989906.0,
+      "shares_after": 1759235.0,
+      "change": -230671.0,
+      "change_pct": -11.6,
+      "value_after": 970165325.0,
+      "value_before": 1022015722.0
     },
     {
       "status": "TRIMMED",
@@ -629,26 +656,40 @@
       "cusip": "615369105",
       "ticker": "MCO",
       "put_call": "",
-      "shares_before": 1246114.0,
-      "shares_after": 1156893.0,
-      "change": -89221.0,
-      "change_pct": -7.2,
-      "value_after": 523979978.0,
-      "value_before": 543617232.0
+      "shares_before": 1156893.0,
+      "shares_after": 1018916.0,
+      "change": -137977.0,
+      "change_pct": -11.9,
+      "value_after": 462720323.0,
+      "value_before": 523979978.0
     },
     {
       "status": "TRIMMED",
-      "issuer": "VISA INC",
-      "title": "COM CL A",
-      "cusip": "92826C839",
-      "ticker": "V",
+      "issuer": "BROOKFIELD CORP",
+      "title": "CL A LTD VT SH",
+      "cusip": "11271J107",
+      "ticker": "BN",
       "put_call": "",
-      "shares_before": 1638798.0,
-      "shares_after": 1110881.0,
-      "change": -527917.0,
-      "change_pct": -32.2,
-      "value_after": 381132162.0,
-      "value_before": 495310308.0
+      "shares_before": 12119927.0,
+      "shares_after": 10502604.0,
+      "change": -1617323.0,
+      "change_pct": -13.3,
+      "value_after": 382924957.0,
+      "value_before": 516187709.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "KKR & CO L P DEL",
+      "title": "COM UNITS",
+      "cusip": "48251W104",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 4981486.0,
+      "shares_after": 4309991.0,
+      "change": -671495.0,
+      "change_pct": -13.5,
+      "value_after": 393502138.0,
+      "value_before": 457200745.0
     },
     {
       "status": "TRIMMED",
@@ -657,40 +698,40 @@
       "cusip": "776696106",
       "ticker": "ROP",
       "put_call": "",
-      "shares_before": 1257232.0,
-      "shares_after": 1176562.0,
-      "change": -80670.0,
-      "change_pct": -6.4,
-      "value_after": 398136815.0,
-      "value_before": 444884116.0
+      "shares_before": 1176562.0,
+      "shares_after": 1002383.0,
+      "change": -174179.0,
+      "change_pct": -14.8,
+      "value_after": 350242644.0,
+      "value_before": 398136815.0
     },
     {
       "status": "TRIMMED",
-      "issuer": "FAIR ISAAC CORP",
-      "title": "COM",
-      "cusip": "303250104",
-      "ticker": "FICO",
+      "issuer": "VISA INC",
+      "title": "COM CL A",
+      "cusip": "92826C839",
+      "ticker": "V",
       "put_call": "",
-      "shares_before": 363765.0,
-      "shares_after": 361826.0,
-      "change": -1939.0,
-      "change_pct": -0.5,
-      "value_after": 432302468.0,
-      "value_before": 388333688.0
+      "shares_before": 1110881.0,
+      "shares_after": 930084.0,
+      "change": -180797.0,
+      "change_pct": -16.3,
+      "value_after": 334207084.0,
+      "value_before": 381132162.0
     },
     {
       "status": "TRIMMED",
-      "issuer": "OREILLY AUTOMOTIVE INC",
+      "issuer": "COSTAR GROUP INC",
       "title": "COM",
-      "cusip": "67103H107",
-      "ticker": "ORLY",
+      "cusip": "22160N109",
+      "ticker": "CSGP",
       "put_call": "",
-      "shares_before": 3885813.0,
-      "shares_after": 2161818.0,
-      "change": -1723995.0,
-      "change_pct": -44.4,
-      "value_after": 199081820.0,
-      "value_before": 358699398.0
+      "shares_before": 11699396.0,
+      "shares_after": 10809798.0,
+      "change": -889598.0,
+      "change_pct": -7.6,
+      "value_after": 296188465.0,
+      "value_before": 331326895.0
     },
     {
       "status": "TRIMMED",
@@ -699,26 +740,26 @@
       "cusip": "217204106",
       "ticker": "CPRT",
       "put_call": "",
-      "shares_before": 7998938.0,
-      "shares_after": 7985808.0,
-      "change": -13130.0,
-      "change_pct": -0.2,
-      "value_after": 225119928.0,
-      "value_before": 265564742.0
+      "shares_before": 7985808.0,
+      "shares_after": 7417241.0,
+      "change": -568567.0,
+      "change_pct": -7.1,
+      "value_after": 202342334.0,
+      "value_before": 225119928.0
     },
     {
       "status": "TRIMMED",
-      "issuer": "AIRBNB INC",
-      "title": "COM CL A",
-      "cusip": "009066101",
-      "ticker": "ABNB",
+      "issuer": "OREILLY AUTOMOTIVE INC",
+      "title": "COM",
+      "cusip": "67103H107",
+      "ticker": "ORLY",
       "put_call": "",
-      "shares_before": 2034473.0,
-      "shares_after": 1183749.0,
-      "change": -850724.0,
-      "change_pct": -41.8,
-      "value_after": 169394482.0,
-      "value_before": 256913250.0
+      "shares_before": 2161818.0,
+      "shares_after": 2030061.0,
+      "change": -131757.0,
+      "change_pct": -6.1,
+      "value_after": 173387510.0,
+      "value_before": 199081820.0
     },
     {
       "status": "TRIMMED",
@@ -727,12 +768,26 @@
       "cusip": "12510Q100",
       "ticker": null,
       "put_call": "",
-      "shares_before": 31513070.0,
-      "shares_after": 29858935.0,
-      "change": -1654135.0,
-      "change_pct": -5.2,
-      "value_after": 154072105.0,
-      "value_before": 189078420.0
+      "shares_before": 29858935.0,
+      "shares_after": 29192329.0,
+      "change": -666606.0,
+      "change_pct": -2.2,
+      "value_after": 194420911.0,
+      "value_before": 154072105.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "GOOSEHEAD INS INC",
+      "title": "COM CL A",
+      "cusip": "38267D109",
+      "ticker": "GSHD",
+      "put_call": "",
+      "shares_before": 443385.0,
+      "shares_after": 414493.0,
+      "change": -28892.0,
+      "change_pct": -6.5,
+      "value_after": 18801402.0,
+      "value_before": 21504172.0
     },
     {
       "status": "TRIMMED",
@@ -741,12 +796,12 @@
       "cusip": "03027X100",
       "ticker": "AMT",
       "put_call": "",
-      "shares_before": 50772.0,
-      "shares_after": 29254.0,
-      "change": -21518.0,
-      "change_pct": -42.4,
-      "value_after": 4785077.0,
-      "value_before": 8762232.0
+      "shares_before": 29254.0,
+      "shares_after": 28219.0,
+      "change": -1035.0,
+      "change_pct": -3.5,
+      "value_after": 4619168.0,
+      "value_before": 4785077.0
     },
     {
       "status": "TRIMMED",
@@ -755,12 +810,26 @@
       "cusip": "084670702",
       "ticker": "BRK.B",
       "put_call": "",
-      "shares_before": 10339.0,
-      "shares_after": 8184.0,
-      "change": -2155.0,
-      "change_pct": -20.8,
-      "value_after": 4095192.0,
-      "value_before": 4954449.0
+      "shares_before": 8184.0,
+      "shares_after": 7984.0,
+      "change": -200.0,
+      "change_pct": -2.4,
+      "value_after": 3975633.0,
+      "value_before": 4095192.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "SERVICENOW INC",
+      "title": "COM",
+      "cusip": "81762P102",
+      "ticker": "NOW",
+      "put_call": "",
+      "shares_before": 1246099.0,
+      "shares_after": 1246099.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 166989727.0,
+      "value_before": 123712709.0
     },
     {
       "status": "UNCHANGED",
@@ -773,22 +842,8 @@
       "shares_after": 717799.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 112450391.0,
-      "value_before": 133991539.0
-    },
-    {
-      "status": "UNCHANGED",
-      "issuer": "GOOSEHEAD INS INC",
-      "title": "COM CL A",
-      "cusip": "38267D109",
-      "ticker": "GSHD",
-      "put_call": "",
-      "shares_before": 443385.0,
-      "shares_after": 443385.0,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "value_after": 21504172.0,
-      "value_before": 18914804.0
+      "value_after": 164785116.0,
+      "value_before": 112450391.0
     },
     {
       "status": "UNCHANGED",
@@ -801,8 +856,8 @@
       "shares_after": 3719140.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 21459438.0,
-      "value_before": 18409743.0
+      "value_after": 31166393.0,
+      "value_before": 21459438.0
     },
     {
       "status": "UNCHANGED",
@@ -815,8 +870,8 @@
       "shares_after": 100000.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 15666000.0,
-      "value_before": 18667000.0
+      "value_after": 22957000.0,
+      "value_before": 15666000.0
     },
     {
       "status": "UNCHANGED",
@@ -829,12 +884,19 @@
       "shares_after": 250000.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 8912500.0,
-      "value_before": 6105000.0
+      "value_after": 6580000.0,
+      "value_before": 8912500.0
     }
   ],
   "diff_error": null,
   "filings": [
+    {
+      "form": "13F-HR",
+      "accession": "0001112520-26-000022",
+      "filed": "2026-11-13",
+      "period": "2026-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
     {
       "form": "13F-HR",
       "accession": "0001112520-26-000014",
@@ -931,13 +993,6 @@
       "accession": "0001112520-23-000013",
       "filed": "2023-08-11",
       "period": "2023-06-30",
-      "primary": "xslForm13F_X02/primary_doc.xml"
-    },
-    {
-      "form": "13F-HR",
-      "accession": "0001112520-23-000008",
-      "filed": "2023-05-12",
-      "period": "2023-03-31",
       "primary": "xslForm13F_X02/primary_doc.xml"
     }
   ],

@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-11-13T16:26:30.900318+00:00",
+  "fetched_at": "2026-11-13T22:38:57.203577+00:00",
   "meta": {
+    "filer": "Dalal Street, LLC",
+    "cik": "0001549575",
+    "period": "2026-09-30",
+    "filed": "2026-11-13",
+    "accession": "0001549575-26-000023",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957526000023/infotable.xml",
+    "notes": [],
+    "cover_total": 362064212.0,
+    "total_check": "Matches the cover page total."
+  },
+  "prior": {
     "filer": "Dalal Street, LLC",
     "cik": "0001549575",
     "period": "2026-06-30",
@@ -9,21 +21,9 @@
     "form": "13F-HR",
     "info_table_url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957526000015/infotable.xml",
     "notes": [],
-    "cover_total": 326749980.0,
-    "total_check": "Matches the cover page total."
+    "cover_total": 326749980.0
   },
-  "prior": {
-    "filer": "Dalal Street, LLC",
-    "cik": "0001549575",
-    "period": "2026-03-31",
-    "filed": "2026-05-14",
-    "accession": "0001549575-26-000009",
-    "form": "13F-HR",
-    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957526000009/infotable.xml",
-    "notes": [],
-    "cover_total": 422885142.0
-  },
-  "total": 326749980.0,
+  "total": 362064212.0,
   "positions": [
     {
       "issuer": "WARRIOR MET COAL INC",
@@ -32,10 +32,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 141547098.0,
-      "shares": 1744050.0,
+      "value": 164452671.0,
+      "shares": 1867295.0,
       "rows": 1,
-      "pct_of_13f": 43.32,
+      "pct_of_13f": 45.42,
       "cusips": [
         "93627C101"
       ],
@@ -59,10 +59,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 99749443.0,
-      "shares": 20398659.0,
+      "value": 149210598.0,
+      "shares": 28475305.0,
       "rows": 1,
-      "pct_of_13f": 30.53,
+      "pct_of_13f": 41.21,
       "cusips": [
         "H8817H100"
       ],
@@ -86,10 +86,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 85305978.0,
-      "shares": 517194.0,
+      "value": 28722556.0,
+      "shares": 170744.0,
       "rows": 1,
-      "pct_of_13f": 26.11,
+      "pct_of_13f": 7.93,
       "cusips": [
         "020764106"
       ],
@@ -110,10 +110,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 147461.0,
-      "shares": 1702.0,
+      "value": 19678387.0,
+      "shares": 209211.0,
       "rows": 1,
-      "pct_of_13f": 0.05,
+      "pct_of_13f": 5.44,
       "cusips": [
         "48581R205"
       ],
@@ -130,18 +130,18 @@
   ],
   "changes": [
     {
-      "status": "NEW",
-      "issuer": "KASPI KZ JSC",
-      "title": "SPONSORED ADS",
-      "cusip": "48581R205",
-      "ticker": null,
+      "status": "ADDED",
+      "issuer": "WARRIOR MET COAL INC",
+      "title": "COM",
+      "cusip": "93627C101",
+      "ticker": "HCC",
       "put_call": "",
-      "shares_before": 0.0,
-      "shares_after": 1702.0,
-      "change": 1702.0,
-      "change_pct": null,
-      "value_after": 147461.0,
-      "value_before": 0.0
+      "shares_before": 1744050.0,
+      "shares_after": 1867295.0,
+      "change": 123245.0,
+      "change_pct": 7.1,
+      "value_after": 164452671.0,
+      "value_before": 141547098.0
     },
     {
       "status": "ADDED",
@@ -150,26 +150,26 @@
       "cusip": "H8817H100",
       "ticker": "RIG",
       "put_call": "",
-      "shares_before": 20392672.0,
-      "shares_after": 20398659.0,
-      "change": 5987.0,
-      "change_pct": 0.0,
-      "value_after": 99749443.0,
-      "value_before": 135203415.0
+      "shares_before": 20398659.0,
+      "shares_after": 28475305.0,
+      "change": 8076646.0,
+      "change_pct": 39.6,
+      "value_after": 149210598.0,
+      "value_before": 99749443.0
     },
     {
-      "status": "TRIMMED",
-      "issuer": "WARRIOR MET COAL INC",
-      "title": "COM",
-      "cusip": "93627C101",
-      "ticker": "HCC",
+      "status": "ADDED",
+      "issuer": "KASPI KZ JSC",
+      "title": "SPONSORED ADS",
+      "cusip": "48581R205",
+      "ticker": null,
       "put_call": "",
-      "shares_before": 1810831.0,
-      "shares_after": 1744050.0,
-      "change": -66781.0,
-      "change_pct": -3.7,
-      "value_after": 141547098.0,
-      "value_before": 168678908.0
+      "shares_before": 1702.0,
+      "shares_after": 209211.0,
+      "change": 207509.0,
+      "change_pct": 12192.1,
+      "value_after": 19678387.0,
+      "value_before": 147461.0
     },
     {
       "status": "TRIMMED",
@@ -178,16 +178,23 @@
       "cusip": "020764106",
       "ticker": null,
       "put_call": "",
-      "shares_before": 579738.0,
-      "shares_after": 517194.0,
-      "change": -62544.0,
-      "change_pct": -10.8,
-      "value_after": 85305978.0,
-      "value_before": 119002819.0
+      "shares_before": 517194.0,
+      "shares_after": 170744.0,
+      "change": -346450.0,
+      "change_pct": -67.0,
+      "value_after": 28722556.0,
+      "value_before": 85305978.0
     }
   ],
   "diff_error": null,
   "filings": [
+    {
+      "form": "13F-HR",
+      "accession": "0001549575-26-000023",
+      "filed": "2026-11-13",
+      "period": "2026-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
     {
       "form": "13F-HR",
       "accession": "0001549575-26-000015",
@@ -284,13 +291,6 @@
       "accession": "0001549575-23-000008",
       "filed": "2023-05-12",
       "period": "2023-03-31",
-      "primary": "xslForm13F_X02/primary_doc.xml"
-    },
-    {
-      "form": "13F-HR",
-      "accession": "0001549575-23-000004",
-      "filed": "2023-02-14",
-      "period": "2022-12-31",
       "primary": "xslForm13F_X02/primary_doc.xml"
     }
   ],
