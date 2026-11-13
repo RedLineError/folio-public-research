@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-13T00:26:04.717035+00:00",
+  "filing": {
+    "doc_id": "20035826",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Doggett",
+    "first": "Lloyd",
+    "name": "Hon. Lloyd Doggett",
+    "district": "TX37",
+    "year": 2026,
+    "filed": "2026-11-11",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf"
+  },
+  "report": {
+    "name": "Hon. Lloyd Doggett",
+    "status": "Member",
+    "district": "TX37",
+    "doc_id": "20035826",
+    "filed": "2026-11-11",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "P",
+        "type_name": "purchase",
+        "date": "2026-10-01",
+        "notified": "2026-11-05",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "description": "Automatic reinvestment of dividends earned.",
+        "ticker": "KO",
+        "asset_type": "ST",
+        "asset": "Coca-Cola Company",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 41,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

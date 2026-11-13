@@ -1,6 +1,6 @@
 {
   "catalog": {
-    "updated_at": "2026-11-12T18:57:29.998765+00:00",
+    "updated_at": "2026-11-13T00:27:04.456464+00:00",
     "filers": [
       {
         "cik": "0001067983",
@@ -203,7 +203,7 @@
   },
   "investors": {
     "0001067983": {
-      "fetched_at": "2026-11-12T18:57:19.842945+00:00",
+      "fetched_at": "2026-11-13T00:26:23.611258+00:00",
       "meta": {
         "filer": "BERKSHIRE HATHAWAY INC",
         "cik": "0001067983",
@@ -1477,9 +1477,33 @@
   "congress": {
     "2026": {
       "year": 2026,
-      "fetched_at": "2026-11-12T18:57:19.317905+00:00",
+      "fetched_at": "2026-11-13T00:26:04.621813+00:00",
       "source": "U.S. House Clerk",
       "filings": [
+        {
+          "doc_id": "20035826",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "Doggett",
+          "first": "Lloyd",
+          "name": "Hon. Lloyd Doggett",
+          "district": "TX37",
+          "year": 2026,
+          "filed": "2026-11-11",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf"
+        },
+        {
+          "doc_id": "20035821",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "Allen",
+          "first": "Richard W.",
+          "name": "Hon. Richard W. Allen",
+          "district": "GA12",
+          "year": 2026,
+          "filed": "2026-11-11",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf"
+        },
         {
           "doc_id": "9116403",
           "type": "P",
