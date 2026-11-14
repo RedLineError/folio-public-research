@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T22:38:51.103693+00:00",
+  "fetched_at": "2026-11-14T03:18:05.038982+00:00",
   "meta": {
     "filer": "SOROS FUND MANAGEMENT LLC",
     "cik": "0001029160",
@@ -800,18 +800,15 @@
       "cusips": [
         "49177J102"
       ],
-      "issuer_cik": "0001944048",
-      "ticker": "KVUE",
-      "ticker_source": "name",
-      "ticker_check": false,
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
       "name": "Kenvue",
-      "tickers": [
-        "KVUE"
-      ],
+      "tickers": [],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "IDACORP INC",
@@ -8286,7 +8283,7 @@
       "issuer": "DIGITALBRIDGE GROUP INC",
       "title": "CL A NEW",
       "cusip": "25401T603",
-      "ticker": "DBRHP",
+      "ticker": "DBRIP",
       "put_call": "",
       "shares_before": 4118793.0,
       "shares_after": 0.0,
@@ -9742,7 +9739,7 @@
       "issuer": "KENVUE INC",
       "title": "COM",
       "cusip": "49177J102",
-      "ticker": "KVUE",
+      "ticker": null,
       "put_call": "",
       "shares_before": 2746636.0,
       "shares_after": 3793186.0,

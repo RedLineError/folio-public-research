@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T22:38:47.738646+00:00",
+  "fetched_at": "2026-11-14T03:17:57.622583+00:00",
   "meta": {
     "filer": "Duquesne Family Office LLC",
     "cik": "0001536411",
@@ -1779,18 +1779,15 @@
       "cusips": [
         "68062P106"
       ],
-      "issuer_cik": "0001750284",
-      "ticker": "OLMA",
-      "ticker_source": "name",
-      "ticker_check": false,
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
       "name": "Olema Pharmaceuticals",
-      "tickers": [
-        "OLMA"
-      ],
+      "tickers": [],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "Repligen Corp",
@@ -4043,7 +4040,7 @@
       "issuer": "Olema Pharmaceuticals Inc",
       "title": "COM",
       "cusip": "68062P106",
-      "ticker": "OLMA",
+      "ticker": null,
       "put_call": "",
       "shares_before": 986827.0,
       "shares_after": 986827.0,

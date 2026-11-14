@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T22:38:46.206264+00:00",
+  "fetched_at": "2026-11-14T03:17:55.113471+00:00",
   "meta": {
     "filer": "Bridgewater Associates, LP",
     "cik": "0001350694",
@@ -7478,7 +7478,7 @@
       "ticker": "USB",
       "ticker_source": "name-prefix",
       "ticker_check": true,
-      "name": "Us Bancorp De",
+      "name": "Us Bancorp \\de\\",
       "tickers": [
         "USB"
       ],
@@ -11725,18 +11725,15 @@
       "cusips": [
         "49177J102"
       ],
-      "issuer_cik": "0001944048",
-      "ticker": "KVUE",
-      "ticker_source": "name",
-      "ticker_check": false,
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
       "name": "Kenvue",
-      "tickers": [
-        "KVUE"
-      ],
+      "tickers": [],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "TOWNEBANK PORTSMOUTH VA",
@@ -25462,18 +25459,15 @@
       "cusips": [
         "124805102"
       ],
-      "issuer_cik": "0000944148",
-      "ticker": "CBZ",
-      "ticker_source": "name",
-      "ticker_check": false,
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
       "name": "Cbiz",
-      "tickers": [
-        "CBZ"
-      ],
+      "tickers": [],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "PRIMO BRANDS CORPORATION",
@@ -29328,7 +29322,7 @@
       "issuer": "CBIZ INC",
       "title": "COM",
       "cusip": "124805102",
-      "ticker": "CBZ",
+      "ticker": null,
       "put_call": "",
       "shares_before": 0.0,
       "shares_after": 11093.0,
@@ -31148,7 +31142,7 @@
       "issuer": "LIVERAMP HLDGS INC",
       "title": "COM",
       "cusip": "53815P108",
-      "ticker": "RAMP",
+      "ticker": null,
       "put_call": "",
       "shares_before": 36484.0,
       "shares_after": 0.0,
@@ -35852,7 +35846,7 @@
       "issuer": "KENVUE INC",
       "title": "COM",
       "cusip": "49177J102",
-      "ticker": "KVUE",
+      "ticker": null,
       "put_call": "",
       "shares_before": 124950.0,
       "shares_after": 311241.0,

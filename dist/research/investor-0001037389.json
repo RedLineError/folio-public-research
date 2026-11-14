@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T22:38:55.024905+00:00",
+  "fetched_at": "2026-11-14T03:18:10.711913+00:00",
   "meta": {
     "filer": "RENAISSANCE TECHNOLOGIES LLC",
     "cik": "0001037389",
@@ -2334,18 +2334,15 @@
       "cusips": [
         "49177J102"
       ],
-      "issuer_cik": "0001944048",
-      "ticker": "KVUE",
-      "ticker_source": "name",
-      "ticker_check": false,
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
       "name": "Kenvue",
-      "tickers": [
-        "KVUE"
-      ],
+      "tickers": [],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "MCKESSON CORP",
@@ -19215,18 +19212,15 @@
       "cusips": [
         "529043408"
       ],
-      "issuer_cik": "0000910108",
-      "ticker": "LXP",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "LXP Industrial Trust",
-      "tickers": [
-        "LXP"
-      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Lxp Industrial Trust",
+      "tickers": [],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "REMITLY GLOBAL INC",
@@ -29147,7 +29141,7 @@
       "ticker": "VRDN",
       "ticker_source": "name-prefix",
       "ticker_check": true,
-      "name": "Viridian Therapeutics, Inc.DE",
+      "name": "Viridian Therapeutics, Inc.\\DE",
       "tickers": [
         "VRDN"
       ],
@@ -46221,12 +46215,12 @@
         "004468500"
       ],
       "issuer_cik": "0000949858",
-      "ticker": "ACHV",
+      "ticker": "QUIT",
       "ticker_source": "name-prefix",
       "ticker_check": true,
       "name": "Achieve Life Sciences",
       "tickers": [
-        "ACHV"
+        "QUIT"
       ],
       "classes": [
         "COM"
@@ -48244,18 +48238,15 @@
       "cusips": [
         "53815P108"
       ],
-      "issuer_cik": "0000733269",
-      "ticker": "RAMP",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "LiveRamp Holdings",
-      "tickers": [
-        "RAMP"
-      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Liveramp Hldgs",
+      "tickers": [],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "SEER INC",
@@ -77128,12 +77119,12 @@
         "M2R51X124"
       ],
       "issuer_cik": "0001631487",
-      "ticker": "CLGN",
+      "ticker": "OPHI",
       "ticker_source": "name-prefix",
       "ticker_check": true,
       "name": "CollPlant Biotechnologies",
       "tickers": [
-        "CLGN"
+        "OPHI"
       ],
       "classes": [
         "SHS NEW"
@@ -86565,7 +86556,7 @@
       "issuer": "COLLPLANT BIOTECHNOLOGIES LT",
       "title": "SHS NEW",
       "cusip": "M2R51X124",
-      "ticker": "CLGN",
+      "ticker": "OPHI",
       "put_call": "",
       "shares_before": 0.0,
       "shares_after": 10300.0,
@@ -91381,7 +91372,7 @@
       "issuer": "KARYOPHARM THERAPEUTICS INC",
       "title": "COM NEW",
       "cusip": "48576U205",
-      "ticker": "KPTI",
+      "ticker": "KPTIQ",
       "put_call": "",
       "shares_before": 108214.0,
       "shares_after": 0.0,
@@ -92333,7 +92324,7 @@
       "issuer": "DIGITALBRIDGE GROUP INC",
       "title": "CL A NEW",
       "cusip": "25401T603",
-      "ticker": "DBRHP",
+      "ticker": "DBRIP",
       "put_call": "",
       "shares_before": 34176.0,
       "shares_after": 0.0,
@@ -94433,7 +94424,7 @@
       "issuer": "COLLPLANT BIOTECHNOLOGIES LT",
       "title": "SHS NEW",
       "cusip": "M2R51X116",
-      "ticker": "CLGN",
+      "ticker": "OPHI",
       "put_call": "",
       "shares_before": 61500.0,
       "shares_after": 0.0,
@@ -95525,7 +95516,7 @@
       "issuer": "KENVUE INC",
       "title": "COM",
       "cusip": "49177J102",
-      "ticker": "KVUE",
+      "ticker": null,
       "put_call": "",
       "shares_before": 9024812.0,
       "shares_after": 9537412.0,
@@ -99893,7 +99884,7 @@
       "issuer": "LXP INDUSTRIAL TRUST",
       "title": "COM",
       "cusip": "529043408",
-      "ticker": "LXP",
+      "ticker": null,
       "put_call": "",
       "shares_before": 242976.0,
       "shares_after": 321576.0,
@@ -105969,7 +105960,7 @@
       "issuer": "ACHIEVE LIFE SCIENCE INC",
       "title": "COM",
       "cusip": "004468500",
-      "ticker": "ACHV",
+      "ticker": "QUIT",
       "put_call": "",
       "shares_before": 178049.0,
       "shares_after": 317183.0,
@@ -118163,7 +118154,7 @@
       "issuer": "LIVERAMP HLDGS INC",
       "title": "COM",
       "cusip": "53815P108",
-      "ticker": "RAMP",
+      "ticker": null,
       "put_call": "",
       "shares_before": 323399.0,
       "shares_after": 58700.0,
