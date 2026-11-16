@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-11-16T11:21:06.587708+00:00",
+  "fetched_at": "2026-11-16T22:03:49.022427+00:00",
   "meta": {
+    "filer": "Elliott Investment Management L.P.",
+    "cik": "0001791786",
+    "period": "2026-09-30",
+    "filed": "2026-11-16",
+    "accession": "0001013594-26-001204",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1791786/000101359426001204/form13fInfoTable.xml",
+    "notes": [],
+    "cover_total": 28637999237.0,
+    "total_check": "Matches the cover page total."
+  },
+  "prior": {
     "filer": "Elliott Investment Management L.P.",
     "cik": "0001791786",
     "period": "2026-06-30",
@@ -9,49 +21,10 @@
     "form": "13F-HR",
     "info_table_url": "https://www.sec.gov/Archives/edgar/data/1791786/000101359426000915/form13fInfoTable.xml",
     "notes": [],
-    "cover_total": 22669814953.0,
-    "total_check": "Matches the cover page total."
+    "cover_total": 22669814953.0
   },
-  "prior": {
-    "filer": "Elliott Investment Management L.P.",
-    "cik": "0001791786",
-    "period": "2026-03-31",
-    "filed": "2026-05-15",
-    "accession": "0001013594-26-000613",
-    "form": "13F-HR",
-    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1791786/000101359426000613/form13fInfoTable.xml",
-    "notes": [],
-    "cover_total": 20114693048.0
-  },
-  "total": 22669814953.0,
+  "total": 28637999237.0,
   "positions": [
-    {
-      "issuer": "TRIPLE FLAG PRECIOUS METAL",
-      "title": "COM",
-      "cusip": "89679M104",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 3993248804.0,
-      "shares": 133241535.0,
-      "rows": 1,
-      "pct_of_13f": 17.61,
-      "cusips": [
-        "89679M104"
-      ],
-      "issuer_cik": "0001829726",
-      "ticker": "TFPM",
-      "ticker_source": "name-prefix",
-      "ticker_check": true,
-      "name": "Triple Flag Precious Metals",
-      "tickers": [
-        "TFPM"
-      ],
-      "classes": [
-        "COM"
-      ],
-      "copy_eligible": false
-    },
     {
       "issuer": "PHILLIPS 66",
       "title": "COM",
@@ -59,10 +32,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 3254381550.0,
+      "value": 4914972810.0,
       "shares": 19251000.0,
       "rows": 1,
-      "pct_of_13f": 14.36,
+      "pct_of_13f": 17.16,
       "cusips": [
         "718546104"
       ],
@@ -80,16 +53,43 @@
       "copy_eligible": true
     },
     {
+      "issuer": "TRIPLE FLAG PRECIOUS METAL",
+      "title": "COM",
+      "cusip": "89679M104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 4105171693.0,
+      "shares": 133241535.0,
+      "rows": 1,
+      "pct_of_13f": 14.33,
+      "cusips": [
+        "89679M104"
+      ],
+      "issuer_cik": "0001829726",
+      "ticker": "TFPM",
+      "ticker_source": "name-prefix",
+      "ticker_check": true,
+      "name": "Triple Flag Precious Metals",
+      "tickers": [
+        "TFPM"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": false
+    },
+    {
       "issuer": "INVESCO QQQ TR",
       "title": "UNIT SER 1",
       "cusip": "46090E103",
       "figi": "",
       "put_call": "PUT",
       "share_type": "SH",
-      "value": 2562672000.0,
-      "shares": 3480000.0,
+      "value": 4040031924.0,
+      "shares": 5461200.0,
       "rows": 1,
-      "pct_of_13f": 11.3,
+      "pct_of_13f": 14.11,
       "cusips": [
         "46090E103"
       ],
@@ -106,10 +106,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 1581090720.0,
+      "value": 1999042980.0,
       "shares": 29454000.0,
       "rows": 1,
-      "pct_of_13f": 6.97,
+      "pct_of_13f": 6.98,
       "cusips": [
         "867224107"
       ],
@@ -133,10 +133,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 1455789243.0,
-      "shares": 32271985.0,
+      "value": 1725030000.0,
+      "shares": 27000000.0,
       "rows": 1,
-      "pct_of_13f": 6.42,
+      "pct_of_13f": 6.02,
       "cusips": [
         "42824C109"
       ],
@@ -154,23 +154,23 @@
       "copy_eligible": false
     },
     {
-      "issuer": "ISHARES TR",
-      "title": "EXPANDED TECH",
-      "cusip": "464287515",
+      "issuer": "SELECT SECTOR SPDR TR",
+      "title": "ST STR INDL ETF",
+      "cusip": "81369Y704",
       "figi": "",
       "put_call": "PUT",
       "share_type": "SH",
-      "value": 1426950000.0,
-      "shares": 15750000.0,
+      "value": 1269048000.0,
+      "shares": 7600000.0,
       "rows": 1,
-      "pct_of_13f": 6.29,
+      "pct_of_13f": 4.43,
       "cusips": [
-        "464287515"
+        "81369Y704"
       ],
       "ticker": null,
       "ticker_source": "none",
       "ticker_check": true,
-      "name": "Ishares Tr",
+      "name": "Select Sector Spdr Tr",
       "copy_eligible": false
     },
     {
@@ -180,10 +180,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 1249917360.0,
+      "value": 1012185120.0,
       "shares": 24308000.0,
       "rows": 1,
-      "pct_of_13f": 5.51,
+      "pct_of_13f": 3.53,
       "cusips": [
         "844741108"
       ],
@@ -202,55 +202,15 @@
     },
     {
       "issuer": "SELECT SECTOR SPDR TR",
-      "title": "ST STR INDL ETF",
-      "cusip": "81369Y704",
-      "figi": "",
-      "put_call": "PUT",
-      "share_type": "SH",
-      "value": 958565250.0,
-      "shares": 5175000.0,
-      "rows": 1,
-      "pct_of_13f": 4.23,
-      "cusips": [
-        "81369Y704"
-      ],
-      "ticker": null,
-      "ticker_source": "none",
-      "ticker_check": true,
-      "name": "Select Sector Spdr Tr",
-      "copy_eligible": false
-    },
-    {
-      "issuer": "SELECT SECTOR SPDR TR",
-      "title": "ST STR DISCR ETF",
-      "cusip": "81369Y407",
-      "figi": "",
-      "put_call": "PUT",
-      "share_type": "SH",
-      "value": 832688000.0,
-      "shares": 7100000.0,
-      "rows": 1,
-      "pct_of_13f": 3.67,
-      "cusips": [
-        "81369Y407"
-      ],
-      "ticker": null,
-      "ticker_source": "none",
-      "ticker_check": true,
-      "name": "Select Sector Spdr Tr",
-      "copy_eligible": false
-    },
-    {
-      "issuer": "SELECT SECTOR SPDR TR",
       "title": "ST STR STAPL ETF",
       "cusip": "81369Y308",
       "figi": "",
       "put_call": "PUT",
       "share_type": "SH",
-      "value": 799548750.0,
-      "shares": 9625000.0,
+      "value": 902720000.0,
+      "shares": 11200000.0,
       "rows": 1,
-      "pct_of_13f": 3.53,
+      "pct_of_13f": 3.15,
       "cusips": [
         "81369Y308"
       ],
@@ -261,16 +221,36 @@
       "copy_eligible": false
     },
     {
+      "issuer": "ISHARES TR",
+      "title": "EXPANDED TECH",
+      "cusip": "464287515",
+      "figi": "",
+      "put_call": "PUT",
+      "share_type": "SH",
+      "value": 873136000.0,
+      "shares": 8200000.0,
+      "rows": 1,
+      "pct_of_13f": 3.05,
+      "cusips": [
+        "464287515"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Ishares Tr",
+      "copy_eligible": false
+    },
+    {
       "issuer": "VANECK ETF TRUST",
       "title": "GOLD MINERS ETF",
       "cusip": "92189F106",
       "figi": "",
       "put_call": "PUT",
       "share_type": "SH",
-      "value": 690367500.0,
-      "shares": 9150000.0,
+      "value": 864830000.0,
+      "shares": 9850000.0,
       "rows": 1,
-      "pct_of_13f": 3.05,
+      "pct_of_13f": 3.02,
       "cusips": [
         "92189F106"
       ],
@@ -281,63 +261,16 @@
       "copy_eligible": false
     },
     {
-      "issuer": "UNITI GROUP LLC",
-      "title": "COM SHS",
-      "cusip": "912932100",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 676870152.0,
-      "shares": 59012219.0,
-      "rows": 1,
-      "pct_of_13f": 2.99,
-      "cusips": [
-        "912932100"
-      ],
-      "issuer_cik": "0002020795",
-      "ticker": "UNIT",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "Uniti Group",
-      "tickers": [
-        "UNIT"
-      ],
-      "classes": [
-        "COM SHS"
-      ],
-      "copy_eligible": true
-    },
-    {
-      "issuer": "ISHARES TR",
-      "title": "U.S. MED DVC ETF",
-      "cusip": "464288810",
-      "figi": "",
-      "put_call": "PUT",
-      "share_type": "SH",
-      "value": 617625000.0,
-      "shares": 12500000.0,
-      "rows": 1,
-      "pct_of_13f": 2.72,
-      "cusips": [
-        "464288810"
-      ],
-      "ticker": null,
-      "ticker_source": "none",
-      "ticker_check": true,
-      "name": "Ishares Tr",
-      "copy_eligible": false
-    },
-    {
       "issuer": "PINTEREST INC",
       "title": "CL A",
       "cusip": "72352L106",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 588840000.0,
+      "value": 528920000.0,
       "shares": 28000000.0,
       "rows": 1,
-      "pct_of_13f": 2.6,
+      "pct_of_13f": 1.85,
       "cusips": [
         "72352L106"
       ],
@@ -355,16 +288,143 @@
       "copy_eligible": true
     },
     {
+      "issuer": "ISHARES TR",
+      "title": "RUSSELL 2000 ETF",
+      "cusip": "464287655",
+      "figi": "",
+      "put_call": "PUT",
+      "share_type": "SH",
+      "value": 521043750.0,
+      "shares": 1875000.0,
+      "rows": 1,
+      "pct_of_13f": 1.82,
+      "cusips": [
+        "464287655"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Ishares Tr",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "ISHARES TR",
+      "title": "U.S. MED DVC ETF",
+      "cusip": "464288810",
+      "figi": "",
+      "put_call": "PUT",
+      "share_type": "SH",
+      "value": 511500000.0,
+      "shares": 10000000.0,
+      "rows": 1,
+      "pct_of_13f": 1.79,
+      "cusips": [
+        "464288810"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Ishares Tr",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "UNITI GROUP LLC",
+      "title": "COM SHS",
+      "cusip": "912932100",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 494522395.0,
+      "shares": 59012219.0,
+      "rows": 1,
+      "pct_of_13f": 1.73,
+      "cusips": [
+        "912932100"
+      ],
+      "issuer_cik": "0002020795",
+      "ticker": "UNIT",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Uniti Group",
+      "tickers": [
+        "UNIT"
+      ],
+      "classes": [
+        "COM SHS"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "VANECK ETF TRUST",
+      "title": "SEMICONDUCTR ETF",
+      "cusip": "92189F676",
+      "figi": "",
+      "put_call": "PUT",
+      "share_type": "SH",
+      "value": 487200000.0,
+      "shares": 800000.0,
+      "rows": 1,
+      "pct_of_13f": 1.7,
+      "cusips": [
+        "92189F676"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Vaneck Etf Trust",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "SELECT SECTOR SPDR TR",
+      "title": "ST STR DISCR ETF",
+      "cusip": "81369Y407",
+      "figi": "",
+      "put_call": "PUT",
+      "share_type": "SH",
+      "value": 451686000.0,
+      "shares": 4150000.0,
+      "rows": 1,
+      "pct_of_13f": 1.58,
+      "cusips": [
+        "81369Y407"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Select Sector Spdr Tr",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "SELECT SECTOR SPDR TR",
+      "title": "ST STR CARE ETF",
+      "cusip": "81369Y209",
+      "figi": "",
+      "put_call": "PUT",
+      "share_type": "SH",
+      "value": 378945000.0,
+      "shares": 2250000.0,
+      "rows": 1,
+      "pct_of_13f": 1.32,
+      "cusips": [
+        "81369Y209"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Select Sector Spdr Tr",
+      "copy_eligible": false
+    },
+    {
       "issuer": "ETSY INC",
       "title": "COM",
       "cusip": "29786A106",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 376650000.0,
+      "value": 357450000.0,
       "shares": 5000000.0,
       "rows": 1,
-      "pct_of_13f": 1.66,
+      "pct_of_13f": 1.25,
       "cusips": [
         "29786A106"
       ],
@@ -382,16 +442,77 @@
       "copy_eligible": true
     },
     {
+      "issuer": "VANECK ETF TRUST",
+      "title": "GOLD MINERS ETF",
+      "cusip": "92189F106",
+      "figi": "",
+      "put_call": "CALL",
+      "share_type": "SH",
+      "value": 353395000.0,
+      "shares": 4025000.0,
+      "rows": 1,
+      "pct_of_13f": 1.23,
+      "cusips": [
+        "92189F106"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Vaneck Etf Trust",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "SPDR SERIES TRUST",
+      "title": "ST STR SP AERO",
+      "cusip": "78464A631",
+      "figi": "",
+      "put_call": "PUT",
+      "share_type": "SH",
+      "value": 346875000.0,
+      "shares": 1500000.0,
+      "rows": 1,
+      "pct_of_13f": 1.21,
+      "cusips": [
+        "78464A631"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Spdr Series Trust",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "EXXONMOBIL HOLDINGS CORP",
+      "title": "COM SHS",
+      "cusip": "30233Q108",
+      "figi": "",
+      "put_call": "CALL",
+      "share_type": "SH",
+      "value": 260400000.0,
+      "shares": 1600000.0,
+      "rows": 1,
+      "pct_of_13f": 0.91,
+      "cusips": [
+        "30233Q108"
+      ],
+      "issuer_cik": "0002115436",
+      "ticker": "XOM",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "ExxonMobil Holdings",
+      "copy_eligible": false
+    },
+    {
       "issuer": "NORWEGIAN CRUISE LINE HLDGS",
       "title": "SHS",
       "cusip": "G66721104",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 310021460.0,
-      "shares": 14686000.0,
+      "value": 259276760.0,
+      "shares": 17686000.0,
       "rows": 1,
-      "pct_of_13f": 1.37,
+      "pct_of_13f": 0.91,
       "cusips": [
         "G66721104"
       ],
@@ -409,16 +530,97 @@
       "copy_eligible": true
     },
     {
+      "issuer": "CHEVRON CORPORATION",
+      "title": "COM",
+      "cusip": "166764100",
+      "figi": "",
+      "put_call": "CALL",
+      "share_type": "SH",
+      "value": 255262500.0,
+      "shares": 1250000.0,
+      "rows": 1,
+      "pct_of_13f": 0.89,
+      "cusips": [
+        "166764100"
+      ],
+      "issuer_cik": "0000093410",
+      "ticker": "CVX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Chevron",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "BHP BILLITON LIMITED",
+      "title": "SPONSORED ADS",
+      "cusip": "088606108",
+      "figi": "",
+      "put_call": "PUT",
+      "share_type": "SH",
+      "value": 254520000.0,
+      "shares": 3000000.0,
+      "rows": 1,
+      "pct_of_13f": 0.89,
+      "cusips": [
+        "088606108"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Bhp Billiton",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "ISHARES TR",
+      "title": "EXPANDED TECH",
+      "cusip": "464287515",
+      "figi": "",
+      "put_call": "CALL",
+      "share_type": "SH",
+      "value": 212960000.0,
+      "shares": 2000000.0,
+      "rows": 1,
+      "pct_of_13f": 0.74,
+      "cusips": [
+        "464287515"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Ishares Tr",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "SPDR SERIES TRUST",
+      "title": "SP O&G EXPL PRO",
+      "cusip": "78468R556",
+      "figi": "",
+      "put_call": "PUT",
+      "share_type": "SH",
+      "value": 197711325.0,
+      "shares": 1102500.0,
+      "rows": 1,
+      "pct_of_13f": 0.69,
+      "cusips": [
+        "78468R556"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Spdr Series Trust",
+      "copy_eligible": false
+    },
+    {
       "issuer": "PEPSICO INC",
       "title": "COM",
       "cusip": "713448108",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 172635000.0,
+      "value": 161568000.0,
       "shares": 1275000.0,
       "rows": 1,
-      "pct_of_13f": 0.76,
+      "pct_of_13f": 0.56,
       "cusips": [
         "713448108"
       ],
@@ -436,16 +638,43 @@
       "copy_eligible": true
     },
     {
+      "issuer": "EQUINIX INC",
+      "title": "COM",
+      "cusip": "29444U700",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 151737000.0,
+      "shares": 150000.0,
+      "rows": 1,
+      "pct_of_13f": 0.53,
+      "cusips": [
+        "29444U700"
+      ],
+      "issuer_cik": "0001101239",
+      "ticker": "EQIX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Equinix",
+      "tickers": [
+        "EQIX"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
       "issuer": "SEADRILL LTD",
       "title": "COM",
       "cusip": "G7997W102",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 167908735.0,
-      "shares": 4439681.0,
+      "value": 150357076.0,
+      "shares": 3365952.0,
       "rows": 1,
-      "pct_of_13f": 0.74,
+      "pct_of_13f": 0.53,
       "cusips": [
         "G7997W102"
       ],
@@ -464,17 +693,17 @@
     },
     {
       "issuer": "VANECK ETF TRUST",
-      "title": "SEMICONDUCTR ETF",
-      "cusip": "92189F676",
+      "title": "OIL SERVICES ETF",
+      "cusip": "92189H607",
       "figi": "",
       "put_call": "PUT",
       "share_type": "SH",
-      "value": 163972500.0,
-      "shares": 250000.0,
+      "value": 132429500.0,
+      "shares": 350000.0,
       "rows": 1,
-      "pct_of_13f": 0.72,
+      "pct_of_13f": 0.46,
       "cusips": [
-        "92189F676"
+        "92189H607"
       ],
       "ticker": null,
       "ticker_source": "none",
@@ -483,70 +712,16 @@
       "copy_eligible": false
     },
     {
-      "issuer": "EQUINIX INC",
-      "title": "COM",
-      "cusip": "29444U700",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 156358500.0,
-      "shares": 150000.0,
-      "rows": 1,
-      "pct_of_13f": 0.69,
-      "cusips": [
-        "29444U700"
-      ],
-      "issuer_cik": "0001101239",
-      "ticker": "EQIX",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "Equinix",
-      "tickers": [
-        "EQIX"
-      ],
-      "classes": [
-        "COM"
-      ],
-      "copy_eligible": true
-    },
-    {
-      "issuer": "SYNOPSYS INC",
-      "title": "COM",
-      "cusip": "871607107",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 101480925.0,
-      "shares": 227500.0,
-      "rows": 1,
-      "pct_of_13f": 0.45,
-      "cusips": [
-        "871607107"
-      ],
-      "issuer_cik": "0000883241",
-      "ticker": "SNPS",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "Synopsys",
-      "tickers": [
-        "SNPS"
-      ],
-      "classes": [
-        "COM"
-      ],
-      "copy_eligible": true
-    },
-    {
       "issuer": "OR ROYALTIES INC.",
       "title": "COM SHS",
       "cusip": "68390D106",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 98400930.0,
+      "value": 106831740.0,
       "shares": 3111000.0,
       "rows": 1,
-      "pct_of_13f": 0.43,
+      "pct_of_13f": 0.37,
       "cusips": [
         "68390D106"
       ],
@@ -570,10 +745,10 @@
       "figi": "",
       "put_call": "PUT",
       "share_type": "SH",
-      "value": 96237000.0,
+      "value": 93204000.0,
       "shares": 900000.0,
       "rows": 1,
-      "pct_of_13f": 0.42,
+      "pct_of_13f": 0.33,
       "cusips": [
         "78464A755"
       ],
@@ -584,36 +759,16 @@
       "copy_eligible": false
     },
     {
-      "issuer": "INVESCO EXCHANGE TRADED FD T",
-      "title": "S&P500 EQL WGT",
-      "cusip": "46137V357",
-      "figi": "",
-      "put_call": "PUT",
-      "share_type": "SH",
-      "value": 84044150.0,
-      "shares": 395000.0,
-      "rows": 1,
-      "pct_of_13f": 0.37,
-      "cusips": [
-        "46137V357"
-      ],
-      "ticker": null,
-      "ticker_source": "none",
-      "ticker_check": true,
-      "name": "Invesco Exchange Traded Fd T",
-      "copy_eligible": false
-    },
-    {
       "issuer": "TRANSOCEAN LTD",
       "title": "REGISTERED SHS",
       "cusip": "H8817H100",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 76415218.0,
+      "value": 81884610.0,
       "shares": 15626834.0,
       "rows": 1,
-      "pct_of_13f": 0.34,
+      "pct_of_13f": 0.29,
       "cusips": [
         "H8817H100"
       ],
@@ -631,23 +786,43 @@
       "copy_eligible": true
     },
     {
-      "issuer": "ISHARES TR",
-      "title": "RUSSELL 2000 ETF",
-      "cusip": "464287655",
+      "issuer": "INVESCO EXCHANGE TRADED FD T",
+      "title": "S&P500 EQL WGT",
+      "cusip": "46137V357",
       "figi": "",
       "put_call": "PUT",
       "share_type": "SH",
-      "value": 75112500.0,
-      "shares": 250000.0,
+      "value": 78007500.0,
+      "shares": 375000.0,
       "rows": 1,
-      "pct_of_13f": 0.33,
+      "pct_of_13f": 0.27,
       "cusips": [
-        "464287655"
+        "46137V357"
       ],
       "ticker": null,
       "ticker_source": "none",
       "ticker_check": true,
-      "name": "Ishares Tr",
+      "name": "Invesco Exchange Traded Fd T",
+      "copy_eligible": false
+    },
+    {
+      "issuer": "SPDR SERIES TRUST",
+      "title": "ST STR SP BIOT",
+      "cusip": "78464A870",
+      "figi": "",
+      "put_call": "PUT",
+      "share_type": "SH",
+      "value": 39420000.0,
+      "shares": 250000.0,
+      "rows": 1,
+      "pct_of_13f": 0.14,
+      "cusips": [
+        "78464A870"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Spdr Series Trust",
       "copy_eligible": false
     },
     {
@@ -657,10 +832,10 @@
       "figi": "",
       "put_call": "CALL",
       "share_type": "SH",
-      "value": 69174000.0,
-      "shares": 1400000.0,
+      "value": 35805000.0,
+      "shares": 700000.0,
       "rows": 1,
-      "pct_of_13f": 0.31,
+      "pct_of_13f": 0.13,
       "cusips": [
         "464288810"
       ],
@@ -677,10 +852,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 20588706.0,
-      "shares": 797085.0,
+      "value": 20798808.0,
+      "shares": 931012.0,
       "rows": 1,
-      "pct_of_13f": 0.09,
+      "pct_of_13f": 0.07,
       "cusips": [
         "40415F101"
       ],
@@ -704,10 +879,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 12261000.0,
+      "value": 7209000.0,
       "shares": 150000.0,
       "rows": 1,
-      "pct_of_13f": 0.05,
+      "pct_of_13f": 0.03,
       "cusips": [
         "74768A104"
       ],
@@ -723,260 +898,203 @@
         "CL A COM"
       ],
       "copy_eligible": true
+    },
+    {
+      "issuer": "PENSKE AUTOMOTIVE GRP INC",
+      "title": "COM",
+      "cusip": "70959W103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 910746.0,
+      "shares": 4546.0,
+      "rows": 1,
+      "pct_of_13f": 0.0,
+      "cusips": [
+        "70959W103"
+      ],
+      "issuer_cik": "0001019849",
+      "ticker": "PAG",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Penske Automotive Group",
+      "tickers": [
+        "PAG"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
     }
   ],
   "changes": [
+    {
+      "status": "NEW",
+      "issuer": "SELECT SECTOR SPDR TR",
+      "title": "ST STR CARE ETF",
+      "cusip": "81369Y209",
+      "ticker": null,
+      "put_call": "PUT",
+      "shares_before": 0.0,
+      "shares_after": 2250000.0,
+      "change": 2250000.0,
+      "change_pct": null,
+      "value_after": 378945000.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "VANECK ETF TRUST",
+      "title": "GOLD MINERS ETF",
+      "cusip": "92189F106",
+      "ticker": null,
+      "put_call": "CALL",
+      "shares_before": 0.0,
+      "shares_after": 4025000.0,
+      "change": 4025000.0,
+      "change_pct": null,
+      "value_after": 353395000.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "SPDR SERIES TRUST",
+      "title": "ST STR SP AERO",
+      "cusip": "78464A631",
+      "ticker": null,
+      "put_call": "PUT",
+      "shares_before": 0.0,
+      "shares_after": 1500000.0,
+      "change": 1500000.0,
+      "change_pct": null,
+      "value_after": 346875000.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "EXXONMOBIL HOLDINGS CORP",
+      "title": "COM SHS",
+      "cusip": "30233Q108",
+      "ticker": "XOM",
+      "put_call": "CALL",
+      "shares_before": 0.0,
+      "shares_after": 1600000.0,
+      "change": 1600000.0,
+      "change_pct": null,
+      "value_after": 260400000.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "CHEVRON CORPORATION",
+      "title": "COM",
+      "cusip": "166764100",
+      "ticker": "CVX",
+      "put_call": "CALL",
+      "shares_before": 0.0,
+      "shares_after": 1250000.0,
+      "change": 1250000.0,
+      "change_pct": null,
+      "value_after": 255262500.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "BHP BILLITON LIMITED",
+      "title": "SPONSORED ADS",
+      "cusip": "088606108",
+      "ticker": null,
+      "put_call": "PUT",
+      "shares_before": 0.0,
+      "shares_after": 3000000.0,
+      "change": 3000000.0,
+      "change_pct": null,
+      "value_after": 254520000.0,
+      "value_before": 0.0
+    },
     {
       "status": "NEW",
       "issuer": "ISHARES TR",
       "title": "EXPANDED TECH",
       "cusip": "464287515",
       "ticker": null,
-      "put_call": "PUT",
+      "put_call": "CALL",
       "shares_before": 0.0,
-      "shares_after": 15750000.0,
-      "change": 15750000.0,
+      "shares_after": 2000000.0,
+      "change": 2000000.0,
       "change_pct": null,
-      "value_after": 1426950000.0,
+      "value_after": 212960000.0,
       "value_before": 0.0
     },
     {
       "status": "NEW",
-      "issuer": "ISHARES TR",
-      "title": "U.S. MED DVC ETF",
-      "cusip": "464288810",
+      "issuer": "SPDR SERIES TRUST",
+      "title": "SP O&G EXPL PRO",
+      "cusip": "78468R556",
       "ticker": null,
       "put_call": "PUT",
       "shares_before": 0.0,
-      "shares_after": 12500000.0,
-      "change": 12500000.0,
+      "shares_after": 1102500.0,
+      "change": 1102500.0,
       "change_pct": null,
-      "value_after": 617625000.0,
+      "value_after": 197711325.0,
       "value_before": 0.0
     },
     {
       "status": "NEW",
       "issuer": "VANECK ETF TRUST",
-      "title": "SEMICONDUCTR ETF",
-      "cusip": "92189F676",
+      "title": "OIL SERVICES ETF",
+      "cusip": "92189H607",
+      "ticker": null,
+      "put_call": "PUT",
+      "shares_before": 0.0,
+      "shares_after": 350000.0,
+      "change": 350000.0,
+      "change_pct": null,
+      "value_after": 132429500.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "NEW",
+      "issuer": "SPDR SERIES TRUST",
+      "title": "ST STR SP BIOT",
+      "cusip": "78464A870",
       "ticker": null,
       "put_call": "PUT",
       "shares_before": 0.0,
       "shares_after": 250000.0,
       "change": 250000.0,
       "change_pct": null,
-      "value_after": 163972500.0,
+      "value_after": 39420000.0,
       "value_before": 0.0
     },
     {
       "status": "NEW",
+      "issuer": "PENSKE AUTOMOTIVE GRP INC",
+      "title": "COM",
+      "cusip": "70959W103",
+      "ticker": "PAG",
+      "put_call": "",
+      "shares_before": 0.0,
+      "shares_after": 4546.0,
+      "change": 4546.0,
+      "change_pct": null,
+      "value_after": 910746.0,
+      "value_before": 0.0
+    },
+    {
+      "status": "SOLD OUT",
       "issuer": "SYNOPSYS INC",
       "title": "COM",
       "cusip": "871607107",
       "ticker": "SNPS",
       "put_call": "",
-      "shares_before": 0.0,
-      "shares_after": 227500.0,
-      "change": 227500.0,
-      "change_pct": null,
-      "value_after": 101480925.0,
-      "value_before": 0.0
-    },
-    {
-      "status": "NEW",
-      "issuer": "INVESCO EXCHANGE TRADED FD T",
-      "title": "S&P500 EQL WGT",
-      "cusip": "46137V357",
-      "ticker": null,
-      "put_call": "PUT",
-      "shares_before": 0.0,
-      "shares_after": 395000.0,
-      "change": 395000.0,
-      "change_pct": null,
-      "value_after": 84044150.0,
-      "value_before": 0.0
-    },
-    {
-      "status": "NEW",
-      "issuer": "ISHARES TR",
-      "title": "U.S. MED DVC ETF",
-      "cusip": "464288810",
-      "ticker": null,
-      "put_call": "CALL",
-      "shares_before": 0.0,
-      "shares_after": 1400000.0,
-      "change": 1400000.0,
-      "change_pct": null,
-      "value_after": 69174000.0,
-      "value_before": 0.0
-    },
-    {
-      "status": "NEW",
-      "issuer": "QUANTINUUM INC",
-      "title": "CL A COM",
-      "cusip": "74768A104",
-      "ticker": "QNT",
-      "put_call": "",
-      "shares_before": 0.0,
-      "shares_after": 150000.0,
-      "change": 150000.0,
-      "change_pct": null,
-      "value_after": 12261000.0,
-      "value_before": 0.0
-    },
-    {
-      "status": "SOLD OUT",
-      "issuer": "ISHARES TR",
-      "title": "IBOXX HI YD ETF",
-      "cusip": "464288513",
-      "ticker": null,
-      "put_call": "PUT",
-      "shares_before": 5000000.0,
+      "shares_before": 227500.0,
       "shares_after": 0.0,
-      "change": -5000000.0,
+      "change": -227500.0,
       "change_pct": -100.0,
       "value_after": 0.0,
-      "value_before": 397800000.0
-    },
-    {
-      "status": "SOLD OUT",
-      "issuer": "DIGITAL RLTY TR INC",
-      "title": "COM",
-      "cusip": "253868103",
-      "ticker": "DLR",
-      "put_call": "PUT",
-      "shares_before": 1500000.0,
-      "shares_after": 0.0,
-      "change": -1500000.0,
-      "change_pct": -100.0,
-      "value_after": 0.0,
-      "value_before": 270315000.0
-    },
-    {
-      "status": "SOLD OUT",
-      "issuer": "ISHARES TR",
-      "title": "RUS 1000 VAL ETF",
-      "cusip": "464287598",
-      "ticker": null,
-      "put_call": "PUT",
-      "shares_before": 1000000.0,
-      "shares_after": 0.0,
-      "change": -1000000.0,
-      "change_pct": -100.0,
-      "value_after": 0.0,
-      "value_before": 213670000.0
-    },
-    {
-      "status": "SOLD OUT",
-      "issuer": "VANECK ETF TRUST",
-      "title": "GOLD MINERS ETF",
-      "cusip": "92189F106",
-      "ticker": null,
-      "put_call": "CALL",
-      "shares_before": 2000000.0,
-      "shares_after": 0.0,
-      "change": -2000000.0,
-      "change_pct": -100.0,
-      "value_after": 0.0,
-      "value_before": 183540000.0
-    },
-    {
-      "status": "SOLD OUT",
-      "issuer": "CROWN CASTLE INC",
-      "title": "COM",
-      "cusip": "22822V101",
-      "ticker": "CCI",
-      "put_call": "",
-      "shares_before": 1225000.0,
-      "shares_after": 0.0,
-      "change": -1225000.0,
-      "change_pct": -100.0,
-      "value_after": 0.0,
-      "value_before": 99604750.0
-    },
-    {
-      "status": "SOLD OUT",
-      "issuer": "FORTIVE CORP",
-      "title": "COM",
-      "cusip": "34959J108",
-      "ticker": "FTV",
-      "put_call": "PUT",
-      "shares_before": 750000.0,
-      "shares_after": 0.0,
-      "change": -750000.0,
-      "change_pct": -100.0,
-      "value_after": 0.0,
-      "value_before": 41460000.0
-    },
-    {
-      "status": "SOLD OUT",
-      "issuer": "WAYFAIR INC",
-      "title": "NOTE 3.500%11/1",
-      "cusip": "94419LAR2",
-      "ticker": "W",
-      "put_call": "",
-      "shares_before": 15000000.0,
-      "shares_after": 0.0,
-      "change": -15000000.0,
-      "change_pct": -100.0,
-      "value_after": 0.0,
-      "value_before": 26246100.0
-    },
-    {
-      "status": "SOLD OUT",
-      "issuer": "EMERSON ELEC CO",
-      "title": "COM",
-      "cusip": "291011104",
-      "ticker": "EMR",
-      "put_call": "PUT",
-      "shares_before": 200000.0,
-      "shares_after": 0.0,
-      "change": -200000.0,
-      "change_pct": -100.0,
-      "value_after": 0.0,
-      "value_before": 26204000.0
-    },
-    {
-      "status": "SOLD OUT",
-      "issuer": "GCI LIBERTY INC",
-      "title": "COM SER C",
-      "cusip": "36164V800",
-      "ticker": null,
-      "put_call": "",
-      "shares_before": 659928.0,
-      "shares_after": 0.0,
-      "change": -659928.0,
-      "change_pct": -100.0,
-      "value_after": 0.0,
-      "value_before": 24555921.0
-    },
-    {
-      "status": "SOLD OUT",
-      "issuer": "WHEATON PRECIOUS METALS CORP",
-      "title": "COM",
-      "cusip": "962879102",
-      "ticker": "WPM",
-      "put_call": "CALL",
-      "shares_before": 100000.0,
-      "shares_after": 0.0,
-      "change": -100000.0,
-      "change_pct": -100.0,
-      "value_after": 0.0,
-      "value_before": 13101000.0
-    },
-    {
-      "status": "SOLD OUT",
-      "issuer": "STRATEGY INC",
-      "title": "NOTE 0.625% 3/1",
-      "cusip": "594972AJ0",
-      "ticker": "MSTR",
-      "put_call": "",
-      "shares_before": 10000000.0,
-      "shares_after": 0.0,
-      "change": -10000000.0,
-      "change_pct": -100.0,
-      "value_after": 0.0,
-      "value_before": 11539000.0
+      "value_before": 101480925.0
     },
     {
       "status": "ADDED",
@@ -985,40 +1103,26 @@
       "cusip": "46090E103",
       "ticker": null,
       "put_call": "PUT",
-      "shares_before": 400000.0,
-      "shares_after": 3480000.0,
-      "change": 3080000.0,
-      "change_pct": 770.0,
-      "value_after": 2562672000.0,
-      "value_before": 230872000.0
-    },
-    {
-      "status": "ADDED",
-      "issuer": "HEWLETT PACKARD ENTERPRISE C",
-      "title": "COM",
-      "cusip": "42824C109",
-      "ticker": "HPE",
-      "put_call": "",
-      "shares_before": 27421735.0,
-      "shares_after": 32271985.0,
-      "change": 4850250.0,
-      "change_pct": 17.7,
-      "value_after": 1455789243.0,
-      "value_before": 652911510.0
+      "shares_before": 3480000.0,
+      "shares_after": 5461200.0,
+      "change": 1981200.0,
+      "change_pct": 56.9,
+      "value_after": 4040031924.0,
+      "value_before": 2562672000.0
     },
     {
       "status": "ADDED",
       "issuer": "SELECT SECTOR SPDR TR",
-      "title": "ST STR DISCR ETF",
-      "cusip": "81369Y407",
+      "title": "ST STR INDL ETF",
+      "cusip": "81369Y704",
       "ticker": null,
       "put_call": "PUT",
-      "shares_before": 4300000.0,
-      "shares_after": 7100000.0,
-      "change": 2800000.0,
-      "change_pct": 65.1,
-      "value_after": 832688000.0,
-      "value_before": 468614000.0
+      "shares_before": 5175000.0,
+      "shares_after": 7600000.0,
+      "change": 2425000.0,
+      "change_pct": 46.9,
+      "value_after": 1269048000.0,
+      "value_before": 958565250.0
     },
     {
       "status": "ADDED",
@@ -1027,12 +1131,12 @@
       "cusip": "81369Y308",
       "ticker": null,
       "put_call": "PUT",
-      "shares_before": 9140000.0,
-      "shares_after": 9625000.0,
-      "change": 485000.0,
-      "change_pct": 5.3,
-      "value_after": 799548750.0,
-      "value_before": 749297200.0
+      "shares_before": 9625000.0,
+      "shares_after": 11200000.0,
+      "change": 1575000.0,
+      "change_pct": 16.4,
+      "value_after": 902720000.0,
+      "value_before": 799548750.0
     },
     {
       "status": "ADDED",
@@ -1041,12 +1145,40 @@
       "cusip": "92189F106",
       "ticker": null,
       "put_call": "PUT",
-      "shares_before": 1650000.0,
-      "shares_after": 9150000.0,
-      "change": 7500000.0,
-      "change_pct": 454.5,
-      "value_after": 690367500.0,
-      "value_before": 151420500.0
+      "shares_before": 9150000.0,
+      "shares_after": 9850000.0,
+      "change": 700000.0,
+      "change_pct": 7.7,
+      "value_after": 864830000.0,
+      "value_before": 690367500.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "ISHARES TR",
+      "title": "RUSSELL 2000 ETF",
+      "cusip": "464287655",
+      "ticker": null,
+      "put_call": "PUT",
+      "shares_before": 250000.0,
+      "shares_after": 1875000.0,
+      "change": 1625000.0,
+      "change_pct": 650.0,
+      "value_after": 521043750.0,
+      "value_before": 75112500.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "VANECK ETF TRUST",
+      "title": "SEMICONDUCTR ETF",
+      "cusip": "92189F676",
+      "ticker": null,
+      "put_call": "PUT",
+      "shares_before": 250000.0,
+      "shares_after": 800000.0,
+      "change": 550000.0,
+      "change_pct": 220.0,
+      "value_after": 487200000.0,
+      "value_before": 163972500.0
     },
     {
       "status": "ADDED",
@@ -1055,68 +1187,82 @@
       "cusip": "G66721104",
       "ticker": "NCLH",
       "put_call": "",
-      "shares_before": 13186000.0,
-      "shares_after": 14686000.0,
-      "change": 1500000.0,
-      "change_pct": 11.4,
-      "value_after": 310021460.0,
-      "value_before": 246578200.0
+      "shares_before": 14686000.0,
+      "shares_after": 17686000.0,
+      "change": 3000000.0,
+      "change_pct": 20.4,
+      "value_after": 259276760.0,
+      "value_before": 310021460.0
+    },
+    {
+      "status": "ADDED",
+      "issuer": "HDFC BANK LTD",
+      "title": "SPONSORED ADS",
+      "cusip": "40415F101",
+      "ticker": "HDB",
+      "put_call": "",
+      "shares_before": 797085.0,
+      "shares_after": 931012.0,
+      "change": 133927.0,
+      "change_pct": 16.8,
+      "value_after": 20798808.0,
+      "value_before": 20588706.0
     },
     {
       "status": "TRIMMED",
-      "issuer": "TRIPLE FLAG PRECIOUS METAL",
+      "issuer": "HEWLETT PACKARD ENTERPRISE C",
       "title": "COM",
-      "cusip": "89679M104",
-      "ticker": "TFPM",
+      "cusip": "42824C109",
+      "ticker": "HPE",
       "put_call": "",
-      "shares_before": 133248215.0,
-      "shares_after": 133241535.0,
-      "change": -6680.0,
-      "change_pct": -0.0,
-      "value_after": 3993248804.0,
-      "value_before": 4625045543.0
+      "shares_before": 32271985.0,
+      "shares_after": 27000000.0,
+      "change": -5271985.0,
+      "change_pct": -16.3,
+      "value_after": 1725030000.0,
+      "value_before": 1455789243.0
     },
     {
       "status": "TRIMMED",
-      "issuer": "SUNCOR ENERGY INC NEW",
-      "title": "COM",
-      "cusip": "867224107",
-      "ticker": "SU",
-      "put_call": "",
-      "shares_before": 52670800.0,
-      "shares_after": 29454000.0,
-      "change": -23216800.0,
-      "change_pct": -44.1,
-      "value_after": 1581090720.0,
-      "value_before": 3482066588.0
-    },
-    {
-      "status": "TRIMMED",
-      "issuer": "SOUTHWEST AIRLS CO",
-      "title": "COM",
-      "cusip": "844741108",
-      "ticker": "LUV",
-      "put_call": "",
-      "shares_before": 30346000.0,
-      "shares_after": 24308000.0,
-      "change": -6038000.0,
-      "change_pct": -19.9,
-      "value_after": 1249917360.0,
-      "value_before": 1140099220.0
+      "issuer": "ISHARES TR",
+      "title": "EXPANDED TECH",
+      "cusip": "464287515",
+      "ticker": null,
+      "put_call": "PUT",
+      "shares_before": 15750000.0,
+      "shares_after": 8200000.0,
+      "change": -7550000.0,
+      "change_pct": -47.9,
+      "value_after": 873136000.0,
+      "value_before": 1426950000.0
     },
     {
       "status": "TRIMMED",
       "issuer": "SELECT SECTOR SPDR TR",
-      "title": "ST STR INDL ETF",
-      "cusip": "81369Y704",
+      "title": "ST STR DISCR ETF",
+      "cusip": "81369Y407",
       "ticker": null,
       "put_call": "PUT",
-      "shares_before": 7500000.0,
-      "shares_after": 5175000.0,
-      "change": -2325000.0,
-      "change_pct": -31.0,
-      "value_after": 958565250.0,
-      "value_before": 1212975000.0
+      "shares_before": 7100000.0,
+      "shares_after": 4150000.0,
+      "change": -2950000.0,
+      "change_pct": -41.5,
+      "value_after": 451686000.0,
+      "value_before": 832688000.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "ISHARES TR",
+      "title": "U.S. MED DVC ETF",
+      "cusip": "464288810",
+      "ticker": null,
+      "put_call": "PUT",
+      "shares_before": 12500000.0,
+      "shares_after": 10000000.0,
+      "change": -2500000.0,
+      "change_pct": -20.0,
+      "value_after": 511500000.0,
+      "value_before": 617625000.0
     },
     {
       "status": "TRIMMED",
@@ -1125,26 +1271,40 @@
       "cusip": "G7997W102",
       "ticker": "SDRL",
       "put_call": "",
-      "shares_before": 4719085.0,
-      "shares_after": 4439681.0,
-      "change": -279404.0,
-      "change_pct": -5.9,
-      "value_after": 167908735.0,
-      "value_before": 214718368.0
+      "shares_before": 4439681.0,
+      "shares_after": 3365952.0,
+      "change": -1073729.0,
+      "change_pct": -24.2,
+      "value_after": 150357076.0,
+      "value_before": 167908735.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "INVESCO EXCHANGE TRADED FD T",
+      "title": "S&P500 EQL WGT",
+      "cusip": "46137V357",
+      "ticker": null,
+      "put_call": "PUT",
+      "shares_before": 395000.0,
+      "shares_after": 375000.0,
+      "change": -20000.0,
+      "change_pct": -5.1,
+      "value_after": 78007500.0,
+      "value_before": 84044150.0
     },
     {
       "status": "TRIMMED",
       "issuer": "ISHARES TR",
-      "title": "RUSSELL 2000 ETF",
-      "cusip": "464287655",
+      "title": "U.S. MED DVC ETF",
+      "cusip": "464288810",
       "ticker": null,
-      "put_call": "PUT",
-      "shares_before": 500000.0,
-      "shares_after": 250000.0,
-      "change": -250000.0,
+      "put_call": "CALL",
+      "shares_before": 1400000.0,
+      "shares_after": 700000.0,
+      "change": -700000.0,
       "change_pct": -50.0,
-      "value_after": 75112500.0,
-      "value_before": 124000000.0
+      "value_after": 35805000.0,
+      "value_before": 69174000.0
     },
     {
       "status": "UNCHANGED",
@@ -1157,8 +1317,50 @@
       "shares_after": 19251000.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 3254381550.0,
-      "value_before": 3507147180.0
+      "value_after": 4914972810.0,
+      "value_before": 3254381550.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "TRIPLE FLAG PRECIOUS METAL",
+      "title": "COM",
+      "cusip": "89679M104",
+      "ticker": "TFPM",
+      "put_call": "",
+      "shares_before": 133241535.0,
+      "shares_after": 133241535.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 4105171693.0,
+      "value_before": 3993248804.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "SUNCOR ENERGY INC NEW",
+      "title": "COM",
+      "cusip": "867224107",
+      "ticker": "SU",
+      "put_call": "",
+      "shares_before": 29454000.0,
+      "shares_after": 29454000.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 1999042980.0,
+      "value_before": 1581090720.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "SOUTHWEST AIRLS CO",
+      "title": "COM",
+      "cusip": "844741108",
+      "ticker": "LUV",
+      "put_call": "",
+      "shares_before": 24308000.0,
+      "shares_after": 24308000.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 1012185120.0,
+      "value_before": 1249917360.0
     },
     {
       "status": "UNCHANGED",
@@ -1171,8 +1373,8 @@
       "shares_after": 59012219.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 676870152.0,
-      "value_before": 553534614.0
+      "value_after": 494522395.0,
+      "value_before": 676870152.0
     },
     {
       "status": "UNCHANGED",
@@ -1185,8 +1387,8 @@
       "shares_after": 28000000.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 588840000.0,
-      "value_before": 513520000.0
+      "value_after": 528920000.0,
+      "value_before": 588840000.0
     },
     {
       "status": "UNCHANGED",
@@ -1199,8 +1401,8 @@
       "shares_after": 5000000.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 376650000.0,
-      "value_before": 249900000.0
+      "value_after": 357450000.0,
+      "value_before": 376650000.0
     },
     {
       "status": "UNCHANGED",
@@ -1213,8 +1415,8 @@
       "shares_after": 1275000.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 172635000.0,
-      "value_before": 197994750.0
+      "value_after": 161568000.0,
+      "value_before": 172635000.0
     },
     {
       "status": "UNCHANGED",
@@ -1227,8 +1429,8 @@
       "shares_after": 150000.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 156358500.0,
-      "value_before": 147036000.0
+      "value_after": 151737000.0,
+      "value_before": 156358500.0
     },
     {
       "status": "UNCHANGED",
@@ -1241,22 +1443,8 @@
       "shares_after": 3111000.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 98400930.0,
-      "value_before": 118280220.0
-    },
-    {
-      "status": "UNCHANGED",
-      "issuer": "TRANSOCEAN LTD",
-      "title": "REGISTERED SHS",
-      "cusip": "H8817H100",
-      "ticker": "RIG",
-      "put_call": "",
-      "shares_before": 15626834.0,
-      "shares_after": 15626834.0,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "value_after": 76415218.0,
-      "value_before": 103605909.0
+      "value_after": 106831740.0,
+      "value_before": 98400930.0
     },
     {
       "status": "UNCHANGED",
@@ -1269,26 +1457,47 @@
       "shares_after": 900000.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 96237000.0,
-      "value_before": 97209000.0
+      "value_after": 93204000.0,
+      "value_before": 96237000.0
     },
     {
       "status": "UNCHANGED",
-      "issuer": "HDFC BANK LTD",
-      "title": "SPONSORED ADS",
-      "cusip": "40415F101",
-      "ticker": "HDB",
+      "issuer": "TRANSOCEAN LTD",
+      "title": "REGISTERED SHS",
+      "cusip": "H8817H100",
+      "ticker": "RIG",
       "put_call": "",
-      "shares_before": 797085.0,
-      "shares_after": 797085.0,
+      "shares_before": 15626834.0,
+      "shares_after": 15626834.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 20588706.0,
-      "value_before": 19831475.0
+      "value_after": 81884610.0,
+      "value_before": 76415218.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "QUANTINUUM INC",
+      "title": "CL A COM",
+      "cusip": "74768A104",
+      "ticker": "QNT",
+      "put_call": "",
+      "shares_before": 150000.0,
+      "shares_after": 150000.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 7209000.0,
+      "value_before": 12261000.0
     }
   ],
   "diff_error": null,
   "filings": [
+    {
+      "form": "13F-HR",
+      "accession": "0001013594-26-001204",
+      "filed": "2026-11-16",
+      "period": "2026-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
     {
       "form": "13F-HR",
       "accession": "0001013594-26-000915",
@@ -1385,13 +1594,6 @@
       "accession": "0001013594-23-000925",
       "filed": "2023-11-14",
       "period": "2023-09-30",
-      "primary": "xslForm13F_X02/primary_doc.xml"
-    },
-    {
-      "form": "13F-HR",
-      "accession": "0001013594-23-000693",
-      "filed": "2023-08-14",
-      "period": "2023-06-30",
       "primary": "xslForm13F_X02/primary_doc.xml"
     }
   ],

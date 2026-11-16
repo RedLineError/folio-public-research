@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-11-16T11:21:11.706001+00:00",
+  "fetched_at": "2026-11-16T22:03:51.039815+00:00",
   "meta": {
+    "filer": "GATES FOUNDATION TRUST",
+    "cik": "0001166559",
+    "period": "2026-09-30",
+    "filed": "2026-11-16",
+    "accession": "0001104659-26-128337",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1166559/000110465926128337/infotable.xml",
+    "notes": [],
+    "cover_total": 29893737492.0,
+    "total_check": "Matches the cover page total."
+  },
+  "prior": {
     "filer": "GATES FOUNDATION TRUST",
     "cik": "0001166559",
     "period": "2026-06-30",
@@ -9,21 +21,9 @@
     "form": "13F-HR",
     "info_table_url": "https://www.sec.gov/Archives/edgar/data/1166559/000110465926097175/infotable.xml",
     "notes": [],
-    "cover_total": 34424791932.0,
-    "total_check": "Matches the cover page total."
+    "cover_total": 34424791932.0
   },
-  "prior": {
-    "filer": "GATES FOUNDATION TRUST",
-    "cik": "0001166559",
-    "period": "2026-03-31",
-    "filed": "2026-05-15",
-    "accession": "0001104659-26-062592",
-    "form": "13F-HR",
-    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1166559/000110465926062592/infotable.xml",
-    "notes": [],
-    "cover_total": 31665505891.0
-  },
-  "total": 34424791932.0,
+  "total": 29893737492.0,
   "positions": [
     {
       "issuer": "BERKSHIRE HATHAWAY INC DEL",
@@ -32,10 +32,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 7350651039.0,
-      "shares": 14689844.0,
+      "value": 6199132421.0,
+      "shares": 12449307.0,
       "rows": 1,
-      "pct_of_13f": 21.35,
+      "pct_of_13f": 20.74,
       "cusips": [
         "084670702"
       ],
@@ -53,16 +53,40 @@
       "copy_eligible": true
     },
     {
+      "issuer": "CANADIAN NATL RY CO",
+      "title": "COM",
+      "cusip": "136375102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 6162204855.0,
+      "shares": 51826786.0,
+      "rows": 1,
+      "pct_of_13f": 20.61,
+      "cusips": [
+        "136375102"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Canadian Natl Ry",
+      "tickers": [],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": false
+    },
+    {
       "issuer": "CATERPILLAR INC",
       "title": "COM",
       "cusip": "149123101",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 6765963549.0,
+      "value": 5151446695.0,
       "shares": 6353614.0,
       "rows": 1,
-      "pct_of_13f": 19.65,
+      "pct_of_13f": 17.23,
       "cusips": [
         "149123101"
       ],
@@ -80,40 +104,16 @@
       "copy_eligible": true
     },
     {
-      "issuer": "CANADIAN NATL RY CO",
-      "title": "COM",
-      "cusip": "136375102",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 6179825963.0,
-      "shares": 51826786.0,
-      "rows": 1,
-      "pct_of_13f": 17.95,
-      "cusips": [
-        "136375102"
-      ],
-      "ticker": null,
-      "ticker_source": "none",
-      "ticker_check": true,
-      "name": "Canadian Natl Ry",
-      "tickers": [],
-      "classes": [
-        "COM"
-      ],
-      "copy_eligible": false
-    },
-    {
       "issuer": "WASTE MGMT INC DEL",
       "title": "COM",
       "cusip": "94106L109",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 5955519423.0,
-      "shares": 26720744.0,
+      "value": 4183024419.0,
+      "shares": 20513066.0,
       "rows": 1,
-      "pct_of_13f": 17.3,
+      "pct_of_13f": 13.99,
       "cusips": [
         "94106L109"
       ],
@@ -137,10 +137,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 2256551587.0,
+      "value": 2388957196.0,
       "shares": 3557378.0,
       "rows": 1,
-      "pct_of_13f": 6.56,
+      "pct_of_13f": 7.99,
       "cusips": [
         "244199105"
       ],
@@ -164,10 +164,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 1453799239.0,
+      "value": 1432770522.0,
       "shares": 5218044.0,
       "rows": 1,
-      "pct_of_13f": 4.22,
+      "pct_of_13f": 4.79,
       "cusips": [
         "278865100"
       ],
@@ -191,10 +191,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 950305425.0,
+      "value": 871938370.0,
       "shares": 8390477.0,
       "rows": 1,
-      "pct_of_13f": 2.76,
+      "pct_of_13f": 2.92,
       "cusips": [
         "931142103"
       ],
@@ -218,10 +218,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 746615273.0,
+      "value": 679757763.0,
       "shares": 2384362.0,
       "rows": 1,
-      "pct_of_13f": 2.17,
+      "pct_of_13f": 2.27,
       "cusips": [
         "31428X106"
       ],
@@ -245,10 +245,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 660313894.0,
+      "value": 671438241.0,
       "shares": 6214719.0,
       "rows": 1,
-      "pct_of_13f": 1.92,
+      "pct_of_13f": 2.25,
       "cusips": [
         "191241108"
       ],
@@ -266,43 +266,16 @@
       "copy_eligible": false
     },
     {
-      "issuer": "HOME DEPOT INC",
-      "title": "COM",
-      "cusip": "437076102",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 352680000.0,
-      "shares": 1000000.0,
-      "rows": 1,
-      "pct_of_13f": 1.02,
-      "cusips": [
-        "437076102"
-      ],
-      "issuer_cik": "0000354950",
-      "ticker": "HD",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "Home Depot",
-      "tickers": [
-        "HD"
-      ],
-      "classes": [
-        "COM"
-      ],
-      "copy_eligible": true
-    },
-    {
       "issuer": "WASTE CONNECTIONS INC",
       "title": "COM",
       "cusip": "94106B101",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 339910081.0,
+      "value": 313890208.0,
       "shares": 2039175.0,
       "rows": 1,
-      "pct_of_13f": 0.99,
+      "pct_of_13f": 1.05,
       "cusips": [
         "94106B101"
       ],
@@ -320,16 +293,43 @@
       "copy_eligible": true
     },
     {
+      "issuer": "HOME DEPOT INC",
+      "title": "COM",
+      "cusip": "437076102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 284490000.0,
+      "shares": 1000000.0,
+      "rows": 1,
+      "pct_of_13f": 0.95,
+      "cusips": [
+        "437076102"
+      ],
+      "issuer_cik": "0000354950",
+      "ticker": "HD",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Home Depot",
+      "tickers": [
+        "HD"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
       "issuer": "MADISON SQUARE GRDN SPRT COR",
       "title": "CL A",
       "cusip": "55825T103",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 238052427.0,
+      "value": 240048835.0,
       "shares": 592406.0,
       "rows": 1,
-      "pct_of_13f": 0.69,
+      "pct_of_13f": 0.8,
       "cusips": [
         "55825T103"
       ],
@@ -344,16 +344,94 @@
       "copy_eligible": false
     },
     {
+      "issuer": "SCHRODINGER INC",
+      "title": "COM",
+      "cusip": "80810D103",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 216780667.0,
+      "shares": 6981664.0,
+      "rows": 1,
+      "pct_of_13f": 0.73,
+      "cusips": [
+        "80810D103"
+      ],
+      "issuer_cik": "0001490978",
+      "ticker": "SDGR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Schrodinger",
+      "tickers": [
+        "SDGR"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "WEST PHARMACEUTICAL SVSC INC",
+      "title": "COM",
+      "cusip": "955306105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 164802820.0,
+      "shares": 444500.0,
+      "rows": 1,
+      "pct_of_13f": 0.55,
+      "cusips": [
+        "955306105"
+      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "West Pharmaceutical Svsc",
+      "tickers": [],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": false
+    },
+    {
+      "issuer": "DOLLAR TREE INC",
+      "title": "COM",
+      "cusip": "256746108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 155183728.0,
+      "shares": 1361022.0,
+      "rows": 1,
+      "pct_of_13f": 0.52,
+      "cusips": [
+        "256746108"
+      ],
+      "issuer_cik": "0000935703",
+      "ticker": "DLTR",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Dollar Tree",
+      "tickers": [
+        "DLTR"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
       "issuer": "FEDEX FGHT HLDG CO INC",
       "title": "COMMON STOCK",
       "cusip": "314352105",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 180019331.0,
+      "value": 130400758.0,
       "shares": 1192181.0,
       "rows": 1,
-      "pct_of_13f": 0.52,
+      "pct_of_13f": 0.44,
       "cusips": [
         "314352105"
       ],
@@ -374,10 +452,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 160638542.0,
+      "value": 128270384.0,
       "shares": 9248045.0,
       "rows": 1,
-      "pct_of_13f": 0.47,
+      "pct_of_13f": 0.43,
       "cusips": [
         "22266T109"
       ],
@@ -395,40 +473,16 @@
       "copy_eligible": true
     },
     {
-      "issuer": "WEST PHARMACEUTICAL SVSC INC",
-      "title": "COM",
-      "cusip": "955306105",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 159575500.0,
-      "shares": 444500.0,
-      "rows": 1,
-      "pct_of_13f": 0.46,
-      "cusips": [
-        "955306105"
-      ],
-      "ticker": null,
-      "ticker_source": "none",
-      "ticker_check": true,
-      "name": "West Pharmaceutical Svsc",
-      "tickers": [],
-      "classes": [
-        "COM"
-      ],
-      "copy_eligible": false
-    },
-    {
       "issuer": "ANHEUSER BUSCH INBEV SA NV",
       "title": "SPONSORED ADR",
       "cusip": "03524A108",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 140327200.0,
+      "value": 125119410.0,
       "shares": 1703000.0,
       "rows": 1,
-      "pct_of_13f": 0.41,
+      "pct_of_13f": 0.42,
       "cusips": [
         "03524A108"
       ],
@@ -452,10 +506,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 120120000.0,
+      "value": 109810000.0,
       "shares": 1000000.0,
       "rows": 1,
-      "pct_of_13f": 0.35,
+      "pct_of_13f": 0.37,
       "cusips": [
         "693718108"
       ],
@@ -473,31 +527,28 @@
       "copy_eligible": true
     },
     {
-      "issuer": "SCHRODINGER INC",
+      "issuer": "DANAHER CORP DEL",
       "title": "COM",
-      "cusip": "80810D103",
+      "cusip": "235851102",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 113452040.0,
-      "shares": 6981664.0,
+      "value": 82638150.0,
+      "shares": 373000.0,
       "rows": 1,
-      "pct_of_13f": 0.33,
+      "pct_of_13f": 0.28,
       "cusips": [
-        "80810D103"
+        "235851102"
       ],
-      "issuer_cik": "0001490978",
-      "ticker": "SDGR",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "Schrodinger",
-      "tickers": [
-        "SDGR"
-      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Danaher Corp Del",
+      "tickers": [],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "MCDONALDS CORP",
@@ -506,7 +557,7 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 90526819.0,
+      "value": 77341806.0,
       "shares": 334900.0,
       "rows": 1,
       "pct_of_13f": 0.26,
@@ -527,40 +578,16 @@
       "copy_eligible": true
     },
     {
-      "issuer": "DANAHER CORP DEL",
-      "title": "COM",
-      "cusip": "235851102",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 71049040.0,
-      "shares": 373000.0,
-      "rows": 1,
-      "pct_of_13f": 0.21,
-      "cusips": [
-        "235851102"
-      ],
-      "ticker": null,
-      "ticker_source": "none",
-      "ticker_check": true,
-      "name": "Danaher Corp Del",
-      "tickers": [],
-      "classes": [
-        "COM"
-      ],
-      "copy_eligible": false
-    },
-    {
       "issuer": "KRAFT HEINZ CO",
       "title": "COM",
       "cusip": "500754106",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 58402812.0,
+      "value": 56177472.0,
       "shares": 2472600.0,
       "rows": 1,
-      "pct_of_13f": 0.17,
+      "pct_of_13f": 0.19,
       "cusips": [
         "500754106"
       ],
@@ -584,10 +611,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 51756898.0,
+      "value": 41580683.0,
       "shares": 2085290.0,
       "rows": 1,
-      "pct_of_13f": 0.15,
+      "pct_of_13f": 0.14,
       "cusips": [
         "440452100"
       ],
@@ -611,7 +638,7 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 17710000.0,
+      "value": 14805000.0,
       "shares": 500000.0,
       "rows": 1,
       "pct_of_13f": 0.05,
@@ -638,10 +665,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 11025850.0,
+      "value": 11727089.0,
       "shares": 124333.0,
       "rows": 1,
-      "pct_of_13f": 0.03,
+      "pct_of_13f": 0.04,
       "cusips": [
         "92338C103"
       ],
@@ -662,30 +689,16 @@
   "changes": [
     {
       "status": "NEW",
-      "issuer": "HOME DEPOT INC",
+      "issuer": "DOLLAR TREE INC",
       "title": "COM",
-      "cusip": "437076102",
-      "ticker": "HD",
+      "cusip": "256746108",
+      "ticker": "DLTR",
       "put_call": "",
       "shares_before": 0.0,
-      "shares_after": 1000000.0,
-      "change": 1000000.0,
+      "shares_after": 1361022.0,
+      "change": 1361022.0,
       "change_pct": null,
-      "value_after": 352680000.0,
-      "value_before": 0.0
-    },
-    {
-      "status": "NEW",
-      "issuer": "FEDEX FGHT HLDG CO INC",
-      "title": "COMMON STOCK",
-      "cusip": "314352105",
-      "ticker": null,
-      "put_call": "",
-      "shares_before": 0.0,
-      "shares_after": 1192181.0,
-      "change": 1192181.0,
-      "change_pct": null,
-      "value_after": 180019331.0,
+      "value_after": 155183728.0,
       "value_before": 0.0
     },
     {
@@ -695,12 +708,12 @@
       "cusip": "084670702",
       "ticker": "BRK.B",
       "put_call": "",
-      "shares_before": 17048304.0,
-      "shares_after": 14689844.0,
-      "change": -2358460.0,
-      "change_pct": -13.8,
-      "value_after": 7350651039.0,
-      "value_before": 8169547277.0
+      "shares_before": 14689844.0,
+      "shares_after": 12449307.0,
+      "change": -2240537.0,
+      "change_pct": -15.3,
+      "value_after": 6199132421.0,
+      "value_before": 7350651039.0
     },
     {
       "status": "TRIMMED",
@@ -709,12 +722,12 @@
       "cusip": "94106L109",
       "ticker": "WM",
       "put_call": "",
-      "shares_before": 27642344.0,
-      "shares_after": 26720744.0,
-      "change": -921600.0,
-      "change_pct": -3.3,
-      "value_after": 5955519423.0,
-      "value_before": 6351934228.0
+      "shares_before": 26720744.0,
+      "shares_after": 20513066.0,
+      "change": -6207678.0,
+      "change_pct": -23.2,
+      "value_after": 4183024419.0,
+      "value_before": 5955519423.0
     },
     {
       "status": "UNCHANGED",
@@ -727,8 +740,8 @@
       "shares_after": 6353614.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 6765963549.0,
-      "value_before": 4501281374.0
+      "value_after": 5151446695.0,
+      "value_before": 6765963549.0
     },
     {
       "status": "UNCHANGED",
@@ -741,8 +754,8 @@
       "shares_after": 51826786.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 6179825963.0,
-      "value_before": 5326238797.0
+      "value_after": 6162204855.0,
+      "value_before": 6179825963.0
     },
     {
       "status": "UNCHANGED",
@@ -755,8 +768,8 @@
       "shares_after": 3557378.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 2256551587.0,
-      "value_before": 2003871027.0
+      "value_after": 2388957196.0,
+      "value_before": 2256551587.0
     },
     {
       "status": "UNCHANGED",
@@ -769,8 +782,8 @@
       "shares_after": 5218044.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 1453799239.0,
-      "value_before": 1388104065.0
+      "value_after": 1432770522.0,
+      "value_before": 1453799239.0
     },
     {
       "status": "UNCHANGED",
@@ -783,8 +796,8 @@
       "shares_after": 8390477.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 950305425.0,
-      "value_before": 1042768482.0
+      "value_after": 871938370.0,
+      "value_before": 950305425.0
     },
     {
       "status": "UNCHANGED",
@@ -797,8 +810,8 @@
       "shares_after": 2384362.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 746615273.0,
-      "value_before": 849262057.0
+      "value_after": 679757763.0,
+      "value_before": 746615273.0
     },
     {
       "status": "UNCHANGED",
@@ -811,8 +824,22 @@
       "shares_after": 6214719.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 660313894.0,
-      "value_before": 606245838.0
+      "value_after": 671438241.0,
+      "value_before": 660313894.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "HOME DEPOT INC",
+      "title": "COM",
+      "cusip": "437076102",
+      "ticker": "HD",
+      "put_call": "",
+      "shares_before": 1000000.0,
+      "shares_after": 1000000.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 284490000.0,
+      "value_before": 352680000.0
     },
     {
       "status": "UNCHANGED",
@@ -825,8 +852,8 @@
       "shares_after": 2039175.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 339910081.0,
-      "value_before": 331243587.0
+      "value_after": 313890208.0,
+      "value_before": 339910081.0
     },
     {
       "status": "UNCHANGED",
@@ -839,64 +866,8 @@
       "shares_after": 592406.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 238052427.0,
-      "value_before": 190399288.0
-    },
-    {
-      "status": "UNCHANGED",
-      "issuer": "COUPANG INC",
-      "title": "CL A",
-      "cusip": "22266T109",
-      "ticker": "CPNG",
-      "put_call": "",
-      "shares_before": 9248045.0,
-      "shares_after": 9248045.0,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "value_after": 160638542.0,
-      "value_before": 174603090.0
-    },
-    {
-      "status": "UNCHANGED",
-      "issuer": "WEST PHARMACEUTICAL SVSC INC",
-      "title": "COM",
-      "cusip": "955306105",
-      "ticker": null,
-      "put_call": "",
-      "shares_before": 444500.0,
-      "shares_after": 444500.0,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "value_after": 159575500.0,
-      "value_before": 111409480.0
-    },
-    {
-      "status": "UNCHANGED",
-      "issuer": "ANHEUSER BUSCH INBEV SA NV",
-      "title": "SPONSORED ADR",
-      "cusip": "03524A108",
-      "ticker": "BUD",
-      "put_call": "",
-      "shares_before": 1703000.0,
-      "shares_after": 1703000.0,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "value_after": 140327200.0,
-      "value_before": 118137110.0
-    },
-    {
-      "status": "UNCHANGED",
-      "issuer": "PACCAR INC",
-      "title": "COM",
-      "cusip": "693718108",
-      "ticker": "PCAR",
-      "put_call": "",
-      "shares_before": 1000000.0,
-      "shares_after": 1000000.0,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "value_after": 120120000.0,
-      "value_before": 115500000.0
+      "value_after": 240048835.0,
+      "value_before": 238052427.0
     },
     {
       "status": "UNCHANGED",
@@ -909,8 +880,78 @@
       "shares_after": 6981664.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 113452040.0,
-      "value_before": 79311703.0
+      "value_after": 216780667.0,
+      "value_before": 113452040.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "FEDEX FGHT HLDG CO INC",
+      "title": "COMMON STOCK",
+      "cusip": "314352105",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 1192181.0,
+      "shares_after": 1192181.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 130400758.0,
+      "value_before": 180019331.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "WEST PHARMACEUTICAL SVSC INC",
+      "title": "COM",
+      "cusip": "955306105",
+      "ticker": null,
+      "put_call": "",
+      "shares_before": 444500.0,
+      "shares_after": 444500.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 164802820.0,
+      "value_before": 159575500.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "COUPANG INC",
+      "title": "CL A",
+      "cusip": "22266T109",
+      "ticker": "CPNG",
+      "put_call": "",
+      "shares_before": 9248045.0,
+      "shares_after": 9248045.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 128270384.0,
+      "value_before": 160638542.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "ANHEUSER BUSCH INBEV SA NV",
+      "title": "SPONSORED ADR",
+      "cusip": "03524A108",
+      "ticker": "BUD",
+      "put_call": "",
+      "shares_before": 1703000.0,
+      "shares_after": 1703000.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 125119410.0,
+      "value_before": 140327200.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "PACCAR INC",
+      "title": "COM",
+      "cusip": "693718108",
+      "ticker": "PCAR",
+      "put_call": "",
+      "shares_before": 1000000.0,
+      "shares_after": 1000000.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 109810000.0,
+      "value_before": 120120000.0
     },
     {
       "status": "UNCHANGED",
@@ -923,8 +964,8 @@
       "shares_after": 334900.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 90526819.0,
-      "value_before": 104083571.0
+      "value_after": 77341806.0,
+      "value_before": 90526819.0
     },
     {
       "status": "UNCHANGED",
@@ -937,8 +978,8 @@
       "shares_after": 373000.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 71049040.0,
-      "value_before": 70720800.0
+      "value_after": 82638150.0,
+      "value_before": 71049040.0
     },
     {
       "status": "UNCHANGED",
@@ -951,8 +992,8 @@
       "shares_after": 2472600.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 58402812.0,
-      "value_before": 55608774.0
+      "value_after": 56177472.0,
+      "value_before": 58402812.0
     },
     {
       "status": "UNCHANGED",
@@ -965,8 +1006,8 @@
       "shares_after": 2085290.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 51756898.0,
-      "value_before": 47231819.0
+      "value_after": 41580683.0,
+      "value_before": 51756898.0
     },
     {
       "status": "UNCHANGED",
@@ -979,8 +1020,8 @@
       "shares_after": 500000.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 17710000.0,
-      "value_before": 17010000.0
+      "value_after": 14805000.0,
+      "value_before": 17710000.0
     },
     {
       "status": "UNCHANGED",
@@ -993,12 +1034,19 @@
       "shares_after": 124333.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 11025850.0,
-      "value_before": 10993524.0
+      "value_after": 11727089.0,
+      "value_before": 11025850.0
     }
   ],
   "diff_error": null,
   "filings": [
+    {
+      "form": "13F-HR",
+      "accession": "0001104659-26-128337",
+      "filed": "2026-11-16",
+      "period": "2026-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
     {
       "form": "13F-HR",
       "accession": "0001104659-26-097175",
@@ -1095,13 +1143,6 @@
       "accession": "0001104659-23-060842",
       "filed": "2023-05-15",
       "period": "2023-03-31",
-      "primary": "xslForm13F_X02/primary_doc.xml"
-    },
-    {
-      "form": "13F-HR",
-      "accession": "0001104659-23-021739",
-      "filed": "2023-02-14",
-      "period": "2022-12-31",
       "primary": "xslForm13F_X02/primary_doc.xml"
     }
   ],

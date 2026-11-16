@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-11-16T11:20:40.205663+00:00",
+  "fetched_at": "2026-11-16T22:03:35.451345+00:00",
   "meta": {
+    "filer": "BERKSHIRE HATHAWAY INC",
+    "cik": "0001067983",
+    "period": "2026-09-30",
+    "filed": "2026-11-16",
+    "accession": "0001193125-26-463399",
+    "form": "13F-HR",
+    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/60471.xml",
+    "notes": [],
+    "cover_total": 304196581325.0,
+    "total_check": "Matches the cover page total."
+  },
+  "prior": {
     "filer": "BERKSHIRE HATHAWAY INC",
     "cik": "0001067983",
     "period": "2026-06-30",
@@ -9,21 +21,9 @@
     "form": "13F-HR",
     "info_table_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml",
     "notes": [],
-    "cover_total": 299253556246.0,
-    "total_check": "Matches the cover page total."
+    "cover_total": 299253556246.0
   },
-  "prior": {
-    "filer": "BERKSHIRE HATHAWAY INC",
-    "cik": "0001067983",
-    "period": "2026-03-31",
-    "filed": "2026-05-15",
-    "accession": "0001193125-26-226661",
-    "form": "13F-HR",
-    "info_table_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/53405.xml",
-    "notes": [],
-    "cover_total": 263095703570.0
-  },
-  "total": 299253556246.0,
+  "total": 304196581325.0,
   "positions": [
     {
       "issuer": "APPLE INC",
@@ -32,10 +32,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 65950296923.0,
+      "value": 75901188420.0,
       "shares": 227917808.0,
       "rows": 12,
-      "pct_of_13f": 22.04,
+      "pct_of_13f": 24.95,
       "cusips": [
         "037833100"
       ],
@@ -59,10 +59,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 51282319275.0,
+      "value": 46104813870.0,
       "shares": 151610700.0,
       "rows": 3,
-      "pct_of_13f": 17.14,
+      "pct_of_13f": 15.16,
       "cusips": [
         "025816109"
       ],
@@ -86,10 +86,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 37764088383.0,
+      "value": 36374651401.0,
       "shares": 105979600.0,
       "rows": 5,
-      "pct_of_13f": 12.62,
+      "pct_of_13f": 11.96,
       "cusips": [
         "02079K305",
         "02079K107"
@@ -116,10 +116,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 32508000000.0,
+      "value": 34432000000.0,
       "shares": 400000000.0,
       "rows": 10,
-      "pct_of_13f": 10.86,
+      "pct_of_13f": 11.32,
       "cusips": [
         "191216100"
       ],
@@ -143,10 +143,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 27543790975.0,
-      "shares": 483394015.0,
+      "value": 24812509222.0,
+      "shares": 455860908.0,
       "rows": 8,
-      "pct_of_13f": 9.2,
+      "pct_of_13f": 8.16,
       "cusips": [
         "060505104"
       ],
@@ -170,10 +170,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 13986141890.0,
+      "value": 17230393553.0,
       "shares": 84375856.0,
       "rows": 4,
-      "pct_of_13f": 4.67,
+      "pct_of_13f": 5.66,
       "cusips": [
         "166764100"
       ],
@@ -197,10 +197,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 12868205304.0,
+      "value": 14656559963.0,
       "shares": 264941431.0,
       "rows": 1,
-      "pct_of_13f": 4.3,
+      "pct_of_13f": 4.82,
       "cusips": [
         "674599105"
       ],
@@ -218,43 +218,16 @@
       "copy_eligible": true
     },
     {
-      "issuer": "CHUBB LIMITED",
-      "title": "COM",
-      "cusip": "H1467J104",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 11670066615.0,
-      "shares": 34249183.0,
-      "rows": 1,
-      "pct_of_13f": 3.9,
-      "cusips": [
-        "H1467J104"
-      ],
-      "issuer_cik": "0000896159",
-      "ticker": "CB",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "Chubb",
-      "tickers": [
-        "CB"
-      ],
-      "classes": [
-        "COM"
-      ],
-      "copy_eligible": true
-    },
-    {
       "issuer": "MOODYS CORP",
       "title": "COM",
       "cusip": "615369105",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 11173435852.0,
+      "value": 11203286284.0,
       "shares": 24669778.0,
       "rows": 3,
-      "pct_of_13f": 3.73,
+      "pct_of_13f": 3.68,
       "cusips": [
         "615369105"
       ],
@@ -272,16 +245,43 @@
       "copy_eligible": true
     },
     {
+      "issuer": "CHUBB LIMITED",
+      "title": "COM",
+      "cusip": "H1467J104",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 11139546771.0,
+      "shares": 34249183.0,
+      "rows": 1,
+      "pct_of_13f": 3.66,
+      "cusips": [
+        "H1467J104"
+      ],
+      "issuer_cik": "0000896159",
+      "ticker": "CB",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Chubb",
+      "tickers": [
+        "CB"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
       "issuer": "KRAFT HEINZ CO",
       "title": "COM",
       "cusip": "500754106",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 7691494401.0,
+      "value": 7398423065.0,
       "shares": 325634818.0,
       "rows": 1,
-      "pct_of_13f": 2.57,
+      "pct_of_13f": 2.43,
       "cusips": [
         "500754106"
       ],
@@ -299,43 +299,16 @@
       "copy_eligible": true
     },
     {
-      "issuer": "DAVITA INC",
-      "title": "COM",
-      "cusip": "23918K108",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 6425268898.0,
-      "shares": 28880209.0,
-      "rows": 2,
-      "pct_of_13f": 2.15,
-      "cusips": [
-        "23918K108"
-      ],
-      "issuer_cik": "0000927066",
-      "ticker": "DVA",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "Davita",
-      "tickers": [
-        "DVA"
-      ],
-      "classes": [
-        "COM"
-      ],
-      "copy_eligible": true
-    },
-    {
       "issuer": "DELTA AIR LINES INC",
       "title": "COM NEW",
       "cusip": "247361702",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 5368591200.0,
-      "shares": 57320000.0,
+      "value": 5378997000.0,
+      "shares": 64450000.0,
       "rows": 1,
-      "pct_of_13f": 1.79,
+      "pct_of_13f": 1.77,
       "cusips": [
         "247361702"
       ],
@@ -353,16 +326,43 @@
       "copy_eligible": true
     },
     {
+      "issuer": "DAVITA INC",
+      "title": "COM",
+      "cusip": "23918K108",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 5019719296.0,
+      "shares": 28697229.0,
+      "rows": 2,
+      "pct_of_13f": 1.65,
+      "cusips": [
+        "23918K108"
+      ],
+      "issuer_cik": "0000927066",
+      "ticker": "DVA",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Davita",
+      "tickers": [
+        "DVA"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
       "issuer": "SIRIUSXM HOLDINGS INC",
       "title": "COMMON STOCK",
       "cusip": "829933100",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 3686802237.0,
+      "value": 3230008188.0,
       "shares": 124807117.0,
       "rows": 2,
-      "pct_of_13f": 1.23,
+      "pct_of_13f": 1.06,
       "cusips": [
         "829933100"
       ],
@@ -380,29 +380,32 @@
       "copy_eligible": true
     },
     {
-      "issuer": "VERISIGN INC",
-      "title": "COM",
-      "cusip": "92343E102",
+      "issuer": "LENNAR CORP",
+      "title": "CL A",
+      "cusip": "526057104",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 2261494212.0,
-      "shares": 8989880.0,
-      "rows": 2,
-      "pct_of_13f": 0.76,
+      "value": 2168384103.0,
+      "shares": 26587436.0,
+      "rows": 4,
+      "pct_of_13f": 0.71,
       "cusips": [
-        "92343E102"
+        "526057104",
+        "526057302"
       ],
-      "issuer_cik": "0001014473",
-      "ticker": "VRSN",
-      "ticker_source": "name",
+      "issuer_cik": "0000920760",
+      "ticker": "LEN",
+      "ticker_source": "override",
       "ticker_check": false,
-      "name": "Verisign",
+      "name": "Lennar",
       "tickers": [
-        "VRSN"
+        "LEN",
+        "LEN.B"
       ],
       "classes": [
-        "COM"
+        "CL A",
+        "CL B"
       ],
       "copy_eligible": true
     },
@@ -413,10 +416,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 2165670000.0,
-      "shares": 39000000.0,
+      "value": 2051700000.0,
+      "shares": 35000000.0,
       "rows": 4,
-      "pct_of_13f": 0.72,
+      "pct_of_13f": 0.67,
       "cusips": [
         "501044101"
       ],
@@ -434,16 +437,43 @@
       "copy_eligible": true
     },
     {
+      "issuer": "VERISIGN INC",
+      "title": "COM",
+      "cusip": "92343E102",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 1670101573.0,
+      "shares": 5922136.0,
+      "rows": 1,
+      "pct_of_13f": 0.55,
+      "cusips": [
+        "92343E102"
+      ],
+      "issuer_cik": "0001014473",
+      "ticker": "VRSN",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Verisign",
+      "tickers": [
+        "VRSN"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
       "issuer": "LIBERTY LIVE HOLDINGS INC",
       "title": "COM SHS SER C",
       "cusip": "530909308",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 1623367688.0,
+      "value": 1501530346.0,
       "shares": 15573731.0,
       "rows": 8,
-      "pct_of_13f": 0.54,
+      "pct_of_13f": 0.49,
       "cusips": [
         "530909308",
         "530909100"
@@ -470,10 +500,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 1240650000.0,
+      "value": 1015740001.0,
       "shares": 27000000.0,
       "rows": 6,
-      "pct_of_13f": 0.41,
+      "pct_of_13f": 0.33,
       "cusips": [
         "02005N100"
       ],
@@ -491,46 +521,16 @@
       "copy_eligible": true
     },
     {
-      "issuer": "LENNAR CORP",
-      "title": "CL A",
-      "cusip": "526057104",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 1212927402.0,
-      "shares": 13409858.0,
-      "rows": 3,
-      "pct_of_13f": 0.41,
-      "cusips": [
-        "526057104",
-        "526057302"
-      ],
-      "issuer_cik": "0000920760",
-      "ticker": "LEN",
-      "ticker_source": "override",
-      "ticker_check": false,
-      "name": "Lennar",
-      "tickers": [
-        "LEN",
-        "LEN.B"
-      ],
-      "classes": [
-        "CL A",
-        "CL B"
-      ],
-      "copy_eligible": true
-    },
-    {
       "issuer": "NEW YORK TIMES CO MTN BE",
       "title": "CL A",
       "cusip": "650111107",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 1098686000.0,
+      "value": 1000090000.0,
       "shares": 15700000.0,
       "rows": 2,
-      "pct_of_13f": 0.37,
+      "pct_of_13f": 0.33,
       "cusips": [
         "650111107"
       ],
@@ -548,56 +548,29 @@
       "copy_eligible": false
     },
     {
-      "issuer": "CAPITAL ONE FINL CORP",
-      "title": "COM",
-      "cusip": "14040H105",
+      "issuer": "BENDING SPOONS SPA",
+      "title": "COM SHS",
+      "cusip": "T19377109",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 601860000.0,
-      "shares": 3000000.0,
-      "rows": 2,
-      "pct_of_13f": 0.2,
+      "value": 689379305.0,
+      "shares": 20689655.0,
+      "rows": 1,
+      "pct_of_13f": 0.23,
       "cusips": [
-        "14040H105"
+        "T19377109"
       ],
-      "issuer_cik": "0000927628",
-      "ticker": "COF",
+      "issuer_cik": "0002004711",
+      "ticker": "BSP",
       "ticker_source": "name",
       "ticker_check": false,
-      "name": "Capital One Financial",
+      "name": "Bending Spoons S.p.A.",
       "tickers": [
-        "COF"
+        "BSP"
       ],
       "classes": [
-        "COM"
-      ],
-      "copy_eligible": true
-    },
-    {
-      "issuer": "LOUISIANA PAC CORP",
-      "title": "COM",
-      "cusip": "546347105",
-      "figi": "",
-      "put_call": "",
-      "share_type": "SH",
-      "value": 445592617.0,
-      "shares": 5664793.0,
-      "rows": 2,
-      "pct_of_13f": 0.15,
-      "cusips": [
-        "546347105"
-      ],
-      "issuer_cik": "0000060519",
-      "ticker": "LPX",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "Louisiana-pacific",
-      "tickers": [
-        "LPX"
-      ],
-      "classes": [
-        "COM"
+        "COM SHS"
       ],
       "copy_eligible": true
     },
@@ -608,10 +581,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 413814258.0,
-      "shares": 1857752.0,
+      "value": 369506390.0,
+      "shares": 1580776.0,
       "rows": 1,
-      "pct_of_13f": 0.14,
+      "pct_of_13f": 0.12,
       "cusips": [
         "670346105"
       ],
@@ -629,14 +602,68 @@
       "copy_eligible": true
     },
     {
+      "issuer": "LOUISIANA PAC CORP",
+      "title": "COM",
+      "cusip": "546347105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 365662388.0,
+      "shares": 5664793.0,
+      "rows": 2,
+      "pct_of_13f": 0.12,
+      "cusips": [
+        "546347105"
+      ],
+      "issuer_cik": "0000060519",
+      "ticker": "LPX",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Louisiana-pacific",
+      "tickers": [
+        "LPX"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
+      "issuer": "CAPITAL ONE FINL CORP",
+      "title": "COM",
+      "cusip": "14040H105",
+      "figi": "",
+      "put_call": "",
+      "share_type": "SH",
+      "value": 222030500.0,
+      "shares": 1150000.0,
+      "rows": 1,
+      "pct_of_13f": 0.07,
+      "cusips": [
+        "14040H105"
+      ],
+      "issuer_cik": "0000927628",
+      "ticker": "COF",
+      "ticker_source": "name",
+      "ticker_check": false,
+      "name": "Capital One Financial",
+      "tickers": [
+        "COF"
+      ],
+      "classes": [
+        "COM"
+      ],
+      "copy_eligible": true
+    },
+    {
       "issuer": "MACYS INC",
       "title": "COM",
       "cusip": "55616P104",
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 173031882.0,
-      "shares": 7347426.0,
+      "value": 171658476.0,
+      "shares": 7538800.0,
       "rows": 3,
       "pct_of_13f": 0.06,
       "cusips": [
@@ -662,10 +689,10 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 75710501.0,
+      "value": 68387582.0,
       "shares": 11112.0,
       "rows": 1,
-      "pct_of_13f": 0.03,
+      "pct_of_13f": 0.02,
       "cusips": [
         "62944T105"
       ],
@@ -689,7 +716,7 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 21669229.0,
+      "value": 19826607.0,
       "shares": 433558.0,
       "rows": 1,
       "pct_of_13f": 0.01,
@@ -716,7 +743,7 @@
       "figi": "",
       "put_call": "",
       "share_type": "SH",
-      "value": 580504.0,
+      "value": 487021.0,
       "shares": 3564.0,
       "rows": 1,
       "pct_of_13f": 0.0,
@@ -740,59 +767,17 @@
   "changes": [
     {
       "status": "NEW",
-      "issuer": "D R HORTON INC",
-      "title": "COM",
-      "cusip": "23331A109",
-      "ticker": "DHI",
+      "issuer": "BENDING SPOONS SPA",
+      "title": "COM SHS",
+      "cusip": "T19377109",
+      "ticker": "BSP",
       "put_call": "",
       "shares_before": 0.0,
-      "shares_after": 3564.0,
-      "change": 3564.0,
+      "shares_after": 20689655.0,
+      "change": 20689655.0,
       "change_pct": null,
-      "value_after": 580504.0,
+      "value_after": 689379305.0,
       "value_before": 0.0
-    },
-    {
-      "status": "SOLD OUT",
-      "issuer": "CONSTELLATION BRANDS INC",
-      "title": "CL A",
-      "cusip": "21036P108",
-      "ticker": "STZ",
-      "put_call": "",
-      "shares_before": 632890.0,
-      "shares_after": 0.0,
-      "change": -632890.0,
-      "change_pct": -100.0,
-      "value_after": 0.0,
-      "value_before": 94933500.0
-    },
-    {
-      "status": "ADDED",
-      "issuer": "ALPHABET INC",
-      "title": "CAP STK CL A",
-      "cusip": "02079K305",
-      "ticker": "GOOGL",
-      "put_call": "",
-      "shares_before": 54249798.0,
-      "shares_after": 78791167.0,
-      "change": 24541369.0,
-      "change_pct": 45.2,
-      "value_after": 28157599351.0,
-      "value_before": 15600071913.0
-    },
-    {
-      "status": "ADDED",
-      "issuer": "ALPHABET INC",
-      "title": "CAP STK CL C",
-      "cusip": "02079K107",
-      "ticker": "GOOG",
-      "put_call": "",
-      "shares_before": 3585215.0,
-      "shares_after": 27188433.0,
-      "change": 23603218.0,
-      "change_pct": 658.3,
-      "value_after": 9606489032.0,
-      "value_before": 1028454775.0
     },
     {
       "status": "ADDED",
@@ -801,26 +786,12 @@
       "cusip": "247361702",
       "ticker": "DAL",
       "put_call": "",
-      "shares_before": 39809456.0,
-      "shares_after": 57320000.0,
-      "change": 17510544.0,
-      "change_pct": 44.0,
-      "value_after": 5368591200.0,
-      "value_before": 2646532635.0
-    },
-    {
-      "status": "ADDED",
-      "issuer": "NEW YORK TIMES CO MTN BE",
-      "title": "CL A",
-      "cusip": "650111107",
-      "ticker": "NYT",
-      "put_call": "",
-      "shares_before": 15146535.0,
-      "shares_after": 15700000.0,
-      "change": 553465.0,
-      "change_pct": 3.7,
-      "value_after": 1098686000.0,
-      "value_before": 1268219376.0
+      "shares_before": 57320000.0,
+      "shares_after": 64450000.0,
+      "change": 7130000.0,
+      "change_pct": 12.4,
+      "value_after": 5378997000.0,
+      "value_before": 5368591200.0
     },
     {
       "status": "ADDED",
@@ -829,12 +800,12 @@
       "cusip": "526057104",
       "ticker": "LEN",
       "put_call": "",
-      "shares_before": 10099642.0,
-      "shares_after": 13111741.0,
-      "change": 3012099.0,
-      "change_pct": 29.8,
-      "value_after": 1186481443.0,
-      "value_before": 877052911.0
+      "shares_before": 13111741.0,
+      "shares_after": 26034436.0,
+      "change": 12922695.0,
+      "change_pct": 98.6,
+      "value_after": 2124149633.0,
+      "value_before": 1186481443.0
     },
     {
       "status": "ADDED",
@@ -843,12 +814,12 @@
       "cusip": "55616P104",
       "ticker": "M",
       "put_call": "",
-      "shares_before": 3038355.0,
-      "shares_after": 7347426.0,
-      "change": 4309071.0,
-      "change_pct": 141.8,
-      "value_after": 173031882.0,
-      "value_before": 54963842.0
+      "shares_before": 7347426.0,
+      "shares_after": 7538800.0,
+      "change": 191374.0,
+      "change_pct": 2.6,
+      "value_after": 171658476.0,
+      "value_before": 173031882.0
     },
     {
       "status": "ADDED",
@@ -857,12 +828,12 @@
       "cusip": "526057302",
       "ticker": "LEN.B",
       "put_call": "",
-      "shares_before": 237703.0,
-      "shares_after": 298117.0,
-      "change": 60414.0,
-      "change_pct": 25.4,
-      "value_after": 26445959.0,
-      "value_before": 19995576.0
+      "shares_before": 298117.0,
+      "shares_after": 553000.0,
+      "change": 254883.0,
+      "change_pct": 85.5,
+      "value_after": 44234470.0,
+      "value_before": 26445959.0
     },
     {
       "status": "TRIMMED",
@@ -871,12 +842,12 @@
       "cusip": "060505104",
       "ticker": "BAC",
       "put_call": "",
-      "shares_before": 513624165.0,
-      "shares_after": 483394015.0,
-      "change": -30230150.0,
-      "change_pct": -5.9,
-      "value_after": 27543790975.0,
-      "value_before": 25039178044.0
+      "shares_before": 483394015.0,
+      "shares_after": 455860908.0,
+      "change": -27533107.0,
+      "change_pct": -5.7,
+      "value_after": 24812509222.0,
+      "value_before": 27543790975.0
     },
     {
       "status": "TRIMMED",
@@ -885,12 +856,26 @@
       "cusip": "23918K108",
       "ticker": "DVA",
       "put_call": "",
-      "shares_before": 30100585.0,
-      "shares_after": 28880209.0,
-      "change": -1220376.0,
-      "change_pct": -4.1,
-      "value_after": 6425268898.0,
-      "value_before": 4626158909.0
+      "shares_before": 28880209.0,
+      "shares_after": 28697229.0,
+      "change": -182980.0,
+      "change_pct": -0.6,
+      "value_after": 5019719296.0,
+      "value_before": 6425268898.0
+    },
+    {
+      "status": "TRIMMED",
+      "issuer": "VERISIGN INC",
+      "title": "COM",
+      "cusip": "92343E102",
+      "ticker": "VRSN",
+      "put_call": "",
+      "shares_before": 8989880.0,
+      "shares_after": 5922136.0,
+      "change": -3067744.0,
+      "change_pct": -34.1,
+      "value_after": 1670101573.0,
+      "value_before": 2261494212.0
     },
     {
       "status": "TRIMMED",
@@ -899,12 +884,12 @@
       "cusip": "501044101",
       "ticker": "KR",
       "put_call": "",
-      "shares_before": 50000000.0,
-      "shares_after": 39000000.0,
-      "change": -11000000.0,
-      "change_pct": -22.0,
-      "value_after": 2165670000.0,
-      "value_before": 3618000000.0
+      "shares_before": 39000000.0,
+      "shares_after": 35000000.0,
+      "change": -4000000.0,
+      "change_pct": -10.3,
+      "value_after": 2051700000.0,
+      "value_before": 2165670000.0
     },
     {
       "status": "TRIMMED",
@@ -913,26 +898,12 @@
       "cusip": "14040H105",
       "ticker": "COF",
       "put_call": "",
-      "shares_before": 7150000.0,
-      "shares_after": 3000000.0,
-      "change": -4150000.0,
-      "change_pct": -58.0,
-      "value_after": 601860000.0,
-      "value_before": 1304374500.0
-    },
-    {
-      "status": "TRIMMED",
-      "issuer": "ALLY FINL INC",
-      "title": "COM",
-      "cusip": "02005N100",
-      "ticker": "ALLY",
-      "put_call": "",
-      "shares_before": 29000000.0,
-      "shares_after": 27000000.0,
-      "change": -2000000.0,
-      "change_pct": -6.9,
-      "value_after": 1240650000.0,
-      "value_before": 1137670000.0
+      "shares_before": 3000000.0,
+      "shares_after": 1150000.0,
+      "change": -1850000.0,
+      "change_pct": -61.7,
+      "value_after": 222030500.0,
+      "value_before": 601860000.0
     },
     {
       "status": "TRIMMED",
@@ -941,12 +912,12 @@
       "cusip": "670346105",
       "ticker": "NUE",
       "put_call": "",
-      "shares_before": 3907075.0,
-      "shares_after": 1857752.0,
-      "change": -2049323.0,
-      "change_pct": -52.5,
-      "value_after": 413814258.0,
-      "value_before": 660686383.0
+      "shares_before": 1857752.0,
+      "shares_after": 1580776.0,
+      "change": -276976.0,
+      "change_pct": -14.9,
+      "value_after": 369506390.0,
+      "value_before": 413814258.0
     },
     {
       "status": "UNCHANGED",
@@ -959,8 +930,8 @@
       "shares_after": 227917808.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 65950296923.0,
-      "value_before": 57843260493.0
+      "value_after": 75901188420.0,
+      "value_before": 65950296923.0
     },
     {
       "status": "UNCHANGED",
@@ -973,8 +944,8 @@
       "shares_after": 151610700.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 51282319275.0,
-      "value_before": 45859204536.0
+      "value_after": 46104813870.0,
+      "value_before": 51282319275.0
     },
     {
       "status": "UNCHANGED",
@@ -987,8 +958,22 @@
       "shares_after": 400000000.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 32508000000.0,
-      "value_before": 30420000000.0
+      "value_after": 34432000000.0,
+      "value_before": 32508000000.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "ALPHABET INC",
+      "title": "CAP STK CL A",
+      "cusip": "02079K305",
+      "ticker": "GOOGL",
+      "put_call": "",
+      "shares_before": 78791167.0,
+      "shares_after": 78791167.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 27110464741.0,
+      "value_before": 28157599351.0
     },
     {
       "status": "UNCHANGED",
@@ -1001,8 +986,8 @@
       "shares_after": 84375856.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 13986141890.0,
-      "value_before": 17457364606.0
+      "value_after": 17230393553.0,
+      "value_before": 13986141890.0
     },
     {
       "status": "UNCHANGED",
@@ -1015,8 +1000,8 @@
       "shares_after": 264941431.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 12868205304.0,
-      "value_before": 17221193015.0
+      "value_after": 14656559963.0,
+      "value_before": 12868205304.0
     },
     {
       "status": "UNCHANGED",
@@ -1029,8 +1014,8 @@
       "shares_after": 34249183.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 11670066615.0,
-      "value_before": 11162836215.0
+      "value_after": 11139546771.0,
+      "value_before": 11670066615.0
     },
     {
       "status": "UNCHANGED",
@@ -1043,8 +1028,22 @@
       "shares_after": 24669778.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 11173435852.0,
-      "value_before": 10762190653.0
+      "value_after": 11203286284.0,
+      "value_before": 11173435852.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "ALPHABET INC",
+      "title": "CAP STK CL C",
+      "cusip": "02079K107",
+      "ticker": "GOOG",
+      "put_call": "",
+      "shares_before": 27188433.0,
+      "shares_after": 27188433.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 9264186660.0,
+      "value_before": 9606489032.0
     },
     {
       "status": "UNCHANGED",
@@ -1057,8 +1056,8 @@
       "shares_after": 325634818.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 7691494401.0,
-      "value_before": 7323527057.0
+      "value_after": 7398423065.0,
+      "value_before": 7691494401.0
     },
     {
       "status": "UNCHANGED",
@@ -1071,22 +1070,22 @@
       "shares_after": 124807117.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 3686802237.0,
-      "value_before": 2880548260.0
+      "value_after": 3230008188.0,
+      "value_before": 3686802237.0
     },
     {
       "status": "UNCHANGED",
-      "issuer": "VERISIGN INC",
+      "issuer": "ALLY FINL INC",
       "title": "COM",
-      "cusip": "92343E102",
-      "ticker": "VRSN",
+      "cusip": "02005N100",
+      "ticker": "ALLY",
       "put_call": "",
-      "shares_before": 8989880.0,
-      "shares_after": 8989880.0,
+      "shares_before": 27000000.0,
+      "shares_after": 27000000.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 2261494212.0,
-      "value_before": 2232726597.0
+      "value_after": 1015740001.0,
+      "value_before": 1240650000.0
     },
     {
       "status": "UNCHANGED",
@@ -1099,8 +1098,22 @@
       "shares_after": 10587143.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 1118425787.0,
-      "value_before": 996356028.0
+      "value_after": 1029599657.0,
+      "value_before": 1118425787.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "NEW YORK TIMES CO MTN BE",
+      "title": "CL A",
+      "cusip": "650111107",
+      "ticker": "NYT",
+      "put_call": "",
+      "shares_before": 15700000.0,
+      "shares_after": 15700000.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 1000090000.0,
+      "value_before": 1098686000.0
     },
     {
       "status": "UNCHANGED",
@@ -1113,8 +1126,8 @@
       "shares_after": 4986588.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 504941901.0,
-      "value_before": 456970925.0
+      "value_after": 471930689.0,
+      "value_before": 504941901.0
     },
     {
       "status": "UNCHANGED",
@@ -1127,8 +1140,8 @@
       "shares_after": 5664793.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 445592617.0,
-      "value_before": 412113691.0
+      "value_after": 365662388.0,
+      "value_before": 445592617.0
     },
     {
       "status": "UNCHANGED",
@@ -1141,8 +1154,8 @@
       "shares_after": 11112.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 75710501.0,
-      "value_before": 73226191.0
+      "value_after": 68387582.0,
+      "value_before": 75710501.0
     },
     {
       "status": "UNCHANGED",
@@ -1155,12 +1168,33 @@
       "shares_after": 433558.0,
       "change": 0.0,
       "change_pct": 0.0,
-      "value_after": 21669229.0,
-      "value_before": 17892939.0
+      "value_after": 19826607.0,
+      "value_before": 21669229.0
+    },
+    {
+      "status": "UNCHANGED",
+      "issuer": "D R HORTON INC",
+      "title": "COM",
+      "cusip": "23331A109",
+      "ticker": "DHI",
+      "put_call": "",
+      "shares_before": 3564.0,
+      "shares_after": 3564.0,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "value_after": 487021.0,
+      "value_before": 580504.0
     }
   ],
   "diff_error": null,
   "filings": [
+    {
+      "form": "13F-HR",
+      "accession": "0001193125-26-463399",
+      "filed": "2026-11-16",
+      "period": "2026-09-30",
+      "primary": "xslForm13F_X02/primary_doc.xml"
+    },
     {
       "form": "13F-HR",
       "accession": "0001193125-26-352200",
@@ -1257,13 +1291,6 @@
       "accession": "0000950123-24-002518",
       "filed": "2024-02-14",
       "period": "2023-12-31",
-      "primary": "xslForm13F_X02/primary_doc.xml"
-    },
-    {
-      "form": "13F-HR/A",
-      "accession": "0000950123-23-011029",
-      "filed": "2023-11-16",
-      "period": "2023-09-30",
       "primary": "xslForm13F_X02/primary_doc.xml"
     }
   ],
