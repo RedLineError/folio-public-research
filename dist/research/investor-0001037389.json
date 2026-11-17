@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T04:29:28.367761+00:00",
+  "fetched_at": "2026-11-17T14:26:12.691066+00:00",
   "meta": {
     "filer": "RENAISSANCE TECHNOLOGIES LLC",
     "cik": "0001037389",
@@ -31826,17 +31826,17 @@
         "092113109"
       ],
       "issuer_cik": "0001130464",
-      "ticker": "BKH",
+      "ticker": "HZN",
       "ticker_source": "name",
-      "ticker_check": false,
+      "ticker_check": true,
       "name": "Black Hills",
       "tickers": [
-        "BKH"
+        "HZN"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "SANFILIPPO JOHN B & SON INC",
@@ -55263,7 +55263,7 @@
       "ticker": "KVHI",
       "ticker_source": "name-prefix",
       "ticker_check": true,
-      "name": "Kvh Industries Inc De",
+      "name": "Kvh Industries Inc \\de\\",
       "tickers": [
         "KVHI"
       ],
@@ -78487,17 +78487,17 @@
         "26916J205"
       ],
       "issuer_cik": "0001819438",
-      "ticker": "GWHT",
+      "ticker": "GWHTQ",
       "ticker_source": "name",
-      "ticker_check": false,
+      "ticker_check": true,
       "name": "ESS Tech",
       "tickers": [
-        "GWHT"
+        "GWHTQ"
       ],
       "classes": [
         "COM NEW"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     }
   ],
   "changes": [
@@ -110776,7 +110776,7 @@
       "issuer": "ESS TECH INC",
       "title": "COM NEW",
       "cusip": "26916J205",
-      "ticker": "GWHT",
+      "ticker": "GWHTQ",
       "put_call": "",
       "shares_before": 12700.0,
       "shares_after": 17600.0,
@@ -116754,7 +116754,7 @@
       "issuer": "BLACK HILLS CORP",
       "title": "COM",
       "cusip": "092113109",
-      "ticker": "BKH",
+      "ticker": "HZN",
       "put_call": "",
       "shares_before": 247800.0,
       "shares_after": 107200.0,
