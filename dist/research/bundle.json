@@ -1,6 +1,6 @@
 {
   "catalog": {
-    "updated_at": "2026-11-16T22:03:51.431542+00:00",
+    "updated_at": "2026-11-17T04:29:32.026775+00:00",
     "filers": [
       {
         "cik": "0001067983",
@@ -203,7 +203,7 @@
   },
   "investors": {
     "0001067983": {
-      "fetched_at": "2026-11-16T22:03:35.451345+00:00",
+      "fetched_at": "2026-11-17T04:29:18.831428+00:00",
       "meta": {
         "filer": "BERKSHIRE HATHAWAY INC",
         "cik": "0001067983",
@@ -1504,9 +1504,57 @@
   "congress": {
     "2026": {
       "year": 2026,
-      "fetched_at": "2026-11-16T22:03:34.046724+00:00",
+      "fetched_at": "2026-11-17T04:29:17.870791+00:00",
       "source": "U.S. House Clerk",
       "filings": [
+        {
+          "doc_id": "20035807",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "Hill",
+          "first": "James French",
+          "name": "Hon. James French Hill",
+          "district": "AR02",
+          "year": 2026,
+          "filed": "2026-11-13",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035807.pdf"
+        },
+        {
+          "doc_id": "20035786",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "Peters",
+          "first": "Scott H.",
+          "name": "Hon. Scott H. Peters",
+          "district": "CA50",
+          "year": 2026,
+          "filed": "2026-11-13",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035786.pdf"
+        },
+        {
+          "doc_id": "20035779",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "DelBene",
+          "first": "Suzan K.",
+          "name": "Hon. Suzan K. DelBene",
+          "district": "WA01",
+          "year": 2026,
+          "filed": "2026-11-13",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035779.pdf"
+        },
+        {
+          "doc_id": "20035757",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "Jackson",
+          "first": "Jonathan",
+          "name": "Hon. Jonathan Jackson",
+          "district": "IL01",
+          "year": 2026,
+          "filed": "2026-11-13",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf"
+        },
         {
           "doc_id": "20035831",
           "type": "P",

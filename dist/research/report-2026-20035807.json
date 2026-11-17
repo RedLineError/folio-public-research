@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-17T04:29:17.991301+00:00",
+  "filing": {
+    "doc_id": "20035807",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Hill",
+    "first": "James French",
+    "name": "Hon. James French Hill",
+    "district": "AR02",
+    "year": 2026,
+    "filed": "2026-11-13",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035807.pdf"
+  },
+  "report": {
+    "name": "Hon. James French Hill",
+    "status": "Member",
+    "district": "AR02",
+    "doc_id": "20035807",
+    "filed": "2026-11-13",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-11-09",
+        "notified": "2026-11-09",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "HILL 1998 TRUST",
+        "description": "FULL-LIQUIDATION.",
+        "ticker": "JBGS",
+        "asset_type": "ST",
+        "asset": "JBG SMITH Properties Common Shares",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "days_to_disclose": 4,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}
