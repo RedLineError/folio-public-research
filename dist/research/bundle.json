@@ -1,6 +1,6 @@
 {
   "catalog": {
-    "updated_at": "2026-11-17T14:26:23.690611+00:00",
+    "updated_at": "2026-11-17T22:53:39.156605+00:00",
     "filers": [
       {
         "cik": "0001067983",
@@ -203,7 +203,7 @@
   },
   "investors": {
     "0001067983": {
-      "fetched_at": "2026-11-17T14:25:56.591483+00:00",
+      "fetched_at": "2026-11-17T22:53:18.828451+00:00",
       "meta": {
         "filer": "BERKSHIRE HATHAWAY INC",
         "cik": "0001067983",
@@ -1504,9 +1504,21 @@
   "congress": {
     "2026": {
       "year": 2026,
-      "fetched_at": "2026-11-17T14:25:43.658245+00:00",
+      "fetched_at": "2026-11-17T22:53:17.056119+00:00",
       "source": "U.S. House Clerk",
       "filings": [
+        {
+          "doc_id": "20035811",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "Donalds",
+          "first": "Byron",
+          "name": "Hon. Byron Donalds",
+          "district": "FL19",
+          "year": 2026,
+          "filed": "2026-11-16",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
+        },
         {
           "doc_id": "20035807",
           "type": "P",
