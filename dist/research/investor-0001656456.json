@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T21:58:17.876204+00:00",
+  "fetched_at": "2026-11-19T03:29:49.409268+00:00",
   "meta": {
     "filer": "Appaloosa LP",
     "cik": "0001656456",
@@ -549,18 +549,15 @@
       "cusips": [
         "607828100"
       ],
-      "issuer_cik": "0000067347",
-      "ticker": "MOD",
-      "ticker_source": "name",
-      "ticker_check": false,
-      "name": "Modine Manufacturing",
-      "tickers": [
-        "MOD"
-      ],
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
+      "name": "Modine Mfg",
+      "tickers": [],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "AMERICAN AIRLINES GROUP INC",
@@ -705,7 +702,7 @@
       "issuer": "MODINE MFG CO",
       "title": "COM",
       "cusip": "607828100",
-      "ticker": "MOD",
+      "ticker": null,
       "put_call": "",
       "shares_before": 0.0,
       "shares_after": 282959.0,

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T21:58:28.025729+00:00",
+  "fetched_at": "2026-11-19T03:29:54.339366+00:00",
   "meta": {
     "filer": "RENAISSANCE TECHNOLOGIES LLC",
     "cik": "0001037389",
@@ -29141,7 +29141,7 @@
       "ticker": "VRDN",
       "ticker_source": "name-prefix",
       "ticker_check": true,
-      "name": "Viridian Therapeutics, Inc.\\DE",
+      "name": "Viridian Therapeutics, Inc.DE",
       "tickers": [
         "VRDN"
       ],
@@ -31825,14 +31825,11 @@
       "cusips": [
         "092113109"
       ],
-      "issuer_cik": "0001130464",
-      "ticker": "HZN",
-      "ticker_source": "name",
+      "ticker": null,
+      "ticker_source": "none",
       "ticker_check": true,
       "name": "Black Hills",
-      "tickers": [
-        "HZN"
-      ],
+      "tickers": [],
       "classes": [
         "COM"
       ],
@@ -57002,7 +56999,7 @@
       "ticker": "LFCR",
       "ticker_source": "name-prefix",
       "ticker_check": true,
-      "name": "Lifecore Biomedical, Inc. \\de\\",
+      "name": "Lifecore Biomedical, Inc. De",
       "tickers": [
         "LFCR"
       ],
@@ -72613,17 +72610,17 @@
         "690732102"
       ],
       "issuer_cik": "0000075252",
-      "ticker": "ACH",
+      "ticker": "ACCH",
       "ticker_source": "name",
-      "ticker_check": false,
+      "ticker_check": true,
       "name": "Accendra Health",
       "tickers": [
-        "ACH"
+        "ACCH"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "IGC PHARMA INC",
@@ -94536,7 +94533,7 @@
       "issuer": "CCH HLDGS LTD",
       "title": "CL A ORD SHS",
       "cusip": "G1993F106",
-      "ticker": "CCHH",
+      "ticker": null,
       "put_call": "",
       "shares_before": 35813.0,
       "shares_after": 0.0,
@@ -116754,7 +116751,7 @@
       "issuer": "BLACK HILLS CORP",
       "title": "COM",
       "cusip": "092113109",
-      "ticker": "HZN",
+      "ticker": null,
       "put_call": "",
       "shares_before": 247800.0,
       "shares_after": 107200.0,
@@ -126582,7 +126579,7 @@
       "issuer": "ACCENDRA HEALTH INC",
       "title": "COM",
       "cusip": "690732102",
-      "ticker": "ACH",
+      "ticker": "ACCH",
       "put_call": "",
       "shares_before": 324413.0,
       "shares_after": 315213.0,
