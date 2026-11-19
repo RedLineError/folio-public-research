@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-19T21:36:02.575546+00:00",
+  "filing": {
+    "doc_id": "20036864",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Sewell",
+    "first": "Terri A.",
+    "name": "Hon. Terri A. Sewell",
+    "district": "AL07",
+    "year": 2026,
+    "filed": "2026-11-18",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036864.pdf"
+  },
+  "report": {
+    "name": "Hon. Terri A. Sewell",
+    "status": "Member",
+    "district": "AL07",
+    "doc_id": "20036864",
+    "filed": "2026-11-18",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-11-05",
+        "notified": "2026-11-06",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": null,
+        "ticker": "TPR",
+        "asset_type": "ST",
+        "asset": "Tapestry, Inc. Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 13,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}

@@ -1,0 +1,44 @@
+{
+  "fetched_at": "2026-11-19T21:36:02.683519+00:00",
+  "filing": {
+    "doc_id": "20036849",
+    "type": "P",
+    "type_name": "Periodic Transaction Report",
+    "last": "Cohen",
+    "first": "Steve",
+    "name": "Hon. Steve Cohen",
+    "district": "TN09",
+    "year": 2026,
+    "filed": "2026-11-18",
+    "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036849.pdf"
+  },
+  "report": {
+    "name": "Hon. Steve Cohen",
+    "status": "Member",
+    "district": "TN09",
+    "doc_id": "20036849",
+    "filed": "2026-11-18",
+    "rows": [
+      {
+        "owner": "",
+        "owner_name": "self",
+        "type": "S",
+        "type_name": "sale",
+        "date": "2026-10-07",
+        "notified": "2026-11-16",
+        "amount": "$1,001 - $15,000",
+        "status": "New",
+        "account": "Stephens Advantage Account",
+        "ticker": "WBD",
+        "asset_type": "ST",
+        "asset": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+        "amount_low": 1001,
+        "amount_high": 15000,
+        "description": null,
+        "days_to_disclose": 42,
+        "late": false
+      }
+    ]
+  },
+  "parse_warning": "Machine-extracted rows. Verify dates, amounts and completeness against the linked PDF."
+}
