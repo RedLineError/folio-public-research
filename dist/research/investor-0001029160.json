@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T20:22:38.196770+00:00",
+  "fetched_at": "2026-11-21T02:16:23.321183+00:00",
   "meta": {
     "filer": "SOROS FUND MANAGEMENT LLC",
     "cik": "0001029160",
@@ -2387,18 +2387,15 @@
       "cusips": [
         "77543R102"
       ],
-      "issuer_cik": "0001428439",
-      "ticker": "ROKU",
-      "ticker_source": "name",
-      "ticker_check": false,
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
       "name": "Roku",
-      "tickers": [
-        "ROKU"
-      ],
+      "tickers": [],
       "classes": [
         "COM CL A"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "MACERICH CO",
@@ -10845,7 +10842,7 @@
       "issuer": "ROKU INC",
       "title": "COM CL A",
       "cusip": "77543R102",
-      "ticker": "ROKU",
+      "ticker": null,
       "put_call": "",
       "shares_before": 155800.0,
       "shares_after": 146237.0,

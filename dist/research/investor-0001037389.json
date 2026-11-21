@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T20:22:41.330285+00:00",
+  "fetched_at": "2026-11-21T02:16:26.963522+00:00",
   "meta": {
     "filer": "RENAISSANCE TECHNOLOGIES LLC",
     "cik": "0001037389",
@@ -1230,18 +1230,15 @@
       "cusips": [
         "77543R102"
       ],
-      "issuer_cik": "0001428439",
-      "ticker": "ROKU",
-      "ticker_source": "name",
-      "ticker_check": false,
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
       "name": "Roku",
-      "tickers": [
-        "ROKU"
-      ],
+      "tickers": [],
       "classes": [
         "COM CL A"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "SUPER MICRO COMPUTER INC",
@@ -89689,7 +89686,7 @@
       "issuer": "BOWMAN CONSULTING GROUP LTD",
       "title": "COM",
       "cusip": "103002101",
-      "ticker": "BWMN",
+      "ticker": null,
       "put_call": "",
       "shares_before": 99924.0,
       "shares_after": 0.0,
@@ -95191,7 +95188,7 @@
       "issuer": "ROKU INC",
       "title": "COM CL A",
       "cusip": "77543R102",
-      "ticker": "ROKU",
+      "ticker": null,
       "put_call": "",
       "shares_before": 1424300.0,
       "shares_after": 1655900.0,

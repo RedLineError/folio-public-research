@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T20:22:35.997451+00:00",
+  "fetched_at": "2026-11-21T02:16:19.044945+00:00",
   "meta": {
     "filer": "Bridgewater Associates, LP",
     "cik": "0001350694",
@@ -1525,18 +1525,15 @@
       "cusips": [
         "77543R102"
       ],
-      "issuer_cik": "0001428439",
-      "ticker": "ROKU",
-      "ticker_source": "name",
-      "ticker_check": false,
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
       "name": "Roku",
-      "tickers": [
-        "ROKU"
-      ],
+      "tickers": [],
       "classes": [
         "COM CL A"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "KLA CORP",
@@ -31336,7 +31333,7 @@
       "issuer": "ROKU INC",
       "title": "COM CL A",
       "cusip": "77543R102",
-      "ticker": "ROKU",
+      "ticker": null,
       "put_call": "",
       "shares_before": 25812.0,
       "shares_after": 513230.0,

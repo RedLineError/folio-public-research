@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T20:22:36.509141+00:00",
+  "fetched_at": "2026-11-21T02:16:20.177036+00:00",
   "meta": {
     "filer": "Duquesne Family Office LLC",
     "cik": "0001536411",
@@ -875,18 +875,15 @@
       "cusips": [
         "77543R102"
       ],
-      "issuer_cik": "0001428439",
-      "ticker": "ROKU",
-      "ticker_source": "name",
-      "ticker_check": false,
+      "ticker": null,
+      "ticker_source": "none",
+      "ticker_check": true,
       "name": "Roku",
-      "tickers": [
-        "ROKU"
-      ],
+      "tickers": [],
       "classes": [
         "COM CL A"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "Ttm Technologies Inc",
@@ -3173,7 +3170,7 @@
       "issuer": "Roku Inc",
       "title": "COM CL A",
       "cusip": "77543R102",
-      "ticker": "ROKU",
+      "ticker": null,
       "put_call": "",
       "shares_before": 184055.0,
       "shares_after": 184055.0,
