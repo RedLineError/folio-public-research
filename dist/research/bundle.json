@@ -1,6 +1,6 @@
 {
   "catalog": {
-    "updated_at": "2026-11-23T09:07:29.562099+00:00",
+    "updated_at": "2026-11-23T21:27:20.851769+00:00",
     "filers": [
       {
         "cik": "0001067983",
@@ -203,7 +203,7 @@
   },
   "investors": {
     "0001067983": {
-      "fetched_at": "2026-11-23T09:07:14.893071+00:00",
+      "fetched_at": "2026-11-23T21:26:45.188489+00:00",
       "meta": {
         "filer": "BERKSHIRE HATHAWAY INC",
         "cik": "0001067983",
@@ -1504,9 +1504,33 @@
   "congress": {
     "2026": {
       "year": 2026,
-      "fetched_at": "2026-11-23T09:07:13.819482+00:00",
+      "fetched_at": "2026-11-23T21:26:32.634232+00:00",
       "source": "U.S. House Clerk",
       "filings": [
+        {
+          "doc_id": "20036891",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "Case",
+          "first": "Ed",
+          "name": "Hon. Ed Case",
+          "district": "HI01",
+          "year": 2026,
+          "filed": "2026-11-21",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036891.pdf"
+        },
+        {
+          "doc_id": "20036883",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "McClellan",
+          "first": "Jennifer",
+          "name": "Hon. Jennifer McClellan",
+          "district": "VA04",
+          "year": 2026,
+          "filed": "2026-11-20",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036883.pdf"
+        },
         {
           "doc_id": "20036844",
           "type": "P",
