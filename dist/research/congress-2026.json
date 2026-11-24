@@ -1,8 +1,32 @@
 {
   "year": 2026,
-  "fetched_at": "2026-11-24T06:04:25.156088+00:00",
+  "fetched_at": "2026-11-24T17:47:03.039265+00:00",
   "source": "U.S. House Clerk",
   "filings": [
+    {
+      "doc_id": "20036848",
+      "type": "P",
+      "type_name": "Periodic Transaction Report",
+      "last": "Meuser",
+      "first": "Daniel",
+      "name": "Hon. Daniel Meuser",
+      "district": "PA09",
+      "year": 2026,
+      "filed": "2026-11-24",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036848.pdf"
+    },
+    {
+      "doc_id": "20035776",
+      "type": "P",
+      "type_name": "Periodic Transaction Report",
+      "last": "Hageman",
+      "first": "Harriet",
+      "name": "Hon. Harriet Hageman",
+      "district": "WY00",
+      "year": 2026,
+      "filed": "2026-11-23",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf"
+    },
     {
       "doc_id": "20036891",
       "type": "P",
