@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T17:47:13.966640+00:00",
+  "fetched_at": "2026-11-25T02:31:23.069977+00:00",
   "meta": {
     "filer": "RENAISSANCE TECHNOLOGIES LLC",
     "cik": "0001037389",
@@ -46398,17 +46398,17 @@
         "75120L209"
       ],
       "issuer_cik": "0001739410",
-      "ticker": "RLYB",
+      "ticker": "AVZO",
       "ticker_source": "name",
-      "ticker_check": false,
+      "ticker_check": true,
       "name": "Rallybio",
       "tickers": [
-        "RLYB"
+        "AVZO"
       ],
       "classes": [
         "COM"
       ],
-      "copy_eligible": true
+      "copy_eligible": false
     },
     {
       "issuer": "AMREP CORP",
@@ -94222,7 +94222,7 @@
       "issuer": "MERCER INTL INC",
       "title": "COM",
       "cusip": "588056101",
-      "ticker": "MERC",
+      "ticker": "MERCQ",
       "put_call": "",
       "shares_before": 62511.0,
       "shares_after": 0.0,
@@ -123174,7 +123174,7 @@
       "issuer": "RALLYBIO CORP",
       "title": "COM",
       "cusip": "75120L209",
-      "ticker": "RLYB",
+      "ticker": "AVZO",
       "put_call": "",
       "shares_before": 199907.0,
       "shares_after": 146025.0,
