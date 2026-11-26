@@ -1,6 +1,6 @@
 {
   "catalog": {
-    "updated_at": "2026-11-25T22:34:34.289105+00:00",
+    "updated_at": "2026-11-26T05:06:16.594492+00:00",
     "filers": [
       {
         "cik": "0001067983",
@@ -203,7 +203,7 @@
   },
   "investors": {
     "0001067983": {
-      "fetched_at": "2026-11-25T22:33:53.358350+00:00",
+      "fetched_at": "2026-11-26T05:06:08.882975+00:00",
       "meta": {
         "filer": "BERKSHIRE HATHAWAY INC",
         "cik": "0001067983",
@@ -1504,9 +1504,33 @@
   "congress": {
     "2026": {
       "year": 2026,
-      "fetched_at": "2026-11-25T22:33:50.253755+00:00",
+      "fetched_at": "2026-11-26T05:05:54.888212+00:00",
       "source": "U.S. House Clerk",
       "filings": [
+        {
+          "doc_id": "20036908",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "Onder",
+          "first": "Robert For",
+          "name": "Hon. Robert For Onder",
+          "district": "MO03",
+          "year": 2026,
+          "filed": "2026-11-24",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+        },
+        {
+          "doc_id": "20036875",
+          "type": "P",
+          "type_name": "Periodic Transaction Report",
+          "last": "Hern",
+          "first": "Kevin",
+          "name": "Hon. Kevin Hern",
+          "district": "OK01",
+          "year": 2026,
+          "filed": "2026-11-24",
+          "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036875.pdf"
+        },
         {
           "doc_id": "20036848",
           "type": "P",
